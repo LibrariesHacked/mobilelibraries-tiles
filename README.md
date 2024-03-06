@@ -1,23 +1,44 @@
 # Mobile libraries tiles
 
-Vector tiles for the mobile libraries project
+Vector tiles for the mobile libraries project to be used in web mapping.
 
 ## How it works
 
-The [Mobile libraries API](https://github.com/LibrariesHacked/mobilelibraries-api) exposes endpoints to retrieve mobile library stops and trips as GeoJSON. This repository contains scripts that will extract these GeoJSON files on a nightly basis and convert them into static vector tiles.
+### Source data
 
-Those vector tiles are then available as [Mapbox Vector Tiles](https://github.com/mapbox/vector-tile-spec) for use in web maps. There will be two layers embedded into each tile: `stops` and `trips`. The `stops` layer contains the location of each stop, and the `trips` layer contains the route taken by the mobile library between different stops.
+The [Mobile libraries API](https://github.com/LibrariesHacked/mobilelibraries-api) exposes endpoints to retrieve mobile library stops and trips (route lines between stops) as GeoJSON data.
 
-The process is as follows:
+These are available at:
 
-1. Download the latest GeoJSON from the Mobile libraries API (see `download.py`).
-2. Use tippecanoe to convert the GeoJSON to a directory of static tiles within the `\libraries` directory (see `generate.sh`)
+- [https://api.mobilelibraries.org/api/stops](https://api.mobilelibraries.org/api/stops)
+- [https://api.mobilelibraries.org/api/trips](https://api.mobilelibraries.org/api/stops)
 
-This repository is published as a GitHub pages site, which makes the tiles available in high performance web hosting.
+By default the data is returned as a JSON array, but by passing the 'Accept' header of `application/geo+json` in the request, the data will return as GeoJSON.
+
+### Downloading the data
+
+The two data sources are downloaded using a Python script, `download.py`. This script uses the `requests` library to download the GeoJSON from the API, and saves it to files in the `data` directory: `stops.geojson` and `trips.geojson`.
+
+### Generating the tiles
+
+Tippecanoe is used to convert both the GeoJSON source files to a directory of static tiles within the `tiles` directory (see `generate.sh`)
+
+### Publishing the tiles
+
+This repository is published as a GitHub pages site (in the Github repository settings), which makes the tiles available in high performance web hosting.
+
+A custom domain is then used to make the tiles available under the `tiles.mobilelibraries.org` domain.
 
 ## How to use
 
-These tiles are made available via GitHub pages and a custom domain. They are available at `https://tiles.mobilelibraries.org/tiles/{z}/{x}/{y}.mvt`
+These vector tiles are made available via GitHub pages and a custom domain.
+
+Use the URL pattern of `https://tiles.mobilelibraries.org/tiles/{z}/{x}/{y}.mvt` in your preferred mapping library.
+
+When adding the tiles to a map you will need to specify the layers you want to display. The layers available are:
+
+- `stops`
+- `trips`
 
 ## Licence
 
