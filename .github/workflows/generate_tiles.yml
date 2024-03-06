@@ -11,9 +11,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Set owner of working dir recurively (Linux)
-        run: sudo chown -R $(whoami) .
-
       - name: set up Homebrew
         id: set-up-homebrew
         uses: Homebrew/actions/setup-homebrew@master
