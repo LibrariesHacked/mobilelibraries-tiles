@@ -22,7 +22,7 @@ jobs:
         run: python3 download.py
 
       - name: run the generate shell file
-        run: ./generate.sh
+        run: ./generate_tiles.sh
 
       - name: check for changes
         run: git status
