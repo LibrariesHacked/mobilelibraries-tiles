@@ -1,0 +1,41 @@
+name: Generate tiles
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # every day at midnight
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: set up Homebrew
+        id: set-up-homebrew
+        uses: Homebrew/actions/setup-homebrew@master
+
+      - name: install tippecanoe
+        run: brew install tippecanoe
+
+      - name: run python download script
+        run: python3 download.py
+
+      - name: run the generate shell file
+        run: ./generate.sh
+
+      - name: check for changes
+        run: git status
+
+      - name: commit changed files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git diff-index --quiet HEAD || git commit -m "Auto regeneration of tiles"
+
+      - name: fetch from main
+        run: git fetch --no-tags --prune --depth=1 origin +refs/heads/*:refs/remotes/origin/*
+
+      - name: push code to main
+        run: git push origin HEAD:main
