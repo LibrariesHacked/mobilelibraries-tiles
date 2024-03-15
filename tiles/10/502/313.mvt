@@ -1,79 +1,0 @@
-ŠJx
-stops(€ id	route_idsroute_names
-mobile_idsmobile_namesorganisation_idorganisation_nameservice_codename	communityaddressarrival_timesdeparture_timesroute_start
-route_daysroute_frequenciesroute_schedule	timetable	longitudelatitude"
-3"
-22"
-South"	
-Braemar"	
-Tuesday"
-
-10:00:00"
-
-10:30:00"
-
-10:35:00"
-
-10:45:00"
-
-10:50:00"
-
-11:00:00"
-
-11:05:00"
-
-11:20:00"
-
-11:40:00"
-
-11:55:00"
-	S12000034"
-
-Old Church"
-Chapel Brae"
-Aberdeenshire"
-East Balmoral"
-Dairy Cottages"
-Kindrochit Court"
-South Tuesday 2/4"
-Old Church, Braemar"
-St Andrew's Terrace"
-Chapel Brae, Braemar"
-FREQ=WEEKLY;INTERVAL=2"
-2019-01-15T00:00:00.000Z"
-Kindrochit Court, Braemar"
-St Andrew's Terrace, Braemar"
-Dairy Cottages, East Balmoral"W
-Uhttps://www.livelifeaberdeenshire.org.uk/media/2809/mobile-south-timetable-160119.pdf"è
-åTue Mar 19 2024 10:00:00 GMT+0000 (Coordinated Universal Time),Tue Apr 02 2024 10:00:00 GMT+0000 (Coordinated Universal Time),Tue Apr 16 2024 10:00:00 GMT+0000 (Coordinated Universal Time),Tue Apr 30 2024 10:00:00 GMT+0000 (Coordinated Universal Time),Tue May 14 2024 10:00:00 GMT+0000 (Coordinated Universal Time),Tue May 28 2024 10:00:00 GMT+0000 (Coordinated Universal Time),Tue Jun 11 2024 10:00:00 GMT+0000 (Coordinated Universal Time),Tue Jun 25 2024 10:00:00 GMT+0000 (Coordinated Universal Time),Tue Jul 09 2024 10:00:00 GMT+0000 (Coordinated Universal Time),Tue Jul 23 2024 10:00:00 GMT+0000 (Coordinated Universal Time),Tue Aug 06 2024 10:00:00 GMT+0000 (Coordinated Universal Time),Tue Aug 20 2024 10:00:00 GMT+0000 (Coordinated Universal Time),Tue Sep 03 2024 10:00:00 GMT+0000 (Coordinated Universal Time),Tue Sep 17 2024 10:00:00 GMT+0000 (Coordinated Universal Time),Tue Oct 01 2024 10:00:00 GMT+0000 (Coordinated Universal Time),Tue Oct 15 2024 10:00:00 GMT+0000 (Coordinated Universal Time),Tue Oct 29 2024 10:00:00 GMT+0000 (Coordinated Universal Time),Tue Nov 12 2024 10:00:00 GMT+0000 (Coordinated Universal Time),Tue Nov 26 2024 10:00:00 GMT+0000 (Coordinated Universal Time),Tue Dec 10 2024 10:00:00 GMT+0000 (Coordinated Universal Time),Tue Dec 24 2024 10:00:00 GMT+0000 (Coordinated Universal Time),Tue Jan 07 2025 10:00:00 GMT+0000 (Coordinated Universal Time),Tue Jan 21 2025 10:00:00 GMT+0000 (Coordinated Universal Time),Tue Feb 04 2025 10:00:00 GMT+0000 (Coordinated Universal Time),Tue Feb 18 2025 10:00:00 GMT+0000 (Coordinated Universal Time),Tue Mar 04 2025 10:00:00 GMT+0000 (Coordinated Universal Time)"è
-åTue Mar 19 2024 10:35:00 GMT+0000 (Coordinated Universal Time),Tue Apr 02 2024 10:35:00 GMT+0000 (Coordinated Universal Time),Tue Apr 16 2024 10:35:00 GMT+0000 (Coordinated Universal Time),Tue Apr 30 2024 10:35:00 GMT+0000 (Coordinated Universal Time),Tue May 14 2024 10:35:00 GMT+0000 (Coordinated Universal Time),Tue May 28 2024 10:35:00 GMT+0000 (Coordinated Universal Time),Tue Jun 11 2024 10:35:00 GMT+0000 (Coordinated Universal Time),Tue Jun 25 2024 10:35:00 GMT+0000 (Coordinated Universal Time),Tue Jul 09 2024 10:35:00 GMT+0000 (Coordinated Universal Time),Tue Jul 23 2024 10:35:00 GMT+0000 (Coordinated Universal Time),Tue Aug 06 2024 10:35:00 GMT+0000 (Coordinated Universal Time),Tue Aug 20 2024 10:35:00 GMT+0000 (Coordinated Universal Time),Tue Sep 03 2024 10:35:00 GMT+0000 (Coordinated Universal Time),Tue Sep 17 2024 10:35:00 GMT+0000 (Coordinated Universal Time),Tue Oct 01 2024 10:35:00 GMT+0000 (Coordinated Universal Time),Tue Oct 15 2024 10:35:00 GMT+0000 (Coordinated Universal Time),Tue Oct 29 2024 10:35:00 GMT+0000 (Coordinated Universal Time),Tue Nov 12 2024 10:35:00 GMT+0000 (Coordinated Universal Time),Tue Nov 26 2024 10:35:00 GMT+0000 (Coordinated Universal Time),Tue Dec 10 2024 10:35:00 GMT+0000 (Coordinated Universal Time),Tue Dec 24 2024 10:35:00 GMT+0000 (Coordinated Universal Time),Tue Jan 07 2025 10:35:00 GMT+0000 (Coordinated Universal Time),Tue Jan 21 2025 10:35:00 GMT+0000 (Coordinated Universal Time),Tue Feb 04 2025 10:35:00 GMT+0000 (Coordinated Universal Time),Tue Feb 18 2025 10:35:00 GMT+0000 (Coordinated Universal Time),Tue Mar 04 2025 10:35:00 GMT+0000 (Coordinated Universal Time)"è
-åTue Mar 19 2024 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Apr 02 2024 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Apr 16 2024 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Apr 30 2024 10:50:00 GMT+0000 (Coordinated Universal Time),Tue May 14 2024 10:50:00 GMT+0000 (Coordinated Universal Time),Tue May 28 2024 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Jun 11 2024 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Jun 25 2024 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Jul 09 2024 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Jul 23 2024 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Aug 06 2024 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Aug 20 2024 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Sep 03 2024 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Sep 17 2024 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Oct 01 2024 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Oct 15 2024 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Oct 29 2024 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Nov 12 2024 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Nov 26 2024 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Dec 10 2024 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Dec 24 2024 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Jan 07 2025 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Jan 21 2025 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Feb 04 2025 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Feb 18 2025 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Mar 04 2025 10:50:00 GMT+0000 (Coordinated Universal Time)"è
-åTue Mar 19 2024 11:05:00 GMT+0000 (Coordinated Universal Time),Tue Apr 02 2024 11:05:00 GMT+0000 (Coordinated Universal Time),Tue Apr 16 2024 11:05:00 GMT+0000 (Coordinated Universal Time),Tue Apr 30 2024 11:05:00 GMT+0000 (Coordinated Universal Time),Tue May 14 2024 11:05:00 GMT+0000 (Coordinated Universal Time),Tue May 28 2024 11:05:00 GMT+0000 (Coordinated Universal Time),Tue Jun 11 2024 11:05:00 GMT+0000 (Coordinated Universal Time),Tue Jun 25 2024 11:05:00 GMT+0000 (Coordinated Universal Time),Tue Jul 09 2024 11:05:00 GMT+0000 (Coordinated Universal Time),Tue Jul 23 2024 11:05:00 GMT+0000 (Coordinated Universal Time),Tue Aug 06 2024 11:05:00 GMT+0000 (Coordinated Universal Time),Tue Aug 20 2024 11:05:00 GMT+0000 (Coordinated Universal Time),Tue Sep 03 2024 11:05:00 GMT+0000 (Coordinated Universal Time),Tue Sep 17 2024 11:05:00 GMT+0000 (Coordinated Universal Time),Tue Oct 01 2024 11:05:00 GMT+0000 (Coordinated Universal Time),Tue Oct 15 2024 11:05:00 GMT+0000 (Coordinated Universal Time),Tue Oct 29 2024 11:05:00 GMT+0000 (Coordinated Universal Time),Tue Nov 12 2024 11:05:00 GMT+0000 (Coordinated Universal Time),Tue Nov 26 2024 11:05:00 GMT+0000 (Coordinated Universal Time),Tue Dec 10 2024 11:05:00 GMT+0000 (Coordinated Universal Time),Tue Dec 24 2024 11:05:00 GMT+0000 (Coordinated Universal Time),Tue Jan 07 2025 11:05:00 GMT+0000 (Coordinated Universal Time),Tue Jan 21 2025 11:05:00 GMT+0000 (Coordinated Universal Time),Tue Feb 04 2025 11:05:00 GMT+0000 (Coordinated Universal Time),Tue Feb 18 2025 11:05:00 GMT+0000 (Coordinated Universal Time),Tue Mar 04 2025 11:05:00 GMT+0000 (Coordinated Universal Time)"è
-åTue Mar 19 2024 11:40:00 GMT+0000 (Coordinated Universal Time),Tue Apr 02 2024 11:40:00 GMT+0000 (Coordinated Universal Time),Tue Apr 16 2024 11:40:00 GMT+0000 (Coordinated Universal Time),Tue Apr 30 2024 11:40:00 GMT+0000 (Coordinated Universal Time),Tue May 14 2024 11:40:00 GMT+0000 (Coordinated Universal Time),Tue May 28 2024 11:40:00 GMT+0000 (Coordinated Universal Time),Tue Jun 11 2024 11:40:00 GMT+0000 (Coordinated Universal Time),Tue Jun 25 2024 11:40:00 GMT+0000 (Coordinated Universal Time),Tue Jul 09 2024 11:40:00 GMT+0000 (Coordinated Universal Time),Tue Jul 23 2024 11:40:00 GMT+0000 (Coordinated Universal Time),Tue Aug 06 2024 11:40:00 GMT+0000 (Coordinated Universal Time),Tue Aug 20 2024 11:40:00 GMT+0000 (Coordinated Universal Time),Tue Sep 03 2024 11:40:00 GMT+0000 (Coordinated Universal Time),Tue Sep 17 2024 11:40:00 GMT+0000 (Coordinated Universal Time),Tue Oct 01 2024 11:40:00 GMT+0000 (Coordinated Universal Time),Tue Oct 15 2024 11:40:00 GMT+0000 (Coordinated Universal Time),Tue Oct 29 2024 11:40:00 GMT+0000 (Coordinated Universal Time),Tue Nov 12 2024 11:40:00 GMT+0000 (Coordinated Universal Time),Tue Nov 26 2024 11:40:00 GMT+0000 (Coordinated Universal Time),Tue Dec 10 2024 11:40:00 GMT+0000 (Coordinated Universal Time),Tue Dec 24 2024 11:40:00 GMT+0000 (Coordinated Universal Time),Tue Jan 07 2025 11:40:00 GMT+0000 (Coordinated Universal Time),Tue Jan 21 2025 11:40:00 GMT+0000 (Coordinated Universal Time),Tue Feb 04 2025 11:40:00 GMT+0000 (Coordinated Universal Time),Tue Feb 18 2025 11:40:00 GMT+0000 (Coordinated Universal Time),Tue Mar 04 2025 11:40:00 GMT+0000 (Coordinated Universal Time)"	e%œÌ.À"	*œÞÅ€L@"	8J^cÀ	À"	xÑWf„L@"	‹LÃð€L@"	–¨©e;À"	—|¢¡55À"	Ì0¤y¶€L@"	Ú‚ïG›4À"	îvb{Ò€L@" " 5" a" " ±3( / 0	
-!*."	ª¼+3( 3 0	
-	
-"-)"	ö–+3( 1 0	
- +,"	ðâ+3( 2 0	
-#%&"	¸Î+3( 0 0	
-$'("	‚6"x
-trips(€ idorigin_stop_idorigin_stop_namedestination_stop_iddestination_stop_namedistanceduration"
-
-Old Church"
-Chapel Brae"
-Dairy Cottages"
-School Car Park"
-Kindrochit Court"
-St Andrew's Terrace" " " &" 5" 6" 7" E" M" a" w" …" …}" " •" š" §" ±" æð" ë" ú" ú& 
-"	ª¼+2 	, "	ðâ+J .  "	ö–+R 
-
-
-ï  	"Ú	¸Î+²K ³(D>	@ (:8
-
-&
-
- 
-(*r
-F:V4L> ,	 :*(BÄ& 4	–wxU!+
-# #c_(<hIÀ—ro09@] °U((6C!:O81
-	2:>b& „(ND"Y2" $V(. 	 AIH 	"4	”6ú!ªBJ
- 2D^8†5dO"°gâkz$( x

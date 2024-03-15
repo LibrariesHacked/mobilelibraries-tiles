@@ -1,29 +1,20 @@
-õÜx
+ßfx
 stops(Ä id	route_idsroute_names
-mobile_idsmobile_namesorganisation_idorganisation_nameservice_codename	communityaddresspostcodearrival_timesdeparture_timesroute_start
+mobile_idsmobile_namesorganisation_idorganisation_nameservice_codename	communityaddressarrival_timesdeparture_timesroute_start
 route_daysroute_frequenciesroute_schedule	timetable	longitudelatitude"
 8"
 10"
-51"
-67"
-489"
-508"
-732"
+47"
+460"
+479"
 Owen"
 Coton"
 Burras"
 Chapel"
-Friday"
-Hanmer"
 Monday"
-School"
-Square"	
-Route 5"	
-Wrexham"
+School"
 
 09:20:00"
-
-09:45:00"
 
 10:20:00"
 
@@ -32,8 +23,6 @@ route_daysroute_frequenciesroute_schedule	timetable	longitudelatitude"
 11:00:00"
 
 11:10:00"
-
-11:15:00"
 
 11:30:00"
 
@@ -49,120 +38,79 @@ route_daysroute_frequenciesroute_schedule	timetable	longitudelatitude"
 
 13:00:00"
 
-13:10:00"
-
-Mobile 1"
-
-SY13 2LW"
-
-SY13 3DE"
-
-SY13 3JB"
-
 Tilstock"
 	Ash Magna"
 	E06000051"
-	W06000006"
 	Wednesday"
 
-Bronington"
-
 Hollinwood"
-
-Maes Llwyn"
 
 Shropshire"
 
 White Lion"
-Bettisfield"
-Brownsbrook"
-Cadney Lane"
+Brownsbrook"
 Higher Heath"
 Village Hall"
-Stanley Green"
-Square, Hanmer"
+Stanley Green"
 Organ House Farm"
 Chapel, Hollinwood"
 School, Brownsbrook"
 Burras, Stanley Green"
 Tilstock Lane, School"
 White Lion, Ash Magna"
-FREQ=WEEKLY;INTERVAL=2"
-FREQ=WEEKLY;INTERVAL=3"
-Maes Llwyn, Bronington"
+FREQ=WEEKLY;INTERVAL=2"
 Organ House Farm, Coton"
-2019-01-18T00:00:00.000Z"
 2019-10-14T00:00:00.000Z"
-2019-10-16T00:00:00.000Z"
-Cadney Lane, Bettisfield"
+2019-10-16T00:00:00.000Z"
 Village Hall, Higher Heath"!
 Tilstock Lane, School, Tilstock";
-9https://www.shropshire.gov.uk/libraries/mobile-libraries/"<
-:https://beta.wrexham.gov.uk/service/mobile-library-service"Ë
+9https://www.shropshire.gov.uk/libraries/mobile-libraries/"Ë
 ÂMon Mar 25 2024 09:20:00 GMT+0000 (Coordinated Universal Time),Mon Apr 08 2024 09:20:00 GMT+0000 (Coordinated Universal Time),Mon Apr 22 2024 09:20:00 GMT+0000 (Coordinated Universal Time),Mon May 06 2024 09:20:00 GMT+0000 (Coordinated Universal Time),Mon May 20 2024 09:20:00 GMT+0000 (Coordinated Universal Time),Mon Jun 03 2024 09:20:00 GMT+0000 (Coordinated Universal Time),Mon Jun 17 2024 09:20:00 GMT+0000 (Coordinated Universal Time),Mon Jul 01 2024 09:20:00 GMT+0000 (Coordinated Universal Time),Mon Jul 15 2024 09:20:00 GMT+0000 (Coordinated Universal Time),Mon Jul 29 2024 09:20:00 GMT+0000 (Coordinated Universal Time),Mon Aug 12 2024 09:20:00 GMT+0000 (Coordinated Universal Time),Mon Aug 26 2024 09:20:00 GMT+0000 (Coordinated Universal Time),Mon Sep 09 2024 09:20:00 GMT+0000 (Coordinated Universal Time),Mon Sep 23 2024 09:20:00 GMT+0000 (Coordinated Universal Time),Mon Oct 07 2024 09:20:00 GMT+0000 (Coordinated Universal Time),Mon Oct 21 2024 09:20:00 GMT+0000 (Coordinated Universal Time),Mon Nov 04 2024 09:20:00 GMT+0000 (Coordinated Universal Time),Mon Nov 18 2024 09:20:00 GMT+0000 (Coordinated Universal Time),Mon Dec 02 2024 09:20:00 GMT+0000 (Coordinated Universal Time),Mon Dec 16 2024 09:20:00 GMT+0000 (Coordinated Universal Time),Mon Dec 30 2024 09:20:00 GMT+0000 (Coordinated Universal Time),Mon Jan 13 2025 09:20:00 GMT+0000 (Coordinated Universal Time),Mon Jan 27 2025 09:20:00 GMT+0000 (Coordinated Universal Time),Mon Feb 10 2025 09:20:00 GMT+0000 (Coordinated Universal Time),Mon Feb 24 2025 09:20:00 GMT+0000 (Coordinated Universal Time),Mon Mar 10 2025 09:20:00 GMT+0000 (Coordinated Universal Time)"Ë
 ÂMon Mar 25 2024 10:30:00 GMT+0000 (Coordinated Universal Time),Mon Apr 08 2024 10:30:00 GMT+0000 (Coordinated Universal Time),Mon Apr 22 2024 10:30:00 GMT+0000 (Coordinated Universal Time),Mon May 06 2024 10:30:00 GMT+0000 (Coordinated Universal Time),Mon May 20 2024 10:30:00 GMT+0000 (Coordinated Universal Time),Mon Jun 03 2024 10:30:00 GMT+0000 (Coordinated Universal Time),Mon Jun 17 2024 10:30:00 GMT+0000 (Coordinated Universal Time),Mon Jul 01 2024 10:30:00 GMT+0000 (Coordinated Universal Time),Mon Jul 15 2024 10:30:00 GMT+0000 (Coordinated Universal Time),Mon Jul 29 2024 10:30:00 GMT+0000 (Coordinated Universal Time),Mon Aug 12 2024 10:30:00 GMT+0000 (Coordinated Universal Time),Mon Aug 26 2024 10:30:00 GMT+0000 (Coordinated Universal Time),Mon Sep 09 2024 10:30:00 GMT+0000 (Coordinated Universal Time),Mon Sep 23 2024 10:30:00 GMT+0000 (Coordinated Universal Time),Mon Oct 07 2024 10:30:00 GMT+0000 (Coordinated Universal Time),Mon Oct 21 2024 10:30:00 GMT+0000 (Coordinated Universal Time),Mon Nov 04 2024 10:30:00 GMT+0000 (Coordinated Universal Time),Mon Nov 18 2024 10:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 02 2024 10:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 16 2024 10:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 30 2024 10:30:00 GMT+0000 (Coordinated Universal Time),Mon Jan 13 2025 10:30:00 GMT+0000 (Coordinated Universal Time),Mon Jan 27 2025 10:30:00 GMT+0000 (Coordinated Universal Time),Mon Feb 10 2025 10:30:00 GMT+0000 (Coordinated Universal Time),Mon Feb 24 2025 10:30:00 GMT+0000 (Coordinated Universal Time),Mon Mar 10 2025 10:30:00 GMT+0000 (Coordinated Universal Time)"Ë
 ÂMon Mar 25 2024 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Apr 08 2024 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Apr 22 2024 11:10:00 GMT+0000 (Coordinated Universal Time),Mon May 06 2024 11:10:00 GMT+0000 (Coordinated Universal Time),Mon May 20 2024 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Jun 03 2024 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Jun 17 2024 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Jul 01 2024 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Jul 15 2024 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Jul 29 2024 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Aug 12 2024 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Aug 26 2024 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Sep 09 2024 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Sep 23 2024 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Oct 07 2024 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Oct 21 2024 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Nov 04 2024 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Nov 18 2024 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Dec 02 2024 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Dec 16 2024 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Dec 30 2024 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Jan 13 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Jan 27 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Feb 10 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Feb 24 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Mar 10 2025 11:10:00 GMT+0000 (Coordinated Universal Time)"Ë
 ÂMon Mar 25 2024 11:35:00 GMT+0000 (Coordinated Universal Time),Mon Apr 08 2024 11:35:00 GMT+0000 (Coordinated Universal Time),Mon Apr 22 2024 11:35:00 GMT+0000 (Coordinated Universal Time),Mon May 06 2024 11:35:00 GMT+0000 (Coordinated Universal Time),Mon May 20 2024 11:35:00 GMT+0000 (Coordinated Universal Time),Mon Jun 03 2024 11:35:00 GMT+0000 (Coordinated Universal Time),Mon Jun 17 2024 11:35:00 GMT+0000 (Coordinated Universal Time),Mon Jul 01 2024 11:35:00 GMT+0000 (Coordinated Universal Time),Mon Jul 15 2024 11:35:00 GMT+0000 (Coordinated Universal Time),Mon Jul 29 2024 11:35:00 GMT+0000 (Coordinated Universal Time),Mon Aug 12 2024 11:35:00 GMT+0000 (Coordinated Universal Time),Mon Aug 26 2024 11:35:00 GMT+0000 (Coordinated Universal Time),Mon Sep 09 2024 11:35:00 GMT+0000 (Coordinated Universal Time),Mon Sep 23 2024 11:35:00 GMT+0000 (Coordinated Universal Time),Mon Oct 07 2024 11:35:00 GMT+0000 (Coordinated Universal Time),Mon Oct 21 2024 11:35:00 GMT+0000 (Coordinated Universal Time),Mon Nov 04 2024 11:35:00 GMT+0000 (Coordinated Universal Time),Mon Nov 18 2024 11:35:00 GMT+0000 (Coordinated Universal Time),Mon Dec 02 2024 11:35:00 GMT+0000 (Coordinated Universal Time),Mon Dec 16 2024 11:35:00 GMT+0000 (Coordinated Universal Time),Mon Dec 30 2024 11:35:00 GMT+0000 (Coordinated Universal Time),Mon Jan 13 2025 11:35:00 GMT+0000 (Coordinated Universal Time),Mon Jan 27 2025 11:35:00 GMT+0000 (Coordinated Universal Time),Mon Feb 10 2025 11:35:00 GMT+0000 (Coordinated Universal Time),Mon Feb 24 2025 11:35:00 GMT+0000 (Coordinated Universal Time),Mon Mar 10 2025 11:35:00 GMT+0000 (Coordinated Universal Time)"Ë
 ÂMon Mar 25 2024 12:15:00 GMT+0000 (Coordinated Universal Time),Mon Apr 08 2024 12:15:00 GMT+0000 (Coordinated Universal Time),Mon Apr 22 2024 12:15:00 GMT+0000 (Coordinated Universal Time),Mon May 06 2024 12:15:00 GMT+0000 (Coordinated Universal Time),Mon May 20 2024 12:15:00 GMT+0000 (Coordinated Universal Time),Mon Jun 03 2024 12:15:00 GMT+0000 (Coordinated Universal Time),Mon Jun 17 2024 12:15:00 GMT+0000 (Coordinated Universal Time),Mon Jul 01 2024 12:15:00 GMT+0000 (Coordinated Universal Time),Mon Jul 15 2024 12:15:00 GMT+0000 (Coordinated Universal Time),Mon Jul 29 2024 12:15:00 GMT+0000 (Coordinated Universal Time),Mon Aug 12 2024 12:15:00 GMT+0000 (Coordinated Universal Time),Mon Aug 26 2024 12:15:00 GMT+0000 (Coordinated Universal Time),Mon Sep 09 2024 12:15:00 GMT+0000 (Coordinated Universal Time),Mon Sep 23 2024 12:15:00 GMT+0000 (Coordinated Universal Time),Mon Oct 07 2024 12:15:00 GMT+0000 (Coordinated Universal Time),Mon Oct 21 2024 12:15:00 GMT+0000 (Coordinated Universal Time),Mon Nov 04 2024 12:15:00 GMT+0000 (Coordinated Universal Time),Mon Nov 18 2024 12:15:00 GMT+0000 (Coordinated Universal Time),Mon Dec 02 2024 12:15:00 GMT+0000 (Coordinated Universal Time),Mon Dec 16 2024 12:15:00 GMT+0000 (Coordinated Universal Time),Mon Dec 30 2024 12:15:00 GMT+0000 (Coordinated Universal Time),Mon Jan 13 2025 12:15:00 GMT+0000 (Coordinated Universal Time),Mon Jan 27 2025 12:15:00 GMT+0000 (Coordinated Universal Time),Mon Feb 10 2025 12:15:00 GMT+0000 (Coordinated Universal Time),Mon Feb 24 2025 12:15:00 GMT+0000 (Coordinated Universal Time),Mon Mar 10 2025 12:15:00 GMT+0000 (Coordinated Universal Time)"Ë
 ÂMon Mar 25 2024 12:45:00 GMT+0000 (Coordinated Universal Time),Mon Apr 08 2024 12:45:00 GMT+0000 (Coordinated Universal Time),Mon Apr 22 2024 12:45:00 GMT+0000 (Coordinated Universal Time),Mon May 06 2024 12:45:00 GMT+0000 (Coordinated Universal Time),Mon May 20 2024 12:45:00 GMT+0000 (Coordinated Universal Time),Mon Jun 03 2024 12:45:00 GMT+0000 (Coordinated Universal Time),Mon Jun 17 2024 12:45:00 GMT+0000 (Coordinated Universal Time),Mon Jul 01 2024 12:45:00 GMT+0000 (Coordinated Universal Time),Mon Jul 15 2024 12:45:00 GMT+0000 (Coordinated Universal Time),Mon Jul 29 2024 12:45:00 GMT+0000 (Coordinated Universal Time),Mon Aug 12 2024 12:45:00 GMT+0000 (Coordinated Universal Time),Mon Aug 26 2024 12:45:00 GMT+0000 (Coordinated Universal Time),Mon Sep 09 2024 12:45:00 GMT+0000 (Coordinated Universal Time),Mon Sep 23 2024 12:45:00 GMT+0000 (Coordinated Universal Time),Mon Oct 07 2024 12:45:00 GMT+0000 (Coordinated Universal Time),Mon Oct 21 2024 12:45:00 GMT+0000 (Coordinated Universal Time),Mon Nov 04 2024 12:45:00 GMT+0000 (Coordinated Universal Time),Mon Nov 18 2024 12:45:00 GMT+0000 (Coordinated Universal Time),Mon Dec 02 2024 12:45:00 GMT+0000 (Coordinated Universal Time),Mon Dec 16 2024 12:45:00 GMT+0000 (Coordinated Universal Time),Mon Dec 30 2024 12:45:00 GMT+0000 (Coordinated Universal Time),Mon Jan 13 2025 12:45:00 GMT+0000 (Coordinated Universal Time),Mon Jan 27 2025 12:45:00 GMT+0000 (Coordinated Universal Time),Mon Feb 10 2025 12:45:00 GMT+0000 (Coordinated Universal Time),Mon Feb 24 2025 12:45:00 GMT+0000 (Coordinated Universal Time),Mon Mar 10 2025 12:45:00 GMT+0000 (Coordinated Universal Time)"Ë
-ÂWed Mar 27 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Apr 10 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Apr 24 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed May 08 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed May 22 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Jun 05 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Jun 19 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Jul 03 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Jul 17 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Jul 31 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Aug 14 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Aug 28 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Sep 11 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Sep 25 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Oct 09 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Oct 23 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Nov 06 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Nov 20 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Dec 04 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Dec 18 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Jan 01 2025 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Jan 15 2025 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Jan 29 2025 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Feb 12 2025 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Feb 26 2025 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Mar 12 2025 12:30:00 GMT+0000 (Coordinated Universal Time)"
-ÌFri Mar 22 2024 09:45:00 GMT+0000 (Coordinated Universal Time),Fri Apr 12 2024 09:45:00 GMT+0000 (Coordinated Universal Time),Fri May 03 2024 09:45:00 GMT+0000 (Coordinated Universal Time),Fri May 24 2024 09:45:00 GMT+0000 (Coordinated Universal Time),Fri Jun 14 2024 09:45:00 GMT+0000 (Coordinated Universal Time),Fri Jul 05 2024 09:45:00 GMT+0000 (Coordinated Universal Time),Fri Jul 26 2024 09:45:00 GMT+0000 (Coordinated Universal Time),Fri Aug 16 2024 09:45:00 GMT+0000 (Coordinated Universal Time),Fri Sep 06 2024 09:45:00 GMT+0000 (Coordinated Universal Time),Fri Sep 27 2024 09:45:00 GMT+0000 (Coordinated Universal Time),Fri Oct 18 2024 09:45:00 GMT+0000 (Coordinated Universal Time),Fri Nov 08 2024 09:45:00 GMT+0000 (Coordinated Universal Time),Fri Nov 29 2024 09:45:00 GMT+0000 (Coordinated Universal Time),Fri Dec 20 2024 09:45:00 GMT+0000 (Coordinated Universal Time),Fri Jan 10 2025 09:45:00 GMT+0000 (Coordinated Universal Time),Fri Jan 31 2025 09:45:00 GMT+0000 (Coordinated Universal Time),Fri Feb 21 2025 09:45:00 GMT+0000 (Coordinated Universal Time),Fri Mar 14 2025 09:45:00 GMT+0000 (Coordinated Universal Time)"
-ÌFri Mar 22 2024 11:15:00 GMT+0000 (Coordinated Universal Time),Fri Apr 12 2024 11:15:00 GMT+0000 (Coordinated Universal Time),Fri May 03 2024 11:15:00 GMT+0000 (Coordinated Universal Time),Fri May 24 2024 11:15:00 GMT+0000 (Coordinated Universal Time),Fri Jun 14 2024 11:15:00 GMT+0000 (Coordinated Universal Time),Fri Jul 05 2024 11:15:00 GMT+0000 (Coordinated Universal Time),Fri Jul 26 2024 11:15:00 GMT+0000 (Coordinated Universal Time),Fri Aug 16 2024 11:15:00 GMT+0000 (Coordinated Universal Time),Fri Sep 06 2024 11:15:00 GMT+0000 (Coordinated Universal Time),Fri Sep 27 2024 11:15:00 GMT+0000 (Coordinated Universal Time),Fri Oct 18 2024 11:15:00 GMT+0000 (Coordinated Universal Time),Fri Nov 08 2024 11:15:00 GMT+0000 (Coordinated Universal Time),Fri Nov 29 2024 11:15:00 GMT+0000 (Coordinated Universal Time),Fri Dec 20 2024 11:15:00 GMT+0000 (Coordinated Universal Time),Fri Jan 10 2025 11:15:00 GMT+0000 (Coordinated Universal Time),Fri Jan 31 2025 11:15:00 GMT+0000 (Coordinated Universal Time),Fri Feb 21 2025 11:15:00 GMT+0000 (Coordinated Universal Time),Fri Mar 14 2025 11:15:00 GMT+0000 (Coordinated Universal Time)"
-ÌFri Mar 22 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Fri Apr 12 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Fri May 03 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Fri May 24 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Fri Jun 14 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Fri Jul 05 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Fri Jul 26 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Fri Aug 16 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Fri Sep 06 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Fri Sep 27 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Fri Oct 18 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Fri Nov 08 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Fri Nov 29 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Fri Dec 20 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Fri Jan 10 2025 12:30:00 GMT+0000 (Coordinated Universal Time),Fri Jan 31 2025 12:30:00 GMT+0000 (Coordinated Universal Time),Fri Feb 21 2025 12:30:00 GMT+0000 (Coordinated Universal Time),Fri Mar 14 2025 12:30:00 GMT+0000 (Coordinated Universal Time)"	Y›ÍyJ@"	±O ≈(¿"	6\‰ûÆtJ@"	Y§âwÄg¿"	Ä`D“ro¿"	Ü‡ÚdøuJ@"	àÖZ”ºyJ@"	é==S⁄wJ@"	èÙàzJ@"	ñMÕÀuJ@"	ô§•ºôtJ@"	≥ ¸ä¿"	∏ÖèvÿtJ@"	∆‡ã‘≤¿"	Ÿö˘˛¥9¿"	ÓÙ‰ã9Ê¿"	Ú)ûi¿"	Ú.2’3∂¿"	˘d≈puÄ¿"	˘üpaKvJ@" %" U" ñ" õ" û)" ¶" ≤" µ)" ≈" Õ)" Ô" ¸4* o!g(	
-5# @=QGdR"		÷%5* m!g(,	*
->$@=OGSX"	¬ƒ&5* j!g(1	/
-C"@=PGUT"	Æ≤>3( n f-'	0
-8A<LFa\"	¨‚>3( k f-'		4
-9A<KFc^"	#Œ=3( l f-'
-	+
-7A<JF_["	º$ê93( i f-'6	
-?A<MF]e"	‹+‰63( p f-':	%
-EA<HFVY"	∫0∂/3( q f-'3	2
-DA<IF`W"	Ç:Æ93( hf-'.	&
-;B)<NFbZ"	§@Ñ%Äx
+ÂWed Mar 27 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Apr 10 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Apr 24 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed May 08 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed May 22 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Jun 05 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Jun 19 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Jul 03 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Jul 17 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Jul 31 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Aug 14 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Aug 28 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Sep 11 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Sep 25 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Oct 09 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Oct 23 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Nov 06 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Nov 20 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Dec 04 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Dec 18 2024 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Jan 01 2025 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Jan 15 2025 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Jan 29 2025 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Feb 12 2025 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Feb 26 2025 12:30:00 GMT+0000 (Coordinated Universal Time),Wed Mar 12 2025 12:30:00 GMT+0000 (Coordinated Universal Time)"	Ä`D“ro¿"	Ü‡ÚdøuJ@"	é==S⁄wJ@"	èÙàzJ@"	ñMÕÀuJ@"	ô§•ºôtJ@"	≥ ¸ä¿"	∏ÖèvÿtJ@"	∆‡ã‘≤¿"	Ÿö˘˛¥9¿"	ÓÙ‰ã9Ê¿"	Ú)ûi¿"	Ú.2’3∂¿"	˘üpaKvJ@" " ô" û" ©" µ" »" Ú" ˇ3( I D
+	
+$*	(3.@;"	¨‚>3( G D	!
+%*	(2.B="	#Œ=3( H D	
+#*	(1.>:"	º$ê93( F D"	
+)*	(4.<C"	‹+‰63( J D&	
+-*	(/.68"	∫0∂/3( K D 	
+,*	(0.?7"	Ç:Æ93( ED	
+'+(5.A9"	§@Ñ%πx
 trips(Ä idorigin_stop_idorigin_stop_namedestination_stop_iddestination_stop_namedistanceduration"
 Burras"
 Chapel"
-School"
-Square"
+School"
 
 Bus Stop"
 
-Elk View"
-
 Wem Turn"
-	Phone Box"
-	Scout Hut"
+	Phone Box"
 
-Maes Llwyn"
-
-White Lion"
-Cadney Lane"
+White Lion"
 Village Hall"
 Old Post Office"
 Organ House Farm"
-Tilstock Lane, School"
-Rainbow Centre SY13 0GB" |" Ä#" ä+" é" è" í#" î" ñ" õ" ú!" ù:" û)" ü4" §" •	" ¶" ®" ™)" ´" ¨" ¨" ¨<" ≤" ≤" ¥" ¥/" µ)" ∂" ª" ø" ¡" ≈" ∆!" ∆)" »"  " À)" Õ)" ”" ”" ’" ’" ÷" ◊" ÿ"" ‹" ›" ﬂ" ﬂ" Â"" Î"" Ó" Ô" " ˆ" ¸. B"5G"	üÊR"f:<X<W\SXK) 62."	Í%B27# ¢ C+	$"ç	Œƒ&ä 	6*.B,H6O¶'@6Gd5 ?/EÁîg('(.}‰,'Q"#<Sz+4,
-J
-02
-$JT$*bR8 .)J9rFXPZ`*>è =6)"{	¢¥>¬)=Y_OWE:q*I -7Qa)#SI#	/1	I	3+,àÕ∑’	U3;))+
-&DQ#i)G	!	1i 7  0%"U	Ë#ƒ=∫	I%'E	)//=	+i-5!'1	6:L,41x 
-6Us%± AH(4"ú	ú:å9™hP¶∑≈Å˚˝ 	!SÅW AmN)
+Tilstock Lane, School" |" Å" É" à" ã" è" ë" ó" ô" ö" ú" ù:" û" •	" ©" ´" ¨" ¨<" Æ" ≤" ¥/" µ" ∂" ¡" ∆!" »" »"  " –" ”" ’" ÷" ›" ﬂ" Á" Ú" ˇ" ˇi / %"U	Ë#ƒ=∫	I%'E	)//=	+i-5!'1	6:L,41x 
+6Us%± 0 &"ú	ú:å9™hP¶∑≈Å˚˝ 	!SÅW AmN)
 µ˝6)1âC	@	9	;2?=+'!?-å2"(B8	9"1(.
-g`/2/	 Z"5 >(  ,"!	º$ê9j!∆$J 8\F	
-x -0*@"d	¨‡>zt&V<\ 	Ù
- Í?_S.U$w-/+!?8a. 	$sG(O #	W	;7U #1'"A	‚+‡6Í8<X
+g`/2/	 Z"5   !"!	º$ê9j!∆$J 8\F	
+x -%	,"d	¨‡>zt&V<\ 	Ù
+ Í?_S.U$w-/+!?8a. 	$sG(O #	W	;7U '	#"A	‚+‡6Í8<X
 
 $'PH#t
--7b@",0.#x-VT`@[ DE&/"G	ú7†A‚1)Cô g·≈ªÀ3 !SÅW 5 mN)
-µâZ <EH:;"F	º0º/⁄ä∂*	nM 6 Xxh
+-7b@",0.#x-VT`@[ .
+""G	ú7†A‚1)Cô g·≈ªÀ3 !SÅW 5 mN)
+µâZ .
+0)*"F	º0º/⁄ä∂*	nM 6 Xxh
 
  
 
-2^¬ûº∆Ç•∏gOÿ 9!
-8"√	Ú@†A™Øü#-1KµsØß◊ØQõ˚˝ 	!S9#üG!'GÖ%U5°E)7M1O  	'3)É° F/ ôN* $X
+2^¬ûº∆Ç•∏gOÿ ("√	Ú@†A™Øü#-1KµsØß◊ØQõ˚˝ 	!S9#üG!'GÖ%U5°E)7M1O  	'3)É° F/ ôN* $X
 22.
 L!2@CÄ<<"L68tXLR&n& 
 	*
-, F
-3?"	é@¯$J:Z
+, $+"	é@¯$J:Z
