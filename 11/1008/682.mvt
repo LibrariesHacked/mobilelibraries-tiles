@@ -1,0 +1,334 @@
+´ÿx
+stops(Ä id	route_idsroute_names
+mobile_idsmobile_namesorganisation_idorganisation_nameservice_codename	communityaddressarrival_timesdeparture_timesroute_start
+route_daysroute_frequenciesroute_schedule	timetable	longitudelatitudepostcode"
+4"
+H"
+25"
+26"
+40"
+49"
+417"
+418"
+420"
+423"
+424"
+492"
+Regil"
+Ubley"
+Cleeve"
+Felton"
+Friday"
+Mobile"
+Monday"	
+Blagdon"	
+Redhill"	
+Route 5"	
+Route 6"	
+Shipham"	
+Winford"
+
+10:00:00"
+
+10:20:00"
+
+10:40:00"
+
+10:45:00"
+
+11:00:00"
+
+11:05:00"
+
+11:10:00"
+
+11:25:00"
+
+11:30:00"
+
+11:35:00"
+
+11:40:00"
+
+11:55:00"
+
+12:00:00"
+
+12:20:00"
+
+12:30:00"
+
+12:35:00"
+
+12:55:00"
+
+13:05:00"
+
+13:25:00"
+
+13:35:00"
+
+13:45:00"
+
+14:30:00"
+
+14:35:00"
+
+14:40:00"
+
+15:40:00"
+
+15:50:00"
+
+16:00:00"
+
+16:45:00"
+
+BS25 1TX"
+
+Bus stop"
+
+Butcombe"
+
+Langford"
+
+Lulsgate"
+
+Monday 1"
+
+Monday 2"
+
+Rickford"
+
+Somerset"
+
+Thursday"
+
+Woodview"
+
+Wrington"
+	Churchill"
+	Claverham"
+	E06000022"
+	E06000024"
+	E10000027"
+	Waterfall"
+	Wednesday"
+
+Burrington"
+
+Chew Stoke"
+
+The School"
+
+The Square"
+
+The Street"
+
+Thursday 2"
+Coombe Dale"
+Regil Green"
+Wednesday 1"
+Wednesday 2"
+Broad Street"
+Village Hall"
+Mendip Villas"
+Chestnut Drive"
+Compton Martin"
+North Somerset"
+417,418,423,424"
+Old Post Office"
+Monday,Wednesday"
+Woodview, Cleeve"
+11:45:00,14:00:00"
+12:45:00,16:30:00"
+Bus stop, Winford"
+George and Dragon"
+The School, Ubley"
+The Street, Ubley"
+Mill Lane (school)"
+Regil Green, Regil"
+Village Hall, Ubley"
+Waterfall, Rickford"
+The Batch Crossroads"
+the Ring O'Bells pub"
+Coombe Dale, Lulsgate"
+Village Club Car Park"
+Village Hall, Redhill"
+Broad Street, Wrington"
+FREQ=WEEKLY;INTERVAL=2"
+FREQ=WEEKLY;INTERVAL=4"
+The Square, Burrington"
+2019-10-18T00:00:00.000Z"
+2019-10-21T00:00:00.000Z"
+2019-10-25T00:00:00.000Z"
+2024-02-12T00:00:00.000Z"
+2024-02-14T00:00:00.000Z"
+2024-02-19T00:00:00.000Z"
+2024-02-21T00:00:00.000Z"
+2024-02-22T00:00:00.000Z"
+Chestnut Drive, Claverham"
+Doctor's Surgery Car Park"
+George and Dragon, Felton"
+Old Post Office, Langford"
+Turnpike Road (Pre School)"
+Bath and North East Somerset"
+Junction Eastcroft/Score Lane"
+Mendip Villas, Compton Martin" 
+Mill Lane (school), Chew Stoke" 
+The Batch Crossroads, Butcombe" 
+Village Club Car Park, Blagdon"%
+#Turnpike Road (Pre School), Shipham"&
+$Doctor's Surgery Car Park, Churchill"&
+$the Ring O'Bells pub, Compton Martin"(
+&Junction Eastcroft/Score Lane, Blagdon"+
+)Monday 1,Monday 2,Wednesday 1,Wednesday 2"3
+1https://beta.bathnes.gov.uk/mobile-library-routes"i
+ghttps://www.n-somerset.gov.uk/my-services/leisure/libraries/bringing-the-library-to-you/mobile-library/"l
+jhttps://www.somerset.gov.uk/libraries-leisure-and-communities/libraries/library-facilities/mobile-library/"ß
+§Thu Dec 12 2024 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Dec 26 2024 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Jan 09 2025 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Jan 23 2025 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Feb 06 2025 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Feb 20 2025 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Mar 06 2025 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Mar 20 2025 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Apr 03 2025 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Apr 17 2025 10:00:00 GMT+0000 (Coordinated Universal Time),Thu May 01 2025 10:00:00 GMT+0000 (Coordinated Universal Time),Thu May 15 2025 10:00:00 GMT+0000 (Coordinated Universal Time),Thu May 29 2025 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Jun 12 2025 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Jun 26 2025 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Jul 10 2025 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Jul 24 2025 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Aug 07 2025 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Aug 21 2025 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Sep 04 2025 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Sep 18 2025 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Oct 02 2025 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Oct 16 2025 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Oct 30 2025 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Nov 13 2025 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Nov 27 2025 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Dec 11 2025 10:00:00 GMT+0000 (Coordinated Universal Time)"ß
+§Thu Dec 12 2024 11:10:00 GMT+0000 (Coordinated Universal Time),Thu Dec 26 2024 11:10:00 GMT+0000 (Coordinated Universal Time),Thu Jan 09 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Thu Jan 23 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Thu Feb 06 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Thu Feb 20 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Thu Mar 06 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Thu Mar 20 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Thu Apr 03 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Thu Apr 17 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Thu May 01 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Thu May 15 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Thu May 29 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Thu Jun 12 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Thu Jun 26 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Thu Jul 10 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Thu Jul 24 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Thu Aug 07 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Thu Aug 21 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Thu Sep 04 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Thu Sep 18 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Thu Oct 02 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Thu Oct 16 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Thu Oct 30 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Thu Nov 13 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Thu Nov 27 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Thu Dec 11 2025 11:10:00 GMT+0000 (Coordinated Universal Time)"ß
+§Thu Dec 12 2024 12:00:00 GMT+0000 (Coordinated Universal Time),Thu Dec 26 2024 12:00:00 GMT+0000 (Coordinated Universal Time),Thu Jan 09 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Thu Jan 23 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Thu Feb 06 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Thu Feb 20 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Thu Mar 06 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Thu Mar 20 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Thu Apr 03 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Thu Apr 17 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Thu May 01 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Thu May 15 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Thu May 29 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Thu Jun 12 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Thu Jun 26 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Thu Jul 10 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Thu Jul 24 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Thu Aug 07 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Thu Aug 21 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Thu Sep 04 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Thu Sep 18 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Thu Oct 02 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Thu Oct 16 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Thu Oct 30 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Thu Nov 13 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Thu Nov 27 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Thu Dec 11 2025 12:00:00 GMT+0000 (Coordinated Universal Time)"ß
+§Thu Dec 12 2024 13:35:00 GMT+0000 (Coordinated Universal Time),Thu Dec 26 2024 13:35:00 GMT+0000 (Coordinated Universal Time),Thu Jan 09 2025 13:35:00 GMT+0000 (Coordinated Universal Time),Thu Jan 23 2025 13:35:00 GMT+0000 (Coordinated Universal Time),Thu Feb 06 2025 13:35:00 GMT+0000 (Coordinated Universal Time),Thu Feb 20 2025 13:35:00 GMT+0000 (Coordinated Universal Time),Thu Mar 06 2025 13:35:00 GMT+0000 (Coordinated Universal Time),Thu Mar 20 2025 13:35:00 GMT+0000 (Coordinated Universal Time),Thu Apr 03 2025 13:35:00 GMT+0000 (Coordinated Universal Time),Thu Apr 17 2025 13:35:00 GMT+0000 (Coordinated Universal Time),Thu May 01 2025 13:35:00 GMT+0000 (Coordinated Universal Time),Thu May 15 2025 13:35:00 GMT+0000 (Coordinated Universal Time),Thu May 29 2025 13:35:00 GMT+0000 (Coordinated Universal Time),Thu Jun 12 2025 13:35:00 GMT+0000 (Coordinated Universal Time),Thu Jun 26 2025 13:35:00 GMT+0000 (Coordinated Universal Time),Thu Jul 10 2025 13:35:00 GMT+0000 (Coordinated Universal Time),Thu Jul 24 2025 13:35:00 GMT+0000 (Coordinated Universal Time),Thu Aug 07 2025 13:35:00 GMT+0000 (Coordinated Universal Time),Thu Aug 21 2025 13:35:00 GMT+0000 (Coordinated Universal Time),Thu Sep 04 2025 13:35:00 GMT+0000 (Coordinated Universal Time),Thu Sep 18 2025 13:35:00 GMT+0000 (Coordinated Universal Time),Thu Oct 02 2025 13:35:00 GMT+0000 (Coordinated Universal Time),Thu Oct 16 2025 13:35:00 GMT+0000 (Coordinated Universal Time),Thu Oct 30 2025 13:35:00 GMT+0000 (Coordinated Universal Time),Thu Nov 13 2025 13:35:00 GMT+0000 (Coordinated Universal Time),Thu Nov 27 2025 13:35:00 GMT+0000 (Coordinated Universal Time),Thu Dec 11 2025 13:35:00 GMT+0000 (Coordinated Universal Time)"ß
+§Thu Dec 12 2024 14:40:00 GMT+0000 (Coordinated Universal Time),Thu Dec 26 2024 14:40:00 GMT+0000 (Coordinated Universal Time),Thu Jan 09 2025 14:40:00 GMT+0000 (Coordinated Universal Time),Thu Jan 23 2025 14:40:00 GMT+0000 (Coordinated Universal Time),Thu Feb 06 2025 14:40:00 GMT+0000 (Coordinated Universal Time),Thu Feb 20 2025 14:40:00 GMT+0000 (Coordinated Universal Time),Thu Mar 06 2025 14:40:00 GMT+0000 (Coordinated Universal Time),Thu Mar 20 2025 14:40:00 GMT+0000 (Coordinated Universal Time),Thu Apr 03 2025 14:40:00 GMT+0000 (Coordinated Universal Time),Thu Apr 17 2025 14:40:00 GMT+0000 (Coordinated Universal Time),Thu May 01 2025 14:40:00 GMT+0000 (Coordinated Universal Time),Thu May 15 2025 14:40:00 GMT+0000 (Coordinated Universal Time),Thu May 29 2025 14:40:00 GMT+0000 (Coordinated Universal Time),Thu Jun 12 2025 14:40:00 GMT+0000 (Coordinated Universal Time),Thu Jun 26 2025 14:40:00 GMT+0000 (Coordinated Universal Time),Thu Jul 10 2025 14:40:00 GMT+0000 (Coordinated Universal Time),Thu Jul 24 2025 14:40:00 GMT+0000 (Coordinated Universal Time),Thu Aug 07 2025 14:40:00 GMT+0000 (Coordinated Universal Time),Thu Aug 21 2025 14:40:00 GMT+0000 (Coordinated Universal Time),Thu Sep 04 2025 14:40:00 GMT+0000 (Coordinated Universal Time),Thu Sep 18 2025 14:40:00 GMT+0000 (Coordinated Universal Time),Thu Oct 02 2025 14:40:00 GMT+0000 (Coordinated Universal Time),Thu Oct 16 2025 14:40:00 GMT+0000 (Coordinated Universal Time),Thu Oct 30 2025 14:40:00 GMT+0000 (Coordinated Universal Time),Thu Nov 13 2025 14:40:00 GMT+0000 (Coordinated Universal Time),Thu Nov 27 2025 14:40:00 GMT+0000 (Coordinated Universal Time),Thu Dec 11 2025 14:40:00 GMT+0000 (Coordinated Universal Time)"ß
+§Thu Dec 12 2024 16:00:00 GMT+0000 (Coordinated Universal Time),Thu Dec 26 2024 16:00:00 GMT+0000 (Coordinated Universal Time),Thu Jan 09 2025 16:00:00 GMT+0000 (Coordinated Universal Time),Thu Jan 23 2025 16:00:00 GMT+0000 (Coordinated Universal Time),Thu Feb 06 2025 16:00:00 GMT+0000 (Coordinated Universal Time),Thu Feb 20 2025 16:00:00 GMT+0000 (Coordinated Universal Time),Thu Mar 06 2025 16:00:00 GMT+0000 (Coordinated Universal Time),Thu Mar 20 2025 16:00:00 GMT+0000 (Coordinated Universal Time),Thu Apr 03 2025 16:00:00 GMT+0000 (Coordinated Universal Time),Thu Apr 17 2025 16:00:00 GMT+0000 (Coordinated Universal Time),Thu May 01 2025 16:00:00 GMT+0000 (Coordinated Universal Time),Thu May 15 2025 16:00:00 GMT+0000 (Coordinated Universal Time),Thu May 29 2025 16:00:00 GMT+0000 (Coordinated Universal Time),Thu Jun 12 2025 16:00:00 GMT+0000 (Coordinated Universal Time),Thu Jun 26 2025 16:00:00 GMT+0000 (Coordinated Universal Time),Thu Jul 10 2025 16:00:00 GMT+0000 (Coordinated Universal Time),Thu Jul 24 2025 16:00:00 GMT+0000 (Coordinated Universal Time),Thu Aug 07 2025 16:00:00 GMT+0000 (Coordinated Universal Time),Thu Aug 21 2025 16:00:00 GMT+0000 (Coordinated Universal Time),Thu Sep 04 2025 16:00:00 GMT+0000 (Coordinated Universal Time),Thu Sep 18 2025 16:00:00 GMT+0000 (Coordinated Universal Time),Thu Oct 02 2025 16:00:00 GMT+0000 (Coordinated Universal Time),Thu Oct 16 2025 16:00:00 GMT+0000 (Coordinated Universal Time),Thu Oct 30 2025 16:00:00 GMT+0000 (Coordinated Universal Time),Thu Nov 13 2025 16:00:00 GMT+0000 (Coordinated Universal Time),Thu Nov 27 2025 16:00:00 GMT+0000 (Coordinated Universal Time),Thu Dec 11 2025 16:00:00 GMT+0000 (Coordinated Universal Time)"ß
+§Wed Dec 11 2024 10:40:00 GMT+0000 (Coordinated Universal Time),Wed Dec 25 2024 10:40:00 GMT+0000 (Coordinated Universal Time),Wed Jan 08 2025 10:40:00 GMT+0000 (Coordinated Universal Time),Wed Jan 22 2025 10:40:00 GMT+0000 (Coordinated Universal Time),Wed Feb 05 2025 10:40:00 GMT+0000 (Coordinated Universal Time),Wed Feb 19 2025 10:40:00 GMT+0000 (Coordinated Universal Time),Wed Mar 05 2025 10:40:00 GMT+0000 (Coordinated Universal Time),Wed Mar 19 2025 10:40:00 GMT+0000 (Coordinated Universal Time),Wed Apr 02 2025 10:40:00 GMT+0000 (Coordinated Universal Time),Wed Apr 16 2025 10:40:00 GMT+0000 (Coordinated Universal Time),Wed Apr 30 2025 10:40:00 GMT+0000 (Coordinated Universal Time),Wed May 14 2025 10:40:00 GMT+0000 (Coordinated Universal Time),Wed May 28 2025 10:40:00 GMT+0000 (Coordinated Universal Time),Wed Jun 11 2025 10:40:00 GMT+0000 (Coordinated Universal Time),Wed Jun 25 2025 10:40:00 GMT+0000 (Coordinated Universal Time),Wed Jul 09 2025 10:40:00 GMT+0000 (Coordinated Universal Time),Wed Jul 23 2025 10:40:00 GMT+0000 (Coordinated Universal Time),Wed Aug 06 2025 10:40:00 GMT+0000 (Coordinated Universal Time),Wed Aug 20 2025 10:40:00 GMT+0000 (Coordinated Universal Time),Wed Sep 03 2025 10:40:00 GMT+0000 (Coordinated Universal Time),Wed Sep 17 2025 10:40:00 GMT+0000 (Coordinated Universal Time),Wed Oct 01 2025 10:40:00 GMT+0000 (Coordinated Universal Time),Wed Oct 15 2025 10:40:00 GMT+0000 (Coordinated Universal Time),Wed Oct 29 2025 10:40:00 GMT+0000 (Coordinated Universal Time),Wed Nov 12 2025 10:40:00 GMT+0000 (Coordinated Universal Time),Wed Nov 26 2025 10:40:00 GMT+0000 (Coordinated Universal Time),Wed Dec 10 2025 10:40:00 GMT+0000 (Coordinated Universal Time)"ß
+§Wed Dec 11 2024 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Dec 25 2024 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Jan 08 2025 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Jan 22 2025 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Feb 05 2025 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Feb 19 2025 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Mar 05 2025 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Mar 19 2025 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Apr 02 2025 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Apr 16 2025 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Apr 30 2025 11:05:00 GMT+0000 (Coordinated Universal Time),Wed May 14 2025 11:05:00 GMT+0000 (Coordinated Universal Time),Wed May 28 2025 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Jun 11 2025 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Jun 25 2025 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Jul 09 2025 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Jul 23 2025 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Aug 06 2025 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Aug 20 2025 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Sep 03 2025 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Sep 17 2025 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Oct 01 2025 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Oct 15 2025 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Oct 29 2025 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Nov 12 2025 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Nov 26 2025 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Dec 10 2025 11:05:00 GMT+0000 (Coordinated Universal Time)"ß
+§Wed Dec 11 2024 11:40:00 GMT+0000 (Coordinated Universal Time),Wed Dec 25 2024 11:40:00 GMT+0000 (Coordinated Universal Time),Wed Jan 08 2025 11:40:00 GMT+0000 (Coordinated Universal Time),Wed Jan 22 2025 11:40:00 GMT+0000 (Coordinated Universal Time),Wed Feb 05 2025 11:40:00 GMT+0000 (Coordinated Universal Time),Wed Feb 19 2025 11:40:00 GMT+0000 (Coordinated Universal Time),Wed Mar 05 2025 11:40:00 GMT+0000 (Coordinated Universal Time),Wed Mar 19 2025 11:40:00 GMT+0000 (Coordinated Universal Time),Wed Apr 02 2025 11:40:00 GMT+0000 (Coordinated Universal Time),Wed Apr 16 2025 11:40:00 GMT+0000 (Coordinated Universal Time),Wed Apr 30 2025 11:40:00 GMT+0000 (Coordinated Universal Time),Wed May 14 2025 11:40:00 GMT+0000 (Coordinated Universal Time),Wed May 28 2025 11:40:00 GMT+0000 (Coordinated Universal Time),Wed Jun 11 2025 11:40:00 GMT+0000 (Coordinated Universal Time),Wed Jun 25 2025 11:40:00 GMT+0000 (Coordinated Universal Time),Wed Jul 09 2025 11:40:00 GMT+0000 (Coordinated Universal Time),Wed Jul 23 2025 11:40:00 GMT+0000 (Coordinated Universal Time),Wed Aug 06 2025 11:40:00 GMT+0000 (Coordinated Universal Time),Wed Aug 20 2025 11:40:00 GMT+0000 (Coordinated Universal Time),Wed Sep 03 2025 11:40:00 GMT+0000 (Coordinated Universal Time),Wed Sep 17 2025 11:40:00 GMT+0000 (Coordinated Universal Time),Wed Oct 01 2025 11:40:00 GMT+0000 (Coordinated Universal Time),Wed Oct 15 2025 11:40:00 GMT+0000 (Coordinated Universal Time),Wed Oct 29 2025 11:40:00 GMT+0000 (Coordinated Universal Time),Wed Nov 12 2025 11:40:00 GMT+0000 (Coordinated Universal Time),Wed Nov 26 2025 11:40:00 GMT+0000 (Coordinated Universal Time),Wed Dec 10 2025 11:40:00 GMT+0000 (Coordinated Universal Time)"ß
+§Wed Dec 11 2024 13:25:00 GMT+0000 (Coordinated Universal Time),Wed Dec 25 2024 13:25:00 GMT+0000 (Coordinated Universal Time),Wed Jan 08 2025 13:25:00 GMT+0000 (Coordinated Universal Time),Wed Jan 22 2025 13:25:00 GMT+0000 (Coordinated Universal Time),Wed Feb 05 2025 13:25:00 GMT+0000 (Coordinated Universal Time),Wed Feb 19 2025 13:25:00 GMT+0000 (Coordinated Universal Time),Wed Mar 05 2025 13:25:00 GMT+0000 (Coordinated Universal Time),Wed Mar 19 2025 13:25:00 GMT+0000 (Coordinated Universal Time),Wed Apr 02 2025 13:25:00 GMT+0000 (Coordinated Universal Time),Wed Apr 16 2025 13:25:00 GMT+0000 (Coordinated Universal Time),Wed Apr 30 2025 13:25:00 GMT+0000 (Coordinated Universal Time),Wed May 14 2025 13:25:00 GMT+0000 (Coordinated Universal Time),Wed May 28 2025 13:25:00 GMT+0000 (Coordinated Universal Time),Wed Jun 11 2025 13:25:00 GMT+0000 (Coordinated Universal Time),Wed Jun 25 2025 13:25:00 GMT+0000 (Coordinated Universal Time),Wed Jul 09 2025 13:25:00 GMT+0000 (Coordinated Universal Time),Wed Jul 23 2025 13:25:00 GMT+0000 (Coordinated Universal Time),Wed Aug 06 2025 13:25:00 GMT+0000 (Coordinated Universal Time),Wed Aug 20 2025 13:25:00 GMT+0000 (Coordinated Universal Time),Wed Sep 03 2025 13:25:00 GMT+0000 (Coordinated Universal Time),Wed Sep 17 2025 13:25:00 GMT+0000 (Coordinated Universal Time),Wed Oct 01 2025 13:25:00 GMT+0000 (Coordinated Universal Time),Wed Oct 15 2025 13:25:00 GMT+0000 (Coordinated Universal Time),Wed Oct 29 2025 13:25:00 GMT+0000 (Coordinated Universal Time),Wed Nov 12 2025 13:25:00 GMT+0000 (Coordinated Universal Time),Wed Nov 26 2025 13:25:00 GMT+0000 (Coordinated Universal Time),Wed Dec 10 2025 13:25:00 GMT+0000 (Coordinated Universal Time)"µ
+≤Fri Dec 13 2024 12:35:00 GMT+0000 (Coordinated Universal Time),Fri Jan 10 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Fri Feb 07 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Fri Mar 07 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Fri Apr 04 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Fri May 02 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Fri May 30 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Fri Jun 27 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Fri Jul 25 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Fri Aug 22 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Fri Sep 19 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Fri Oct 17 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Fri Nov 14 2025 12:35:00 GMT+0000 (Coordinated Universal Time)"Ÿ3
+÷3Wed Dec 11 2024 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 16 2024 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Dec 18 2024 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 23 2024 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Dec 25 2024 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 30 2024 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Jan 01 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Jan 06 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Jan 08 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Jan 13 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Jan 15 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Jan 20 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Jan 22 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Jan 27 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Jan 29 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Feb 03 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Feb 05 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Feb 10 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Feb 12 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Feb 17 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Feb 19 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Feb 24 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Feb 26 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Mar 03 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Mar 05 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Mar 10 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Mar 12 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Mar 17 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Mar 19 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Mar 24 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Mar 26 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Mar 31 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Apr 02 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Apr 07 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Apr 09 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Apr 14 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Apr 16 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Apr 21 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Apr 23 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Apr 28 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Apr 30 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon May 05 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed May 07 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon May 12 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed May 14 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon May 19 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed May 21 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon May 26 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed May 28 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Jun 02 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Jun 04 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Jun 09 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Jun 11 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Jun 16 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Jun 18 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Jun 23 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Jun 25 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Jun 30 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Jul 02 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Jul 07 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Jul 09 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Jul 14 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Jul 16 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Jul 21 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Jul 23 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Jul 28 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Jul 30 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Aug 04 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Aug 06 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Aug 11 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Aug 13 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Aug 18 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Aug 20 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Aug 25 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Aug 27 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Sep 01 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Sep 03 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Sep 08 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Sep 10 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Sep 15 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Sep 17 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Sep 22 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Sep 24 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Sep 29 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Oct 01 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Oct 06 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Oct 08 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Oct 13 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Oct 15 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Oct 20 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Oct 22 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Oct 27 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Oct 29 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Nov 03 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Nov 05 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Nov 10 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Nov 12 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Nov 17 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Nov 19 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Nov 24 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Nov 26 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 01 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Dec 03 2025 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 08 2025 11:45:00 GMT+0000 (Coordinated Universal Time),Wed Dec 10 2025 14:00:00 GMT+0000 (Coordinated Universal Time)"Ë
+ÂFri Dec 20 2024 14:30:00 GMT+0000 (Coordinated Universal Time),Fri Jan 03 2025 14:30:00 GMT+0000 (Coordinated Universal Time),Fri Jan 17 2025 14:30:00 GMT+0000 (Coordinated Universal Time),Fri Jan 31 2025 14:30:00 GMT+0000 (Coordinated Universal Time),Fri Feb 14 2025 14:30:00 GMT+0000 (Coordinated Universal Time),Fri Feb 28 2025 14:30:00 GMT+0000 (Coordinated Universal Time),Fri Mar 14 2025 14:30:00 GMT+0000 (Coordinated Universal Time),Fri Mar 28 2025 14:30:00 GMT+0000 (Coordinated Universal Time),Fri Apr 11 2025 14:30:00 GMT+0000 (Coordinated Universal Time),Fri Apr 25 2025 14:30:00 GMT+0000 (Coordinated Universal Time),Fri May 09 2025 14:30:00 GMT+0000 (Coordinated Universal Time),Fri May 23 2025 14:30:00 GMT+0000 (Coordinated Universal Time),Fri Jun 06 2025 14:30:00 GMT+0000 (Coordinated Universal Time),Fri Jun 20 2025 14:30:00 GMT+0000 (Coordinated Universal Time),Fri Jul 04 2025 14:30:00 GMT+0000 (Coordinated Universal Time),Fri Jul 18 2025 14:30:00 GMT+0000 (Coordinated Universal Time),Fri Aug 01 2025 14:30:00 GMT+0000 (Coordinated Universal Time),Fri Aug 15 2025 14:30:00 GMT+0000 (Coordinated Universal Time),Fri Aug 29 2025 14:30:00 GMT+0000 (Coordinated Universal Time),Fri Sep 12 2025 14:30:00 GMT+0000 (Coordinated Universal Time),Fri Sep 26 2025 14:30:00 GMT+0000 (Coordinated Universal Time),Fri Oct 10 2025 14:30:00 GMT+0000 (Coordinated Universal Time),Fri Oct 24 2025 14:30:00 GMT+0000 (Coordinated Universal Time),Fri Nov 07 2025 14:30:00 GMT+0000 (Coordinated Universal Time),Fri Nov 21 2025 14:30:00 GMT+0000 (Coordinated Universal Time),Fri Dec 05 2025 14:30:00 GMT+0000 (Coordinated Universal Time)"Ë
+ÂMon Dec 16 2024 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Dec 30 2024 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Jan 13 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Jan 27 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Feb 10 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Feb 24 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Mar 10 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Mar 24 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Apr 07 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Apr 21 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon May 05 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon May 19 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Jun 02 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Jun 16 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Jun 30 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Jul 14 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Jul 28 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Aug 11 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Aug 25 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Sep 08 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Sep 22 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Oct 06 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Oct 20 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Nov 03 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Nov 17 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Dec 01 2025 11:10:00 GMT+0000 (Coordinated Universal Time)"Ë
+ÂMon Dec 23 2024 10:20:00 GMT+0000 (Coordinated Universal Time),Mon Jan 06 2025 10:20:00 GMT+0000 (Coordinated Universal Time),Mon Jan 20 2025 10:20:00 GMT+0000 (Coordinated Universal Time),Mon Feb 03 2025 10:20:00 GMT+0000 (Coordinated Universal Time),Mon Feb 17 2025 10:20:00 GMT+0000 (Coordinated Universal Time),Mon Mar 03 2025 10:20:00 GMT+0000 (Coordinated Universal Time),Mon Mar 17 2025 10:20:00 GMT+0000 (Coordinated Universal Time),Mon Mar 31 2025 10:20:00 GMT+0000 (Coordinated Universal Time),Mon Apr 14 2025 10:20:00 GMT+0000 (Coordinated Universal Time),Mon Apr 28 2025 10:20:00 GMT+0000 (Coordinated Universal Time),Mon May 12 2025 10:20:00 GMT+0000 (Coordinated Universal Time),Mon May 26 2025 10:20:00 GMT+0000 (Coordinated Universal Time),Mon Jun 09 2025 10:20:00 GMT+0000 (Coordinated Universal Time),Mon Jun 23 2025 10:20:00 GMT+0000 (Coordinated Universal Time),Mon Jul 07 2025 10:20:00 GMT+0000 (Coordinated Universal Time),Mon Jul 21 2025 10:20:00 GMT+0000 (Coordinated Universal Time),Mon Aug 04 2025 10:20:00 GMT+0000 (Coordinated Universal Time),Mon Aug 18 2025 10:20:00 GMT+0000 (Coordinated Universal Time),Mon Sep 01 2025 10:20:00 GMT+0000 (Coordinated Universal Time),Mon Sep 15 2025 10:20:00 GMT+0000 (Coordinated Universal Time),Mon Sep 29 2025 10:20:00 GMT+0000 (Coordinated Universal Time),Mon Oct 13 2025 10:20:00 GMT+0000 (Coordinated Universal Time),Mon Oct 27 2025 10:20:00 GMT+0000 (Coordinated Universal Time),Mon Nov 10 2025 10:20:00 GMT+0000 (Coordinated Universal Time),Mon Nov 24 2025 10:20:00 GMT+0000 (Coordinated Universal Time),Mon Dec 08 2025 10:20:00 GMT+0000 (Coordinated Universal Time)"Ë
+ÂMon Dec 23 2024 10:45:00 GMT+0000 (Coordinated Universal Time),Mon Jan 06 2025 10:45:00 GMT+0000 (Coordinated Universal Time),Mon Jan 20 2025 10:45:00 GMT+0000 (Coordinated Universal Time),Mon Feb 03 2025 10:45:00 GMT+0000 (Coordinated Universal Time),Mon Feb 17 2025 10:45:00 GMT+0000 (Coordinated Universal Time),Mon Mar 03 2025 10:45:00 GMT+0000 (Coordinated Universal Time),Mon Mar 17 2025 10:45:00 GMT+0000 (Coordinated Universal Time),Mon Mar 31 2025 10:45:00 GMT+0000 (Coordinated Universal Time),Mon Apr 14 2025 10:45:00 GMT+0000 (Coordinated Universal Time),Mon Apr 28 2025 10:45:00 GMT+0000 (Coordinated Universal Time),Mon May 12 2025 10:45:00 GMT+0000 (Coordinated Universal Time),Mon May 26 2025 10:45:00 GMT+0000 (Coordinated Universal Time),Mon Jun 09 2025 10:45:00 GMT+0000 (Coordinated Universal Time),Mon Jun 23 2025 10:45:00 GMT+0000 (Coordinated Universal Time),Mon Jul 07 2025 10:45:00 GMT+0000 (Coordinated Universal Time),Mon Jul 21 2025 10:45:00 GMT+0000 (Coordinated Universal Time),Mon Aug 04 2025 10:45:00 GMT+0000 (Coordinated Universal Time),Mon Aug 18 2025 10:45:00 GMT+0000 (Coordinated Universal Time),Mon Sep 01 2025 10:45:00 GMT+0000 (Coordinated Universal Time),Mon Sep 15 2025 10:45:00 GMT+0000 (Coordinated Universal Time),Mon Sep 29 2025 10:45:00 GMT+0000 (Coordinated Universal Time),Mon Oct 13 2025 10:45:00 GMT+0000 (Coordinated Universal Time),Mon Oct 27 2025 10:45:00 GMT+0000 (Coordinated Universal Time),Mon Nov 10 2025 10:45:00 GMT+0000 (Coordinated Universal Time),Mon Nov 24 2025 10:45:00 GMT+0000 (Coordinated Universal Time),Mon Dec 08 2025 10:45:00 GMT+0000 (Coordinated Universal Time)"Ë
+ÂMon Dec 23 2024 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Jan 06 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Jan 20 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Feb 03 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Feb 17 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Mar 03 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Mar 17 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Mar 31 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Apr 14 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Apr 28 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon May 12 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon May 26 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Jun 09 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Jun 23 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Jul 07 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Jul 21 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Aug 04 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Aug 18 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Sep 01 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Sep 15 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Sep 29 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Oct 13 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Oct 27 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Nov 10 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Nov 24 2025 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Dec 08 2025 11:10:00 GMT+0000 (Coordinated Universal Time)"Ë
+ÂMon Dec 23 2024 11:30:00 GMT+0000 (Coordinated Universal Time),Mon Jan 06 2025 11:30:00 GMT+0000 (Coordinated Universal Time),Mon Jan 20 2025 11:30:00 GMT+0000 (Coordinated Universal Time),Mon Feb 03 2025 11:30:00 GMT+0000 (Coordinated Universal Time),Mon Feb 17 2025 11:30:00 GMT+0000 (Coordinated Universal Time),Mon Mar 03 2025 11:30:00 GMT+0000 (Coordinated Universal Time),Mon Mar 17 2025 11:30:00 GMT+0000 (Coordinated Universal Time),Mon Mar 31 2025 11:30:00 GMT+0000 (Coordinated Universal Time),Mon Apr 14 2025 11:30:00 GMT+0000 (Coordinated Universal Time),Mon Apr 28 2025 11:30:00 GMT+0000 (Coordinated Universal Time),Mon May 12 2025 11:30:00 GMT+0000 (Coordinated Universal Time),Mon May 26 2025 11:30:00 GMT+0000 (Coordinated Universal Time),Mon Jun 09 2025 11:30:00 GMT+0000 (Coordinated Universal Time),Mon Jun 23 2025 11:30:00 GMT+0000 (Coordinated Universal Time),Mon Jul 07 2025 11:30:00 GMT+0000 (Coordinated Universal Time),Mon Jul 21 2025 11:30:00 GMT+0000 (Coordinated Universal Time),Mon Aug 04 2025 11:30:00 GMT+0000 (Coordinated Universal Time),Mon Aug 18 2025 11:30:00 GMT+0000 (Coordinated Universal Time),Mon Sep 01 2025 11:30:00 GMT+0000 (Coordinated Universal Time),Mon Sep 15 2025 11:30:00 GMT+0000 (Coordinated Universal Time),Mon Sep 29 2025 11:30:00 GMT+0000 (Coordinated Universal Time),Mon Oct 13 2025 11:30:00 GMT+0000 (Coordinated Universal Time),Mon Oct 27 2025 11:30:00 GMT+0000 (Coordinated Universal Time),Mon Nov 10 2025 11:30:00 GMT+0000 (Coordinated Universal Time),Mon Nov 24 2025 11:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 08 2025 11:30:00 GMT+0000 (Coordinated Universal Time)"Ë
+ÂMon Dec 23 2024 12:00:00 GMT+0000 (Coordinated Universal Time),Mon Jan 06 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Mon Jan 20 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Mon Feb 03 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Mon Feb 17 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Mon Mar 03 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Mon Mar 17 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Mon Mar 31 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Mon Apr 14 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Mon Apr 28 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Mon May 12 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Mon May 26 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Mon Jun 09 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Mon Jun 23 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Mon Jul 07 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Mon Jul 21 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Mon Aug 04 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Mon Aug 18 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Mon Sep 01 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Mon Sep 15 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Mon Sep 29 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Mon Oct 13 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Mon Oct 27 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Mon Nov 10 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Mon Nov 24 2025 12:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 08 2025 12:00:00 GMT+0000 (Coordinated Universal Time)"Ë
+ÂWed Dec 18 2024 11:35:00 GMT+0000 (Coordinated Universal Time),Wed Jan 01 2025 11:35:00 GMT+0000 (Coordinated Universal Time),Wed Jan 15 2025 11:35:00 GMT+0000 (Coordinated Universal Time),Wed Jan 29 2025 11:35:00 GMT+0000 (Coordinated Universal Time),Wed Feb 12 2025 11:35:00 GMT+0000 (Coordinated Universal Time),Wed Feb 26 2025 11:35:00 GMT+0000 (Coordinated Universal Time),Wed Mar 12 2025 11:35:00 GMT+0000 (Coordinated Universal Time),Wed Mar 26 2025 11:35:00 GMT+0000 (Coordinated Universal Time),Wed Apr 09 2025 11:35:00 GMT+0000 (Coordinated Universal Time),Wed Apr 23 2025 11:35:00 GMT+0000 (Coordinated Universal Time),Wed May 07 2025 11:35:00 GMT+0000 (Coordinated Universal Time),Wed May 21 2025 11:35:00 GMT+0000 (Coordinated Universal Time),Wed Jun 04 2025 11:35:00 GMT+0000 (Coordinated Universal Time),Wed Jun 18 2025 11:35:00 GMT+0000 (Coordinated Universal Time),Wed Jul 02 2025 11:35:00 GMT+0000 (Coordinated Universal Time),Wed Jul 16 2025 11:35:00 GMT+0000 (Coordinated Universal Time),Wed Jul 30 2025 11:35:00 GMT+0000 (Coordinated Universal Time),Wed Aug 13 2025 11:35:00 GMT+0000 (Coordinated Universal Time),Wed Aug 27 2025 11:35:00 GMT+0000 (Coordinated Universal Time),Wed Sep 10 2025 11:35:00 GMT+0000 (Coordinated Universal Time),Wed Sep 24 2025 11:35:00 GMT+0000 (Coordinated Universal Time),Wed Oct 08 2025 11:35:00 GMT+0000 (Coordinated Universal Time),Wed Oct 22 2025 11:35:00 GMT+0000 (Coordinated Universal Time),Wed Nov 05 2025 11:35:00 GMT+0000 (Coordinated Universal Time),Wed Nov 19 2025 11:35:00 GMT+0000 (Coordinated Universal Time),Wed Dec 03 2025 11:35:00 GMT+0000 (Coordinated Universal Time)"Ë
+ÂWed Dec 18 2024 12:35:00 GMT+0000 (Coordinated Universal Time),Wed Jan 01 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Wed Jan 15 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Wed Jan 29 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Wed Feb 12 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Wed Feb 26 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Wed Mar 12 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Wed Mar 26 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Wed Apr 09 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Wed Apr 23 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Wed May 07 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Wed May 21 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Wed Jun 04 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Wed Jun 18 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Wed Jul 02 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Wed Jul 16 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Wed Jul 30 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Wed Aug 13 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Wed Aug 27 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Wed Sep 10 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Wed Sep 24 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Wed Oct 08 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Wed Oct 22 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Wed Nov 05 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Wed Nov 19 2025 12:35:00 GMT+0000 (Coordinated Universal Time),Wed Dec 03 2025 12:35:00 GMT+0000 (Coordinated Universal Time)"	Ÿ≤|]®I@"		µ∞©üN¿"	†ÖÊ≥¿"	 :® Ç¿"	?
+Ì≥±I@"	ÿrvò±I@"	JÈ:‡ÆI@"	 ∑YÅÑ˝¿"	!iòê©´I@"	'∑N3“g¿"	6õËòìÊ¿"	A∑Hÿ±I@"	BN¿"	OfPﬂøñ¿"	]Tn	˛m¿"	]†¥üÒ®I@"	]º√gz+¿"	c˛ÿ≈±I@"	hßÍS&≠I@"	pDÅ˝0©I@"	v5¢Í‹´I@"	w‡@æ≈¿"	~ √€®I@"	~ÇGy©I@"	ÊÎxTÆI@"	ãö˜%ÃßI@"	ê"¶ŸYD¿"	†Ÿ©"™I@"	•\ä/≠O¿"	¶ö\´‰≤¿"	ßˆÍM¿"	¨Îíÿœ`¿"	µÎP0]™I@"	∏”èúA™I@"	ø•Ï≈‚r¿"	Ãu|*G¿"	”Çh°&£¿"	ÿ«¢”≠I@"	€fQ¿ÆI@"	ﬂMs	A©I@"	‰◊±¡b¿"	ËkvM ¿"	Óf∑7≤I@"	Ù›kyaæ¿" " "  " ì" µ" ∂" –" —" ”" ›" ›" ﬁ" ‡" Â" Ê" Á" È" Ï" Ó" " Ò" Ù" ˆ" ˜" ˘9. ◊:ÃWDU	B
+w!rlóàæ…"	∆Ñ9. „;ÃWD?	
+[!tlöà¬§"	é
+Ï:/ ’XÜÃWDR	@
+k\]rZlïà°∑"	ºﬁ:/ ŸMÃWDx	A
+É34v>lèà†ß"	‰!9. ‹MÃWDY	8
+zv>läàØ≥"	Ñ¸ <1 ŒÕ=E{	
+Ç5(*qmîâ«ü"	öÚ09. ﬂMÃWDK	H
+n$v>lãà¶ø"	öÊ'9. ‚MÃWDF	<
+e%'v>låà©¿"	§§(9. ÿ
+QÃWDN	9
+huGlêà√£"	¢'Æ9. ⁄
+QÃWD_	
+y uGlëà¢∞"	Ç-¶9. ·	PÃWDS	
+j()sGlûà»•"	¶ †:/ ﬁ
+QÃWDf	7
+Ä+-uGlìà¨ƒ"	º)∫9. ÷	PÃWD6	
+^"&sGlùàΩ™"	∂6Ñ	9. ›
+QÃWDO	
+c#%uGlíà´≈"	≤6Ê9. – À|Cb	I
+.2olñá¥±"	Ó?é:/ ‡MÃWDi	
+Å,/v>lçà ∫"	∂"Ï(:/ €MÃWD}	
+Ö01v>léàº∂"	º$Ï+9. ‘ À|CS	
+d!$plõá¡∆"	Ï/Ï,9. “ À|CJ	
+`%'plúá≠≤"	‹0ê-9. ” À|CL	
+a plöá®Æ"	Ë1†.9. œ À|CT	V
+~plôáªµ"	é6à2:/ — À|Cg	V
+Ñplòáπ∏"	é8º3Ëx
+trips(Ä idorigin_stop_idorigin_stop_namedestination_stop_iddestination_stop_namedistanceduration"
+Church"
+
+Bus stop"
+
+Woodview"
+	Waterfall"
+
+Blind Lane"
+
+Old School"
+
+The School"
+
+The Square"
+
+The Street"
+Coombe Dale"
+Regil Green"
+Broad Street"
+Village Hall"
+Mendip Villas"
+Chestnut Drive"
+Village Centre"
+Old Post Office"
+Selbourne Close"
+Community Centre"
+Yew Tree Nursery"
+George and Dragon"
+Mill Lane (school)"
+Rodney Road Car Park"
+The Batch Crossroads"
+the Ring O'Bells pub"
+Village Club Car Park"
+Doctor's Surgery Car Park"
+Turnpike Road (Pre School)"
+Junction Eastcroft/Score Lane" ;" A" b" z" |" }" Å" É" É" Ñ" Ü" Ü" Ü$" Ü*" à" â" ä" ã" ã" å&" é" è" è" ê" ê" ë" ì" ì" ñ" ò" ò´" ö" õ" û" †" ¢" ¢" ¢" §E" ß" ®" ®" ¨" ¨
+" Æã" Ø" ∞
+" ±" ±H" µ" ∂" ∂" ∑" ∏" π" ¿" ƒ" ≈" ≈" ∆" ∆" …" …1" Ã" –" –8" —" —" ”" ◊" Ÿ" €" ›" ›" ›" ﬁ" ‡" ‚" ‰" Â" Ê" Á" È" È7" Í£" Ï" Ó" ÓJ" Ô" " Ò" Ù" ı" ˆ" ˜" ¯" ¯" ˘" ˚" ˚E" ¸" ˝" ˇ" ˇJ£ 2ykIF"é	ü†í@
+$  2t"$H+F8	Ñ7)k
+45 $ :
+V`
+
+
+"Z,*.F(pE4%0+05 19.-
+)DMXIÆk4V3(Ï7b	.I$=0a< 3?8tD"(	ü¯/ÇF?F+&8C:Ñ\&
+6
+0&2\B<ï #kj ;>"Ä	Üü /b#>-J
+aÕ01i>3≠l72CN*	-.:2/6/,3&oFA =<≥äùn/(185N)ñQ>1"
+/A28,
+ $17ü≥ Çig[S"ù	∆Ñ∫ L $ :
+V`
+
+
+"Z,*.F+=<≥äªÑ/25N)ñ
+  8&
+  .2 8 ($,@ ^B$ é1¬FH>jD¬XN@FR>
+2 	 ; ó 7~g*É"Å	é
+Ó  &W4
++=<≥äªÑ/25N)ñ
+  8&
+  .* (8 ($,@"Z@$ é1¬FH>jD¬XN@FR>
+2 	 ; ¿ guÑB"™	æﬁÍ <
+1	Q=E?M¡WiCG=E¡ç2#Y?!+?'#7')-	7%	*ï6M270'ûm¥â>;BpE4%0+05 19.-
+)DM81 Æk4j=2Œ/b	.I$=0an 5zgUY"Z	® ú  1M!/Iü2#%%A7= mCC?C+ewK!	3D
+MM	; < %8}Mf"(	é0Ç;[A1%/5		%É[97D%E,E@« (om^A"≤	∫$Ó+ö %);)Q)KA	A=9%'g8/#%!O&!/WA)#U7'/?/3?')K?ÅBI,Ago%K##	%C#uÅt-5
+!5s•[	ÉS@'g◊0/)a +rwW4"M	Ä¸ ö 6 b>$>>t($v$D&
+$$L&hpB <"
+> /w{K."*	òÏ'ä	!;J+ÇAF<(*4@@0(04$ Q 6{x<G"=	†§(⁄RLXB0 "P%"&$0r9 &(>:(/	; $l	nH!"'	¢'¨Ç nV
+/#6F  284*2`0 	› ÅhzÄE"∆	∏6Ñ	‚E+_91"[ 	%	
+9-5#'CIOE!'-#1!S)+;ZmFq:ÅN+/
+Y oMEJ!S:'&+X=J2@O≤,j
+>D@!:/e	3pÆÇ6 L	"<'> Âu†58!ßV
+!$1L ) Ì -vgp'"ÿ	º)∫¬/	 %	/âC)IG 
+0(!:!.%	#7? 5 M53-=I	=		EG)	]$/c79.c>9E9"YX-"}5;!5& !%MC!Ky# 'g!'
+5)7; ñ ,s
+v0\"Å	¥6Ê⁄/-/ {7
+#	}YG-Wuw[]ç81M/1
+I HH	3>YäÆV*Dä
+0& 
+0à &ns
+)9"t	Ñ-¶≤ 
+H$p
+f&.v$6
+: Z p$R(&J0@f 
+$ 
+.8§V,Jn	!(+*b*  :z8 |0.0; 1xoT "'	∂"Í(Ç
+'0: B8*R<**& " de_V"	Ï/Ï,"J. aaeJ!"	Í1¢.R#)			![I9 QNa:""%	é6à2z/kEe%+%?ìa%
+*w} __dCZ"i	‹0ñ-Ç2 "
+
+
+*(/ä 	&~T@&, f&lFL(n$r2( 
+j(
+"0 T D:*,$*Pí:"		F+(. ]]NP"	é8¬3R [)m#T bc]`Q"@	†A∫4‚'E,
+!
+9ëO)+#)C9S /! 	'u= ( @=O|"	†Aé:1<!9/	( ROXqL"	?å:
+0$>2
