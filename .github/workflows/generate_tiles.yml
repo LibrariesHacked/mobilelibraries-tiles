@@ -1,0 +1,66 @@
+name: Generate tiles
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # every day at midnight
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: set up Homebrew
+        id: set-up-homebrew
+        uses: Homebrew/actions/setup-homebrew@master
+
+      - name: install tippecanoe
+        run: brew install tippecanoe
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: install git-filter-repo and requests
+        run: python -m pip install --upgrade pip git-filter-repo requests
+
+      - name: run python download script
+        run: python3 download.py
+
+      - name: remove the full history of the tiles directory
+        run: git filter-repo --path tiles --invert-paths
+
+      - name: restore the git remote to this repository
+        run: git remote add origin https://github.com/librarieshacked/mobilelibraries-tiles.git
+
+      - name: force push the new history
+        run: git push origin --force --all
+
+      - name: run the generate shell file
+        run: ./generate_tiles.sh
+
+      - name: check for changes
+        run: git status
+
+      - name: commit changed files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git diff-index --quiet HEAD || git commit -m "Update source data"
+
+      - name: Deploy tiles into a gh pages branch
+        run: |
+          git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
+          npx gh-pages -d tiles -u "github-actions-bot <support+actions@github.com>" --cname tiles.mobilelibraries.org --no-history
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CACHE_DIR: cache
+
+      - name: fetch from main
+        run: git fetch --no-tags --prune --depth=1 origin +refs/heads/*:refs/remotes/origin/*
+
+      - name: push code to main
+        run: git push origin HEAD:main
