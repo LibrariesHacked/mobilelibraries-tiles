@@ -1,0 +1,565 @@
+x
+stops(€ id	route_idsroute_names
+mobile_idsmobile_namesorganisation_idorganisation_nameservice_codename	communityaddressarrival_timesdeparture_timesroute_start
+route_daysroute_frequenciesroute_schedule	timetable	longitudelatitudepostcode"
+6"
+8"
+9"
+11"
+14"
+15"
+18"
+20"
+62"
+88"
+91"
+92"
+95"
+98"
+A1"
+B1"
+B2"
+C1"
+C2"
+E2"
+102"
+104"
+694"
+695"
+696"
+697"
+698"
+701"
+Park"
+York"
+Kexby"
+Bielby"
+Friday"
+Mobile"
+Monday"
+Scalby"
+Yapham"	
+Bubwith"	
+Newport"	
+Surgery"	
+Thorton"	
+Tuesday"	
+YO8 6LL"
+
+09:15:00"
+
+09:30:00"
+
+09:40:00"
+
+09:45:00"
+
+09:50:00"
+
+09:55:00"
+
+10:00:00"
+
+10:10:00"
+
+10:15:00"
+
+10:25:00"
+
+10:35:00"
+
+10:40:00"
+
+10:45:00"
+
+10:50:00"
+
+10:55:00"
+
+11:00:00"
+
+11:05:00"
+
+11:10:00"
+
+11:15:00"
+
+11:20:00"
+
+11:25:00"
+
+11:30:00"
+
+11:35:00"
+
+11:40:00"
+
+12:00:00"
+
+12:10:00"
+
+12:20:00"
+
+12:25:00"
+
+12:35:00"
+
+12:40:00"
+
+12:50:00"
+
+13:00:00"
+
+13:10:00"
+
+13:30:00"
+
+13:35:00"
+
+13:40:00"
+
+13:50:00"
+
+14:00:00"
+
+14:05:00"
+
+14:10:00"
+
+14:15:00"
+
+14:30:00"
+
+14:35:00"
+
+14:45:00"
+
+14:50:00"
+
+14:55:00"
+
+15:05:00"
+
+15:10:00"
+
+15:20:00"
+
+15:25:00"
+
+16:00:00"
+
+16:15:00"
+
+16:30:00"
+
+17:00:00"
+
+17:30:00"
+
+DN14 7LQ"
+
+DN14 7PW"
+
+Deighton"
+
+HU15 2PJ"
+
+HU15 2QN"
+
+HU15 2RU"
+
+HU15 2UB"
+
+HU15 2UT"
+
+Harswell"
+
+Thursday"
+
+YO41 4BN"
+
+YO41 4DJ"
+
+YO41 5NN"
+
+YO42 1PJ"
+
+YO42 1TX"
+
+YO42 4HL"
+
+YO42 4JW"
+
+YO42 4LE"
+
+YO42 4LT"
+
+YO42 4RZ"
+
+YO42 4SL"
+
+YO42 4TN"
+
+YO43 3PA"
+
+YO43 4EN"
+	Courtneys"
+	E06000011"
+	E06000014"
+	Elvington"
+	Melbourne"
+	The Leyes"
+	Wednesday"
+	Wheldrake"
+
+Cranbrooks"
+
+Gilberdyke"
+
+Grey Horse"
+
+Heslington"
+
+Millington"
+
+Osbaldwick"
+
+Peel Close"
+
+Wilberfoss"
+Badger Hill"
+Barmby Moor"
+Eastrington"
+Seaton Ross"
+The Village"
+Valley View"
+Crockey Hill"
+Yarburgh Way"
+Old Hall Lane"
+Shiptonthorpe"
+Thirkleby Way"
+Campbell Court"
+Back Lane South"
+Lorraine Avenue"
+Bielby, YO42 4JW"
+Bubwith, YO8 6LL"
+East Cottingwith"
+Elvington - Park"
+Heslington Court"
+Scalby, HU15 2UT"
+White Rose House"
+Yapham, YO42 1PJ"
+Memorial Cottages"
+Newport, HU15 2QN"
+Newton on Derwent"
+Sandholme Landing"
+Sutton on Derwent"
+Thorton, YO42 4RZ"
+Harswell, YO42 4LE"
+Newport Grebe Road"
+Elvington - Surgery"
+Melbourne, YO42 4SL"
+Gilberdyke, HU15 2UB"
+Howden Minster Court"
+Millington, YO42 1TX"
+Wilberfoss, YO41 5NN"
+Barmby Moor, YO42 4HL"
+Eastrington, DN14 7PW"
+Kexby - Old Hall Lane"
+Seaton Ross, YO42 4LT"
+Wheldrake - Courtneys"
+Elvington - Grey Horse"
+FREQ=WEEKLY;INTERVAL=2"
+FREQ=WEEKLY;INTERVAL=4"
+Holme on Spalding Moor"
+Osbaldwick - The Leyes"
+Wheldrake - Cranbrooks"
+Heslington - Peel Close"
+Shiptonthorpe, YO43 3PA"
+Wheldrake - Valley View"
+2019-04-01T00:00:00.000Z"
+2019-04-02T00:00:00.000Z"
+2019-04-04T00:00:00.000Z"
+2019-04-10T00:00:00.000Z"
+2019-04-11T00:00:00.000Z"
+2019-04-12T00:00:00.000Z"
+2019-04-18T00:00:00.000Z"
+2019-09-17T00:00:00.000Z"
+2019-09-18T00:00:00.000Z"
+2019-09-20T00:00:00.000Z"
+2019-09-23T00:00:00.000Z"
+2019-09-24T00:00:00.000Z"
+2019-09-25T00:00:00.000Z"
+East Riding of Yorkshire"
+Osbaldwick - The Village"
+Badger Hill - Yarburgh Way"
+East Cottingwith, YO42 4TN"
+Elvington - Primary School"
+Osbaldwick - Thirkleby Way"
+Primary School (term time)"
+Elvington - Lorraine Avenue"
+Newton on Derwent, YO41 4DJ"
+Osbaldwick - Campbell Court"
+Sandholme Landing, HU15 2RU"
+Sutton on Derwent, YO41 4BN"
+Wheldrake - Back Lane South"
+Newport Grebe Road, HU15 2PJ"
+Wheldrake - White Rose House"
+Heslington - Heslington Court" 
+Heslington - Memorial Cottages" 
+Howden Minster Court, DN14 7LQ""
+ Holme on Spalding Moor, YO43 4EN"0
+.https://www.exploreyork.org.uk/mobile-library/"S
+Qhttps://www.eastridinglibraries.co.uk/find-a-library/?entry=bielby_mobile_library"S
+Qhttps://www.eastridinglibraries.co.uk/find-a-library/?entry=scalby_mobile_library"S
+Qhttps://www.eastridinglibraries.co.uk/find-a-library/?entry=yapham_mobile_library"T
+Rhttps://www.eastridinglibraries.co.uk/find-a-library/?entry=bubwith_mobile_library"T
+Rhttps://www.eastridinglibraries.co.uk/find-a-library/?entry=newport_mobile_library"T
+Rhttps://www.eastridinglibraries.co.uk/find-a-library/?entry=thorton_mobile_library"U
+Shttps://www.eastridinglibraries.co.uk/find-a-library/?entry=harswell_mobile_library"V
+Thttps://www.eastridinglibraries.co.uk/find-a-library/?entry=melbourne_mobile_library"W
+Uhttps://www.eastridinglibraries.co.uk/find-a-library/?entry=gilberdyke_mobile_library"W
+Uhttps://www.eastridinglibraries.co.uk/find-a-library/?entry=millington_mobile_library"W
+Uhttps://www.eastridinglibraries.co.uk/find-a-library/?entry=wilberfoss_mobile_library"X
+Vhttps://www.eastridinglibraries.co.uk/find-a-library/?entry=barmby_moor_mobile_library"X
+Vhttps://www.eastridinglibraries.co.uk/find-a-library/?entry=eastrington_mobile_library"X
+Vhttps://www.eastridinglibraries.co.uk/find-a-library/?entry=seaton_ross_mobile_library"Z
+Xhttps://www.eastridinglibraries.co.uk/find-a-library/?entry=shiptonthorpe_mobile_library"]
+[https://www.eastridinglibraries.co.uk/find-a-library/?entry=east_cottingwith_mobile_library"^
+\https://www.eastridinglibraries.co.uk/find-a-library/?entry=newton_on_derwent_mobile_library"^
+\https://www.eastridinglibraries.co.uk/find-a-library/?entry=sandholme_landing_mobile_library"^
+\https://www.eastridinglibraries.co.uk/find-a-library/?entry=sutton_on_derwent_mobile_library"_
+]https://www.eastridinglibraries.co.uk/find-a-library/?entry=newport_grebe_road_mobile_library"a
+_https://www.eastridinglibraries.co.uk/find-a-library/?entry=howden_minster_court_mobile_library"c
+ahttps://www.eastridinglibraries.co.uk/find-a-library/?entry=holme_on_spalding_moor_mobile_library"µ
+²Mon Sep 07 2026 09:15:00 GMT+0000 (Coordinated Universal Time),Mon Oct 05 2026 09:15:00 GMT+0000 (Coordinated Universal Time),Mon Nov 02 2026 09:15:00 GMT+0000 (Coordinated Universal Time),Mon Nov 30 2026 09:15:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 09:15:00 GMT+0000 (Coordinated Universal Time),Mon Jan 25 2027 09:15:00 GMT+0000 (Coordinated Universal Time),Mon Feb 22 2027 09:15:00 GMT+0000 (Coordinated Universal Time),Mon Mar 22 2027 09:15:00 GMT+0000 (Coordinated Universal Time),Mon Apr 19 2027 09:15:00 GMT+0000 (Coordinated Universal Time),Mon May 17 2027 09:15:00 GMT+0000 (Coordinated Universal Time),Mon Jun 14 2027 09:15:00 GMT+0000 (Coordinated Universal Time),Mon Jul 12 2027 09:15:00 GMT+0000 (Coordinated Universal Time),Mon Aug 09 2027 09:15:00 GMT+0000 (Coordinated Universal Time)"µ
+²Mon Sep 07 2026 09:40:00 GMT+0000 (Coordinated Universal Time),Mon Oct 05 2026 09:40:00 GMT+0000 (Coordinated Universal Time),Mon Nov 02 2026 09:40:00 GMT+0000 (Coordinated Universal Time),Mon Nov 30 2026 09:40:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 09:40:00 GMT+0000 (Coordinated Universal Time),Mon Jan 25 2027 09:40:00 GMT+0000 (Coordinated Universal Time),Mon Feb 22 2027 09:40:00 GMT+0000 (Coordinated Universal Time),Mon Mar 22 2027 09:40:00 GMT+0000 (Coordinated Universal Time),Mon Apr 19 2027 09:40:00 GMT+0000 (Coordinated Universal Time),Mon May 17 2027 09:40:00 GMT+0000 (Coordinated Universal Time),Mon Jun 14 2027 09:40:00 GMT+0000 (Coordinated Universal Time),Mon Jul 12 2027 09:40:00 GMT+0000 (Coordinated Universal Time),Mon Aug 09 2027 09:40:00 GMT+0000 (Coordinated Universal Time)"µ
+²Mon Sep 07 2026 10:10:00 GMT+0000 (Coordinated Universal Time),Mon Oct 05 2026 10:10:00 GMT+0000 (Coordinated Universal Time),Mon Nov 02 2026 10:10:00 GMT+0000 (Coordinated Universal Time),Mon Nov 30 2026 10:10:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 10:10:00 GMT+0000 (Coordinated Universal Time),Mon Jan 25 2027 10:10:00 GMT+0000 (Coordinated Universal Time),Mon Feb 22 2027 10:10:00 GMT+0000 (Coordinated Universal Time),Mon Mar 22 2027 10:10:00 GMT+0000 (Coordinated Universal Time),Mon Apr 19 2027 10:10:00 GMT+0000 (Coordinated Universal Time),Mon May 17 2027 10:10:00 GMT+0000 (Coordinated Universal Time),Mon Jun 14 2027 10:10:00 GMT+0000 (Coordinated Universal Time),Mon Jul 12 2027 10:10:00 GMT+0000 (Coordinated Universal Time),Mon Aug 09 2027 10:10:00 GMT+0000 (Coordinated Universal Time)"µ
+²Mon Sep 07 2026 10:40:00 GMT+0000 (Coordinated Universal Time),Mon Oct 05 2026 10:40:00 GMT+0000 (Coordinated Universal Time),Mon Nov 02 2026 10:40:00 GMT+0000 (Coordinated Universal Time),Mon Nov 30 2026 10:40:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 10:40:00 GMT+0000 (Coordinated Universal Time),Mon Jan 25 2027 10:40:00 GMT+0000 (Coordinated Universal Time),Mon Feb 22 2027 10:40:00 GMT+0000 (Coordinated Universal Time),Mon Mar 22 2027 10:40:00 GMT+0000 (Coordinated Universal Time),Mon Apr 19 2027 10:40:00 GMT+0000 (Coordinated Universal Time),Mon May 17 2027 10:40:00 GMT+0000 (Coordinated Universal Time),Mon Jun 14 2027 10:40:00 GMT+0000 (Coordinated Universal Time),Mon Jul 12 2027 10:40:00 GMT+0000 (Coordinated Universal Time),Mon Aug 09 2027 10:40:00 GMT+0000 (Coordinated Universal Time)"µ
+²Mon Sep 07 2026 11:15:00 GMT+0000 (Coordinated Universal Time),Mon Oct 05 2026 11:15:00 GMT+0000 (Coordinated Universal Time),Mon Nov 02 2026 11:15:00 GMT+0000 (Coordinated Universal Time),Mon Nov 30 2026 11:15:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 11:15:00 GMT+0000 (Coordinated Universal Time),Mon Jan 25 2027 11:15:00 GMT+0000 (Coordinated Universal Time),Mon Feb 22 2027 11:15:00 GMT+0000 (Coordinated Universal Time),Mon Mar 22 2027 11:15:00 GMT+0000 (Coordinated Universal Time),Mon Apr 19 2027 11:15:00 GMT+0000 (Coordinated Universal Time),Mon May 17 2027 11:15:00 GMT+0000 (Coordinated Universal Time),Mon Jun 14 2027 11:15:00 GMT+0000 (Coordinated Universal Time),Mon Jul 12 2027 11:15:00 GMT+0000 (Coordinated Universal Time),Mon Aug 09 2027 11:15:00 GMT+0000 (Coordinated Universal Time)"µ
+²Mon Sep 07 2026 14:30:00 GMT+0000 (Coordinated Universal Time),Mon Oct 05 2026 14:30:00 GMT+0000 (Coordinated Universal Time),Mon Nov 02 2026 14:30:00 GMT+0000 (Coordinated Universal Time),Mon Nov 30 2026 14:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 14:30:00 GMT+0000 (Coordinated Universal Time),Mon Jan 25 2027 14:30:00 GMT+0000 (Coordinated Universal Time),Mon Feb 22 2027 14:30:00 GMT+0000 (Coordinated Universal Time),Mon Mar 22 2027 14:30:00 GMT+0000 (Coordinated Universal Time),Mon Apr 19 2027 14:30:00 GMT+0000 (Coordinated Universal Time),Mon May 17 2027 14:30:00 GMT+0000 (Coordinated Universal Time),Mon Jun 14 2027 14:30:00 GMT+0000 (Coordinated Universal Time),Mon Jul 12 2027 14:30:00 GMT+0000 (Coordinated Universal Time),Mon Aug 09 2027 14:30:00 GMT+0000 (Coordinated Universal Time)"µ
+²Mon Sep 07 2026 15:05:00 GMT+0000 (Coordinated Universal Time),Mon Oct 05 2026 15:05:00 GMT+0000 (Coordinated Universal Time),Mon Nov 02 2026 15:05:00 GMT+0000 (Coordinated Universal Time),Mon Nov 30 2026 15:05:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 15:05:00 GMT+0000 (Coordinated Universal Time),Mon Jan 25 2027 15:05:00 GMT+0000 (Coordinated Universal Time),Mon Feb 22 2027 15:05:00 GMT+0000 (Coordinated Universal Time),Mon Mar 22 2027 15:05:00 GMT+0000 (Coordinated Universal Time),Mon Apr 19 2027 15:05:00 GMT+0000 (Coordinated Universal Time),Mon May 17 2027 15:05:00 GMT+0000 (Coordinated Universal Time),Mon Jun 14 2027 15:05:00 GMT+0000 (Coordinated Universal Time),Mon Jul 12 2027 15:05:00 GMT+0000 (Coordinated Universal Time),Mon Aug 09 2027 15:05:00 GMT+0000 (Coordinated Universal Time)"µ
+²Thu Aug 27 2026 10:35:00 GMT+0000 (Coordinated Universal Time),Thu Sep 24 2026 10:35:00 GMT+0000 (Coordinated Universal Time),Thu Oct 22 2026 10:35:00 GMT+0000 (Coordinated Universal Time),Thu Nov 19 2026 10:35:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 10:35:00 GMT+0000 (Coordinated Universal Time),Thu Jan 14 2027 10:35:00 GMT+0000 (Coordinated Universal Time),Thu Feb 11 2027 10:35:00 GMT+0000 (Coordinated Universal Time),Thu Mar 11 2027 10:35:00 GMT+0000 (Coordinated Universal Time),Thu Apr 08 2027 10:35:00 GMT+0000 (Coordinated Universal Time),Thu May 06 2027 10:35:00 GMT+0000 (Coordinated Universal Time),Thu Jun 03 2027 10:35:00 GMT+0000 (Coordinated Universal Time),Thu Jul 01 2027 10:35:00 GMT+0000 (Coordinated Universal Time),Thu Jul 29 2027 10:35:00 GMT+0000 (Coordinated Universal Time)"µ
+²Thu Aug 27 2026 11:05:00 GMT+0000 (Coordinated Universal Time),Thu Sep 24 2026 11:05:00 GMT+0000 (Coordinated Universal Time),Thu Oct 22 2026 11:05:00 GMT+0000 (Coordinated Universal Time),Thu Nov 19 2026 11:05:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 11:05:00 GMT+0000 (Coordinated Universal Time),Thu Jan 14 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Thu Feb 11 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Thu Mar 11 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Thu Apr 08 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Thu May 06 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Thu Jun 03 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Thu Jul 01 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Thu Jul 29 2027 11:05:00 GMT+0000 (Coordinated Universal Time)"µ
+²Thu Aug 27 2026 11:40:00 GMT+0000 (Coordinated Universal Time),Thu Sep 24 2026 11:40:00 GMT+0000 (Coordinated Universal Time),Thu Oct 22 2026 11:40:00 GMT+0000 (Coordinated Universal Time),Thu Nov 19 2026 11:40:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 11:40:00 GMT+0000 (Coordinated Universal Time),Thu Jan 14 2027 11:40:00 GMT+0000 (Coordinated Universal Time),Thu Feb 11 2027 11:40:00 GMT+0000 (Coordinated Universal Time),Thu Mar 11 2027 11:40:00 GMT+0000 (Coordinated Universal Time),Thu Apr 08 2027 11:40:00 GMT+0000 (Coordinated Universal Time),Thu May 06 2027 11:40:00 GMT+0000 (Coordinated Universal Time),Thu Jun 03 2027 11:40:00 GMT+0000 (Coordinated Universal Time),Thu Jul 01 2027 11:40:00 GMT+0000 (Coordinated Universal Time),Thu Jul 29 2027 11:40:00 GMT+0000 (Coordinated Universal Time)"µ
+²Thu Aug 27 2026 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Sep 24 2026 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Oct 22 2026 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Nov 19 2026 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Jan 14 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Feb 11 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Mar 11 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Apr 08 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Thu May 06 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Jun 03 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Jul 01 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Jul 29 2027 14:00:00 GMT+0000 (Coordinated Universal Time)"µ
+²Thu Aug 27 2026 14:45:00 GMT+0000 (Coordinated Universal Time),Thu Sep 24 2026 14:45:00 GMT+0000 (Coordinated Universal Time),Thu Oct 22 2026 14:45:00 GMT+0000 (Coordinated Universal Time),Thu Nov 19 2026 14:45:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 14:45:00 GMT+0000 (Coordinated Universal Time),Thu Jan 14 2027 14:45:00 GMT+0000 (Coordinated Universal Time),Thu Feb 11 2027 14:45:00 GMT+0000 (Coordinated Universal Time),Thu Mar 11 2027 14:45:00 GMT+0000 (Coordinated Universal Time),Thu Apr 08 2027 14:45:00 GMT+0000 (Coordinated Universal Time),Thu May 06 2027 14:45:00 GMT+0000 (Coordinated Universal Time),Thu Jun 03 2027 14:45:00 GMT+0000 (Coordinated Universal Time),Thu Jul 01 2027 14:45:00 GMT+0000 (Coordinated Universal Time),Thu Jul 29 2027 14:45:00 GMT+0000 (Coordinated Universal Time)"µ
+²Thu Aug 27 2026 15:25:00 GMT+0000 (Coordinated Universal Time),Thu Sep 24 2026 15:25:00 GMT+0000 (Coordinated Universal Time),Thu Oct 22 2026 15:25:00 GMT+0000 (Coordinated Universal Time),Thu Nov 19 2026 15:25:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 15:25:00 GMT+0000 (Coordinated Universal Time),Thu Jan 14 2027 15:25:00 GMT+0000 (Coordinated Universal Time),Thu Feb 11 2027 15:25:00 GMT+0000 (Coordinated Universal Time),Thu Mar 11 2027 15:25:00 GMT+0000 (Coordinated Universal Time),Thu Apr 08 2027 15:25:00 GMT+0000 (Coordinated Universal Time),Thu May 06 2027 15:25:00 GMT+0000 (Coordinated Universal Time),Thu Jun 03 2027 15:25:00 GMT+0000 (Coordinated Universal Time),Thu Jul 01 2027 15:25:00 GMT+0000 (Coordinated Universal Time),Thu Jul 29 2027 15:25:00 GMT+0000 (Coordinated Universal Time)"µ
+²Thu Sep 17 2026 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Oct 15 2026 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Nov 12 2026 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Dec 10 2026 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Jan 07 2027 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Feb 04 2027 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Mar 04 2027 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Apr 01 2027 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Apr 29 2027 10:00:00 GMT+0000 (Coordinated Universal Time),Thu May 27 2027 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Jun 24 2027 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Jul 22 2027 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Aug 19 2027 10:00:00 GMT+0000 (Coordinated Universal Time)"µ
+²Thu Sep 17 2026 14:10:00 GMT+0000 (Coordinated Universal Time),Thu Oct 15 2026 14:10:00 GMT+0000 (Coordinated Universal Time),Thu Nov 12 2026 14:10:00 GMT+0000 (Coordinated Universal Time),Thu Dec 10 2026 14:10:00 GMT+0000 (Coordinated Universal Time),Thu Jan 07 2027 14:10:00 GMT+0000 (Coordinated Universal Time),Thu Feb 04 2027 14:10:00 GMT+0000 (Coordinated Universal Time),Thu Mar 04 2027 14:10:00 GMT+0000 (Coordinated Universal Time),Thu Apr 01 2027 14:10:00 GMT+0000 (Coordinated Universal Time),Thu Apr 29 2027 14:10:00 GMT+0000 (Coordinated Universal Time),Thu May 27 2027 14:10:00 GMT+0000 (Coordinated Universal Time),Thu Jun 24 2027 14:10:00 GMT+0000 (Coordinated Universal Time),Thu Jul 22 2027 14:10:00 GMT+0000 (Coordinated Universal Time),Thu Aug 19 2027 14:10:00 GMT+0000 (Coordinated Universal Time)"µ
+²Wed Sep 16 2026 10:00:00 GMT+0000 (Coordinated Universal Time),Wed Oct 14 2026 10:00:00 GMT+0000 (Coordinated Universal Time),Wed Nov 11 2026 10:00:00 GMT+0000 (Coordinated Universal Time),Wed Dec 09 2026 10:00:00 GMT+0000 (Coordinated Universal Time),Wed Jan 06 2027 10:00:00 GMT+0000 (Coordinated Universal Time),Wed Feb 03 2027 10:00:00 GMT+0000 (Coordinated Universal Time),Wed Mar 03 2027 10:00:00 GMT+0000 (Coordinated Universal Time),Wed Mar 31 2027 10:00:00 GMT+0000 (Coordinated Universal Time),Wed Apr 28 2027 10:00:00 GMT+0000 (Coordinated Universal Time),Wed May 26 2027 10:00:00 GMT+0000 (Coordinated Universal Time),Wed Jun 23 2027 10:00:00 GMT+0000 (Coordinated Universal Time),Wed Jul 21 2027 10:00:00 GMT+0000 (Coordinated Universal Time),Wed Aug 18 2027 10:00:00 GMT+0000 (Coordinated Universal Time)"µ
+²Wed Sep 16 2026 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Oct 14 2026 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Nov 11 2026 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Dec 09 2026 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Jan 06 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Feb 03 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Mar 03 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Mar 31 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Apr 28 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Wed May 26 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Jun 23 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Jul 21 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Wed Aug 18 2027 11:05:00 GMT+0000 (Coordinated Universal Time)"µ
+²Wed Sep 16 2026 13:40:00 GMT+0000 (Coordinated Universal Time),Wed Oct 14 2026 13:40:00 GMT+0000 (Coordinated Universal Time),Wed Nov 11 2026 13:40:00 GMT+0000 (Coordinated Universal Time),Wed Dec 09 2026 13:40:00 GMT+0000 (Coordinated Universal Time),Wed Jan 06 2027 13:40:00 GMT+0000 (Coordinated Universal Time),Wed Feb 03 2027 13:40:00 GMT+0000 (Coordinated Universal Time),Wed Mar 03 2027 13:40:00 GMT+0000 (Coordinated Universal Time),Wed Mar 31 2027 13:40:00 GMT+0000 (Coordinated Universal Time),Wed Apr 28 2027 13:40:00 GMT+0000 (Coordinated Universal Time),Wed May 26 2027 13:40:00 GMT+0000 (Coordinated Universal Time),Wed Jun 23 2027 13:40:00 GMT+0000 (Coordinated Universal Time),Wed Jul 21 2027 13:40:00 GMT+0000 (Coordinated Universal Time),Wed Aug 18 2027 13:40:00 GMT+0000 (Coordinated Universal Time)"è
+åFri Aug 28 2026 09:30:00 GMT+0000 (Coordinated Universal Time),Fri Sep 11 2026 09:30:00 GMT+0000 (Coordinated Universal Time),Fri Sep 25 2026 09:30:00 GMT+0000 (Coordinated Universal Time),Fri Oct 09 2026 09:30:00 GMT+0000 (Coordinated Universal Time),Fri Oct 23 2026 09:30:00 GMT+0000 (Coordinated Universal Time),Fri Nov 06 2026 09:30:00 GMT+0000 (Coordinated Universal Time),Fri Nov 20 2026 09:30:00 GMT+0000 (Coordinated Universal Time),Fri Dec 04 2026 09:30:00 GMT+0000 (Coordinated Universal Time),Fri Dec 18 2026 09:30:00 GMT+0000 (Coordinated Universal Time),Fri Jan 01 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Fri Jan 15 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Fri Jan 29 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Fri Feb 12 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Fri Feb 26 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Fri Mar 12 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Fri Mar 26 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Fri Apr 09 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Fri Apr 23 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Fri May 07 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Fri May 21 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Fri Jun 04 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Fri Jun 18 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Fri Jul 02 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Fri Jul 16 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Fri Jul 30 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Fri Aug 13 2027 09:30:00 GMT+0000 (Coordinated Universal Time)"è
+åFri Aug 28 2026 09:50:00 GMT+0000 (Coordinated Universal Time),Fri Sep 11 2026 09:50:00 GMT+0000 (Coordinated Universal Time),Fri Sep 25 2026 09:50:00 GMT+0000 (Coordinated Universal Time),Fri Oct 09 2026 09:50:00 GMT+0000 (Coordinated Universal Time),Fri Oct 23 2026 09:50:00 GMT+0000 (Coordinated Universal Time),Fri Nov 06 2026 09:50:00 GMT+0000 (Coordinated Universal Time),Fri Nov 20 2026 09:50:00 GMT+0000 (Coordinated Universal Time),Fri Dec 04 2026 09:50:00 GMT+0000 (Coordinated Universal Time),Fri Dec 18 2026 09:50:00 GMT+0000 (Coordinated Universal Time),Fri Jan 01 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Fri Jan 15 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Fri Jan 29 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Fri Feb 12 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Fri Feb 26 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Fri Mar 12 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Fri Mar 26 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Fri Apr 09 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Fri Apr 23 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Fri May 07 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Fri May 21 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Fri Jun 04 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Fri Jun 18 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Fri Jul 02 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Fri Jul 16 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Fri Jul 30 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Fri Aug 13 2027 09:50:00 GMT+0000 (Coordinated Universal Time)"è
+åFri Aug 28 2026 10:15:00 GMT+0000 (Coordinated Universal Time),Fri Sep 11 2026 10:15:00 GMT+0000 (Coordinated Universal Time),Fri Sep 25 2026 10:15:00 GMT+0000 (Coordinated Universal Time),Fri Oct 09 2026 10:15:00 GMT+0000 (Coordinated Universal Time),Fri Oct 23 2026 10:15:00 GMT+0000 (Coordinated Universal Time),Fri Nov 06 2026 10:15:00 GMT+0000 (Coordinated Universal Time),Fri Nov 20 2026 10:15:00 GMT+0000 (Coordinated Universal Time),Fri Dec 04 2026 10:15:00 GMT+0000 (Coordinated Universal Time),Fri Dec 18 2026 10:15:00 GMT+0000 (Coordinated Universal Time),Fri Jan 01 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Fri Jan 15 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Fri Jan 29 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Fri Feb 12 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Fri Feb 26 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Fri Mar 12 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Fri Mar 26 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Fri Apr 09 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Fri Apr 23 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Fri May 07 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Fri May 21 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Fri Jun 04 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Fri Jun 18 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Fri Jul 02 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Fri Jul 16 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Fri Jul 30 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Fri Aug 13 2027 10:15:00 GMT+0000 (Coordinated Universal Time)"è
+åFri Aug 28 2026 10:45:00 GMT+0000 (Coordinated Universal Time),Fri Sep 11 2026 10:45:00 GMT+0000 (Coordinated Universal Time),Fri Sep 25 2026 10:45:00 GMT+0000 (Coordinated Universal Time),Fri Oct 09 2026 10:45:00 GMT+0000 (Coordinated Universal Time),Fri Oct 23 2026 10:45:00 GMT+0000 (Coordinated Universal Time),Fri Nov 06 2026 10:45:00 GMT+0000 (Coordinated Universal Time),Fri Nov 20 2026 10:45:00 GMT+0000 (Coordinated Universal Time),Fri Dec 04 2026 10:45:00 GMT+0000 (Coordinated Universal Time),Fri Dec 18 2026 10:45:00 GMT+0000 (Coordinated Universal Time),Fri Jan 01 2027 10:45:00 GMT+0000 (Coordinated Universal Time),Fri Jan 15 2027 10:45:00 GMT+0000 (Coordinated Universal Time),Fri Jan 29 2027 10:45:00 GMT+0000 (Coordinated Universal Time),Fri Feb 12 2027 10:45:00 GMT+0000 (Coordinated Universal Time),Fri Feb 26 2027 10:45:00 GMT+0000 (Coordinated Universal Time),Fri Mar 12 2027 10:45:00 GMT+0000 (Coordinated Universal Time),Fri Mar 26 2027 10:45:00 GMT+0000 (Coordinated Universal Time),Fri Apr 09 2027 10:45:00 GMT+0000 (Coordinated Universal Time),Fri Apr 23 2027 10:45:00 GMT+0000 (Coordinated Universal Time),Fri May 07 2027 10:45:00 GMT+0000 (Coordinated Universal Time),Fri May 21 2027 10:45:00 GMT+0000 (Coordinated Universal Time),Fri Jun 04 2027 10:45:00 GMT+0000 (Coordinated Universal Time),Fri Jun 18 2027 10:45:00 GMT+0000 (Coordinated Universal Time),Fri Jul 02 2027 10:45:00 GMT+0000 (Coordinated Universal Time),Fri Jul 16 2027 10:45:00 GMT+0000 (Coordinated Universal Time),Fri Jul 30 2027 10:45:00 GMT+0000 (Coordinated Universal Time),Fri Aug 13 2027 10:45:00 GMT+0000 (Coordinated Universal Time)"è
+åFri Aug 28 2026 11:05:00 GMT+0000 (Coordinated Universal Time),Fri Sep 11 2026 11:05:00 GMT+0000 (Coordinated Universal Time),Fri Sep 25 2026 11:05:00 GMT+0000 (Coordinated Universal Time),Fri Oct 09 2026 11:05:00 GMT+0000 (Coordinated Universal Time),Fri Oct 23 2026 11:05:00 GMT+0000 (Coordinated Universal Time),Fri Nov 06 2026 11:05:00 GMT+0000 (Coordinated Universal Time),Fri Nov 20 2026 11:05:00 GMT+0000 (Coordinated Universal Time),Fri Dec 04 2026 11:05:00 GMT+0000 (Coordinated Universal Time),Fri Dec 18 2026 11:05:00 GMT+0000 (Coordinated Universal Time),Fri Jan 01 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Fri Jan 15 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Fri Jan 29 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Fri Feb 12 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Fri Feb 26 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Fri Mar 12 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Fri Mar 26 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Fri Apr 09 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Fri Apr 23 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Fri May 07 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Fri May 21 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Fri Jun 04 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Fri Jun 18 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Fri Jul 02 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Fri Jul 16 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Fri Jul 30 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Fri Aug 13 2027 11:05:00 GMT+0000 (Coordinated Universal Time)"è
+åFri Aug 28 2026 11:40:00 GMT+0000 (Coordinated Universal Time),Fri Sep 11 2026 11:40:00 GMT+0000 (Coordinated Universal Time),Fri Sep 25 2026 11:40:00 GMT+0000 (Coordinated Universal Time),Fri Oct 09 2026 11:40:00 GMT+0000 (Coordinated Universal Time),Fri Oct 23 2026 11:40:00 GMT+0000 (Coordinated Universal Time),Fri Nov 06 2026 11:40:00 GMT+0000 (Coordinated Universal Time),Fri Nov 20 2026 11:40:00 GMT+0000 (Coordinated Universal Time),Fri Dec 04 2026 11:40:00 GMT+0000 (Coordinated Universal Time),Fri Dec 18 2026 11:40:00 GMT+0000 (Coordinated Universal Time),Fri Jan 01 2027 11:40:00 GMT+0000 (Coordinated Universal Time),Fri Jan 15 2027 11:40:00 GMT+0000 (Coordinated Universal Time),Fri Jan 29 2027 11:40:00 GMT+0000 (Coordinated Universal Time),Fri Feb 12 2027 11:40:00 GMT+0000 (Coordinated Universal Time),Fri Feb 26 2027 11:40:00 GMT+0000 (Coordinated Universal Time),Fri Mar 12 2027 11:40:00 GMT+0000 (Coordinated Universal Time),Fri Mar 26 2027 11:40:00 GMT+0000 (Coordinated Universal Time),Fri Apr 09 2027 11:40:00 GMT+0000 (Coordinated Universal Time),Fri Apr 23 2027 11:40:00 GMT+0000 (Coordinated Universal Time),Fri May 07 2027 11:40:00 GMT+0000 (Coordinated Universal Time),Fri May 21 2027 11:40:00 GMT+0000 (Coordinated Universal Time),Fri Jun 04 2027 11:40:00 GMT+0000 (Coordinated Universal Time),Fri Jun 18 2027 11:40:00 GMT+0000 (Coordinated Universal Time),Fri Jul 02 2027 11:40:00 GMT+0000 (Coordinated Universal Time),Fri Jul 16 2027 11:40:00 GMT+0000 (Coordinated Universal Time),Fri Jul 30 2027 11:40:00 GMT+0000 (Coordinated Universal Time),Fri Aug 13 2027 11:40:00 GMT+0000 (Coordinated Universal Time)"è
+åFri Aug 28 2026 13:10:00 GMT+0000 (Coordinated Universal Time),Fri Sep 11 2026 13:10:00 GMT+0000 (Coordinated Universal Time),Fri Sep 25 2026 13:10:00 GMT+0000 (Coordinated Universal Time),Fri Oct 09 2026 13:10:00 GMT+0000 (Coordinated Universal Time),Fri Oct 23 2026 13:10:00 GMT+0000 (Coordinated Universal Time),Fri Nov 06 2026 13:10:00 GMT+0000 (Coordinated Universal Time),Fri Nov 20 2026 13:10:00 GMT+0000 (Coordinated Universal Time),Fri Dec 04 2026 13:10:00 GMT+0000 (Coordinated Universal Time),Fri Dec 18 2026 13:10:00 GMT+0000 (Coordinated Universal Time),Fri Jan 01 2027 13:10:00 GMT+0000 (Coordinated Universal Time),Fri Jan 15 2027 13:10:00 GMT+0000 (Coordinated Universal Time),Fri Jan 29 2027 13:10:00 GMT+0000 (Coordinated Universal Time),Fri Feb 12 2027 13:10:00 GMT+0000 (Coordinated Universal Time),Fri Feb 26 2027 13:10:00 GMT+0000 (Coordinated Universal Time),Fri Mar 12 2027 13:10:00 GMT+0000 (Coordinated Universal Time),Fri Mar 26 2027 13:10:00 GMT+0000 (Coordinated Universal Time),Fri Apr 09 2027 13:10:00 GMT+0000 (Coordinated Universal Time),Fri Apr 23 2027 13:10:00 GMT+0000 (Coordinated Universal Time),Fri May 07 2027 13:10:00 GMT+0000 (Coordinated Universal Time),Fri May 21 2027 13:10:00 GMT+0000 (Coordinated Universal Time),Fri Jun 04 2027 13:10:00 GMT+0000 (Coordinated Universal Time),Fri Jun 18 2027 13:10:00 GMT+0000 (Coordinated Universal Time),Fri Jul 02 2027 13:10:00 GMT+0000 (Coordinated Universal Time),Fri Jul 16 2027 13:10:00 GMT+0000 (Coordinated Universal Time),Fri Jul 30 2027 13:10:00 GMT+0000 (Coordinated Universal Time),Fri Aug 13 2027 13:10:00 GMT+0000 (Coordinated Universal Time)"è
+åFri Aug 28 2026 13:35:00 GMT+0000 (Coordinated Universal Time),Fri Sep 11 2026 13:35:00 GMT+0000 (Coordinated Universal Time),Fri Sep 25 2026 13:35:00 GMT+0000 (Coordinated Universal Time),Fri Oct 09 2026 13:35:00 GMT+0000 (Coordinated Universal Time),Fri Oct 23 2026 13:35:00 GMT+0000 (Coordinated Universal Time),Fri Nov 06 2026 13:35:00 GMT+0000 (Coordinated Universal Time),Fri Nov 20 2026 13:35:00 GMT+0000 (Coordinated Universal Time),Fri Dec 04 2026 13:35:00 GMT+0000 (Coordinated Universal Time),Fri Dec 18 2026 13:35:00 GMT+0000 (Coordinated Universal Time),Fri Jan 01 2027 13:35:00 GMT+0000 (Coordinated Universal Time),Fri Jan 15 2027 13:35:00 GMT+0000 (Coordinated Universal Time),Fri Jan 29 2027 13:35:00 GMT+0000 (Coordinated Universal Time),Fri Feb 12 2027 13:35:00 GMT+0000 (Coordinated Universal Time),Fri Feb 26 2027 13:35:00 GMT+0000 (Coordinated Universal Time),Fri Mar 12 2027 13:35:00 GMT+0000 (Coordinated Universal Time),Fri Mar 26 2027 13:35:00 GMT+0000 (Coordinated Universal Time),Fri Apr 09 2027 13:35:00 GMT+0000 (Coordinated Universal Time),Fri Apr 23 2027 13:35:00 GMT+0000 (Coordinated Universal Time),Fri May 07 2027 13:35:00 GMT+0000 (Coordinated Universal Time),Fri May 21 2027 13:35:00 GMT+0000 (Coordinated Universal Time),Fri Jun 04 2027 13:35:00 GMT+0000 (Coordinated Universal Time),Fri Jun 18 2027 13:35:00 GMT+0000 (Coordinated Universal Time),Fri Jul 02 2027 13:35:00 GMT+0000 (Coordinated Universal Time),Fri Jul 16 2027 13:35:00 GMT+0000 (Coordinated Universal Time),Fri Jul 30 2027 13:35:00 GMT+0000 (Coordinated Universal Time),Fri Aug 13 2027 13:35:00 GMT+0000 (Coordinated Universal Time)"è
+åFri Aug 28 2026 14:10:00 GMT+0000 (Coordinated Universal Time),Fri Sep 11 2026 14:10:00 GMT+0000 (Coordinated Universal Time),Fri Sep 25 2026 14:10:00 GMT+0000 (Coordinated Universal Time),Fri Oct 09 2026 14:10:00 GMT+0000 (Coordinated Universal Time),Fri Oct 23 2026 14:10:00 GMT+0000 (Coordinated Universal Time),Fri Nov 06 2026 14:10:00 GMT+0000 (Coordinated Universal Time),Fri Nov 20 2026 14:10:00 GMT+0000 (Coordinated Universal Time),Fri Dec 04 2026 14:10:00 GMT+0000 (Coordinated Universal Time),Fri Dec 18 2026 14:10:00 GMT+0000 (Coordinated Universal Time),Fri Jan 01 2027 14:10:00 GMT+0000 (Coordinated Universal Time),Fri Jan 15 2027 14:10:00 GMT+0000 (Coordinated Universal Time),Fri Jan 29 2027 14:10:00 GMT+0000 (Coordinated Universal Time),Fri Feb 12 2027 14:10:00 GMT+0000 (Coordinated Universal Time),Fri Feb 26 2027 14:10:00 GMT+0000 (Coordinated Universal Time),Fri Mar 12 2027 14:10:00 GMT+0000 (Coordinated Universal Time),Fri Mar 26 2027 14:10:00 GMT+0000 (Coordinated Universal Time),Fri Apr 09 2027 14:10:00 GMT+0000 (Coordinated Universal Time),Fri Apr 23 2027 14:10:00 GMT+0000 (Coordinated Universal Time),Fri May 07 2027 14:10:00 GMT+0000 (Coordinated Universal Time),Fri May 21 2027 14:10:00 GMT+0000 (Coordinated Universal Time),Fri Jun 04 2027 14:10:00 GMT+0000 (Coordinated Universal Time),Fri Jun 18 2027 14:10:00 GMT+0000 (Coordinated Universal Time),Fri Jul 02 2027 14:10:00 GMT+0000 (Coordinated Universal Time),Fri Jul 16 2027 14:10:00 GMT+0000 (Coordinated Universal Time),Fri Jul 30 2027 14:10:00 GMT+0000 (Coordinated Universal Time),Fri Aug 13 2027 14:10:00 GMT+0000 (Coordinated Universal Time)"è
+åFri Aug 28 2026 14:55:00 GMT+0000 (Coordinated Universal Time),Fri Sep 11 2026 14:55:00 GMT+0000 (Coordinated Universal Time),Fri Sep 25 2026 14:55:00 GMT+0000 (Coordinated Universal Time),Fri Oct 09 2026 14:55:00 GMT+0000 (Coordinated Universal Time),Fri Oct 23 2026 14:55:00 GMT+0000 (Coordinated Universal Time),Fri Nov 06 2026 14:55:00 GMT+0000 (Coordinated Universal Time),Fri Nov 20 2026 14:55:00 GMT+0000 (Coordinated Universal Time),Fri Dec 04 2026 14:55:00 GMT+0000 (Coordinated Universal Time),Fri Dec 18 2026 14:55:00 GMT+0000 (Coordinated Universal Time),Fri Jan 01 2027 14:55:00 GMT+0000 (Coordinated Universal Time),Fri Jan 15 2027 14:55:00 GMT+0000 (Coordinated Universal Time),Fri Jan 29 2027 14:55:00 GMT+0000 (Coordinated Universal Time),Fri Feb 12 2027 14:55:00 GMT+0000 (Coordinated Universal Time),Fri Feb 26 2027 14:55:00 GMT+0000 (Coordinated Universal Time),Fri Mar 12 2027 14:55:00 GMT+0000 (Coordinated Universal Time),Fri Mar 26 2027 14:55:00 GMT+0000 (Coordinated Universal Time),Fri Apr 09 2027 14:55:00 GMT+0000 (Coordinated Universal Time),Fri Apr 23 2027 14:55:00 GMT+0000 (Coordinated Universal Time),Fri May 07 2027 14:55:00 GMT+0000 (Coordinated Universal Time),Fri May 21 2027 14:55:00 GMT+0000 (Coordinated Universal Time),Fri Jun 04 2027 14:55:00 GMT+0000 (Coordinated Universal Time),Fri Jun 18 2027 14:55:00 GMT+0000 (Coordinated Universal Time),Fri Jul 02 2027 14:55:00 GMT+0000 (Coordinated Universal Time),Fri Jul 16 2027 14:55:00 GMT+0000 (Coordinated Universal Time),Fri Jul 30 2027 14:55:00 GMT+0000 (Coordinated Universal Time),Fri Aug 13 2027 14:55:00 GMT+0000 (Coordinated Universal Time)"è
+åFri Sep 04 2026 13:30:00 GMT+0000 (Coordinated Universal Time),Fri Sep 18 2026 13:30:00 GMT+0000 (Coordinated Universal Time),Fri Oct 02 2026 13:30:00 GMT+0000 (Coordinated Universal Time),Fri Oct 16 2026 13:30:00 GMT+0000 (Coordinated Universal Time),Fri Oct 30 2026 13:30:00 GMT+0000 (Coordinated Universal Time),Fri Nov 13 2026 13:30:00 GMT+0000 (Coordinated Universal Time),Fri Nov 27 2026 13:30:00 GMT+0000 (Coordinated Universal Time),Fri Dec 11 2026 13:30:00 GMT+0000 (Coordinated Universal Time),Fri Dec 25 2026 13:30:00 GMT+0000 (Coordinated Universal Time),Fri Jan 08 2027 13:30:00 GMT+0000 (Coordinated Universal Time),Fri Jan 22 2027 13:30:00 GMT+0000 (Coordinated Universal Time),Fri Feb 05 2027 13:30:00 GMT+0000 (Coordinated Universal Time),Fri Feb 19 2027 13:30:00 GMT+0000 (Coordinated Universal Time),Fri Mar 05 2027 13:30:00 GMT+0000 (Coordinated Universal Time),Fri Mar 19 2027 13:30:00 GMT+0000 (Coordinated Universal Time),Fri Apr 02 2027 13:30:00 GMT+0000 (Coordinated Universal Time),Fri Apr 16 2027 13:30:00 GMT+0000 (Coordinated Universal Time),Fri Apr 30 2027 13:30:00 GMT+0000 (Coordinated Universal Time),Fri May 14 2027 13:30:00 GMT+0000 (Coordinated Universal Time),Fri May 28 2027 13:30:00 GMT+0000 (Coordinated Universal Time),Fri Jun 11 2027 13:30:00 GMT+0000 (Coordinated Universal Time),Fri Jun 25 2027 13:30:00 GMT+0000 (Coordinated Universal Time),Fri Jul 09 2027 13:30:00 GMT+0000 (Coordinated Universal Time),Fri Jul 23 2027 13:30:00 GMT+0000 (Coordinated Universal Time),Fri Aug 06 2027 13:30:00 GMT+0000 (Coordinated Universal Time),Fri Aug 20 2027 13:30:00 GMT+0000 (Coordinated Universal Time)"è
+åMon Aug 31 2026 16:30:00 GMT+0000 (Coordinated Universal Time),Mon Sep 14 2026 16:30:00 GMT+0000 (Coordinated Universal Time),Mon Sep 28 2026 16:30:00 GMT+0000 (Coordinated Universal Time),Mon Oct 12 2026 16:30:00 GMT+0000 (Coordinated Universal Time),Mon Oct 26 2026 16:30:00 GMT+0000 (Coordinated Universal Time),Mon Nov 09 2026 16:30:00 GMT+0000 (Coordinated Universal Time),Mon Nov 23 2026 16:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 07 2026 16:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 16:30:00 GMT+0000 (Coordinated Universal Time),Mon Jan 04 2027 16:30:00 GMT+0000 (Coordinated Universal Time),Mon Jan 18 2027 16:30:00 GMT+0000 (Coordinated Universal Time),Mon Feb 01 2027 16:30:00 GMT+0000 (Coordinated Universal Time),Mon Feb 15 2027 16:30:00 GMT+0000 (Coordinated Universal Time),Mon Mar 01 2027 16:30:00 GMT+0000 (Coordinated Universal Time),Mon Mar 15 2027 16:30:00 GMT+0000 (Coordinated Universal Time),Mon Mar 29 2027 16:30:00 GMT+0000 (Coordinated Universal Time),Mon Apr 12 2027 16:30:00 GMT+0000 (Coordinated Universal Time),Mon Apr 26 2027 16:30:00 GMT+0000 (Coordinated Universal Time),Mon May 10 2027 16:30:00 GMT+0000 (Coordinated Universal Time),Mon May 24 2027 16:30:00 GMT+0000 (Coordinated Universal Time),Mon Jun 07 2027 16:30:00 GMT+0000 (Coordinated Universal Time),Mon Jun 21 2027 16:30:00 GMT+0000 (Coordinated Universal Time),Mon Jul 05 2027 16:30:00 GMT+0000 (Coordinated Universal Time),Mon Jul 19 2027 16:30:00 GMT+0000 (Coordinated Universal Time),Mon Aug 02 2027 16:30:00 GMT+0000 (Coordinated Universal Time),Mon Aug 16 2027 16:30:00 GMT+0000 (Coordinated Universal Time)"è
+åThu Aug 27 2026 13:30:00 GMT+0000 (Coordinated Universal Time),Thu Sep 10 2026 13:30:00 GMT+0000 (Coordinated Universal Time),Thu Sep 24 2026 13:30:00 GMT+0000 (Coordinated Universal Time),Thu Oct 08 2026 13:30:00 GMT+0000 (Coordinated Universal Time),Thu Oct 22 2026 13:30:00 GMT+0000 (Coordinated Universal Time),Thu Nov 05 2026 13:30:00 GMT+0000 (Coordinated Universal Time),Thu Nov 19 2026 13:30:00 GMT+0000 (Coordinated Universal Time),Thu Dec 03 2026 13:30:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 13:30:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 13:30:00 GMT+0000 (Coordinated Universal Time),Thu Jan 14 2027 13:30:00 GMT+0000 (Coordinated Universal Time),Thu Jan 28 2027 13:30:00 GMT+0000 (Coordinated Universal Time),Thu Feb 11 2027 13:30:00 GMT+0000 (Coordinated Universal Time),Thu Feb 25 2027 13:30:00 GMT+0000 (Coordinated Universal Time),Thu Mar 11 2027 13:30:00 GMT+0000 (Coordinated Universal Time),Thu Mar 25 2027 13:30:00 GMT+0000 (Coordinated Universal Time),Thu Apr 08 2027 13:30:00 GMT+0000 (Coordinated Universal Time),Thu Apr 22 2027 13:30:00 GMT+0000 (Coordinated Universal Time),Thu May 06 2027 13:30:00 GMT+0000 (Coordinated Universal Time),Thu May 20 2027 13:30:00 GMT+0000 (Coordinated Universal Time),Thu Jun 03 2027 13:30:00 GMT+0000 (Coordinated Universal Time),Thu Jun 17 2027 13:30:00 GMT+0000 (Coordinated Universal Time),Thu Jul 01 2027 13:30:00 GMT+0000 (Coordinated Universal Time),Thu Jul 15 2027 13:30:00 GMT+0000 (Coordinated Universal Time),Thu Jul 29 2027 13:30:00 GMT+0000 (Coordinated Universal Time),Thu Aug 12 2027 13:30:00 GMT+0000 (Coordinated Universal Time)"è
+åThu Aug 27 2026 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Sep 10 2026 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Sep 24 2026 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Oct 08 2026 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Oct 22 2026 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Nov 05 2026 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Nov 19 2026 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Dec 03 2026 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Jan 14 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Jan 28 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Feb 11 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Feb 25 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Mar 11 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Mar 25 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Apr 08 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Apr 22 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Thu May 06 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Thu May 20 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Jun 03 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Jun 17 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Jul 01 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Jul 15 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Jul 29 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Aug 12 2027 14:00:00 GMT+0000 (Coordinated Universal Time)"è
+åTue Aug 25 2026 09:45:00 GMT+0000 (Coordinated Universal Time),Tue Sep 08 2026 09:45:00 GMT+0000 (Coordinated Universal Time),Tue Sep 22 2026 09:45:00 GMT+0000 (Coordinated Universal Time),Tue Oct 06 2026 09:45:00 GMT+0000 (Coordinated Universal Time),Tue Oct 20 2026 09:45:00 GMT+0000 (Coordinated Universal Time),Tue Nov 03 2026 09:45:00 GMT+0000 (Coordinated Universal Time),Tue Nov 17 2026 09:45:00 GMT+0000 (Coordinated Universal Time),Tue Dec 01 2026 09:45:00 GMT+0000 (Coordinated Universal Time),Tue Dec 15 2026 09:45:00 GMT+0000 (Coordinated Universal Time),Tue Dec 29 2026 09:45:00 GMT+0000 (Coordinated Universal Time),Tue Jan 12 2027 09:45:00 GMT+0000 (Coordinated Universal Time),Tue Jan 26 2027 09:45:00 GMT+0000 (Coordinated Universal Time),Tue Feb 09 2027 09:45:00 GMT+0000 (Coordinated Universal Time),Tue Feb 23 2027 09:45:00 GMT+0000 (Coordinated Universal Time),Tue Mar 09 2027 09:45:00 GMT+0000 (Coordinated Universal Time),Tue Mar 23 2027 09:45:00 GMT+0000 (Coordinated Universal Time),Tue Apr 06 2027 09:45:00 GMT+0000 (Coordinated Universal Time),Tue Apr 20 2027 09:45:00 GMT+0000 (Coordinated Universal Time),Tue May 04 2027 09:45:00 GMT+0000 (Coordinated Universal Time),Tue May 18 2027 09:45:00 GMT+0000 (Coordinated Universal Time),Tue Jun 01 2027 09:45:00 GMT+0000 (Coordinated Universal Time),Tue Jun 15 2027 09:45:00 GMT+0000 (Coordinated Universal Time),Tue Jun 29 2027 09:45:00 GMT+0000 (Coordinated Universal Time),Tue Jul 13 2027 09:45:00 GMT+0000 (Coordinated Universal Time),Tue Jul 27 2027 09:45:00 GMT+0000 (Coordinated Universal Time),Tue Aug 10 2027 09:45:00 GMT+0000 (Coordinated Universal Time)"è
+åTue Aug 25 2026 10:10:00 GMT+0000 (Coordinated Universal Time),Tue Sep 08 2026 10:10:00 GMT+0000 (Coordinated Universal Time),Tue Sep 22 2026 10:10:00 GMT+0000 (Coordinated Universal Time),Tue Oct 06 2026 10:10:00 GMT+0000 (Coordinated Universal Time),Tue Oct 20 2026 10:10:00 GMT+0000 (Coordinated Universal Time),Tue Nov 03 2026 10:10:00 GMT+0000 (Coordinated Universal Time),Tue Nov 17 2026 10:10:00 GMT+0000 (Coordinated Universal Time),Tue Dec 01 2026 10:10:00 GMT+0000 (Coordinated Universal Time),Tue Dec 15 2026 10:10:00 GMT+0000 (Coordinated Universal Time),Tue Dec 29 2026 10:10:00 GMT+0000 (Coordinated Universal Time),Tue Jan 12 2027 10:10:00 GMT+0000 (Coordinated Universal Time),Tue Jan 26 2027 10:10:00 GMT+0000 (Coordinated Universal Time),Tue Feb 09 2027 10:10:00 GMT+0000 (Coordinated Universal Time),Tue Feb 23 2027 10:10:00 GMT+0000 (Coordinated Universal Time),Tue Mar 09 2027 10:10:00 GMT+0000 (Coordinated Universal Time),Tue Mar 23 2027 10:10:00 GMT+0000 (Coordinated Universal Time),Tue Apr 06 2027 10:10:00 GMT+0000 (Coordinated Universal Time),Tue Apr 20 2027 10:10:00 GMT+0000 (Coordinated Universal Time),Tue May 04 2027 10:10:00 GMT+0000 (Coordinated Universal Time),Tue May 18 2027 10:10:00 GMT+0000 (Coordinated Universal Time),Tue Jun 01 2027 10:10:00 GMT+0000 (Coordinated Universal Time),Tue Jun 15 2027 10:10:00 GMT+0000 (Coordinated Universal Time),Tue Jun 29 2027 10:10:00 GMT+0000 (Coordinated Universal Time),Tue Jul 13 2027 10:10:00 GMT+0000 (Coordinated Universal Time),Tue Jul 27 2027 10:10:00 GMT+0000 (Coordinated Universal Time),Tue Aug 10 2027 10:10:00 GMT+0000 (Coordinated Universal Time)"è
+åTue Aug 25 2026 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Sep 08 2026 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Sep 22 2026 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Oct 06 2026 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Oct 20 2026 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Nov 03 2026 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Nov 17 2026 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Dec 01 2026 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Dec 15 2026 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Dec 29 2026 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Jan 12 2027 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Jan 26 2027 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Feb 09 2027 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Feb 23 2027 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Mar 09 2027 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Mar 23 2027 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Apr 06 2027 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Apr 20 2027 10:50:00 GMT+0000 (Coordinated Universal Time),Tue May 04 2027 10:50:00 GMT+0000 (Coordinated Universal Time),Tue May 18 2027 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Jun 01 2027 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Jun 15 2027 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Jun 29 2027 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Jul 13 2027 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Jul 27 2027 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Aug 10 2027 10:50:00 GMT+0000 (Coordinated Universal Time)"è
+åTue Aug 25 2026 13:00:00 GMT+0000 (Coordinated Universal Time),Tue Sep 08 2026 13:00:00 GMT+0000 (Coordinated Universal Time),Tue Sep 22 2026 13:00:00 GMT+0000 (Coordinated Universal Time),Tue Oct 06 2026 13:00:00 GMT+0000 (Coordinated Universal Time),Tue Oct 20 2026 13:00:00 GMT+0000 (Coordinated Universal Time),Tue Nov 03 2026 13:00:00 GMT+0000 (Coordinated Universal Time),Tue Nov 17 2026 13:00:00 GMT+0000 (Coordinated Universal Time),Tue Dec 01 2026 13:00:00 GMT+0000 (Coordinated Universal Time),Tue Dec 15 2026 13:00:00 GMT+0000 (Coordinated Universal Time),Tue Dec 29 2026 13:00:00 GMT+0000 (Coordinated Universal Time),Tue Jan 12 2027 13:00:00 GMT+0000 (Coordinated Universal Time),Tue Jan 26 2027 13:00:00 GMT+0000 (Coordinated Universal Time),Tue Feb 09 2027 13:00:00 GMT+0000 (Coordinated Universal Time),Tue Feb 23 2027 13:00:00 GMT+0000 (Coordinated Universal Time),Tue Mar 09 2027 13:00:00 GMT+0000 (Coordinated Universal Time),Tue Mar 23 2027 13:00:00 GMT+0000 (Coordinated Universal Time),Tue Apr 06 2027 13:00:00 GMT+0000 (Coordinated Universal Time),Tue Apr 20 2027 13:00:00 GMT+0000 (Coordinated Universal Time),Tue May 04 2027 13:00:00 GMT+0000 (Coordinated Universal Time),Tue May 18 2027 13:00:00 GMT+0000 (Coordinated Universal Time),Tue Jun 01 2027 13:00:00 GMT+0000 (Coordinated Universal Time),Tue Jun 15 2027 13:00:00 GMT+0000 (Coordinated Universal Time),Tue Jun 29 2027 13:00:00 GMT+0000 (Coordinated Universal Time),Tue Jul 13 2027 13:00:00 GMT+0000 (Coordinated Universal Time),Tue Jul 27 2027 13:00:00 GMT+0000 (Coordinated Universal Time),Tue Aug 10 2027 13:00:00 GMT+0000 (Coordinated Universal Time)"è
+åTue Sep 01 2026 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Sep 15 2026 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Sep 29 2026 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Oct 13 2026 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Oct 27 2026 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Nov 10 2026 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Nov 24 2026 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Dec 08 2026 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Dec 22 2026 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Jan 05 2027 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Jan 19 2027 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Feb 02 2027 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Feb 16 2027 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Mar 02 2027 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Mar 16 2027 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Mar 30 2027 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Apr 13 2027 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Apr 27 2027 10:50:00 GMT+0000 (Coordinated Universal Time),Tue May 11 2027 10:50:00 GMT+0000 (Coordinated Universal Time),Tue May 25 2027 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Jun 08 2027 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Jun 22 2027 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Jul 06 2027 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Jul 20 2027 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Aug 03 2027 10:50:00 GMT+0000 (Coordinated Universal Time),Tue Aug 17 2027 10:50:00 GMT+0000 (Coordinated Universal Time)"è
+åTue Sep 01 2026 11:25:00 GMT+0000 (Coordinated Universal Time),Tue Sep 15 2026 11:25:00 GMT+0000 (Coordinated Universal Time),Tue Sep 29 2026 11:25:00 GMT+0000 (Coordinated Universal Time),Tue Oct 13 2026 11:25:00 GMT+0000 (Coordinated Universal Time),Tue Oct 27 2026 11:25:00 GMT+0000 (Coordinated Universal Time),Tue Nov 10 2026 11:25:00 GMT+0000 (Coordinated Universal Time),Tue Nov 24 2026 11:25:00 GMT+0000 (Coordinated Universal Time),Tue Dec 08 2026 11:25:00 GMT+0000 (Coordinated Universal Time),Tue Dec 22 2026 11:25:00 GMT+0000 (Coordinated Universal Time),Tue Jan 05 2027 11:25:00 GMT+0000 (Coordinated Universal Time),Tue Jan 19 2027 11:25:00 GMT+0000 (Coordinated Universal Time),Tue Feb 02 2027 11:25:00 GMT+0000 (Coordinated Universal Time),Tue Feb 16 2027 11:25:00 GMT+0000 (Coordinated Universal Time),Tue Mar 02 2027 11:25:00 GMT+0000 (Coordinated Universal Time),Tue Mar 16 2027 11:25:00 GMT+0000 (Coordinated Universal Time),Tue Mar 30 2027 11:25:00 GMT+0000 (Coordinated Universal Time),Tue Apr 13 2027 11:25:00 GMT+0000 (Coordinated Universal Time),Tue Apr 27 2027 11:25:00 GMT+0000 (Coordinated Universal Time),Tue May 11 2027 11:25:00 GMT+0000 (Coordinated Universal Time),Tue May 25 2027 11:25:00 GMT+0000 (Coordinated Universal Time),Tue Jun 08 2027 11:25:00 GMT+0000 (Coordinated Universal Time),Tue Jun 22 2027 11:25:00 GMT+0000 (Coordinated Universal Time),Tue Jul 06 2027 11:25:00 GMT+0000 (Coordinated Universal Time),Tue Jul 20 2027 11:25:00 GMT+0000 (Coordinated Universal Time),Tue Aug 03 2027 11:25:00 GMT+0000 (Coordinated Universal Time),Tue Aug 17 2027 11:25:00 GMT+0000 (Coordinated Universal Time)"è
+åTue Sep 01 2026 12:00:00 GMT+0000 (Coordinated Universal Time),Tue Sep 15 2026 12:00:00 GMT+0000 (Coordinated Universal Time),Tue Sep 29 2026 12:00:00 GMT+0000 (Coordinated Universal Time),Tue Oct 13 2026 12:00:00 GMT+0000 (Coordinated Universal Time),Tue Oct 27 2026 12:00:00 GMT+0000 (Coordinated Universal Time),Tue Nov 10 2026 12:00:00 GMT+0000 (Coordinated Universal Time),Tue Nov 24 2026 12:00:00 GMT+0000 (Coordinated Universal Time),Tue Dec 08 2026 12:00:00 GMT+0000 (Coordinated Universal Time),Tue Dec 22 2026 12:00:00 GMT+0000 (Coordinated Universal Time),Tue Jan 05 2027 12:00:00 GMT+0000 (Coordinated Universal Time),Tue Jan 19 2027 12:00:00 GMT+0000 (Coordinated Universal Time),Tue Feb 02 2027 12:00:00 GMT+0000 (Coordinated Universal Time),Tue Feb 16 2027 12:00:00 GMT+0000 (Coordinated Universal Time),Tue Mar 02 2027 12:00:00 GMT+0000 (Coordinated Universal Time),Tue Mar 16 2027 12:00:00 GMT+0000 (Coordinated Universal Time),Tue Mar 30 2027 12:00:00 GMT+0000 (Coordinated Universal Time),Tue Apr 13 2027 12:00:00 GMT+0000 (Coordinated Universal Time),Tue Apr 27 2027 12:00:00 GMT+0000 (Coordinated Universal Time),Tue May 11 2027 12:00:00 GMT+0000 (Coordinated Universal Time),Tue May 25 2027 12:00:00 GMT+0000 (Coordinated Universal Time),Tue Jun 08 2027 12:00:00 GMT+0000 (Coordinated Universal Time),Tue Jun 22 2027 12:00:00 GMT+0000 (Coordinated Universal Time),Tue Jul 06 2027 12:00:00 GMT+0000 (Coordinated Universal Time),Tue Jul 20 2027 12:00:00 GMT+0000 (Coordinated Universal Time),Tue Aug 03 2027 12:00:00 GMT+0000 (Coordinated Universal Time),Tue Aug 17 2027 12:00:00 GMT+0000 (Coordinated Universal Time)"è
+åTue Sep 01 2026 12:25:00 GMT+0000 (Coordinated Universal Time),Tue Sep 15 2026 12:25:00 GMT+0000 (Coordinated Universal Time),Tue Sep 29 2026 12:25:00 GMT+0000 (Coordinated Universal Time),Tue Oct 13 2026 12:25:00 GMT+0000 (Coordinated Universal Time),Tue Oct 27 2026 12:25:00 GMT+0000 (Coordinated Universal Time),Tue Nov 10 2026 12:25:00 GMT+0000 (Coordinated Universal Time),Tue Nov 24 2026 12:25:00 GMT+0000 (Coordinated Universal Time),Tue Dec 08 2026 12:25:00 GMT+0000 (Coordinated Universal Time),Tue Dec 22 2026 12:25:00 GMT+0000 (Coordinated Universal Time),Tue Jan 05 2027 12:25:00 GMT+0000 (Coordinated Universal Time),Tue Jan 19 2027 12:25:00 GMT+0000 (Coordinated Universal Time),Tue Feb 02 2027 12:25:00 GMT+0000 (Coordinated Universal Time),Tue Feb 16 2027 12:25:00 GMT+0000 (Coordinated Universal Time),Tue Mar 02 2027 12:25:00 GMT+0000 (Coordinated Universal Time),Tue Mar 16 2027 12:25:00 GMT+0000 (Coordinated Universal Time),Tue Mar 30 2027 12:25:00 GMT+0000 (Coordinated Universal Time),Tue Apr 13 2027 12:25:00 GMT+0000 (Coordinated Universal Time),Tue Apr 27 2027 12:25:00 GMT+0000 (Coordinated Universal Time),Tue May 11 2027 12:25:00 GMT+0000 (Coordinated Universal Time),Tue May 25 2027 12:25:00 GMT+0000 (Coordinated Universal Time),Tue Jun 08 2027 12:25:00 GMT+0000 (Coordinated Universal Time),Tue Jun 22 2027 12:25:00 GMT+0000 (Coordinated Universal Time),Tue Jul 06 2027 12:25:00 GMT+0000 (Coordinated Universal Time),Tue Jul 20 2027 12:25:00 GMT+0000 (Coordinated Universal Time),Tue Aug 03 2027 12:25:00 GMT+0000 (Coordinated Universal Time),Tue Aug 17 2027 12:25:00 GMT+0000 (Coordinated Universal Time)"è
+åTue Sep 01 2026 12:40:00 GMT+0000 (Coordinated Universal Time),Tue Sep 15 2026 12:40:00 GMT+0000 (Coordinated Universal Time),Tue Sep 29 2026 12:40:00 GMT+0000 (Coordinated Universal Time),Tue Oct 13 2026 12:40:00 GMT+0000 (Coordinated Universal Time),Tue Oct 27 2026 12:40:00 GMT+0000 (Coordinated Universal Time),Tue Nov 10 2026 12:40:00 GMT+0000 (Coordinated Universal Time),Tue Nov 24 2026 12:40:00 GMT+0000 (Coordinated Universal Time),Tue Dec 08 2026 12:40:00 GMT+0000 (Coordinated Universal Time),Tue Dec 22 2026 12:40:00 GMT+0000 (Coordinated Universal Time),Tue Jan 05 2027 12:40:00 GMT+0000 (Coordinated Universal Time),Tue Jan 19 2027 12:40:00 GMT+0000 (Coordinated Universal Time),Tue Feb 02 2027 12:40:00 GMT+0000 (Coordinated Universal Time),Tue Feb 16 2027 12:40:00 GMT+0000 (Coordinated Universal Time),Tue Mar 02 2027 12:40:00 GMT+0000 (Coordinated Universal Time),Tue Mar 16 2027 12:40:00 GMT+0000 (Coordinated Universal Time),Tue Mar 30 2027 12:40:00 GMT+0000 (Coordinated Universal Time),Tue Apr 13 2027 12:40:00 GMT+0000 (Coordinated Universal Time),Tue Apr 27 2027 12:40:00 GMT+0000 (Coordinated Universal Time),Tue May 11 2027 12:40:00 GMT+0000 (Coordinated Universal Time),Tue May 25 2027 12:40:00 GMT+0000 (Coordinated Universal Time),Tue Jun 08 2027 12:40:00 GMT+0000 (Coordinated Universal Time),Tue Jun 22 2027 12:40:00 GMT+0000 (Coordinated Universal Time),Tue Jul 06 2027 12:40:00 GMT+0000 (Coordinated Universal Time),Tue Jul 20 2027 12:40:00 GMT+0000 (Coordinated Universal Time),Tue Aug 03 2027 12:40:00 GMT+0000 (Coordinated Universal Time),Tue Aug 17 2027 12:40:00 GMT+0000 (Coordinated Universal Time)"è
+åWed Aug 26 2026 09:55:00 GMT+0000 (Coordinated Universal Time),Wed Sep 09 2026 09:55:00 GMT+0000 (Coordinated Universal Time),Wed Sep 23 2026 09:55:00 GMT+0000 (Coordinated Universal Time),Wed Oct 07 2026 09:55:00 GMT+0000 (Coordinated Universal Time),Wed Oct 21 2026 09:55:00 GMT+0000 (Coordinated Universal Time),Wed Nov 04 2026 09:55:00 GMT+0000 (Coordinated Universal Time),Wed Nov 18 2026 09:55:00 GMT+0000 (Coordinated Universal Time),Wed Dec 02 2026 09:55:00 GMT+0000 (Coordinated Universal Time),Wed Dec 16 2026 09:55:00 GMT+0000 (Coordinated Universal Time),Wed Dec 30 2026 09:55:00 GMT+0000 (Coordinated Universal Time),Wed Jan 13 2027 09:55:00 GMT+0000 (Coordinated Universal Time),Wed Jan 27 2027 09:55:00 GMT+0000 (Coordinated Universal Time),Wed Feb 10 2027 09:55:00 GMT+0000 (Coordinated Universal Time),Wed Feb 24 2027 09:55:00 GMT+0000 (Coordinated Universal Time),Wed Mar 10 2027 09:55:00 GMT+0000 (Coordinated Universal Time),Wed Mar 24 2027 09:55:00 GMT+0000 (Coordinated Universal Time),Wed Apr 07 2027 09:55:00 GMT+0000 (Coordinated Universal Time),Wed Apr 21 2027 09:55:00 GMT+0000 (Coordinated Universal Time),Wed May 05 2027 09:55:00 GMT+0000 (Coordinated Universal Time),Wed May 19 2027 09:55:00 GMT+0000 (Coordinated Universal Time),Wed Jun 02 2027 09:55:00 GMT+0000 (Coordinated Universal Time),Wed Jun 16 2027 09:55:00 GMT+0000 (Coordinated Universal Time),Wed Jun 30 2027 09:55:00 GMT+0000 (Coordinated Universal Time),Wed Jul 14 2027 09:55:00 GMT+0000 (Coordinated Universal Time),Wed Jul 28 2027 09:55:00 GMT+0000 (Coordinated Universal Time),Wed Aug 11 2027 09:55:00 GMT+0000 (Coordinated Universal Time)"è
+åWed Sep 02 2026 14:00:00 GMT+0000 (Coordinated Universal Time),Wed Sep 16 2026 14:00:00 GMT+0000 (Coordinated Universal Time),Wed Sep 30 2026 14:00:00 GMT+0000 (Coordinated Universal Time),Wed Oct 14 2026 14:00:00 GMT+0000 (Coordinated Universal Time),Wed Oct 28 2026 14:00:00 GMT+0000 (Coordinated Universal Time),Wed Nov 11 2026 14:00:00 GMT+0000 (Coordinated Universal Time),Wed Nov 25 2026 14:00:00 GMT+0000 (Coordinated Universal Time),Wed Dec 09 2026 14:00:00 GMT+0000 (Coordinated Universal Time),Wed Dec 23 2026 14:00:00 GMT+0000 (Coordinated Universal Time),Wed Jan 06 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Wed Jan 20 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Wed Feb 03 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Wed Feb 17 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Wed Mar 03 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Wed Mar 17 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Wed Mar 31 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Wed Apr 14 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Wed Apr 28 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Wed May 12 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Wed May 26 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Wed Jun 09 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Wed Jun 23 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Wed Jul 07 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Wed Jul 21 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Wed Aug 04 2027 14:00:00 GMT+0000 (Coordinated Universal Time),Wed Aug 18 2027 14:00:00 GMT+0000 (Coordinated Universal Time)"	ü…ä…òJ@"	.x¬é¿"	è÷ý›ßJ@"	Â(öJ@"	+£‘Ï÷J@"	×8hÛí¿"	U†q7ˆç¿"	m±õJ@"	…ëQ¸úJ@"	!¾X‡¿Àð¿"	'b×…òJ@"	)£Û\F÷J@"	)³A&áJ@"	)ÉLÿîí¿"	*‹Â.ŠúJ@"	,.ŽÊMúJ@"	2ô™ýËúJ@"	4„c–=‰é¿"	5ß÷ÒõJ@"	:ŸðÈñJ@"	:±‡ö±ê¿"	BbèñJ@"	HÜÖîJ@"	J'L5öJ@"	J·%rÁ™è¿"	J·%rÁíJ@"	LKëJ@"	LÒF¿GöJ@"	Oyt#,ªæ¿"	WÆ+µƒî¿"	Z‚Œ€
+Çí¿"	Z…-Õî¿"	[§ÂøJ@"	^×/ØÛç¿"	abS“âî¿"	b,Ó/áJ@"	bMeQØáJ@"	caˆœ¾ë¿"	dXÅ™ñJ@"	j3NCT!ê¿"	p"Ä^öJ@"	s+„ÕXàJ@"	u“VŽæ¿"	y@vjpúJ@"	|ëBúyî¿"	~(F–âJ@"	~Wÿ[Éë¿"	~†Ü±}íê¿"	ƒïOúJ@"	†ú‹†Ðî¿"	‡ƒ²`J“ð¿"	‡¦ìôƒºç¿"	@´=	ï¿"	’ËH¿áJ@"	”‚9=™®ð¿"	– # Â‘í¿"	–b`€qôJ@"	žàýâî¿"	Ÿu–óJ@"	¢›ýr[æ¿"	©ˆÓI¶ðJ@"	­,½uÎð¿"	­ŒZ"–‹ð¿"	­¦ˆ_óòJ@"	¯Äê,‰ð¿"	³.É\tùJ@"	¿(Ï)¹´ð¿"	Ê&Q£Íð¿"	Í'†?žùJ@"	Ò
+ÂËÂòJ@"	Ô›QóUòì¿"	ØsF”vë¿"	Úª$²²æ¿"	Ü?`/^-ï¿"	ß%ÄžîøJ@"	ã€Ã/è±ð¿"	ä.ÂåRí¿"	ìçÁ›½òJ@"	ïº§@ úJ@"	ðó„Êdî¿"	ñ¦t©øJ@"	ñº~ÁnØæ¿"	ö=‡’ð¿"	öî÷ªïJ@"	üŠ}èJ@"	ü4îÍo˜é¿" " *" " „" ˆ" ’'" –" –'" —" š'" ›'" œ'" '" ž" ¢'" £'" ¥" ©'" «" «'" ¯" °'" ±'" ²'" ´'" »'" ¼'" ¿'" À'" Á'" Ä'" Å'" Ç" É" Ë" Ì" Í" å" æ" ç" è" í" ó" õ" ù=3 û!õ|•	‡
+Ò.1Ã)´“Üàì"	öK>3 !õ|Ž	‡
+Ê26Ã)´”ÜÞ®"	î=3 Ž!õ|	‡
+·02Ä€´œÜðÉ"	¸=3 !õ|”	‡
+Î_aÆ"´ÜÜ¬"	à1>4 ÷	!ôÉ{$	$
+ŸoTV¼"µøßó¦"	².i=3 “!õ|‘	Š
+Ë8<Ã)´•ÜÐÎ"	´f>3 ƒ!õ|œ	…
+ØCEÇ)´™ÜÔè"	šÀ>3 ‡!õ| 	…
+ÙFGÇ)´šÜé¾"	†ô=3 ‹!õ|ˆ	…
+¹HIÇ)´›ÜÛî"	d”=3 ÿ!õ|	
+?AÇ)´˜ÜáÖ"	h¬;0 €!õ|d	d
+d8>Ç)´—Ü§³"	²º>3 ‘!õ|	
+»MQÅ ´ŒÜçž"	Òü>3 þ!õ|‚	
+¸KLÅ ´‹ÜÒã"	¸´>3 ‰!õ|’	
+°PSÈ€´Ü£â"	’ì<1 Š!õ|	}
+›;=Å ´‰ÜÊÆ"	ÐØ	=2 Œ!õ|Ï	}
+Í36Å ´‡Ü×¹"	Üô	<1 !õ|'	}
+¨7:Å ´ˆÜ»µ"	êŠ
+=2 …!õ|—	}
+Ð,.Å ´…Üí¡"	„¶
+=2 ‚!õ|„	}
+³/2Å ´†Ü«°"	Þ€A6 ž	!ôÉ{¤	¤
+Ôl6;¼"µöïÕ¥"	ääA6 ˜	!ôÉ{¢	¢
+Ñm=A¼"µ÷íä¢"	ªš=2 ý!õ|z	
+²BFÅ ´ŠÜ½Ý"	Ìø>3 ù!õ|–	
+ÕRWÅ ´ÜÀ¨"	¦þ>3 ’!õ|ž	
+×X]Å ´ŽÜÏë"	ÚºA6 ú
+!ôÉ{š	š
+ÌwVZÂkµþì¼ñ"	Ìî?4 ø!ôÉ{%	%
+™*L`Á ´àêò"	˜–+A6 ö!ôÉ{‰	‰
+­nJ`½)´–çÍß"	è&žB7  !ôÉ{‹	‹
+®q;@¿€µƒèÅ©"	¬+À?4 ”
+!ôÉ{~	~
+©v\^ÂkµÿäåÄ"	â#š?4 Ÿ	!ôÉ{(	(
+¥u24¼"µõâÃØ"	Ü%æ?4  	!ôÉ{	
+˜r-0¼"µôÝŸ±"	ú-ÂA6 ›
+!ôÉ{	
+±tPTÂkµýê²´"	„,Ö@6 •	!ôÉ{†	†
+¬pY[¼"µùæ¤­"	:B7 œ !ôÉ{“	“
+ºxNP¿€µ„ëÈÚ"	Ø?¬?4 „	!ôÉ{j	j
+¦s+,¼"µóã¿·"	¤8¼A6 ü
+!ôÉ{Œ	Œ
+¯cBDÂkµüé¯ª"	Þ.ü<A6 †!ôÉ{¶	¶
+Ûy1`Àkµ€ò¶¸"	†4Œ%B7  !ôÉ{ƒ	ƒ
+ªh1`¿€µ‚åÑÇ"	‚9â>A6 ™
+!ôÉ{£	£
+Óg;?ÂkµûîæË"	ò>°9A6 —
+!ôÉ{§	§
+Öe59ÂkµúðºÓ"	ˆ?´;?4 š!ôÉ{#	#
+iLO¾k´‘ÞïÁ"	„>„=A6 ˆ!ôÉ{«	«
+ÚbRUÀkµñÌ "	ö!Æ@?4 –!ôÉ{&	&
+¡fPT¾k´’áÙÂ"	è@–;»4x
+trips(€ idorigin_stop_idorigin_stop_namedestination_stop_iddestination_stop_namedistanceduration"
+Park"
+River"
+Bielby"
+Kilham"
+Scalby"
+Yapham"	
+Bempton"	
+Boynton"	
+Newport"	
+Rudston"	
+Sancton"	
+Surgery"	
+Thorton"
+
+Deighton"
+
+Harswell"
+	Courtneys"
+	Meadlands"
+	Melbourne"
+	Ousefleet"
+	Sproatley"
+	The Leyes"
+
+Broomfleet"
+
+Cranbrooks"
+
+Gilberdyke"
+
+Grey Horse"
+
+Low Catton"
+
+Millington"
+
+Peel Close"
+
+Pollington"
+
+Saltmarshe"
+
+Walkington"
+Barmby Moor"
+Brecksfield"
+Church Rise"
+Dower Court"
+Eastrington"
+Full Sutton"
+Seaton Ross"
+The Village"
+Valley View"
+Crockey Hill"
+Murton Garth"
+Thorngumbald"
+Yarburgh Way"
+Langley House"
+Old Hall Lane"
+Shiptonthorpe"
+Thirkleby Way"
+Burton Fleming"
+Campbell Court"
+Back Lane South"
+Lorraine Avenue"
+Community Centre"
+East Cottingwith"
+Heslington Court"
+Hutton Cranswick"
+White Rose House"
+Memorial Cottages"
+Newton on Derwent"
+Sandholme Landing"
+Sutton on Derwent"
+Newport Grebe Road"
+North Cave Nordham"
+Goole Hanover Court"
+Howden Minster Court"
+Holme on Spalding Moor"
+South Cave The Moorlands"
+Primary School (term time)"!
+Market Weighton Princess Parade""
+ Market Weighton All Saints Court"/
+-Market Weighton Scotts Croft All Saints Court" " #" A" \" ]" i" ~" " €!" ‚œ" ƒ" ƒ#" ƒî" „" „!" „R" …!" †" †
+" †H" ‡" ˆ" ˆ" ‰" ‰" ‰>" ‰›" ‰É" ‰î" Š" Š!" ‹" Œ" Œ" Œ!" " Ž" !" " !" ‘!" ‘—" ’'" “" “!" ”" ”'" –" –'" —" ˜" ˜'" ™" ™'" š" š!" š'" šñ" ›" ›	" ›" ›!" ›'" œ'" " '" ¡" ž" ž" ž!" ž'" žî" Ÿ!"  " ¡" ¡!" ¢'" ¢8" £" £'" ¤" ¤" ¤0" ¥" ¦" ¦1" §+" ¨'" ©'" ª" ª'" «" «" «'" ¬" ®" ¯" ¯" ¯" ¯'" ¯Š" °" °'" ±" ±" ±'" ±6" ²" ²'" ³" ³" ³ˆ" ´'" µ" µ" µ'" ¶" ¶" ¶C" ·" ·" ¹" ¹" ¹Î" º" º/" »'" ¼'" ½" ¿'" À" À'" Á" Á'" Â" Ã" Ä" Ä" Ä'" Å" Å" Å'" Æ" Æ" Ç" Ç" Èå" É" É" Ê" Ê" Ë" Ë" Ì" Í" Ïû" Ð" Ð
+" Ñ" Ó" Ó" Õ" ×" Ú" Û" Ü" Ý" Þ" ÞF" ßˆ" á" á" â" ã" ä" å" å" æ" ç" ç" ç9" è" è" è" é" é" ê" ë" ì" í" ï" ð" ñ" ò" ó" ó	" ô" ô" õ" õ0" õ:" ö" ö " ÷…" ø" ø" ø" ø " ù" ù" ù " ùÍ" ú" ú¹" û" û" û " ü " üŸ" ý" ý " þ" þ " ÿ @ –u Ê/Vý")	RŸŠ6V
+$& :„ B* #
+	A „Æž,Ðÿ"(	¸Š  	$ ) I/K 9%	#5U( O"|4€»"	Ÿ¤*6¥
+/31T ¥†(–6™ž";	h¬2?	/#GK/5ok	 ¥’ b1R+4+@	 &	- o³ºŽ"	b”BC$a2 4 ’Ô+¡çƒ"	´fZ ''/K 9%	#5U- ™w1È&¿Õ"	öKB`B 1 Ÿz!­-œ¤"	ÎŸB0 8ÚJ”L^$($ lR À„$ïÍ"9	®+ÂÂ:K*ŒWlW 	/1To}cŸG#A;Qc	)5+* i¤9³X{"	ˆô:%5I$%"? ŒÈ&Ô+Yt"(	î}ŠN	$ ) !( + W–6¤9¾L"	šÀ:
+'0		7 ¦ˆ†(©‡"	²ºZ(#%‘ G+)G} 9, £…Ì'¦N"	¸´:
+
+)i 	/ Ì'q2 r"	ÐüJ
+ j@+B K l­-ª)Ä“"3	’êª[! #%	M¹SWC)MO I/1y-+5)( ~Å° åJ"	êŠ
+*3…#+ -" s·CÅKG"	æð	 % eŸ3“ñH"	†¸
+"
+
+>() U“·C¸I"	Ü‚2='		) H ká:ËŸƒ"0	¬šš7F')A(Ç+7ƒK	e)	
+sŸU ¬‰<á:h"=	èæÚ#l @xa-I7*SM''#CE1E8V n° Ýê"?	ÒØ	Ú9‚$AD("f	 	.21b""	6 0/  …•M"	ÌúJ&7		) ‘q2Ñ8§I"	¦þ2  K ív5×ûà"3	Ìî’/¬@J
+ˆ'ö‡F+É°(þr*(ÆNw ²‰<`_"`	Ü%äÒ	e-	Y¥;· E7C	¹T‹S(9“*K/?E-!eo/)'3,;0?k$r šú%v5ZŠ"[	„,Öª  	#!3#-	¡çÕña y	A	1Í	ƒùˆ‡(	?I«0o ÇTÛè"W	².kR 	F( .}	Æ Ú$&:\2F*2 €>
+ 	*"+,<	 
+$ 2w Ò—®7‰d"_	ø-ÂÒ )%"Îå!4F PW.9E @J0(tl†n.:"""F($ Fhpv:*8f$\0.>  DD
+ <Ÿ ó$ü.ðm"†	ì)ŸÒ,6*
+RdB<  $ H¶bnDV4PHz.H(*
+
+&d¸,üŒrÈÆ‚:2tl†n.:"""6$6Rpv:*8f$\0 .97 ›ü.õ
+´"	Ö?¬b:.0DD
+.† ù?£AœÉ"m	Ú# Aúb}	 'ri~bÁ0Q"% >;"	.B/*I¾Ý8G)	{!
+6E"9&5.Ÿ%²Û 9»w1 û îx#ú%aþ"ã	Þ.ú<Ò4&	=	;'c+?M;#	Gg5'	'¾Ý8G)	{!
+6E"9&5.Ÿ%²Û-¯g1; %
+)K	%MS')g	+;,)7‹"Q()»})]U A
+%$c'= !-$.]@r1C! # h •÷;x#½ì"P	ò>²9ŠƒD@v&8:ªc<%‰]iSß&E)y@](U5Q0)
+W£25!)	3…]™%!U9%
+3+ jà=÷;‚¢"	ˆ?´;2	%7?u„C› öŠ„SÃ"‚	Š9à>b;à'\b\d,	 ˆOP)l;4!	 Í!Ê-CC-=[/e#79)os­‹77?I15ÇÅ½—í«IAu#5	§‰]1o+	P:(j ¹˜¨@Ž‘"Q	 A´9¢Ÿ*WéTk"W¡>9_k(¡Pe<¥nQ4…BS m"uƒŠY	ã R 3 ‹¨@ô”ß"	ö!Ä@R  ‰ †£AéâÁ"p	†4Š%Š  2x¼:±Ü&- %6!:5F	"
+| *7H½Þ)J A0-
+!=<  !&/RaÂ&q~qj  
+a~+ \ÓDj0«Ø"	 Aâ:- <* [ÏE¢cf"	 Aâ:- <± ®7b¼"˜	 A–¢;	 CC-=[/e#79)os­‹77?I15Û×©…í«IAu#5?
+E4MJA" 
+(:	: & 
+!0-5,&$&<#F>[
+GA#‹'%7-5, ^ÖFò	Â‹"	 Aâ:- <, ¥…B‡’]"	 Aâ:- <) Ú¢ÖF€Ü"	 A–*;
+
+
+
+.) ò	ÓDšƒ"	 A–*;
+
+
+
+.[ ‚šŒ*¶Î"B	¦8¾Ò>@
+b,w¼ º_
+…ö±¬‘0'
+.; ”µøp¯"#	 A–*;
+
+
+
+.	 Ð!2…TM(‡P3 —øÞä{"	Ž>‚=RˆOP)`5 ) gÞã>R›"	è@”;2 @', æ[à=±Í"	 A²;2…Tq</“N }ë˜Ù˜"6	( A’„ÐÚ'v>`%^/Z1ÀP/z?T#T˜+‚7˜%’‰ ) ¨ˆT¡Q"x	 Aâª-CC-=[/e#79)os­‹77?I15ÇÅ‹qû# mÇ%	)'-GGy3OCUYe[G8K7M/U-	['	&A k ®Œ*—Py"T	 Aâ¢-CC-=[/e#79)os­‹77?IF-:OXE3"Íæ!&* 
