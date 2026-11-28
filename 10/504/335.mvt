@@ -1,0 +1,496 @@
+£lx
+stops(Ä id	route_idsroute_names
+mobile_idsmobile_nameslocal_authority_idlocal_authority_namelocal_authority_colourlocal_authority_codename	communityaddresspostcodearrival_timesdeparture_timesroute_start	route_end
+route_daystyperoute_frequenciesroute_schedule	timetable	longitudelatitude"
+7"
+81"
+83"
+114"
+983"
+984"
+985"
+991"
+1003"
+1005"
+1009"
+Wall"
+Cound"
+Eaton"
+Atcham"
+Church"
+Friday"
+Harley"
+Public"
+school"	
+#206C49"	
+#2D85BD"	
+Longnor"	
+Ruckley"	
+SY4 4UQ"	
+SY5 6AS"	
+SY5 6BA"	
+SY5 6BZ"	
+SY5 6DX"	
+SY5 6EW"	
+SY5 6JY"	
+SY5 6ND"	
+SY5 6QE"	
+SY5 7AT"	
+SY5 7EH"	
+SY5 7HR"	
+SY5 7LZ"	
+SY5 7PQ"	
+SY5 7PX"	
+SY5 8AY"	
+SY5 8HE"	
+SY6 6HZ"	
+SY6 7DH"	
+SY6 7JD"	
+SY6 7JZ"	
+SY6 7LE"	
+SY6 7LH"	
+SY7 9HT"	
+TF6 5HN"	
+Tuesday"
+
+09:00:00"
+
+09:15:00"
+
+09:20:00"
+
+09:25:00"
+
+09:30:00"
+
+09:35:00"
+
+09:40:00"
+
+09:50:00"
+
+09:55:00"
+
+10:00:00"
+
+10:10:00"
+
+10:15:00"
+
+10:20:00"
+
+10:25:00"
+
+10:30:00"
+
+10:40:00"
+
+10:45:00"
+
+10:55:00"
+
+11:00:00"
+
+11:15:00"
+
+11:20:00"
+
+11:25:00"
+
+11:40:00"
+
+11:55:00"
+
+12:30:00"
+
+12:35:00"
+
+12:45:00"
+
+12:50:00"
+
+12:55:00"
+
+13:15:00"
+
+13:20:00"
+
+13:25:00"
+
+13:30:00"
+
+13:35:00"
+
+13:40:00"
+
+13:45:00"
+
+13:55:00"
+
+14:05:00"
+
+14:15:00"
+
+14:25:00"
+
+14:30:00"
+
+14:40:00"
+
+14:55:00"
+
+15:00:00"
+
+15:05:00"
+
+15:15:00"
+
+15:20:00"
+
+15:30:00"
+
+15:35:00"
+
+15:40:00"
+
+15:45:00"
+
+16:10:00"
+
+16:20:00"
+
+16:30:00"
+
+Ashfield"
+
+Brockton"
+
+Condover"
+
+Cressage"
+
+Saw Mill"
+
+TF13 6JR"
+
+TF13 6LL"
+
+TF13 6LQ"
+
+Thursday"
+
+Underton"
+
+WV16 6SB"
+
+WV16 6SF"
+
+WV16 6ST"
+
+WV16 6TQ"
+
+WV16 6TY"
+
+WV16 6UR"
+
+post box"
+	Annscroft"
+	E06000049"
+	E06000051"
+	Home Farm"
+	Stapleton"
+	The Glebe"
+	Uckington"
+	Uppington"
+	Wednesday"
+	phone box"
+
+Cardington"
+
+Cound Moor"
+
+Monkhopton"
+
+Severn Way"
+
+Shropshire"
+Brook Close"
+Castle Road"
+Crosshouses"
+Lower Cross"
+Sunningdale"
+Upper Cound"
+All Stretton"
+Church Preen"
+Little Ryton"
+Stanton Long"
+Village Hall"
+hardstanding"
+Acton Burnell"
+Ashfield Farm"
+Cheshire East"
+Ditton Priors"
+by noticeboard"
+Beechwood Drive"
+East Farm Barns"
+Upper Netchwood"
+Week 2 Thursday"
+no through road"
+opposite Church"
+Middleton Priors"
+Stapleton Common"
+The Grange layby"
+Kenley Road layby"
+Acton Burnell Road"
+Earnstrey Park Farm"
+Nr Industrial Estate"
+Opposite Village Hall"
+Beechwood Drive, Eaton"
+Brookes Mobile Library"
+FREQ=WEEKLY;INTERVAL=2"
+FREQ=WEEKLY;INTERVAL=3"
+Sabrina Mobile Library"
+2026-01-01T00:00:00.000Z"
+2026-01-05T00:00:00.000Z"
+2026-12-23T00:00:00.000Z"
+2026-12-31T00:00:00.000Z"
+Alongside brook pavement"
+Cheshire East Mobile Library"
+school, Cressage, Shropshire"
+Church, Stapleton, Shropshire"
+The Glebe, Atcham, Shropshire" 
+Church, Cardington, Shropshire" 
+Home Farm, Ruckley, Shropshire" 
+hardstanding, Wall, Shropshire"!
+Saw Mill, Uppington, Shropshire""
+ Brookes Mobile Library - Route 9""
+ Sabrina Mobile Library - Route 3""
+ Sabrina Mobile Library - Route 9""
+ Severn Way, Cressage, Shropshire""
+ phone box, Annscroft, Shropshire""
+ post box, Monkhopton, Shropshire"#
+!Brook Close, Condover, Shropshire"#
+!Brookes Mobile Library - Route 10"#
+!Brookes Mobile Library - Route 11"#
+!Brookes Mobile Library - Route 12"#
+!Church, Ditton Priors, Shropshire"#
+!Sabrina Mobile Library - Route 12"#
+!Village Hall, Longnor, Shropshire"$
+"opposite Church, Cound, Shropshire"%
+#Ashfield Farm, Ashfield, Shropshire"&
+$Lower Cross, Crosshouses, Shropshire"&
+$Village Hall, Cound Moor, Shropshire"'
+%East Farm Barns, Underton, Shropshire"'
+%Kenley Road layby, Harley, Shropshire"(
+&Castle Road, Acton Burnell, Shropshire"(
+&Village Hall, All Stretton, Shropshire"(
+&Village Hall, Church Preen, Shropshire"(
+&Village Hall, Little Ryton, Shropshire"(
+&post box, Middleton Priors, Shropshire"+
+)Sunningdale, Stapleton Common, Shropshire"+
+)no through road, Stanton Long, Shropshire",
+*The Grange layby, Church Preen, Shropshire"-
++Acton Burnell Road, Upper Cound, Shropshire"-
++Nr Industrial Estate, Uckington, Shropshire"-
++by noticeboard, Upper Netchwood, Shropshire"0
+.Alongside brook pavement, Brockton, Shropshire"2
+0Opposite Village Hall, Ditton Priors, Shropshire"6
+4Earnstrey Park Farm, Earnstrey Park Farm, Shropshire"<
+:https://next.shropshire.gov.uk/libraries/mobile-libraries/"@
+>Mon Dec 07 2026 16:20:00 GMT+0000 (Coordinated Universal Time)"V
+Thttps://www.cheshireeast.gov.uk/libraries/nearest-library/mobile_library_routes.aspx"ø
+ºThu Dec 03 2026 09:00:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 09:00:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 09:00:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 09:15:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 09:15:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 09:15:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 09:20:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 09:20:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 09:20:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 09:25:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 09:25:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 09:25:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 09:35:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 09:35:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 09:35:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 09:55:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 09:55:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 09:55:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 10:00:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 10:10:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 10:10:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 10:10:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 10:20:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 10:20:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 10:20:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 10:25:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 10:25:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 10:25:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 10:30:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 10:30:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 10:30:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 10:55:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 10:55:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 10:55:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 11:00:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 11:00:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 11:00:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 11:25:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 11:25:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 11:25:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 12:30:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 12:30:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 12:30:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 12:35:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 12:35:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 12:35:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 12:55:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 12:55:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 12:55:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 13:20:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 13:20:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 13:20:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 13:25:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 13:25:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 13:25:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 13:30:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 13:30:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 13:30:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 13:40:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 13:40:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 13:40:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 13:55:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 13:55:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 13:55:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 14:15:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 14:15:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 14:15:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 14:25:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 14:25:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 14:25:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 14:30:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 14:30:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 14:30:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 14:40:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 14:40:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 14:40:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 15:05:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 15:05:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 15:05:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 15:15:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 15:15:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 15:15:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 15:35:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 15:35:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 15:35:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 15:40:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 15:40:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 15:40:00 GMT+0000 (Coordinated Universal Time)"	5µl≠CJ@"	ˆ—©+SJ@"	>?åNJ@"	/˙
+“LJ@"	
+pURJ@"	q¨ã€@J@"	¥CVOJ@"	íL‡÷¿"	Zd;ﬂœ¿"	∫†æeJJ@"	"lxz•l¿"	#æ≥^L¿"	$ò¿≠{¿"	$÷‚S L¿"	,e‚XCJ@"	/Ür¢]QJ@"	:Ø±KTo¿"	:Ãó`ü¿"	=’!7√AJ@"	>Ì◊dç¿"	>Ì◊dÕ¿"	B`Â–"CJ@"	H‹cÈCWJ@"	H˘IµO¿"	OjMs¿"	P¸s◊í¿"	XˇÁ0_¿"	_ÂDª ¿"	it±3EJ@"	pŒà“ﬁTJ@"	wJÎˇú¿"	x¥qƒZ<¿"	}ñÁ¡›QJ@"	~5ÊDJ@"	Ö8Ñ*u¿"	áø&k‘C¿"	ä∞·ÈïNJ@"	éÃ#0@J@"	îjüé«¿"	ïö=–
+Ã¿"	õ¨Q—PJ@"	ùKqUŸ?J@"	ûwgÌFJ@"	£Xni5d¿"	©ü7©¿"	∞¨4)›¿"	≤Ù°ÍOJ@"	æ¡&SE¿"	¡nÿ∂(s¿"	 ﬁÂ"˛¿"	Ãó`QJ@"	Œ•∏™ÏWJ@"	œNG…k¿"	–∏p $¿"	”ˆØ¨4UJ@"	’	h"l¯¿"	◊/ÿ€VJ@"	ŸƒÎ˙QJ@"	⁄…‡(yIJ@"	€P1Œﬂ¿"	ﬂ√%«ùFJ@"	„4ÙOLJ@"	ÊtYLlæ¿"	Ôê⁄ƒâ¿"	ä‡+AJ@"	ƒ¨Cπ¿"	˘ „@J@"	¸åB>J@" " " Å0" á0" à/" ä0" ç/" ì/" î/" î0" ñ/" û0" †0" •/" ¶/" ≥/" ∑/" º/" ¿0" ¡/" ¡0" ¬0" ƒ" ƒ0" ≈0"  /" À/" ‘/" Ÿ/" ‰/" Ò." Ò/" Ú/" Û." ı." ˛.I? ‹	∫´¿á{	Ç
+yΩ'36¨ØÅ©ﬁ⁄á±"	2ú	J? »
+ª´¿á{	å
+†—(>A¨Ø1©Â⁄ìˇ"	ê˙I> ‚ƒ´¿á{	à
+jø!49¨Ø©ﬂ⁄∞¸"	≤
+˛H= ∆
+ª´¿á{	
+}≥";=¨Ø1©„⁄ûä"	¨úJ? ‘
+ª´¿á{	í
+êœ$59¨Ø1©‡⁄∂©"	¯
+–I> ”
+ª´¿á{	í
+≈&23¨Ø1©›⁄°˛"	†
+ÓJ? “ƒ´¿á{	ã
+ä»<A¨Ø©‰⁄´ò"	ÚÄ
+H=  ¬®¿á{	~
+¥ PS¨Ø©Ó⁄ã≥"	û¨I> Ÿ¬®¿á{	•
+’;=¨Ø©„⁄ïÆ"	∏ÏJ? ≈¡®¿á{	â
+îÃ%DE¨Øp©È⁄éü"	»ﬁH= œ¡®¿á{	|
+∂#GH¨Øp©Í⁄∫∏"	ÚàJ? ›¡®¿á{	£
+ç‘:=¨Øp©‚⁄Üõ"	¨ÜJ? ÷¡®¿á{	í
+Ñ…@B¨Øp©Á⁄àÅ"	∞¸I> ⁄¡®¿á{	û
+∆79¨Øp©·⁄ö¥"	‚‰J? —
+ª´¿á{	í
+éÕ)ce¨Ø1©˙⁄¶•"	º‘*I> «
+ª´¿á{	
+Éµ,QT¨Ø1©Ô⁄Ç∑"	Ñ≤+I> Œ
+ª´¿á{	ì
+∑+Y[¨Ø1©Ù⁄¢˚"	Ä¢2I> ’ú ±øñz	ô
+ß*fg≠Æp™€‹ßÄ"	ﬁÏ8J? À¡®¿á{	°
+è”-KL¨Øp©Ï⁄ÖÑ"	ºƒ"J? ◊¡®¿á{	í
+èŒ.NO¨Øp©Ì⁄™µ"	¸⁄$I> ¡¬®¿á{	l
+Ä∏0?A¨Ø©Ê⁄ºë"	∂(≤H= ¬ƒ´¿á{	
+k≤GI¨Ø©Í⁄è≠"	–&‰I> ƒƒ´¿á{	Ü
+kºCF¨Ø©Ë⁄É£"	¥&¿I> –¡®¿á{	¢
+À_a¨Øp©¯⁄ñ˝"	&˙I> ‡¡®¿á{	∞
+i◊mTW¨Øp©Ò⁄¨ó"	¶"ÿ.I> ﬂ¡®¿á{	x
+Öær[\¨Øp©ˆ⁄Øú"	®/¥/K@ ÿ¿®¿á{	ù
+ë“oJM¨ØÅ©Î⁄íç"	æ!ﬁ6K@ Ã¿®¿á{	§
+§Ÿ/VX¨ØÅ©Ú⁄≤æ"	Ë"ˆ>J? ·¿®¿á{	ï
+h«nRU¨ØÅ©⁄®†"	†%¥:J? √¡®¿á{	ò
+õ÷sXZ¨Øp©Û⁄ôâ"	¯*Ñ3J? …¿®¿á{	
+ó√uZ]¨ØÅ©ı⁄å§"	‹*ö;K@ €¿®¿á{	¶
+óÿt^`¨ØÅ©˜⁄îΩ"	Ï+Œ:J? ﬁ¿®¿á{	x
+ü–wbd¨ØÅ©˘⁄ùª"	º.ê8I> Õπ®¿á{	ö
+q v48¨Ø1©ﬂ⁄πê"	‹>ƒ3ç&x
+trips(Ä idorigin_stop_idorigin_stop_namedestination_stop_iddestination_stop_namedistanceduration"
+Church"
+school"
+
+Red Lion"
+
+Saw Mill"
+
+bus stop"
+
+post box"
+	Home Farm"
+	The Glebe"
+	phone box"
+
+Edgefields"
+
+Severn Way"
+Brook Close"
+Castle Road"
+Church Lane"
+Lower Cross"
+Sunningdale"
+The Swan Inn"
+Village Hall"
+hardstanding"
+Ashfield Farm"
+by noticeboard"
+Beechwood Drive"
+East Farm Barns"
+no through road"
+opposite Church"
+The Grange layby"
+Kenley Road layby"
+Acton Burnell Road"
+Earnstrey Park Farm"
+Hare and Hounds pub"
+Millington Hospital"
+Nr Industrial Estate"
+Opposite Village Hall"
+Alongside brook pavement" t" Äª" Å0" Ç
+" Ç/" É" Ñ'" Ü" Ü0" á0" à/" ä0" ãy" å" åR" ç/" é" ê" ê'" ë" í" ì/" î&" î'" î/" î0" ï" ï'" ñ" ñ&" ñ/" ñ2" ò&" ò'" ô" õA" ù" ù" ùI" û&" û0" ü0" †0" †W" ¢&" •/" ¶" ¶/" ¶0" ß&" ß/" ™-" ´'" ´>" ¨&" ≠Ü" Ø'" ±" ≤" ≤&" ≤'" ≥&" ≥/" ¥&" ¥/" ∑/" º" º/" ø" ø" ø" ¿" ¿0" ¡/" ¡0" ¬$" ¬0" √" √&" ƒ" ƒ&" ƒ/" ƒ0" ≈'" ≈0" ∆'" »'" …'"  "  /" À/" À6" œ" œ" –" –&" —" “" ”" ‘&" ‘/" ’" Ÿ/" ⁄" ⁄" ‹" ‹" ‹&" ›" ‡" ‚" „&" ‰&" ‰/" Â/" Â\" Ê" Á" Ë	" È" Î$" Î/" Ï" Ï!" Ï&" Ïd" Ô " Ô|" Ò." Ú/" Û." ı." ˘&" ˙" ˙&" ˚" ˚" ˚/" ˝" ˛" ˛&" ˛., ¶ì´5/"	2û	B1$)F» N&: üé"±	ü¿$™	-	(#
+		
+ @"J& $
+
+
+*@. 	 *&&	" 
+8f2(
+6)b	:
+ 
+
+	&>
+" (	 &
+0
+n(*
+$j:&:			 =H&@"
+" *>,L4d
+" 	 
+ ÆõT	WÇ"	üï
+	Ä =+s.i"l	¸$æÚ7%I√°A#I=ßY	ü-	M9;]Qëè!%G3+-/e+;+3=?c/+A/=[)ã«1_GI%/!/ 3a=uOüª gqYA"¶	†ü 8Jà
+kVa:M ]Qá?aóZ=
+"N`  N> FttL3†
++&<1^T
+P(R (	Z
+(4tN *X V$,.BÜ2h"&FP≤Ñ ";D5v#*#>,	P*	68 R**!60é#ÄXé(I|9p-d3ä3`:.SÇ–( $
+&@
+J@ 0
+04 HH J2Z0** ">&2,6" *~,vV
+0E 4$bU2"1	î(Ê™MQb/	c#		3!++))` ]7 ;ßÉ"J	–¢äW
+"	#)
+#/Ô U;c2´ IØkï'"î	≤
+˛¢$+/G/ ) +
+M%#	&C;,%	(yK%Sì E= Mm
+M	"4äUJF	¶	,4	V!>N422`å»*>\B00,2R>N@.\(0
+(4 Z wn7 èP"E	Ã
+∆˙	)	)O)-'9 ) 	+_ ulnßÄ"I	†
+Óä	'	#M
+!c?  )1)
+47< 9*Jù~"'	∫üz/85+,)0M.#ﬁ	äà(8 X1c\f"$	¸≤z |@ *b 
+	p ÖcLöâ"Y	ÓÑ¬
+,	L 2%T% Æí"0&*D &-/87\/6/3 2,	z6
+*, ûÜ¢Ñ)"	‚‰:	)'1S`? 8¢tåú"(	æ¢Ç*'D)>R@V d3Ç#JW xt1äo"B	å‡Íî9+#7##7# AAQ?h>  
+65 	= <2 JN _: `[¨"9	¢ê2 	"
+8("*	
+RR><*
+,2 VLv™>"	ûò$Z&Hà"x
+-&-383$GJW Å`RE©"A	˙Ä7‚*AhH2B"&8h
+
+.<,	L≤4<.g@ól}fA.ƒ ®î{Mò"¨	®†Aí3 307/-5 /+C1 $C9(Y>].2++6;:[43B%&#8%63#8;*Çe  
+nR*2. &2  =$(,
+&###$$$%'		
+D í|$†ã"-	∏Ïä		*	P‘0≤5ägÙvD5/ C-
++á""	¨&ËR( K# '=#b çk-
+}<"M	å™
+Ç ,.H4"&íê^R:<N
+†.
+®ZJ>$Béæ"L. 
+"4:
+ '!£ yv§!0%"ç	Ï–'íu–#	2.	6¨Mt
+2>
+0B.\+45PM@3NW,52Q4G@M.HH H8
+2, $6">4",** 0*P2Bp&Z&B<*0v ë{•mG"`	Ã"¨6‚'#>
+(Ü2
+
+
+86
+T
+L:@()(';^72/.&.,&
+G B•O≠d"1	Æ#∂?™.
+D
+(	./ .9)	X ?§!,3F"C	 '¯0Ú
+4lH.  ":,VRJ#(!/!:1dI-<Q6+)0J=b pO@ ^ô"M	í&Í>ö@.	p:<.A(1
+21:/	I	
+9$
+ 825R	 9,-( a@ à ó6"	¶,é:22!$8CXa< S,£Dñ"&	∫0¶.z42.é$ ÿf"*6:#∂ (£e°z"ü	ÿ8⁄-“24 ^8 %s-!_)!!e/%_7M7s=!;7Ka3!?ï©'UA1	%e%y5ì#eÅ]k) '=!;3'/-3#?G##7 rQKHê""	⁄>ƒ3r2"0$
+ "&6q ZRj#h"]	üº@r= '
+ ;cE;O!-c3	 À PüE6O8Yv©8M.7Di-90Y:ì		- 

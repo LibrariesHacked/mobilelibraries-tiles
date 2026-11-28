@@ -1,0 +1,455 @@
+—Wx
+stops(Ä id	route_idsroute_names
+mobile_idsmobile_nameslocal_authority_idlocal_authority_namelocal_authority_colourlocal_authority_codename	communityaddresspostcodearrival_timesdeparture_timesroute_start	route_end
+route_daystyperoute_frequenciesroute_schedule	timetable	longitudelatitude"
+13"
+70"
+164"
+165"
+169"
+170"
+866"
+868"
+870"
+Catton"
+Centre"
+Friday"
+Monday"
+Public"	
+#194476"	
+#E32826"	
+CA8 7JS"	
+CA8 7LA"	
+CA8 7NH"	
+Holwick"	
+Juniper"	
+Leaside"	
+Lowgate"	
+Tuesday"	
+Village"
+
+09:30:00"
+
+09:50:00"
+
+10:00:00"
+
+10:10:00"
+
+10:20:00"
+
+10:30:00"
+
+10:40:00"
+
+10:50:00"
+
+11:00:00"
+
+11:05:00"
+
+11:20:00"
+
+11:25:00"
+
+11:35:00"
+
+11:55:00"
+
+12:00:00"
+
+12:20:00"
+
+12:30:00"
+
+12:35:00"
+
+12:40:00"
+
+12:45:00"
+
+12:48:00"
+
+12:50:00"
+
+12:53:00"
+
+12:56:00"
+
+13:01:00"
+
+13:05:00"
+
+13:15:00"
+
+13:20:00"
+
+13:25:00"
+
+13:35:00"
+
+13:40:00"
+
+13:45:00"
+
+13:50:00"
+
+13:52:00"
+
+14:02:00"
+
+14:05:00"
+
+14:15:00"
+
+14:20:00"
+
+14:30:00"
+
+14:35:00"
+
+14:40:00"
+
+14:45:00"
+
+14:50:00"
+
+15:00:00"
+
+15:05:00"
+
+15:10:00"
+
+15:20:00"
+
+15:25:00"
+
+16:00:00"
+
+16:40:00"
+
+17:00:00"
+
+17:20:00"
+
+Cowshill"
+
+DL12 0ED"
+
+DL12 0EF"
+
+DL12 0NL"
+
+DL12 0NP"
+
+DL12 0XP"
+
+DL13 1AJ"
+
+DL13 1BE"
+
+DL13 1DA"
+
+DL13 1EF"
+
+DL13 1HJ"
+
+DL13 1JS"
+
+DL13 1NP"
+
+DL13 1QQ"
+
+Lanehead"
+
+Lunedale"
+
+NE46 2NZ"
+
+NE47 0JJ"
+
+NE47 0LA"
+
+NE47 7EF"
+
+NE47 8HA"
+
+NE47 9AY"
+
+NE47 9HJ"
+
+NE49 0JB"
+
+NE49 0QT"
+
+Thursday"
+
+Wearhead"
+
+Westgate"
+	E06000047"
+	E06000057"
+	Greenhead"
+	Lane Hill"
+	Newhouses"
+	The Banks"
+	Whitfield"
+
+Broadacres"
+
+Ettersgill"
+
+Slaggyford"
+
+The Church"
+Allans Hill"
+Bardon Mill"
+Post Office"
+Herdley Bank"
+Ireshopeburn"
+Langdon Beck"
+Park Village"
+Pennine Road"
+Redburn View"
+Splitty Lane"
+The Cenotaph"
+Village Shop"
+County Durham"
+Daddry Shield"
+East Haswicks"
+Week 1 Monday"
+Week 2 Monday"
+Allenheads Inn"
+Chapel Cottage"
+Northumberland"
+West Blackdene"
+Whitley Chapel"
+Halton Lea Gate"
+St Helen's Gate"
+Week 1 Thursday"
+Week 2 Thursday"
+Centre, Wearhead"
+Ettersgill House"
+Opp Caravan Site"
+St Andrews Place"
+St John's Chapel"
+Wrentnall Cottage"
+Blenkinsopp Castle"
+Forest in Teesdale"
+West Mobile Library"
+Allans Hill, Holwick"
+The Church, Cowshill"
+Durham Mobile Library"
+FREQ=WEEKLY;INTERVAL=3"
+Village, Daddry Shield"
+East Haswicks, Westgate"
+Lane Hill, Ireshopeburn"
+Lowgate, Northumberland"
+Newhouses, Ireshopeburn"
+2026-01-05T00:00:00.000Z"
+2026-12-31T00:00:00.000Z"
+Chapel Cottage, Lunedale"
+Opp Caravan Site, Westgate"
+Slaggyford, Northumberland"
+St Andrews Place, Westgate"
+Ettersgill House, Ettersgill"
+Herdley Bank, Northumberland"
+Park Village, Northumberland"
+The Banks, Forest in Teesdale" 
+Allenheads Inn, Northumberland" 
+The Cenotaph, St John's Chapel"!
+Wrentnall Cottage, Langdon Beck"&
+$Post Office, Juniper, Northumberland"&
+$Splitty Lane, Catton, Northumberland")
+'Broadacres, Bardon Mill, Northumberland")
+'Village Shop, Whitfield, Northumberland"*
+(Leaside, Halton Lea Gate, Northumberland"+
+)Redburn View, Bardon Mill, Northumberland"/
+-Greenhead, Blenkinsopp Castle, Northumberland"/
+-Pennine Road, Halton Lea Gate, Northumberland"1
+/St Helen's Gate, Whitley Chapel, Northumberland"7
+5West Mobile Library Week 2 - Friday Juniper to Slaley"?
+=West Mobile Library Week 2 - Tuesday Lowgate to Acomb Village"C
+AWest Mobile Library Week 1 - Tuesday Blenkinsopp - Allenheads Inn"I
+Ghttps://libraryonline.durham.gov.uk/pgLibMobile.aspx?&COMMUNITY=Holwick"J
+Hhttps://libraryonline.durham.gov.uk/pgLibMobile.aspx?&COMMUNITY=Cowshill"J
+Hhttps://libraryonline.durham.gov.uk/pgLibMobile.aspx?&COMMUNITY=Lanehead"J
+Hhttps://libraryonline.durham.gov.uk/pgLibMobile.aspx?&COMMUNITY=Lunedale"J
+Hhttps://libraryonline.durham.gov.uk/pgLibMobile.aspx?&COMMUNITY=Wearhead"J
+Hhttps://libraryonline.durham.gov.uk/pgLibMobile.aspx?&COMMUNITY=Westgate"L
+Jhttps://libraryonline.durham.gov.uk/pgLibMobile.aspx?&COMMUNITY=Ettersgill"N
+Lhttps://libraryonline.durham.gov.uk/pgLibMobile.aspx?&COMMUNITY=Ireshopeburn"P
+Nhttps://libraryonline.durham.gov.uk/pgLibMobile.aspx?&COMMUNITY=Langdon%20Beck"Q
+Ohttps://libraryonline.durham.gov.uk/pgLibMobile.aspx?&COMMUNITY=Daddry%20Shield"R
+Phttps://libraryonline.durham.gov.uk/pgLibMobile.aspx?&COMMUNITY=West%20Blackdene"W
+Uhttps://northumberland.spydus.co.uk/cgi-bin/spydus.exe/MSGTRNGEN/WPAC/WESTMOBILEROUTE"X
+Vhttps://libraryonline.durham.gov.uk/pgLibMobile.aspx?&COMMUNITY=Forest%20in%20Teesdale"X
+Vhttps://libraryonline.durham.gov.uk/pgLibMobile.aspx?&COMMUNITY=St%20John%27s%20Chapel"
+}Mon Dec 07 2026 09:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 09:30:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 09:50:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 09:50:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 10:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 10:00:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 10:10:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 10:10:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 10:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 10:30:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 10:40:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 10:40:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 11:05:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 11:05:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 11:35:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 11:35:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 12:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 12:00:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 12:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 12:30:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 12:35:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 12:35:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 12:40:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 12:40:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 12:48:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 12:48:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 12:50:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 12:50:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 12:56:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 12:56:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 13:05:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 13:05:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 13:25:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 13:25:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 13:40:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 13:40:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 13:52:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 13:52:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:05:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 14:05:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:15:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 14:15:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:20:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 14:20:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:35:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 14:35:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:45:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 14:45:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 15:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 15:00:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 15:10:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 15:10:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 16:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 16:00:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 17:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 17:00:00 GMT+0000 (Coordinated Universal Time)"	 ÊÀp¿"	46<uK@"	{⁄·Ø	¿"	+j0gK@"	díë≥p¿"	'É£‰’˘¿"	'à∫@*¿"	('⁄UH9¿"	+ˆó›ì¿"	->¿x^K@"	333333¿"	4K‘‘nK@"	5SvK@"	=∏;k∑QK@"	?„¬ÅêtK@"	DãlÁ˚)¿"	FB[Œ•|K@"	G…´s» ¿"	L7âA`yK@"	Lé;•ÉQK@"	QN¥´êbK@"	UMuTK@"	[Œ•∏™Ï¿"	]ä´ æ´¿"	_{fIÄVK@"	`∞∂-vK@"	e¬/ıÛ^K@"	pÎnûÍP¿"	Ñf⁄˛uK@"	Ö±Ö uK@"	Ü=Ì◊$¿"	ä}"O^K@"	ë–ñs)^K@"	ßëñ €ë¿"	≠iﬁqäbK@"	±øÏû<Ï ¿"	≤à◊ıÀ¿"	Àgy‹]¿"	◊i§•Úˆ¿"	€ø≤“§‘¿"	€˘~jº4¿"	‹)¨ˇ≥¿"	‡g\8“¿"	„«òªñ|K@"	‰f∏ü_K@"	Â–"€˘æ¿"	Ô_{faK@"	ÒFÊë?|K@"	Ùâ<I∫Ê¿"	ˇÁ0_^TK@" 	" " Ö)" á	" â)" å)" é	" î	" £)" ´(" ∑" ∏(" ¡" ¬" ∆(" —(" ‘" ÷" ‚'" „" ‰" Í" Ô" Ò(" Ù(" ı(" ¯" ¯(" ˘'" ˝" ˛" ˇH> û∏ññáj	k
+î≥†°ö…ƒÌé"	ñVH= ¨∏ññáj	z
+z®d †°öÀƒ˘ı"	¶‘I> £∏ññáj	
+ä±'(†°öœƒàˇ"	¢ÏI> ≠∏ññáj	{
+ä¥%&†°öŒƒàˇ"	¢ÏH= †∏ññáj	w
+wße"$†°öÕƒÎÔ"	é∏H= ó∏ññáj	r
+r§*3†°ö—ƒÂÓ"	Ç⁄G= ±∑ññáj	p
+uØ`!†°öÃƒìÛ"	˙(NG= ∞∑ññáj	|
+u≤`†°ö ƒìÛ"	˙(NH= ù∏ññáj	
+o∞aDG†°öﬂƒêÒ"	‹*Œ
+H= ô∏ññáj	}
+	ÆbKL†°ö‚ƒÅ‰"	»1‰	H= §∑ññáj	
+û]†°ö«ƒÍí"	Ñ<åJ? ö∂ññáj	ã
+âµ^#†°öÃƒÜÄ"	∫?Ñ
+J? ß∏ññáj	Ö
+Ö™cIJ†°ö·ƒáÊ"	¬5¶G< ®Ñ ôïÄi	[
+[[SFH†°ö‡ªË˜"	º3Ï H= °Ñ ôïÄi	
+
+géT58†°ö◊ΩâÖ"	Œ3 H= ¥Ñ ôïÄi	s
+MòU.4†°ö‘∫çë"	û5¢"J? õÑ ôïÄi	à
+ààV<E†°ö⁄√˙è"	¯6º$H= ©Ñ ôïÄi	l
+xùW:;†°öŸ¿å˝"	 6§%H= ™É ôïÄi	m
+xüW79†°öÿ¿å˝"	 6§%I> úå ôïÄi	ì
+y¨R@C†°fö›¡ä˚"	ê5ÿ/I> ≥É ôïÄi	~
+í´Z26†°ö÷∆ÁÇ"	»9ä&I> òÉ ôïÄi	
+ÅõY>A†°ö‹¬˛É"	˛:¢&I> •É ôïÄi	Ç
+húX-/†°ö”æÈÏ"	⁄<%I> ´É ôïÄi	ê
+h£X01†°ö’æÈÏ"	⁄<%I> ØÉ ôïÄi	ë
+h•X+,†°ö“æÈÏ"	⁄<%I> ≤ç ôïÄi	n
+ï©N=?†°fö€≈Ñ¯"	å8Œ2I> ¶ç ôïÄi	è
+q¶OBD†°föﬁø„î"	Ã9®2H= üå ôïÄi	t
+óQ),†°fö–πã"	û< 5I> ¢å ôïÄi	Ü
+\¢P.2†°fö‘ºÚˆ"	‹<Í5H= Æ∂ññáj	v
+≠_†°ö»ƒÙ¸"	àAŒ… x
+trips(Ä idorigin_stop_idorigin_stop_namedestination_stop_iddestination_stop_namedistanceduration"
+Centre"	
+Leaside"	
+Lowgate"	
+Lowside"	
+Village"
+
+Car Park"
+
+Lanehead"
+	Greenhead"
+	Lane Hill"
+	Newhouses"
+	The Banks"
+	Westfield"
+	Westgarth"
+
+Broadacres"
+
+Dukesfield"
+
+Slaggyford"
+
+The Church"
+Allans Hill"
+Post Office"
+Dales Centre"
+Herdley Bank"
+Park Village"
+Pennine Road"
+Redburn View"
+Rose & Crown"
+Splitty Lane"
+The Cenotaph"
+Village Shop"
+East Haswicks"
+Allenheads Inn"
+Chapel Cottage"
+West Blackdene"
+St Helen's Gate"
+The Post Office"
+Ettersgill House"
+Opp Caravan Site"
+St Andrews Place"
+Twice Brewed Inn"
+Wrentnall Cottage"
+Stripe Head Cottage"  " Ä√" Å" Ç" É	" Ñ" Ö)" Ü" á" á	" àx" â)" ä" ä" ã" ã!" å)" é	" ê	" ë" ë	" ì" î	" î!" ñ" ñ" ó(" ô" ô" ô
+" ö)" ù'" û" ü" †±" °" °" £)" §" §" •" ®" ™" ™"" ´" ´(" ´Ã" ¨" ¨" ≠!" Ø" Ø	" Ø!" ∞!" ≥" ≥!" ¥" µ" µ " ∂	" ∑" ∏" ∏(" ∫" ª" Ω" æ" æ" æ	" æ!" ø" ø" ¿ú" ¡" ¡" ¬" √!" ƒ" ∆("   " Œ" œ" —(" ”" ‘" ‘!" ÷" ÿ" Ÿv" ⁄" ⁄I" ‹" ‹" ·" ‚'" „" „≠" ‰" ‰u" Á" Èï" Í" Ó" Ó*" Ô" Ô" Ô#" Ò " Ò(" Ú" ÚJ" Ù(" ı(" ı0" ˆ" ˆ´" ˆ∫" ˜" ¯" ¯" ¯(" ¯," ˘'" ˙" ˚" ˝" ˝ " ˛" ˇA w¢F%°£"*	ƒ(Jí @6*				%O!q+¿ ?z†àl"©	Ñ<äÇ  
+  |TF  
+ +E?7?75	! 		È ÍCN3R?-óz_A'5 G)'/UY?9u+ É-)
+5?
+ 
+	Y ¶fóG"C	¶àÚ	'3
+$'24% GQ_	%  (U ìUîôh">	úZ⁄	
+
+ ≤~"BÑ	 
+(&
+&>)/$% 
+D YîfoI"/	∞Ï¢@O&6:F%),	3  \óv(("	ºÜ	
+Ñ 7v.ñq"o	÷î	¢2 2RH 
+
+:~)> 0T( ^ 04&
+$V
+$*"B Ö m.MúA"Ô	ö í	 2BP
+(4jPF 
+
+
+2ZZ¿B
+9 	y	-%
+		X_"4#( .+	
++#ñ’*	FP	"   :	
+/_YUGI;Ö !	
+ 
+   5 28  _†¢(("	Ã(L
+§ bÜ3ä`"ç	‚4éö!9}!%' #7#'-M_Q#0+	 	957KA5 !71 	 
+	1%# !E	#	» }MÜåE"±	¯,é™*tdT^$
+
+V" 
+8(	
+   *8"6BL86:
+ 
+/,$R` N.($8
+ $(&"~6 48B
+5=!5 W®r 4/" 	ÿ4–!j5		  
+
+J e9áSj"5	ñ6™$∫	!'7					#/	!\ ûr âíu"E	Ä4¶!˙ $
+
+ 
+
+
+8(" Z8
+,  9 Tßç	LÉ""	‘7ú%r/ 0 5 =â9ka" 	¸6é%j%	 7 0|ë#(("	∞;¯%
+ Pü$|(("	‘;˛%
+#6 Hë#ß{C" 	ñ;ˆ%j	/5)Y9'5o g:®p["Z	†AÆ% +CE#%k-S +=e	/5)a;/9	!-áY !)7?))) R•
+~"5y"	í9æ2:
+ 	I öndèÖ"2	Ç@ˆ7™ -Å_'uA-##$.vB R ]ò8 6i"=	àA“J
+ 
+
+	 ,Ç	
+      3 t8 Bï*"	¬?¸	b  	 
++ ^1<õc"	ê>¯%B`&$FD, U Q§'1JX"@	†AÆ%‚+CE#%kÉ)- K/	!
+f@,~C +xü$Ç;"-	†AÆ%ö+CE#%k-S 
+  ;'O Dç	§'VO"9	Ë7™%  6(jB**4
+f>,T .l&$FD, ) êds-Å"	≤>Ó62Ç`.p.(É @ã>&ÄK"m	†A∫7ö3/-'	%/%'-''A' -'-Q9-%	/		-')!/9		#!z Nù•
+2Ñ"c	†A∫7Ú3/-'	%/%'-'#E' -'-Q9-%	/		 .
+
+(! Z,!n)é"	†A¨8'm-

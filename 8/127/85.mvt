@@ -1,0 +1,455 @@
+‘zx
+stops(Ä id	route_idsroute_names
+mobile_idsmobile_nameslocal_authority_idlocal_authority_namelocal_authority_colourlocal_authority_codename	communityaddresspostcodearrival_timesdeparture_timesroute_start	route_end
+route_daystyperoute_frequenciesroute_schedule	timetable	longitudelatitude"
+30"
+78"
+369"
+370"
+371"
+372"
+373"
+374"
+965"
+966"
+967"
+968"
+969"
+Hayes"
+Copnor"
+Friday"
+Hilsea"
+Monday"
+Pinner"
+Public"	
+#005148"	
+#0B2864"	
+Drayton"	
+Eastney"	
+HA4 6JA"	
+HA4 6PD"	
+HA4 6QZ"	
+HA4 7JA"	
+HA4 9PG"	
+HA5 2LX"	
+HA5 2NB"	
+HA5 2TH"	
+HA6 1DS"	
+PO2 9LE"	
+PO3 5EL"	
+PO3 5UH"	
+PO4 0QJ"	
+PO4 9AG"	
+PO6 1HE"	
+PO6 1RR"	
+PO6 4AR"	
+Private"	
+Ruislip"	
+Tuesday"	
+UB3 1NW"	
+UB3 1PE"	
+UB3 2LT"	
+UB3 2PA"	
+UB3 2PD"	
+UB3 2PY"	
+UB3 2UF"	
+UB3 5AB"	
+UB3 5HS"	
+UB4 0NL"	
+UB4 8HQ"	
+UB4 9LW"	
+UB7 0AQ"	
+UB7 0AU"	
+UB7 0ED"	
+UB7 0JR"	
+UB7 7EJ"	
+UB7 7RJ"	
+UB7 7UG"	
+UB7 9NG"	
+UB7 9NQ"	
+UB8 2AN"	
+UB8 2TU"	
+UB8 2UR"	
+UB8 2YJ"	
+UB8 3AN"	
+UB8 3NN"	
+UB8 3XG"	
+Yeading"
+
+09:30:00"
+
+10:00:00"
+
+10:15:00"
+
+10:40:00"
+
+10:45:00"
+
+10:50:00"
+
+10:55:00"
+
+11:00:00"
+
+11:10:00"
+
+11:15:00"
+
+11:20:00"
+
+11:45:00"
+
+11:50:00"
+
+11:55:00"
+
+12:00:00"
+
+12:30:00"
+
+12:40:00"
+
+13:30:00"
+
+13:45:00"
+
+14:00:00"
+
+14:10:00"
+
+14:30:00"
+
+14:40:00"
+
+14:45:00"
+
+14:50:00"
+
+15:00:00"
+
+15:10:00"
+
+15:15:00"
+
+15:30:00"
+
+15:35:00"
+
+15:40:00"
+
+15:55:00"
+
+16:10:00"
+
+16:15:00"
+
+16:25:00"
+
+16:30:00"
+
+Southsea"
+
+Thursday"
+
+UB10 0DD"
+
+UB11 1BF"
+
+Uxbridge"
+	E06000044"
+	E09000017"
+	Eton Road"
+	Wednesday"
+
+Canoe Lake"
+
+Farlington"
+
+Harlington"
+
+Hillingdon"
+
+Paulsgrove"
+
+Portsmouth"
+Clammas Way"
+School Road"
+Glebe Avenue"
+West Drayton"
+Wimpole Road"
+Pinkwell Lane"
+Stockley Park"
+Anchorage Park"
+Field End Road"
+St Peter's Way"
+Admiralty Close"
+Ruislip Gardens"
+Judge Heath Lane"
+09:30:00,13:30:00"
+12:30:00,16:30:00"
+Busy Bees Nursery"
+Wentworth Crescent"
+Hillingdon Hospital"
+Old Station Nursery"
+School Road, UB7 0AU"
+St Vincent's Nursery"
+FREQ=WEEKLY;INTERVAL=1"
+FREQ=WEEKLY;INTERVAL=3"
+FREQ=WEEKLY;INTERVAL=4"
+Little Marvels Nursery"
+Ruislip Gardens School"
+Sainsbury's Farlington"
+McMillan Nursery School"
+2026-01-05T00:00:00.000Z"
+2026-12-31T00:00:00.000Z"
+Morrisons Anchorage Park"
+Canopy Vine Lodge Nursery"
+Eton Road, Hayes, UB3 5HS"
+Harmondsworth High Street"
+Hillingdon Mobile Library"
+Portsmouth Mobile Library"
+Drayton Lane / Havant Road"
+Henderson Road / Ferry Road"
+Mayfield Road / Copnor Road"
+Bath Road (Longford Village)"
+Coat of Many Colours Nursery"
+Manor House Kelf Grove Hayes" 
+Clammas Way, Uxbridge, UB8 3AN" 
+Glebe Avenue, Ruislip, HA4 6QZ"!
+Discovery Nursery and Preschool"!
+London Road (opp Amberley Road)"!
+Platinum Jubilee Leisure Centre""
+ Canoe Lake, Southsea, Portsmouth""
+ Hillingdon Mobile Library Friday""
+ Portsmouth Mobile Library Friday""
+ Portsmouth Mobile Library Monday"#
+!Portsmouth Mobile Library Tuesday"#
+!Rowan Road (near Longmead School)"$
+"Cobden Court Cobden Close Uxbridge"$
+"Harmondsworth High Street, UB7 0AQ"$
+"Hillingdon Mobile Library Thursday"$
+"Pinkwell Lane, Harlington, UB3 1PE"$
+"Portsmouth Mobile Library Thursday"$
+"Wallis House Cottage Close Ruislip"$
+"Wentworth Crescent, Hayes, UB3 1NW"%
+#Delamere Road (near Berwick Avenue)"%
+#Hillingdon Mobile Library Wednesday"%
+#Missouri Court Bridle Road Eastcote"%
+#Portsmouth Mobile Library Wednesday"%
+#St Peter's Way, Harlington, UB3 5AB"%
+#Wimpole Road, West Drayton, UB7 7RJ"&
+$Chitterfield Gate (near Sipson Road)"&
+$Leaside Court The Larches Hillingdon"&
+$The Burroughs Mill Road West Drayton"'
+%Bath Road (Longford Village), UB7 0ED"'
+%Manor House Kelf Grove Hayes, UB3 2PY"'
+%St Vincent's Nursery, Pinner, HA5 2LX"(
+&Admiralty Close, West Drayton, UB7 9NG"(
+&Old Station Nursery, Uxbridge, UB8 2UR"(
+&Park View Court Farrier Close Uxbridge"*
+(Hillingdon Mobile Library Tuesday Week 1"*
+(Hillingdon Mobile Library Tuesday Week 2"*
+(Hillingdon Mobile Library Tuesday Week 3"*
+(Little Marvels Nursery, Yeading, UB4 9LW",
+*Busy Bees Nursery, Stockley Park, UB11 1BF",
+*Grassy Meadow Day Centre Grange Road Hayes",
+*Top of the Green (opp St Michael's Church)"-
++Cobden Court Cobden Close Uxbridge, UB8 2YJ"-
++Wallis House Cottage Close Ruislip, HA4 7JA"-
++Westcombe Lodge Westcombe Lodge Drive Hayes".
+,Canopy Vine Lodge Nursery, Uxbridge, UB8 2AN".
+,Missouri Court Bridle Road Eastcote, HA5 2TH"/
+-The Burroughs Mill Road West Drayton, UB7 7WQ"0
+.Leaside Court The Larches Hillingdon, UB10 0DD"0
+.Sainsbury's Farlington, Farlington, Portsmouth"1
+/Busy Bees Nursery, Hillingdon Hospital, UB8 3NN"1
+/Coat of Many Colours Nursery, Uxbridge, UB8 2TU"1
+/Drayton Lane / Havant Road, Drayton, Portsmouth"1
+/Mayfield Road / Copnor Road, Copnor, Portsmouth"1
+/Park View Court Farrier Close Uxbridge, UB8 3XG"2
+0Henderson Road / Ferry Road, Eastney, Portsmouth"2
+0Ruislip Gardens School, Ruislip Gardens, HA4 6PD"4
+2Sherleys and Masters Court Wood Lane Ruislip Manor"4
+2St Vincent's Nursing Home Wiltshire Lane Northwood"5
+3Delamere Road (near Berwick Avenue), Hayes, UB4 0NL"5
+3EDR Day Centre Hallowell Community Centre Northwood"5
+3Grassy Meadow Day Centre Grange Road Hayes, UB3 2UF"5
+3London Road (opp Amberley Road), Hilsea, Portsmouth"6
+4Morrisons Anchorage Park, Anchorage Park, Portsmouth"6
+4Westcombe Lodge Westcombe Lodge Drive Hayes, UB4 8HQ"8
+6Platinum Jubilee Leisure Centre, West Drayton, UB7 9NQ"8
+6https://pre.hillingdon.gov.uk/libraries/mobile-library":
+8Discovery Nursery and Preschool, Field End Road, HA4 9PG":
+8Rowan Road (near Longmead School), West Drayton, UB7 7UG";
+9Coat of Many Colours Nursery, Church Road, Hayes, UB3 2LT";
+9McMillan Nursery School, Judge Heath Lane, Hayes, UB3 2PD"<
+:Judge Heath Lane, (near Princes Park Lane), Hayes, UB3 2PA"=
+;Chitterfield Gate (near Sipson Road), West Drayton, UB7 0JR"=
+;Sherleys and Masters Court Wood Lane Ruislip Manor, HA4 6JA"=
+;St Vincent's Nursing Home Wiltshire Lane Northwood, HA5 2NB">
+<EDR Day Centre Hallowell Community Centre Northwood, HA6 1DS"@
+>Mon Dec 07 2026 09:30:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 10:15:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 10:40:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 11:15:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 12:00:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 14:00:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 14:40:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 14:45:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 15:30:00 GMT+0000 (Coordinated Universal Time)"D
+BTop of the Green (opp St Michael's Church), Paulsgrove, Portsmouth"p
+nhttps://librariesandarchives.portsmouth.gov.uk/public-library-service/find-us/library-branches/mobile-library/"
+}Mon Dec 07 2026 10:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 10:00:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 11:10:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 13:45:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 13:45:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:50:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 14:50:00 GMT+0000 (Coordinated Universal Time)"Ω
+∫Mon Nov 30 2026 09:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 07 2026 09:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 09:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 09:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 09:30:00 GMT+0000 (Coordinated Universal Time)"Ω
+∫Mon Nov 30 2026 10:15:00 GMT+0000 (Coordinated Universal Time),Mon Dec 07 2026 10:15:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 10:15:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 10:15:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 10:15:00 GMT+0000 (Coordinated Universal Time)"Ω
+∫Mon Nov 30 2026 10:55:00 GMT+0000 (Coordinated Universal Time),Mon Dec 07 2026 10:55:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 10:55:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 10:55:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 10:55:00 GMT+0000 (Coordinated Universal Time)"Ω
+∫Mon Nov 30 2026 11:20:00 GMT+0000 (Coordinated Universal Time),Mon Dec 07 2026 11:20:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 11:20:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 11:20:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 11:20:00 GMT+0000 (Coordinated Universal Time)"Ω
+∫Mon Nov 30 2026 12:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 07 2026 12:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 12:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 12:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 12:00:00 GMT+0000 (Coordinated Universal Time)"Ω
+∫Mon Nov 30 2026 13:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 07 2026 13:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 13:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 13:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 13:30:00 GMT+0000 (Coordinated Universal Time)"Ω
+∫Mon Nov 30 2026 14:10:00 GMT+0000 (Coordinated Universal Time),Mon Dec 07 2026 14:10:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 14:10:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 14:10:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 14:10:00 GMT+0000 (Coordinated Universal Time)"Ω
+∫Mon Nov 30 2026 15:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 07 2026 15:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 15:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 15:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 15:00:00 GMT+0000 (Coordinated Universal Time)"Ω
+∫Mon Nov 30 2026 15:55:00 GMT+0000 (Coordinated Universal Time),Mon Dec 07 2026 15:55:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 15:55:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 15:55:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 15:55:00 GMT+0000 (Coordinated Universal Time)"¯
+ıMon Nov 30 2026 09:30:00 GMT+0000 (Coordinated Universal Time),Mon Nov 30 2026 13:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 07 2026 09:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 07 2026 13:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 09:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 13:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 09:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 13:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 09:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 13:30:00 GMT+0000 (Coordinated Universal Time)"	§6qrøø"	œΩáK¬I@"	%Ã¥˝+›ø"	
+◊£p=¬I@"	{⁄·Ø…ﬁø"	(õrÖkI@"	#ÑGøI@"	?∆‹µ⁄ø"	êΩﬁ˝¡I@"	˙'∏X…I@"	 “o_Œ€ø"	$(~åπkﬂø"	&pÎnûÍﬁø"	*t^có(Òø"	0⁄r.≈ø"	3Pˇ>„ﬁø"	3äÂñV√I@"	5òÜ·#æI@"	6Ò∫~¡I@"	8©0∂‹ø"	9
+p⁄ø"	>ËŸ¨˙»I@"	@á˘ÚdI@"	@ﬁ´V&ƒI@"	D4∫ÉÿÕI@"	D˙ÌÎ¿ΩI@"	HƒîH¢øI@"	IÖ±Ö ›ø"	JA∑ó4Fﬂø"	K∫†æ≈I@"	Nó≈ƒÊ„⁄ø"	Q•f¥¬I@"	Wˇ[… I@"	XŒ¸j∆I@"	Zıπ⁄ä˝€ø"	\*∆˘«I@"	b€¢ÃiI@"	d˘ÉÅÁ⁄ø"	fàc]‹FŸø"	i oÅ≈€ø"	jºtìÃI@"	jŸZ_$ÃI@"	oûÍêõ·ﬁø"	sÄ`éøŸø"	zpw÷n√I@"	}\*∆yÒø"	}–≥Yıπ⁄ø"	ÑÅÁﬁ√%›ø"	Ñh„àµﬁø"	ä∞·Èï≤⁄ø"	éø∑È√I@"	é;•Éıﬁø"	ëÚìjü¬I@"	ìR–Ì%¡I@"	ñx@Ÿî+ﬁø"	ò`ùæI@"	ôIÙ2ä€ø"	ôÿ|\*Òø"	ôK˝ºiI@"	¢Óê⁄ƒ€ø"	£¢—¿I@"	§p=
+◊£ø"	§‰’9dŸø"	•†€K£€ø"	™CnÜ¿I@"	±ü`lI@"	µ‡E_A¬I@"	π6TåÛøI@"	øHhÀπ€ø"	¡9#J{É›ø"	ƒîH¢ó…I@"	⁄8b->≈I@"	⁄·Ø…¡I@"	›^“≠øI@"	ﬁ<’!7√I@"	‚u˝Ç›dI@"	‚u˝Ç›lI@"	Â
+Ôrﬂ›ø"	Âa°÷4Ô⁄ø"	ÁR\Uˆ]Ÿø"	Á∆ÙÑ%ﬁø"	Ìû<,‘öﬁø"	Ó_YiR
+Òø"	Ó|?5^¬I@"	Ôê⁄ƒiI@"	ı°Í[æI@"	ı°Í[Êﬁø"	ˆz˜«{≈I@"	ˆz˜«{’‹ø"	ˆÓè˜™ΩI@"	˘⁄3K‘⁄ø"	˙Dû$]≥ø"	¸o%;6Ÿø"	ˇ+jƒI@" " " ´." ¨." ≠." Æ." Ø." ∞." ±" ±." ≤" ≤." ≥" ¥" µ" ∂" ∑" ∏" π" ∫" ª" º" Ω" æ" ø" ¿" ¡" ¬" √" ƒ" ≈" ∆" «" »" …"  " À" Ã" Õ" Œ" œ" –" —" “" ”" ‘" ’" ÷" ◊H= ÚØüË{r	Õ
+z˘(Zlòô+ëÑ˙∂’"	¶‰7H= ÏªüË{r	©
+‚!IXòôuëˇ˙ñ√"	ò∆9H= ÌªüË{r	¢
+Ÿ"ZlòôuëÑ˙€≠"	ƒ˙9I> È≠üË{r	v
+m´$âäòôëà˙¬ü"	ñ‚<H= Í	ÆüË{r	†
+ÿ&IXòôëˇ˙ó "	¶à8H= 
+µüË{r	ñ
+w’'IXòônëˇ˙∆é"	÷∆8I> Ó
+µüË{r	ö
+É„#ZlòônëÑ˙â›"	Æƒ9H= Î	ÆüË{r	°
+€%ZlòôëÑ˙‰‘"	¿¶<H= à¨ ûÁys	é
+q≈C\^òô)ìıÊî–"	‘)“H= ¯¨ ûÁys	§
+q◊B_còô)ìˆÊï¶"	Ç*ÆH= ˙» ûÁys	±
+yŒDafòô+)í˛Êò‡"	Ñ*¿H= ı≥ ûÁys	õ
+q—A\^òôn)ìıÊﬂ†"	Ñ*¢G< ˜¨ ûÁys	|
+q¶EWXòôìÙÊπµ"	î*÷H= óπ ûÁys	Ä
+Ω=KNòôuëÄÊºõ"	®*‰H= É« ûÁys	ø
+y‘oQVòô+)í¸Ê·Ê"	¿+éI> Û¨ ûÁys	ã
+ç÷F\^òô)ìıÊŒô"	Ç+ﬁH= â« ûÁys	∆
+y⁄Gafòô+)í˛Ê∏‹"	¢+§I> Ù¨ ûÁys	ã
+ÇÀpKPòô)ìÒÊ§æ"	Æ+˛G= ˝» ûÁys	‡
+yÔ QVòô+)í¸Ê◊°"	Ï,\H= í… ûÁys	ﬁ
+yÓ[^òô+)í˝Ê∫±"	Ç-‹H= ë¨ ûÁys	ê
+√IJòô)ìÊù≤"	ö-⁄H= î… ûÁys	∂
+yœafòô+)í˛Êƒœ"	†,îH= è» ûÁys	›
+yÌ[^òô+)í˝ÊÕû"	‡,¿H= á» ûÁys	∫
+y“JMòô+)í˚Ê«©"	¯-ºI> ¸≥ ûÁys	®
+ÑÁIKòôn)ìÊØí"	Ñ.¶I> ç¨ ûÁys	ï
+á‹KPòô)ìÒÊ„¨"	ˆ,äG< ˇ≥ ûÁys	~
+*ßLSòônìÚÊ¥™"	ÿ-¸H= ñ« ûÁys	–
+y‰6[^òô+)í˝Ê¡”"	∂,ÊH= Ü≥ ûÁys	ó
+Í0\^òôn)ìıÊúÀ"	Ü,¨H= Ç¨ ûÁys	à
+Î/_còôìˆÊìå"	û,ÆH= Ä… ûÁys	Ã
+y·2JMòô+)í˚Êß®"	,åH= Ö… ûÁys	•
+y¬1QVòô+)í¸Ê∑ä"	Ä-™H= Ñ¨ ûÁys	î
+H 7IJòô)ìÊÿª"	¸-¥H= ˘≥ ûÁys	§
+È.IKòôn)ìÊêΩ"	Ä-íH= ˚≥ ûÁys	∏
+ﬂ5eiòônì¯ÊÂë"	ú.¿H= Òπ ûÁys	£
+y¡:]aòôuëÖÊ•‚"	‚)¸	H= ì« ûÁys	¿
+y”<JMòô+í˚Ê≥…"	Ü* H= Ôπ ûÁys	Ü
+ƒ?SUòôuëÇÊ÷—"	‚*ÇH= ãπ ûÁys	™
+Â@]aòôuëÖÊŸ≈"	 * H= åπ ûÁys	∞
+Ë>bgòôu)ëÜÊø£"	∆*ÏH= Åπ ûÁys	ù
+y≤8WYòôuëÉÊ⁄¿"	û*∏	G< éπ ûÁys	}
+yè9OQòôu)ëÅÊçﬁ"	é* 	H= ˆ¨ ûÁys	æ
+Ï;ejòôì¯Êãö"	†+⁄	H= ä¨ ûÁys	Å
+x¥-RTòôìÛÊ´“"	å,ÍH= ï≥ ûÁys	å
+∑,`dòônì˜Ê»Ã"	¨,÷H= êπ ûÁys	Ö
+xº3IJòôuëˇÊ∞è"	†,î	G< ˛π ûÁys	t
+ú4hkòôuëáÊÆ¢"	,ˆ	‰#x
+trips(Ä idorigin_stop_idorigin_stop_namedestination_stop_iddestination_stop_namedistanceduration"
+	Eton Road"
+Clammas Way"
+School Road"
+Glebe Avenue"
+Wimpole Road"
+Pinkwell Lane"
+St Peter's Way"
+Admiralty Close"
+Judge Heath Lane"
+Busy Bees Nursery"
+Wentworth Crescent"
+Old Station Nursery"
+St Vincent's Nursery"
+Little Marvels Nursery"
+Ruislip Gardens School"
+Sainsbury's Farlington"
+McMillan Nursery School"
+Morrisons Anchorage Park"
+Canopy Vine Lodge Nursery"
+Harmondsworth High Street"
+Drayton Lane / Havant Road"
+Henderson Road / Ferry Road"
+Mayfield Road / Copnor Road"
+Bath Road (Longford Village)"
+Coat of Many Colours Nursery"
+Manor House Kelf Grove Hayes"!
+Discovery Nursery and Preschool"!
+London Road (opp Amberley Road)"!
+Platinum Jubilee Leisure Centre"#
+!Rowan Road (near Longmead School)"$
+"Cobden Court Cobden Close Uxbridge"$
+"Wallis House Cottage Close Ruislip"%
+#Delamere Road (near Berwick Avenue)"%
+#Missouri Court Bridle Road Eastcote"&
+$Chitterfield Gate (near Sipson Road)"&
+$Leaside Court The Larches Hillingdon"&
+$The Burroughs Mill Road West Drayton"(
+&Park View Court Farrier Close Uxbridge",
+*Grassy Meadow Day Centre Grange Road Hayes"-
++Westcombe Lodge Westcombe Lodge Drive Hayes"4
+2Sherleys and Masters Court Wood Lane Ruislip Manor"4
+2St Vincent's Nursing Home Wiltshire Lane Northwood"5
+3EDR Day Centre Hallowell Community Centre Northwood" H" }" Ä" Å" Ç" Ü" ã	" ã" å" å" ç" é" è" ê" ë" ë" í" ì" ì" î" î" ï" ï" ñ" ó" ó" ò" ô" ô" ö" õ" ú" ù" ù" û" ü" ü-" †" °" °H" ¢" £" £" §" §\" •" •" ¶" ¶+" ß" ®" ©" ™" ™3" ´" ´" ´" ¨" ¨." ≠." Æ." Ø." ∞" ∞." ±" ±" ±." ≤" ≥" ¥" µ" ∂" ∑" ∑" ∏" π" π" π" ∫" ª	" ª" ªF" º" Ω" Ω7" æ" ø" ¿" ¿" ¡" ¬" ¬" √" √W" ƒ" ƒE" ≈" ∆" ∆Z" «" »" »" »-" …"  " À" Ã" Ã " Õ" Œ" Œ" Œd" œ" œ" –" –7" —" —" “" “" “E" ”" ‘" ’
+" ’" ÷" ÷" ◊" ⁄" ‹" ‹" ›4" ﬁ" ﬂ" ‡" ·" ‚%" „%" ‰%" Ê+" Í" Ï" Ì" Ô" Ô" Ô!" Ù" ı" ¸" ¸3" ˛" ˇ ¥ghC,"
+	ò∆9(.N ≥ef£≠"7	¶à8¬""8
+	4 8 . 	9,&$ 6 µmjÉ/" 	÷∆8j 	 :
+,"   F ?~*ú(Ø"0	Ê,D™	""
+".
+ **	F Vú(yÆø"/	¿,∏¢	!  7
+\		8 5o	ê.∫""	‡)Ïr
+ 
+% 8to	\≤"	∂*–*!5%  Mêu¡+"
+	“*Ç.Z Nìtûπ"C	º+¢Ú''#			     
+1. Fá#©'G-"	¥+†J0$,"
+.X ]§$á#¿0"A	Ñ*ÃÍ $  +	;#
+  	 5 _©'í%ºT"	‰,¸bO	$: Lé!~*l¬"$	˙-ºz	 		51	%x Z†p	ö¶"a	∏-ÜÍ
+
+	 ?
+
+! <
+>* "$ 
+.
+e Hâ†äõ"M	¸-¥ö  	; 	9'5#  C
+
+	 ')$&. \¢)•∏±"	Æ-ƒB 
+	 9
+ 6 <}Å=´" 	ñ.∏j$4'	3&"	  _ 6p	óWb"J	∏+¥ä#'= &ä6!?%3	 ,>G ;v}|K"3	Ç-ê≤.!-1		G 	+4%
+(#3L @ÅqR¨"6	Í-í∫EÖ);-!		@ 		*0"  ` Sóìà∑"H	Œ-÷Ç4L
+
+0*%0,+ò  3(+	'%	2 BÇ&ãüæ"	,åR 		"	    2 7qåñ>"	Ã*‘Z" $ "B 9uÖ[3"-	Í*æö  $
+2	 
+8 Jåß
+:s""	é,Ãr&(    @&t Iã¢)çz"]	¸,Æ⁄ $! %+	9 	9'5#  C
+
+	#	
+$ * ^ß
+{ ∂ª"	Ñ-ﬁ2,ß 4T Yù™ëd"=	†,ñ	⁄ 
+#-##	!	@ UôkÜ®")	ò*æ	ä
+3
++%    ' Pîï1è"	¬*⁄*<<
+8 4nîx°""	î*ˆ	rA(1!, > c™ôΩa"'	∂*ÙÇ	*6!  
+  
+7 DÑnwX""	Ù)	r&$ , 2kÑA∞"	‡*∫B	*6!  F33 EÖr"`i"	¿+Œb.	.  
+/ QïÄ Oò"	î+®	J2 D N	 

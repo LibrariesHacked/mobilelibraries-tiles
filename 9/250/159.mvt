@@ -1,0 +1,463 @@
+üZx
+stops(Ä id	route_idsroute_names
+mobile_idsmobile_nameslocal_authority_idlocal_authority_namelocal_authority_colourlocal_authority_codename	communityaddresspostcodearrival_timesdeparture_timesroute_start	route_end
+route_daystyperoute_frequenciesroute_schedule	timetable	longitudelatitude"
+23"
+27"
+77"
+88"
+89"
+306"
+308"
+344"
+948"
+1055"
+1057"
+1061"
+1062"
+Fife"
+Fintry"
+Kippen"
+Public"
+Saline"
+Throsk"	
+#004B64"	
+#4B5363"	
+#695599"	
+#8F2984"	
+Carnock"	
+Crombie"	
+FK7 0PW"	
+FK7 7NA"	
+FK7 9NP"	
+FK8 1UD"	
+FK8 2LB"	
+FK8 2PQ"	
+FK8 3BW"	
+FK8 3DN"	
+FK8 3PJ"	
+FK9 5JS"	
+FK9 5NX"	
+FK9 5PS"	
+FK9 5PX"	
+G63 0YB"	
+G65 0JJ"	
+Powmill"	
+Private"	
+Torbrex"	
+Tuesday"
+
+09:45:00"
+
+09:50:00"
+
+10:10:00"
+
+10:15:00"
+
+10:20:00"
+
+10:30:00"
+
+10:40:00"
+
+10:45:00"
+
+10:50:00"
+
+10:55:00"
+
+11:00:00"
+
+11:05:00"
+
+11:20:00"
+
+11:25:00"
+
+11:30:00"
+
+11:35:00"
+
+11:45:00"
+
+11:50:00"
+
+11:55:00"
+
+12:05:00"
+
+12:15:00"
+
+13:20:00"
+
+13:25:00"
+
+13:30:00"
+
+13:35:00"
+
+13:40:00"
+
+14:00:00"
+
+14:05:00"
+
+14:10:00"
+
+14:15:00"
+
+14:20:00"
+
+14:25:00"
+
+14:30:00"
+
+14:45:00"
+
+14:50:00"
+
+15:00:00"
+
+15:05:00"
+
+15:15:00"
+
+15:20:00"
+
+15:30:00"
+
+15:40:00"
+
+16:00:00"
+
+16:05:00"
+
+16:10:00"
+
+16:35:00"
+
+16:45:00"
+
+17:15:00"
+
+17:35:00"
+
+18:05:00"
+
+FK14 7LQ"
+
+Highland"
+
+KY12 8JZ"
+
+KY12 8NL"
+
+KY12 8RJ"
+
+KY12 8TQ"
+
+KY12 9JQ"
+
+KY12 9PW"
+
+KY12 9WA"
+
+Stirling"
+
+The Shop"
+
+Thursday"
+	Blairhall"
+	Cauldhame"
+	Crossford"
+	Farm Road"
+	Mill Gdns"
+	Park Road"
+	Riverside"
+	S12000017"
+	S12000030"
+	S12000047"
+	S12000048"
+	The Cross"
+	Thornhill"
+	Wednesday"
+
+Abbey Road"
+
+Blairlogie"
+
+Cultenhove"
+
+Dean Drive"
+
+Forth View"
+
+Gargunnock"
+
+Kings Park"
+
+Mobile Two"
+
+St Ninians"
+Brandyriggs"
+Cairneyhill"
+Main Street"
+Manor Powis"
+Public Hall"
+Bus Terminus"
+Carneil Road"
+Causewayhead"
+Cedar Avenue"
+Eccles Court"
+Fraser Place"
+McLaren Park"
+South Avenue"
+Cambuskenneth"
+Grendon Court"
+Montrose Road"
+Community Hall"
+Kinneddar Park"
+Menzies Avenue"
+Week 1 Tuesday"
+Week 2 Tuesday"
+Cultenhove Road"
+Low Valleyfield"
+Upper Kinneddar"
+Lion and Unicorn"
+Week 1 Wednesday"
+Week 2 Wednesday"
+Cauldhame, Kippen"
+Perth and Kinross"
+The Cross, Kippen"
+Waverley Crescent"
+Wellpark Crescent"
+Mill Gdns, Powmill"
+Week One Wednesday"
+Fort William Mobile"
+Public Hall, Fintry"
+Balgair Caravan Park"
+Mobile Library Van 1"
+Mobile Library Van 2"
+The Shop, Gargunnock"
+Abbey Road, Riverside"
+Cedar Avenue, Torbrex"
+Forth View, Riverside"
+FREQ=WEEKLY;INTERVAL=2"
+FREQ=WEEKLY;INTERVAL=3"
+Menzies Avenue, Fintry"
+2026-01-05T00:00:00.000Z"
+2026-06-03T00:00:00.000Z"
+2026-07-06T00:00:00.000Z"
+2026-10-12T00:00:00.000Z"
+2026-12-09T00:00:00.000Z"
+2026-12-22T00:00:00.000Z"
+2026-12-23T00:00:00.000Z"
+2026-12-31T00:00:00.000Z"
+Blairhall Primary School"
+Eccles Court, St Ninians"
+Farm Road, Crombie, Fife"
+McLaren Park, Gargunnock"
+Community Hall, Thornhill"
+Grendon Court, Kings Park"
+Bus Terminus, Saline, Fife"
+Fraser Place, Causewayhead"
+Wellpark Crescent, Torbrex"
+Carneil Road, Carnock, Fife"
+Cultenhove Road, Cultenhove"
+Dean Drive, Crossford, Fife"
+Lion and Unicorn, Thornhill"
+Montrose Road, Causewayhead"
+Balgair Caravan Park, Fintry"
+Kinneddar Park, Saline, Fife"
+Waverley Crescent, Riverside"
+South Avenue, Blairhall, Fife"
+Upper Kinneddar, Saline, Fife" 
+Brandyriggs, Cairneyhill, Fife" 
+Park Road, Park Road, Highland"$
+"Main Street, Low Valleyfield, Fife"&
+$West and Central Fife Mobile Library"+
+)Blairhall Primary School, Blairhall, Fife"6
+4West and Central Fife Mobile Library Tuesday Route 2"6
+4https://www.culturepk.org.uk/library/mobile-library/"7
+5West and Central Fife Mobile Library Thursday Route 2"@
+>Wed Dec 09 2026 13:20:00 GMT+0000 (Coordinated Universal Time)"B
+@Fort William Mobile - Route 7: Duror, Kentallen and Ballachulish"M
+Khttps://www.onfife.com/wp-content/uploads/2026/09/W-C-12.10.26-22.12.26.pdf"
+}Mon Dec 07 2026 09:45:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 09:45:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 09:50:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 09:50:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 10:10:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 10:10:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 10:15:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 10:15:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 10:20:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 10:20:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 10:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 10:30:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 10:45:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 10:45:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 10:50:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 10:50:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 11:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 11:00:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 11:05:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 11:05:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 11:20:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 11:20:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 11:25:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 11:25:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 11:35:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 11:35:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 11:45:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 11:45:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 13:25:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 13:25:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 13:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 13:30:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 13:35:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 13:35:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 13:40:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 13:40:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 14:00:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:05:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 14:05:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:15:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 14:15:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:25:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 14:25:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:45:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 14:45:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 15:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 15:00:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 15:20:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 15:20:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 15:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 15:30:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 15:40:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 15:40:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 16:05:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 16:05:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 16:45:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 16:45:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 17:35:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 17:35:00 GMT+0000 (Coordinated Universal Time)"
+}https://www.highlifehighland.com/libraries/mobile-libraries/fort-william-mobile-library/fort-william-mobile-library-timetable"û
+õhttps://www.stirling.gov.uk/community-life-and-leisure/libraries-and-archives/libraries/mobile-libraries/mobile-library-timetable/mobile-library-timetable/"	%Ã¥˝L@"	<˜.L@"	™‘ÏÅV¿"	(õrÂ¿"	’[[e¿"	ä}"L@"	ÖÎQ∏L@"	%ØŒ1 {¿"	(Ú$ÈöL@"	/›$ÅU¿"	@0Gèﬂõ¿"	B!° ¿"	C‚KL@"	Hø}8ß¿"	Ral!»Å¿"	u»ÕpL@"	wæü/›¿"	Äe•I)L@"	Å	‹∫õL@"	åÛ7°Å¿"	êIFŒ¬¿"	êkC≈8L@"	ô*ï‘â¿"	õUü´≠L@"	ùÄ&¬ÜL@"	üÕ™œ’ñ¿"	†l ﬁL@"	ß?˚ë"L@"	™}:3–¿"	≠˙\m≈
+L@"	µ¶y«):¿"	Ω:«ÄÏL@"	√¯¸0B¿"	√*ﬁ»<L@"	≈…˝E¡¿"	∆Çî∞¿"	Œ67¶'L@"	œ:Ø±L@"	œ⁄möL@"	ÿGßÆ|ñ¿"	‡JvlL@"	‡€Ùg?L@"	‰…Â?¿"	‰ÉûÕ™œ¿"	Â
+ÔrL@"	HP¸ò¿"	˘aÑ¸K@"	ÒFÊë?L@"	ÛTá‹7¿"	Ù√·—¿" 1" 2" 7" ;" Å" å" £" Æ" ∂" Ω2" ¿2" √2" «2" Ã2" Õ2" Œ2" œ2" “" ‘2" ÷2" ◊" ◊2" ⁄" €2" ›" ﬁ2" ‡2" ‚2" Â2" Ê2" È2" Í" Ò" Ú2" Û2" Ù2" ˜-" ¯2" ˘2G= ∞î•©fq	§
+ƒ&<@∞¥+´·Û˜˘"	=‘G= ¬î•©fq	í
+≠&16∞¥+´ŸÛ˜˘"	=‘G= ƒî•©fq	Ñ
+£&7;∞¥+´›Û˜˘"	=‘G= µ	ì•©fq	ê
+u∫!6@∞¥+´‹Û°ù"	®OG= ø	ì•©fq	ò
+u¬!.5∞¥+´÷Û°ù"	®OG< ≥î•©fq	j
+õ DJ∞¥+´‰Ûóò"	úîG< «î•©fq	t
+ù KT∞¥+´ÈÛóò"	úîH= ¡	ì•©fq	ã
+|πEH∞¥+´ÂÛˆÙ"	ú∞G< »	ì•©fq	g
+|ßIP∞¥+´ËÛˆÙ"	ú∞G< ≠“¢ß^p	n
+n 'RSÆµv¨ÏÚí¢"	ﬁ–H= ∂ö•©fq	ï
+y¿FL∞¥v´ÊÛñú"	⁄Ú	I> ≤ö•©fq	ç
+çç#SU∞¥v´ÌÛõé"	Ã¸G< Ø
+ô¶©fq	w
+o®48∞¥v´€Û˚ö"	ËÓG< π
+ô¶©fq	{
+o™9>∞¥v´ﬂÛ˚ö"	ËÓH= À
+ô¶©fq	û
+o∆/3∞¥v´◊Û˚ö"	ËÓI> ª
+ô¶©fq	ä
+áΩ"BG∞¥v´‚Û¯ì"	‰ÙI> √
+ô¶©fq	è
+á√"IM∞¥v´ËÛ¯ì"	‰ÙF; ±
+ô¶©fq	x
+xx%OS∞¥v´ÎÛàâ"	ˆ†I> ¿
+ô¶©fq	É
+ÉÉ$TW∞¥v´ÓÛ§É"	Ï‰H= ¥ö•©fq	à
+*©;?∞¥v´‡ÛÇÄ"	¬‡	H= Ãö•©fq	ü
+*æ6:∞¥v´‹ÛÇÄ"	¬‡	H= Ωö•©fq	é
+}ª,/∞¥v´‘Û˛¸"	Æ¥
+H= ∏ö•©fq	â
+∑05∞¥v´ÿÛá£"	∆íF; …ö•©fq	
+MQ∞¥v´ÍÛˇã"	‘!ÃF<  °~®ús	m
+(†]AEØ≤v¨—œÅı"	˛9`H= º– Ã¶r	Ö
+ºeGN±≥h´Á”ç˙"	‹:˛H= ™– Ã¶r	ë
+≈eCF±≥h´„”ç˙"	‹:˛H= Æ– Ã¶r	ó
+»eOR±≥h´Î”äï"	¶;Œ	H= ∑– Ã¶r	∂
+iÕd-2±≥h)´’”üÜ"	ò8˙H= ¨– Ã¶r	å
+i«d37±≥h´⁄”ê†"	ñ8“H= æ– Ã¶r	Ü
+øc8=±≥h´ﬁ”˝ë"	–=ÑI> ´Œ Ã¶r	Ç
+ñÀb[\±≥+´Ò”Ñå"	Ã7îI> ∫Œ Ã¶r	Ä
+Å…aVX±≥+´Ô”îô"	æ>¯G< ∆Œ Ã¶r	l
+∏_YZ±≥+´”ûè"	 >¯G< ≈Œ Ã¶r	z
+k¡`TU±≥+´Ó”•Ö"	êA¨—x
+trips(Ä idorigin_stop_idorigin_stop_namedestination_stop_iddestination_stop_namedistanceduration"
+Throsk"
+
+The Shop"
+	Cauldhame"
+	Farm Road"
+	Mill Gdns"
+	Park Road"
+
+Abbey Road"
+
+Abbeyfield"
+
+Blairlogie"
+
+Dean Drive"
+
+Forth View"
+Brandyriggs"
+Main Street"
+Manor Powis"
+Public Hall"
+Village Inn"
+Waggon Road"
+West Laroch"
+Bus Terminus"
+Carneil Road"
+Cedar Avenue"
+Eccles Court"
+Fraser Place"
+McLaren Park"
+South Avenue"
+Cambuskenneth"
+Grendon Court"
+Montrose Road"
+Community Hall"
+Kinneddar Park"
+Menzies Avenue"
+Cultenhove Road"
+Upper Kinneddar"
+Drumcastle Court"
+Lion and Unicorn"
+Sheltered Housing"
+Waverley Crescent"
+Wellpark Crescent"
+Balgair Caravan Park"
+Blairhall Primary School"  " W" o" x" Å" Å" Ç?" Ö" Öô
+" Ü" á" à" à?" â" â%" ä)" ã" å" å)" ç" é" é)" è" ì" ì)" ì." ìT" î" î" î)" ï" ï)" ó" ó" ô)" õ" õ)" ú" ú)" ùC" ü)" °)" ¢)" £" £." •)" ¶" ¶)" ß" ®)" ©" ¨" Æ" Æ" Ø)" ∞)" ≤" ≥%" ¥" ¥)" µ)" ∂" ∑" ∏" π" π&" º" Ω2" ¿" ¿2" ¿D" ¡" √2" «" «" «2" »" »" Ã2" Õ" Õ%" Õ2" Œ2" œ2" —" —2" “" ”ê" ‘2" ÷" ÷2" ◊" ◊" ◊2" Ÿ»	" ⁄" €" €2" ›" ﬁ2" ‡2" ·`" ‚2" Â2" Ê" Ê2" È2" Í" Ó" Ò" Ò" Û2" Ù2" ˜-" ¯2" ¯O" ˘2" ˛ " ˛I§ 5]\Ü."é	ñüÚ	R"	,  $D<$‹∏ñ<úXl>8<B$ & 
+&@<::8"HXÄ,,6æ24*6 J@ $"40F& 8d <"$2ò"60$68" ¶¨<"NQ8õT
+q3C37)}"+)?%
+7)7¡?
+
+ Yím&(("		;Œ
+	 Uèí(("	9“
+„ ?\ñ0O"Õ	⁄ûÚ@∫8*8&	@*,~!*0<D4@)	 ¨[T7+i5Ø≥# 97#)#	3+É;9 Y;133!5+/A7'5915Ω++U}579MO?)	M)CGk=õWï;áÕ!+S#
++!
+Q Qã"z(("		¶M $ aôTùÉ"	˙9I"
+	l :m&võ["W	Y¬J)	%=#		 ëÍ	3>'
+	
+f7+""1	6+,=*/P'ñ ^ó}!;"Ä	≤ò¬ +""& 	ΩÑ˝ -
+<$‹∏ñ<Äí@@B$
+
+ áG"]
+#!))%!s!G	 ?-i EzéBX"T	¢G™
+ 6@(IÑh∫Ñ &( 
+	(F®dB
+$* $ Réó(("	≤†
+ J @y{là"5	®¬	∫!I %3,%
+	
+ !
+$& H} _ò sûu"g	 ˙	Ç-!1			3))3 	 )-=	1	/				I LÇ
+Ö<g"3	˙Ï≤	 9# 8kJe	   cö$k(("	Í
+ 7kÇ
+(("
+	ÚÍ NÖë(("	äÙ
+M WëpDî"7	íÓ∫" 	M	∆% 	
+ £" =på`*"
+	ÿà\  dú%y(("	¿¬	
+ D JÄú%ê1"-	 ¬ö	1 +	
+
+% E PâÄ>b"/	Æ∞
+¢(,>  3 Ü G{ò nV"q	 ¿	ö
+ 
+
+
+ 
+ 0
+
+& ,@⁄™8 4   ;È± 3áe r+"	®;Ã	
+ Z-á(("
+	º;¬	0 ,~'SI2"	ò8ÄZ   	
+  O 8ä-6w":	⁄=Ú 	#	/mπ-/!;	 Q# b(K oSäij"6	¸7 ∫ $'%PL 6Ç*H.*4 P Mï94q";	÷=‚ -#	a€ø{
+)	<,-$8* Fì	ÑCH"	ÑA≤:mU
+Ag+: /Ñïft"$	‘=Ñz $
+*:d,-55GN xA#ôçÅ"7	Æ:ü¬
+ >		
+  
+	
+I |hì	K)"
+	†A™

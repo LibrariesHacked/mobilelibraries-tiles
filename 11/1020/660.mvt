@@ -1,0 +1,310 @@
+ÄZx
+stops(Ä id	route_idsroute_names
+mobile_idsmobile_nameslocal_authority_idlocal_authority_namelocal_authority_colourlocal_authority_codename	communityaddresspostcodearrival_timesdeparture_timesroute_start	route_end
+route_daystyperoute_frequenciesroute_schedule	timetable	longitudelatitude"
+18"
+66"
+243"
+250"
+813"
+814"
+815"
+Coleby"
+Monday"
+Public"
+Welton"	
+#007569"	
+#076364"	
+Private"	
+Tuesday"	
+Whitton"
+
+09:30:00"
+
+09:50:00"
+
+10:20:00"
+
+10:25:00"
+
+10:30:00"
+
+10:45:00"
+
+11:00:00"
+
+11:05:00"
+
+11:25:00"
+
+11:30:00"
+
+11:50:00"
+
+11:55:00"
+
+12:00:00"
+
+12:15:00"
+
+12:20:00"
+
+12:55:00"
+
+13:00:00"
+
+13:25:00"
+
+14:05:00"
+
+14:10:00"
+
+14:20:00"
+
+14:25:00"
+
+14:40:00"
+
+14:50:00"
+
+14:55:00"
+
+15:00:00"
+
+15:05:00"
+
+15:10:00"
+
+15:20:00"
+
+15:25:00"
+
+15:40:00"
+
+15:45:00"
+
+15:50:00"
+
+16:10:00"
+
+16:15:00"
+
+16:30:00"
+
+DN15 0DJ"
+
+DN15 9AD"
+
+DN15 9AL"
+
+DN15 9AW"
+
+DN15 9AZ"
+
+DN15 9DL"
+
+DN15 9DS"
+
+DN15 9DX"
+
+DN15 9ED"
+
+DN15 9EU"
+
+DN15 9HQ"
+
+DN15 9JL"
+
+DN15 9JP"
+
+DN15 9JW"
+
+DN15 9JZ"
+
+DN15 9LJ"
+
+DN15 9NR"
+
+DN15 9PF"
+
+DN15 9PL"
+
+HU15 1NR"
+
+HU15 1RJ"
+
+Route 11"
+
+Route 12"
+
+Route 13"
+
+Tee Lane"
+
+Thursday"
+
+West End"
+	E06000011"
+	E06000013"
+	Wednesday"
+
+Alkborough"
+
+Broomfleet"
+
+Cross Lane"
+Holme Drive"
+Low Burgage"
+Main Street"
+West Halton"
+Front Street"
+Huteson Lane"
+North Street"
+Stather Road"
+Winteringham"
+Barnstone Way"
+College Close"
+Normanby Road"
+Norfolk Avenue"
+Roxby cum Risby"
+Week 2 Thursday"
+Week 3 Wednesday"
+White House Lane"
+Winteringham Lane"
+North Lincolnshire"
+Burton upon Stather"
+Coleby, West Halton"
+Main Street, Whitton"
+Cross Lane, Alkborough"
+FREQ=WEEKLY;INTERVAL=1"
+FREQ=WEEKLY;INTERVAL=2"
+FREQ=WEEKLY;INTERVAL=3"
+FREQ=WEEKLY;INTERVAL=4"
+West End, Winteringham"
+2026-01-05T00:00:00.000Z"
+2026-01-15T00:00:00.000Z"
+2026-01-21T00:00:00.000Z"
+2026-12-31T00:00:00.000Z"
+2028-01-19T00:00:00.000Z"
+2028-01-27T00:00:00.000Z"
+East Riding of Yorkshire"
+Front Street, Alkborough"
+Huteson Lane, Alkborough"
+College Close, Alkborough"
+Low Burgage, Winteringham"
+East Riding Mobile Library"
+Village Hall, Winteringham"
+North Street, Roxby cum Risby"
+Tee Lane, Burton upon Stather"
+White House Lane, West Halton" 
+Winteringham Lane, West Halton""
+ Holme Drive, Burton upon Stather"#
+!North Lincolnshire Mobile Library"#
+!Stather Road, Burton upon Stather"$
+"Barnstone Way, Burton upon Stather"$
+"Burton-upon-Stather Primary School"$
+"Normanby Road, Burton upon Stather"%
+#Norfolk Avenue, Burton upon Stather"*
+(Village Hall, Winteringham, Winteringham"9
+7Burton-upon-Stather Primary School, Burton upon Stather":
+8Welton Mobile Library, Park Road/St Helens Drive, Welton"B
+@Broomfleet Mobile Library, Village Hall, Main Street, Broomfleet"S
+Qhttps://www.eastridinglibraries.co.uk/find-a-library/?entry=welton_mobile_library"W
+Uhttps://www.eastridinglibraries.co.uk/find-a-library/?entry=broomfleet_mobile_library"\
+Zhttps://www.northlincs.gov.uk/schools-libraries-and-learning/libraries/the-mobile-library/"
+}Mon Dec 07 2026 10:25:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 10:25:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 12:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 12:00:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 12:20:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 12:20:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 13:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 13:00:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:05:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 14:05:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:10:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 14:10:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:25:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 14:25:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:55:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 14:55:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 15:20:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 15:20:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 15:25:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 15:25:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 15:45:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 15:45:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 16:15:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 16:15:00 GMT+0000 (Coordinated Universal Time)"£
+†Thu Dec 03 2026 09:50:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 09:50:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 09:50:00 GMT+0000 (Coordinated Universal Time),Thu Jan 14 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Thu Jan 28 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Thu Feb 11 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Thu Feb 25 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Thu Mar 11 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Thu Mar 25 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Thu Apr 08 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Thu Apr 22 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Thu May 06 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Thu May 20 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Thu Jun 03 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Thu Jun 17 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Thu Jul 01 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Thu Jul 15 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Thu Jul 29 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Thu Aug 12 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Thu Aug 26 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Thu Sep 09 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Thu Sep 23 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Thu Oct 07 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Thu Oct 21 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Thu Nov 04 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Thu Nov 18 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Thu Dec 02 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Thu Dec 16 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Thu Dec 30 2027 09:50:00 GMT+0000 (Coordinated Universal Time),Thu Jan 13 2028 09:50:00 GMT+0000 (Coordinated Universal Time),Thu Jan 27 2028 09:50:00 GMT+0000 (Coordinated Universal Time)"≥
+∞Wed Dec 23 2026 09:30:00 GMT+0000 (Coordinated Universal Time),Wed Jan 20 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Wed Feb 17 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Wed Mar 17 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Wed Apr 14 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Wed May 12 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Wed Jun 09 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Wed Jul 07 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Wed Aug 04 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Wed Sep 01 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Wed Sep 29 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Wed Oct 27 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Wed Nov 24 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Wed Dec 22 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Wed Jan 19 2028 09:30:00 GMT+0000 (Coordinated Universal Time)"Ω
+∫Mon Nov 30 2026 10:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 07 2026 10:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 10:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 10:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 10:30:00 GMT+0000 (Coordinated Universal Time)"Ω
+∫Mon Nov 30 2026 11:05:00 GMT+0000 (Coordinated Universal Time),Mon Dec 07 2026 11:05:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 11:05:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 11:05:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 11:05:00 GMT+0000 (Coordinated Universal Time)"Ω
+∫Mon Nov 30 2026 11:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 07 2026 11:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 11:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 11:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 11:30:00 GMT+0000 (Coordinated Universal Time)"Ω
+∫Mon Nov 30 2026 11:55:00 GMT+0000 (Coordinated Universal Time),Mon Dec 07 2026 11:55:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 11:55:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 11:55:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 11:55:00 GMT+0000 (Coordinated Universal Time)"Ω
+∫Mon Nov 30 2026 13:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 07 2026 13:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 13:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 13:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 13:00:00 GMT+0000 (Coordinated Universal Time)"Ω
+∫Mon Nov 30 2026 15:05:00 GMT+0000 (Coordinated Universal Time),Mon Dec 07 2026 15:05:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 15:05:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 15:05:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 15:05:00 GMT+0000 (Coordinated Universal Time)"	+j0Êø"	ZÅ!´[Âø"	îMπ¬”J@"		˘†g≥⁄J@"	¢—ƒ÷J@"	(
+Ùâ<’J@"	2U0*©‰ø"	:z¸ﬁ¶◊J@"	:íÀH◊J@"	@xÓ=ÿJ@"	B!°JÂø"	TW>ÀÛ‡Âø"	Vºëy‰„ø"	^◊/ÿ€Âø"	fÀ-≠Ü‰ø"	hy‹ù›J@"	vl‚u˝‚ø"	{1îÌ÷J@"	~:3P‰ø"	ÄöZ∂÷◊J@"	Ç9z¸ﬁ“J@"	ÇV`»ÍVÂø"	ÉQIùÄ“J@"	è‰Ú“◊J@"	ñï&•†”J@"	ñï&•†€‚ø"	§•ÚvÑ”Âø"	§ﬂæú◊J@"	∞UÇ≈·ÃÂø"	≥“§t{·ø"	º≥v€ÖÊÂø"	æ§1ZGU‰ø"	ƒB≠iﬁ›J@"	…qßt∞˛‚ø"	ÿıv√“J@"	Êë?x“J@"	‹{∏‰∏Âø"	Ú˙'ÿJ@"	ÛvÑ”Ç”J@"	˚ñ9]”J@"	¸R?o*RÂø"	˛‘xÈ&1Âø" " " Ñ'" ê&" í'" î'" ó'" ò'" ô&" °" •&" ¶&" ©&" ±" ∑&" ø&" ¬&" Œ&" –&" „&" ‰&" Á&" ˙&B7 €c |ŒwO	S
+SåHrvM	múé•ƒ"	Ä∫	B7 ‡IÉœgP	W
+jC#'qt	nïè√ß"	‘ÿB7 ⁄IÉœgP	T
+Rk?-.qt	nôèÃ´"	∂™'B7 ‹IÉœgP	Y
+RxA/1qt	nöèÆø"	‡ƒ'B7 ﬁIÉœgP	Z
+RyB(,qt	nóèÕ∑"	Ú∏&B7 ŸIÉœgP	_
+Rz@23qt	nõèπ¨"	öé)C8 ‰JÉœgP	\
+hÑ9qt	lüè§ "	éú;C8 ›JÉœgP	U
+hÇ:qt	l†è±º"	™‘:C8 ·JÉœgP	a
+hà; )qt	l¢èæÀ"	÷†=C8 —JÉœgP	^
+hÖ>qt	lûè¬∆"	ÍÊ>C8 ‚KÉœgP	`
+há5,0qtQ	nòèØ∏"	à§>B7 –JÉœgP	L
+h<qt	l°è»¶"	ÏÇ:C8 ’KÉœgP	f
+XÅ8%&qtQ	nñè™µ"	 Ë*C8 ‘KÉœgP	e
+XÄ7"$qtQ	nîè∂®"	™Ã+B7 ÿKÉœgP	
+Xi6(+qtQ	nóè≤©"	∫¯2B7 ◊d |ŒwO	
+
+
+ãGsuQ	oùç¡≥"	å9÷
+B7 ”KÉœgP	N
+]pD !qtQ	nìè∞…"	é'Ù$C8 “KÉœgP	}
+]âFqtQ	níè≈ª"	'¬&B7 ﬂKÉœgP	V
+]{EqtQ	nëèΩ≠"	∏)¿$D9 ÷JÉœgP	Ü
+hä=*3qtl£è¿∫"	¸à@B7 „KÉœgP	[
+b~4qtQ	nêè¥«"	¯'ú@¶x
+trips(Ä idorigin_stop_idorigin_stop_namedestination_stop_iddestination_stop_namedistanceduration"
+Coleby"
+Welton"
+
+Tee Lane"
+
+West End"
+
+Broomfleet"
+
+Lodge Lane"
+Holme Drive"
+Low Burgage"
+Main Street"
+School Lane"
+Huteson Lane"
+North Street"
+South Street"
+Stather Road"
+Barnstone Way"
+Normanby Road"
+Garthorpe Road"
+Margreave Lane"
+Norfolk Avenue"
+White House Lane"
+Winteringham Lane"
+Newport Grebe Road"
+Village Hall, Winteringham"
+South Dalton Mobile Library"  " S" l" u" Ñ'" Ö" Ü1" ã8" ç" ê&" í" í'" î" î'" î8" ó'" ò'" ôR" õ" û" û	" †" †" °" •" •&" ®" ´"" ¨" ≠" ±" ±" ≤" ≤9" π&" ∫" º" Ω" æ" ø&" ¬&" ≈" ∆" …" Ã&" Õ" Õ“" Œ&" œ&" –&" ÿ&" ⁄" ‹" ‹" ›" ﬁ" ﬂ" ﬂ" ·" ‚" „&" ‰&" Ê$" Á&" Ë" È" Î" " " Ò" Û" Ù" ı" ı&" ˆ" ˜&" ¯	" ¯" ˘" ˙&" ˚E ,7\2"1	Üƒ	ö	A o	eG	3Wa°…O¬[=uSü( 5:JA0"	üŒ624
+l R4Ibü⁄Ì =HI)*"ÿ	à§>Úè j%hÁc_
+QyWC%=1$À∂ø E,o	6h 5i+U?0k>è*7
+7";) h&K∂√ûã®çˇ);cd<*ÄïÜóàµƒ%L,Ü:∆ 8?96"±	¨º:ä 1@Éc_
+QyWC%=1$À
+≤ª E,o	6h 5i+U?(
+ . :V,j6 g5
++pF±º	#Ã2>&DXz	R`dÜ  &		9	Y >I@
+h4"E	˛Ù&Úr %9G!k-Å	S		";U5
+& *!<8	)8 X Rg?Pb"D	ä–:Ú#Tñ.B,*H!:	%Md< .  !gC"	Ê‰>J4/	èG+)%c±4 YT[" 	¥˙<j)5.+
+B40*2(:H{ `%']"g	ÿ"™0˙É3_+')+]Õ	] /E'u:I>RQSL>@	
+ ?=s	 XJ9(vF 0XK e'(-L"7	ñé/¢Å cà.Y¶21278J2  ñüñYLJ f(1 MK"6	Ã∆;≤%4	 ù ·2ó3+=) gi& Ñ d/$FZ"p	Ü9‰
+ä"
+E ! 	!4	
+	9  !&AZ
+
+
+@	
++!/#_SUaCeÔØM}gÖπ’Qaâü| OcG&"h	Ñ!Ù>⁄OK	≠¡≥˝18Ôˆã∂:@ 6
+ƒJÉ∑ =M
+ ?*e/0)f@	N> 	'   #e2 <G#"B"	Ó'º%Zq;\p*.~∏z‡1 ^#%_"	Ë)¯.R2I√5	? µ99ƒB Na	W3S".	∆.†AíGü1i11A7
+i(ø2O%S ü2#-U$Q 9) ;DHX+"	‰
+†A:/)õu9!?C[1/0 .1 UVE"	‚˛<Rê2.*2(: @:"úv0*  Qcc"	˛ †Aüã

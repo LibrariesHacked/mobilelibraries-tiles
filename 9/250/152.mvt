@@ -1,0 +1,607 @@
+“`x
+stops(Ä id	route_idsroute_names
+mobile_idsmobile_nameslocal_authority_idlocal_authority_namelocal_authority_colourlocal_authority_codename	communityaddresspostcodearrival_timesdeparture_timesroute_start	route_end
+route_daystyperoute_frequenciesroute_schedule	timetable	longitudelatitude"
+25"
+26"
+28"
+29"
+320"
+326"
+330"
+331"
+332"
+333"
+334"
+350"
+357"
+365"
+Monday"
+Public"
+Reay 1"
+Reay 2"	
+#695599"	
+331,332"	
+Clachan"	
+Tuesday"
+
+09:30:00"
+
+10:00:00"
+
+10:10:00"
+
+10:15:00"
+
+10:20:00"
+
+10:25:00"
+
+10:30:00"
+
+10:35:00"
+
+10:40:00"
+
+10:45:00"
+
+10:50:00"
+
+11:00:00"
+
+11:10:00"
+
+11:15:00"
+
+11:20:00"
+
+11:25:00"
+
+11:30:00"
+
+11:35:00"
+
+11:40:00"
+
+11:45:00"
+
+11:55:00"
+
+12:00:00"
+
+12:05:00"
+
+12:10:00"
+
+12:15:00"
+
+12:20:00"
+
+12:25:00"
+
+12:30:00"
+
+12:40:00"
+
+12:45:00"
+
+12:50:00"
+
+12:52:00"
+
+13:02:00"
+
+13:05:00"
+
+13:15:00"
+
+13:45:00"
+
+13:50:00"
+
+14:00:00"
+
+14:10:00"
+
+14:15:00"
+
+14:20:00"
+
+14:25:00"
+
+14:30:00"
+
+14:35:00"
+
+14:40:00"
+
+14:45:00"
+
+14:55:00"
+
+15:00:00"
+
+15:10:00"
+
+Highland"
+
+KW13 6YT"
+
+KW14 7QP"
+
+KW14 7RE"
+
+KW14 7RY"
+
+KW14 7SA"
+
+KW14 7SL"
+
+KW14 7SR"
+
+KW14 7SS"
+
+KW14 7ST"
+
+KW14 7YJ"
+
+KW14 7YW"
+
+Thursday"
+	Bettyhill"
+	Melvich 1"
+	Melvich 2"
+	S12000017"
+	Wednesday"
+	Westfield"
+
+Armadale 1"
+
+Armadale 2"
+
+Portskerra"
+Brora Mobile"
+Reay Primary"
+Strathy East"
+Armadale Pier"
+Strathnaver 1"
+Strathnaver 2"
+Strathnaver 3"
+Strathnaver 4"
+Strathnaver 5"
+Strathnaver 6"
+Strathy Point"
+Trantlemoor 1"
+Trantlemoor 2"
+Trantlemoor 3"
+Trantlemoor 4"
+Forsinard RSPB"
+Melvich School"
+Strathy West 1"
+Strathy West 2"
+Strathy Point 1"
+Strathy Point 2"
+Strathy Point 3"
+Far North Mobile"
+Strathburn House"
+Thursday,Tuesday"
+West Ross Mobile"
+08:59:00,13:30:00"
+09:00:00,13:31:00"
+Bettyhill Library"
+Bettyhill library"
+Bettyhill Car Park"
+Strath Halladale 1"
+Strath Halladale 2"
+Strath Halladale 3"
+Strath Halladale 4"
+Farr Primary School"
+Brora Mobile Route 11"
+FREQ=WEEKLY;INTERVAL=3"
+Skye & Lochalsh Mobile"
+Helmsdale Farr Crescent"
+2026-01-05T00:00:00.000Z"
+2026-12-31T00:00:00.000Z"
+Far North Mobile Route 6"
+Far North Mobile Route 7"
+Far North Mobile Route 8"
+Far North Mobile Route 9"
+Reay 1, Reay 1, Highland"
+Reay 2, Reay 2, Highland"
+West Ross Mobile Route 1"
+West Ross Mobile Route 6"
+Clachan, Clachan, Highland" 
+Bettyhill, Bettyhill, Highland" 
+Melvich 1, Melvich 1, Highland" 
+Melvich 2, Melvich 2, Highland" 
+Skye & Lochalsh Mobile Route 2" 
+Westfield, Westfield, Highland""
+ Armadale 1, Armadale 1, Highland""
+ Armadale 2, Armadale 2, Highland""
+ Portskerra, Portskerra, Highland"&
+$Reay Primary, Reay Primary, Highland"&
+$Strathy East, Strathy East, Highland"(
+&Armadale Pier, Armadale Pier, Highland"(
+&Strathnaver 1, Strathnaver 1, Highland"(
+&Strathnaver 2, Strathnaver 2, Highland"(
+&Strathnaver 3, Strathnaver 3, Highland"(
+&Strathnaver 4, Strathnaver 4, Highland"(
+&Strathnaver 5, Strathnaver 5, Highland"(
+&Strathnaver 6, Strathnaver 6, Highland"(
+&Strathy Point, Strathy Point, Highland"(
+&Trantlemoor 1, Trantlemoor 1, Highland"(
+&Trantlemoor 2, Trantlemoor 2, Highland"(
+&Trantlemoor 3, Trantlemoor 3, Highland"(
+&Trantlemoor 4, Trantlemoor 4, Highland"*
+(Forsinard RSPB, Forsinard RSPB, Highland"*
+(Melvich School, Melvich School, Highland"*
+(Strathy West 1, Strathy West 1, Highland"*
+(Strathy West 2, Strathy West 2, Highland",
+*Strathy Point 1, Strathy Point 1, Highland",
+*Strathy Point 2, Strathy Point 2, Highland",
+*Strathy Point 3, Strathy Point 3, Highland".
+,Strathburn House, Strathburn House, Highland"0
+.Bettyhill Library, Bettyhill Library, Highland"0
+.Bettyhill library, Bettyhill library, Highland"2
+0Bettyhill Car Park, Bettyhill Car Park, Highland"2
+0Strath Halladale 1, Strath Halladale 1, Highland"2
+0Strath Halladale 2, Strath Halladale 2, Highland"2
+0Strath Halladale 3, Strath Halladale 3, Highland"2
+0Strath Halladale 4, Strath Halladale 4, Highland"3
+1Far North Mobile Route 6,Far North Mobile Route 7"4
+2Farr Primary School, Farr Primary School, Highland"5
+3Far North Mobile - Route 5: Balnakiel and Bettyhill"<
+:Helmsdale Farr Crescent, Helmsdale Farr Crescent, Highland"?
+=Far North Mobile - Route 1: Greenland, Dunnet and Scarfskerry"q
+ohttps://www.highlifehighland.com/libraries/mobile-libraries/brora-mobile-library/brora-mobile-library-timetable"y
+whttps://www.highlifehighland.com/libraries/mobile-libraries/west-ross-mobile-library/west-ross-mobile-library-timetable"z
+xhttps://www.highlifehighland.com/libraries/mobile-libraries/far-north-mobile-library/farn-north-mobile-library-timetable"
+}Mon Dec 07 2026 09:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 09:30:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 10:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 10:00:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 10:10:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 10:10:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 10:15:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 10:15:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 10:25:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 10:25:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 10:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 10:30:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 10:40:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 10:40:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 10:45:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 10:45:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 11:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 11:00:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 11:10:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 11:10:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 11:15:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 11:15:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 11:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 11:30:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 11:35:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 11:35:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 11:45:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 11:45:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 12:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 12:00:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 12:05:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 12:05:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 12:20:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 12:20:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 12:25:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 12:25:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 12:40:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 12:40:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 12:52:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 12:52:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 13:05:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 13:05:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 13:15:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 13:15:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 13:50:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 13:50:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 14:00:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:10:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 14:10:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:15:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 14:15:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 14:30:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:35:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 14:35:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:45:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 14:45:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:55:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 14:55:00 GMT+0000 (Coordinated Universal Time)"ä
+áhttps://www.highlifehighland.com/libraries/mobile-libraries/skye-and-lochalsh-mobile-library/skye-and-lochalsh-mobile-library-timetable"˛
+˚Mon Dec 07 2026 08:59:00 GMT+0000 (Coordinated Universal Time),Mon Dec 07 2026 13:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 08:59:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 13:30:00 GMT+0000 (Coordinated Universal Time)"	Í[ÊtY¿"	«∫∏çFM@"	Òùòı‚¿"	,∑¥GM@"	3ƒ±.n#¿"	K‘‘≤IM@"	]õèCM@"	^ùc@ˆz¿"	epîº:KM@"	e«F ^W¿"	r‹)¨CM@"	âA`Â–FM@"	äé‰Ú“¿"	¢óQ,∑Ù¿"	•†€K„¿"	≥Ôä‡GM@"	æje¬/5¿"	Œ«µ°bHM@"	÷9dØW¿"	÷nª–\CM@"	Êypw÷¿"	Ë§˜çØ9M@" 2" Ä" Å" Ç" É" Ñ" Ö" Ü" á" à" â" ä" ã" å" ç" é" í" ì" î" ï" ö" õ" ú" û" ü" †" °" ≠" µ" ∫" ª" º" Ω" ¿" ƒ" ≈" ∆" €" ˙" ˝" ˛" ˇE; ëàsÛGW	{
+{∞O/;ÖÜÇÕºﬂÁ"	!Ù1E; í∑sÛGW	z
+zØO,.ÖÜSÇÃºﬂÁ"	!Ù1E; ìπsÛGW	y
+yÆOÖÜXÇ¬ºﬂÁ"	!Ù1G= ÇàsÛGW	Ä
+Ä∂OÖÜÇΩºﬂÁ"	!Ù1G= îÅ ]ÛGW	Ñ
+Ñ∏O;@ÖÜSÇ‘∫ﬂÁ"	!Ù1E; êπsÛGW	T
+TêP ÖÜXÇƒºÎ"	#™2F; áàsÛGW	Z
+ZïL=?ÖÜÇ÷ºÔﬁ"	é¸-F; ààsÛGW	[
+[ñL@BÖÜÇ◊ºÔﬁ"	é¸-G< âìÉÛGW	`
+`öL<?ÖÜÇ’€Ôﬁ"	é¸-F; òçvÛGW	
+èN ÖÜÇ¬ªÈ„"	ûÜ2F; ˚	âsÛGW	_
+_ôK')ÖÜXÇ…ºÒ‚"	Ãÿ)F; ¸µsÛGW	g
+g°KwxÖÜuÇ‹ºÒ‚"	Ãÿ)F; ˝	âsÛGW	p
+p™KÖÜXÇøºÒ‚"	Ãÿ)F; ˛	âsÛGW	q
+q´KÖÜXÇ¡ºÒ‚"	Ãÿ)F; ˇ	âsÛGW	r
+r¨K ÖÜXÇ√ºÒ‚"	Ãÿ)F; Ä	âsÛGW	n
+n®K!"ÖÜXÇ≈ºÒ‚"	Ãÿ)F; Å	âsÛGW	o
+o©K#%ÖÜXÇ«ºÒ‚"	Ãÿ)F; è	âsÛGW	\
+\óR:;ÖÜXÇ”º‰Ó"	Íæ+F; É	âsÛGW	U
+UëQ+-ÖÜXÇÀº›Ë"	®–-F; Ñ	âsÛGW	V
+VíQ<>ÖÜXÇ’º›Ë"	®–-F; Ö	âsÛGW	m
+mßQ89ÖÜXÇ“º›Ë"	®–-F; ÜÅ ]ÛGW	l
+l¶H!$ÖÜSÇ≈∫·Ú"	‹æ?F; ôévÛGW	t
+t≠HCEÖÜÇŸª·Ú"	‹æ?F; ö
+äsÛGW	|
+|±H"$ÖÜSÇ∆º·Ú"	‹æ?F; õ
+äsÛGW	}
+}≤H&(ÖÜSÇ»º·Ú"	‹æ?F; ú
+äsÛGW	~
+~≥H)*ÖÜSÇ º·Ú"	‹æ?F; Ù
+äsÛGW	
+¥H+-ÖÜSÇÀº·Ú"	‹æ?F; ä
+äsÛGW	h
+h¢HÖÜSÇæº·Ú"	‹æ?F; ã
+äsÛGW	i
+i£HÖÜSÇ¿º·Ú"	‹æ?F; å
+äsÛGW	j
+j§HÖÜSÇ¬º·Ú"	‹æ?F; ç
+äsÛGW	k
+k•H!ÖÜSÇ√º·Ú"	‹æ?F; ï	âsÛGW	
+ãJACÖÜXÇÿºÌÏ"	¶(ÿ,F; ñ	âsÛGW	
+åJDFÖÜXÇ⁄ºÌÏ"	¶(ÿ,F; ó
+äsÛGW	^
+^òJ03ÖÜSÇŒºÌÏ"	¶(ÿ,F; é
+äsÛGW	Y
+YîI78ÖÜSÇ—ºÍ‡"	∆6¢-F; ıásÛGW	a
+aõM&(ÖÜSÇ»ºÊÂ"	∆=Ã'F; ˆásÛGW	b
+búM)*ÖÜSÇ ºÊÂ"	∆=Ã'F; ˜ásÛGW	c
+cùM,.ÖÜSÇÃºÊÂ"	∆=Ã'F; ¯ásÛGW	d
+dûM/1ÖÜSÇÕºÊÂ"	∆=Ã'F; ˘ásÛGW	e
+eüM24ÖÜSÇœºÊÂ"	∆=Ã'F; ˙ásÛGW	f
+f†M56ÖÜSÇ–ºÊÂ"	∆=Ã'˝Cx
+trips(Ä idorigin_stop_idorigin_stop_namedestination_stop_iddestination_stop_namedistanceduration"
+HC 3"
+Wick"
+Reay 1"
+Tongue"	
+Clachan"	
+Melness"	
+Midtown"
+
+Borgie 3"
+
+Burnbrae"
+
+Skerry 1"
+	Bettyhill"
+	Melvich 1"
+	Melvich 2"
+	Pier Road"
+	Rhitongue"
+	Skinnet 1"
+	Skinnet 3"
+	Talmine 1"
+	Talmine 2"
+	Westfield"
+
+Armadale 1"
+
+Armadale 2"
+
+Portskerra"
+Dunnet Hall"
+Laidnagullen"
+Reay Primary"
+Strathy East"
+house call 1"
+house call 4"
+Armadale Pier"
+Strathnaver 2"
+Strathnaver 3"
+Strathnaver 4"
+Strathnaver 5"
+Strathnaver 6"
+Strathy Point"
+Trantlemoor 3"
+Trantlemoor 4"
+Forsinard RSPB"
+Melvich School"
+Strathy West 1"
+Strathy West 2"
+Aultroy Cottage"
+Strathy Point 2"
+Strathy Point 3"
+Strathburn House"
+Balnakiel Village"
+Bettyhill Library"
+Bettyhill library"
+Harveston Cottage"
+Bettyhill Car Park"
+Kinbrace Bungalows"
+Strath Halladale 1"
+Strath Halladale 2"
+Strath Halladale 3"
+Strath Halladale 4"
+Farr Primary School"
+Advasar Cnoc-A-Chonaisg"
+Helmsdale Farr Crescent"  " <" Ä" Å" Ç" Ç" É" Ñ" Ö" Ö" Ü" á" à" à" â" ä" ã" ã" å" ç" é" è" è" ê" ê" í" ì" ì?" î" î:" îS" ï" ï" ï" ñ" ó" ô" ôö" ö" õ" ú" úè" ûÅ" †" †" °" £" £" £~" •" ¶" ß" ®" ®" ®ã" ®í" ®Ô" ¨" ¨" ¨ß" ≠" ≠Ç" ≠í" Æ-" Ææ" ∞" ∞" ±" ≤" ≤" µ" ∂v" ∑" ∑" ∑O" ∏" ∫" ª" ª" º" º" Ω" Ω" Ω" æ" æ" ø" ¿" √C" ƒ" ƒﬂ" ≈" ≈" ≈ó" ∆" «" «" «" »" »)"  " Ã" œ" ”¨" ‘ï" ’π" ÷;" ŸN" €" €" €" €ﬁ" ›" ﬁ" ﬂ" ﬂ" ﬂ" ﬂo" ‡" ‡" ‚" ‚" ‚" „" ‰" ‰" Â" Ê" Ê" Ê" ÊÅ" Á" ÁΩ" Ë" Èu" Í" Í«" Î" Ï" Ï‹" Ì" Ó." Ô" Û." ı" ı" ıÍ" ˆ" ˆ" ˜" ˜" ˜Â	" ¯" ¯" ˙" ˙" ˙" ˝" ˝" ˝Ö" ˛" ˛" ˛" ˛" ˇŒ mbÃs◊"∑	‚‡/¬5%-	) 
+ %
+	*
+3$')# ( ++ %C	i #	9 
+( 28,0B"F@* 0
+)*-
+qµ ≠Ã}`•"ù	üŒ9¢r.	*)	/)?E!A/+71'	:"
+$j D
+&  ,," -
+$"( 4#	
+) &	 	*
+
+	 ,"
+! 5**I,¶?Z.<5&( 
+&,
+&	8º *#Ü< 8	,
+
+*4$.N"
+*d1)!(>,"@ 26 
+
+ 0,
+ Æ'< à
+,n#(""	(6	nŒîn
+ "2<
+æº1"$ê@*^
+	 #@VU$	Ü?2Q
+	åYÜ=	49&Y"-*-:C& 
+ 
+5X  @~T®J04e ÉÄ.ã0⁄u"M	üŒ9ör.	*)	/)?E!A/+71)#
+Æ ’\∏√z"ñ	üŒ9är.	*)	/)?E!A/+71'	:"
+$j D
+&  ,," -
+$"( 4#	
+) &	 	*
+
+	 ,"
+! 5**I,¶?Z.<5 	 
+&,
+&	8º *#Ü< 8	,
+
+*4$.N"
+*d$1)!(>,"@ 26 
+
+ 0,
+ Æ'< à
+,n#(""	(6	nŒîn
+ "2<
+æº1"$ê@*^
+	 #$ ^]$	Ü?:Y
+	åYÜ=	49&Y"-03
+:C$
+	6; 
+` IO8µ	∞C"J	%˛1í* 28,0B"F@* 0
+)*-
+q_ åá
+üdo"H	!¥2ä 
+& 28,0B"F@* 0
+)*-
+q% ëç/á
+”<"	1"	$° Z|cqx"å	Ë†AäkS=c/%1#AI?W1
++%' 5=A
+#	%!0+'Oi#'5!/i!5#+i	!7[5%)	7
+ Ö;1,Ø7
+--%	+ !;6-Y•@+J#)6%		 3GHF&ù ß®°“ì"É	ûà2Ú9 
+( 28,0B"F@* " *:(2$ &B 8("H.2@":(*( tj*÷-ÕX"	Ë†A2kA lab;;"	Ë‡/
+ § èà2aY?"ç	òÚ1ö	
+. d \.
+2,,"
+	 -
+$"( 4#	
+) &	 	*
+ .0$
+ 3GH4 ‘ ¿H#O8ef"æ	Ã⁄)⁄
+( <`
+;6-Y•@+J#+2#$
+ +!	) 
+ %
+	*
+3$')# (	
+%++1	-[c -	 	!;Q)k õñà2¡i"S	üŒ9≤r.	*)	/)?E!A/+71%#*R:¨ …S^¢û"î	†Aæ&Ç	 5<	
+#9D	/4!.%Z3:
+Ö>ãZ	
+9ZÖ@#
+]^# $
+	])è?#!ª2Ω;	1!	ìmÕm
+5'
+!!'m$+á	; ≠( 	+/	 	51? !+='"*2#)c	!-M3#)		+7
+ Ö;)$ª7
+%	+%	
+;6-Y•@+J#+2#$+!	
+	) 
+ %
+	*
+3$'!#	 .!++ %C	i #	9 
+( 28,0B"F@* 0
+)*-
+qu æFTVö"_	∞‹)⁄( <` 
+&$ &	8∏		.'Ü< 8	
+
+*4$3# «N)F;;"	∂ﬁ)
+ ≈M(N);;"	æ‰)
+ ƒL,M(;;"	»ﬁ)
+	 ¬J+L,;;"	Ã⁄)
+˙ †≤3í:{]"‚	Ë†A‚
+kS=c/%1#AI?W+
+1%' 5=A
+#	%!0+'Oi#'5!/i	!5#+i	!7[5%)		7
+ Ö;)$ª7
+%	+%	' %;6-Y•@+J#+2#$+!	
+	) 
+ %
+	*
+3$'!#	 .!++1	-[c -	 	!;Qæ ªE"H#râ"ß	Ã=¨'“ 6%Z3:
+Ö>ãZ	
+9ZÖ@#
+]^# $
+	])è?#!ª2Ω;	1!	ìmÕm
+5'
+!!'m$+á	; ≠( 	+/	 	51? !+='"*2)c	!-M3#)		+7
+ Ö;)$ª7
+%	+%	_;'	Æ ÀRQ™»"ñ	üŒ9är.	*)	/)?E!A/+71'	:"
+$j D
+&  ,," -
+$"( 4#	
+) &	 	*
+
+	 ,"
+! 5**I,¶?Z.<5 	 
+&,
+&	8º *#Ü< 8	,
+
+*4$.N"
+*d$1)!(>,"@ 26 
+
+ 0,
+ Æ'< à
+,n#(""	(6	nŒîn
+ "2<
+æº1"$ê@*^
+	 #$ ^]$	Ü?:Y
+	åYÜ=	49&Y"-03
+:C$
+	6; 
+9 ‘W'ÅäK""	ﬁÇ-r!		+ -O.P , œTW';;"	ËÜ-
+	5 _ÅUØ∫"	ê‘,b*6&(D"
+,j– ±=7ô£Œ"∑	–‚>∫W/%1#AI?W+
+1%' 5=A
+#	%!0+'Oi#)95c!51)%	$$"@ 26 
+
+ 0,
+ Æ'< à
+,n#4$
+(!,Ä nc>9yΩ"Í	»í/Ç
+1(*I,¶?Z.<5", 
+&..	8∞2+Ü< 8	 *6&8\"
+,j$ 6"
+j0"(6$Pj (/,"&
+	$B> 6(&	,2X@ JB$2&0hvl Æﬂ6=7;;"	“Ù>
+ ¨ﬁ5ﬂ6;;"	–Ä?
+ ´Ÿ4ﬁ5;;"	Œ¨?
++  ‹h%Ÿ4;;"
+	÷º?/ P[&≤3§€"	‰¬?J   	Bl ÿg$h%;;"	⁄¬?
+t —Uî¶–"\	¨ò/“ &=#!
+	 	>,"@ 26 
+
+ 0,
+ j@8 Ç
+*&n#($p pôwÖ≥"Y	à)§,≤D	nŒîn
+ "2<
+æº1"$ê@*Z	 #8
+ 		
+ 
+VU$	Ü? πD!E";;"
+	 =∂'  ¥@A;;"
+	»= '  ∑B D!;;"	 =¿'
+ 	 ∂AB ;;"	 =»'
+ + ~é1[&òÜ"	Ë†A:kA
+≠ ùºR∆ "î	†Aæ&Ç	 5<	
+#9D	/4!.%Z3:
+Ö>ãZ	
+9ZÖ@#
+]^# $
+	])è?#!ª2Ω;	1!	ìmÕm
+5'
+!!'m$+á	; ≠( 	+/	 	51? !+='"*2#)c	!-M3#)		+7
+ Ö;)$ª7
+%	+%	
+;6-Y•@+J#+2#$+!	
+	) 
+ %
+	*
+3$'!#	 .!++ %C	i #	9 
+( 28,0B"F@* 0
+)*-
+qE Ñó›ïk"-	†AË+í/3ISßGè6W
+	6; 
+D ê úvÇ"-	†Aæ&í	 5<	
+5XHêT®J04T Gw}ø©">	¥:–+“<]
+	åYÜ=	49&Y"-*-:C& 
+ 
+5X  @~T®J04

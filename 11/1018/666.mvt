@@ -1,0 +1,452 @@
+ÜLx
+stops(Ä id	route_idsroute_names
+mobile_idsmobile_nameslocal_authority_idlocal_authority_namelocal_authority_colourlocal_authority_codename	communityaddresspostcodearrival_timesdeparture_timesroute_start	route_end
+route_daystyperoute_frequenciesroute_schedule	timetable	longitudelatitude"
+42"
+43"
+71"
+72"
+504"
+511"
+876"
+879"
+881"
+884"
+886"
+895"
+896"
+902"
+Bole"
+71,72"
+Halam"
+Upton"
+Friday"
+Monday"
+Morton"
+Public"	
+#215C25"	
+#21793B"	
+879,898"	
+Bleasby"	
+Route 3"	
+Route 6"	
+Tuesday"	
+Wigsley"
+
+09:20:00"
+
+09:30:00"
+
+09:40:00"
+
+10:00:00"
+
+10:15:00"
+
+10:30:00"
+
+10:35:00"
+
+10:50:00"
+
+11:00:00"
+
+11:05:00"
+
+11:10:00"
+
+11:15:00"
+
+11:20:00"
+
+11:30:00"
+
+11:40:00"
+
+11:55:00"
+
+12:15:00"
+
+12:20:00"
+
+12:50:00"
+
+13:15:00"
+
+13:25:00"
+
+13:30:00"
+
+13:45:00"
+
+13:55:00"
+
+14:10:00"
+
+14:15:00"
+
+14:30:00"
+
+14:35:00"
+
+14:40:00"
+
+14:50:00"
+
+15:00:00"
+
+15:10:00"
+
+Edingley"
+
+Flintham"
+
+Gibsmere"
+
+Mobile A"
+
+Mobile B"
+
+NG14 7FS"
+
+NG14 7GF"
+
+NG14 7HE"
+
+NG22 8AA"
+
+NG22 8FU"
+
+NG22 8PQ"
+
+NG23 5LW"
+
+NG23 5SR"
+
+NG23 5TR"
+
+NG25 0HE"
+
+NG25 0JE"
+
+NG25 0PR"
+
+NG25 0TY"
+
+NG25 0UY"
+
+Post Box"
+
+Post box"
+
+Thursday"
+
+Willwyns"
+	Busy Bees"
+	E10000018"
+	E10000024"
+	Easthorpe"
+	Normanton"
+	Rolleston"
+	Southwell"
+	Wednesday"
+
+Station Rd"
+
+Thurgarton"
+Bus Shelter"
+Bus shelter"
+East Mobile"
+Priory Park"
+North Mobile"
+Full Moon Pub"
+North Clifton"
+Orchard Close"
+Crabtree Close"
+Leicestershire"
+Metcalfe Close"
+Monday,Tuesday"
+Nottinghamshire"
+Castle View Road"
+Crickets Nursery"
+09:55:00,10:10:00"
+10:15:00,10:25:00"
+Coney Grey Spinney"
+East Mobile Route 3"
+North Mobile Route 3"
+South Street, Church"
+Spindlewood Bungalow"
+North Mobile Route 11"
+North Mobile Route 12"
+FREQ=WEEKLY;INTERVAL=3"
+FREQ=WEEKLY;INTERVAL=4"
+Main Street‚ÄîPost box"
+2026-01-05T00:00:00.000Z"
+2026-01-08T00:00:00.000Z"
+2026-01-13T00:00:00.000Z"
+2026-12-31T00:00:00.000Z"
+East Mobile,North Mobile"
+East South Mobile Route 1"
+Honeywood Bungalow Lay-by"
+Children‚Äôs House Nursery"
+East South Mobile Route 11"
+East South Mobile Route 14"
+East South Mobile Route 16"!
+Post Box, Bole, Nottinghamshire"$
+"Post box, Wigsley, Nottinghamshire"%
+#Bus shelter, Upton, Nottinghamshire"&
+$Willwyns, Rolleston, Nottinghamshire"'
+%Busy Bees, Southwell, Nottinghamshire"'
+%Station Rd, Edingley, Nottinghamshire"'
+%Top of the close or Crickets car park"(
+&Full Moon Pub, Morton, Nottinghamshire")
+'Orchard Close, Bleasby, Nottinghamshire"*
+(Crickets Nursery, Upton, Nottinghamshire"*
+(Priory Park, Thurgarton, Nottinghamshire"+
+)Crabtree Close, Gibsmere, Nottinghamshire",
+*Metcalfe Close, Southwell, Nottinghamshire"-
++Bus Shelter, North Clifton, Nottinghamshire"-
++Castle View Road, Easthorpe, Leicestershire".
+,Spindlewood Bungalow, Halam, Nottinghamshire"/
+-Coney Grey Spinney, Flintham, Nottinghamshire"/
+-Main Street‚ÄîPost box, Upton, Leicestershire"1
+/East South Mobile Route 1,North Mobile Route 14"2
+0South Street, Church, Normanton, Nottinghamshire"3
+1Honeywood Bungalow Lay-by, Upton, Nottinghamshire"8
+6Children‚Äôs House Nursery, Southwell, Nottinghamshire"?
+=Top of the close or Crickets car park, Upton, Nottinghamshire"@
+>Mon Dec 07 2026 09:20:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 09:30:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 11:00:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 11:05:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 11:20:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 11:30:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 11:55:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 12:20:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 13:15:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 13:30:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 13:55:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 14:30:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 14:35:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 14:40:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 14:50:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 15:00:00 GMT+0000 (Coordinated Universal Time)"a
+_https://www.inspireculture.org.uk/uploads/mobilelibries/timetables/East_Mob._Route_1._2026.docx"a
+_https://www.inspireculture.org.uk/uploads/mobilelibries/timetables/East_Mob._Route_3._2026.docx"b
+`https://www.inspireculture.org.uk/uploads/mobilelibries/timetables/East_Mob._Route_11._2026.docx"b
+`https://www.inspireculture.org.uk/uploads/mobilelibries/timetables/East_Mob._Route_14._2026.docx"e
+chttps://www.leicestershire.gov.uk/sites/default/files/2025-02/Mobile-Library-A-Timetable-Melton.pdf"j
+hhttps://www.inspireculture.org.uk/uploads/mobilelibries/timetables/East_Mob._Route_16._2026_AhOv1kA.docx"j
+hhttps://www.leicestershire.gov.uk/sites/default/files/2025-10/Mobile-library-B-timetable-Lutterworth.pdf"o
+mhttps://www.inspireculture.org.uk/uploads/mobilelibries/timetables/North_Mobile_Route_14_Beckingham_2026.docx"~
+|https://www.inspireculture.org.uk/uploads/mobilelibries/timetables/North_Mobile_Route_11_Cromwell_Normanton_Weston_2026.docx"
+}Mon Dec 07 2026 09:55:00 GMT+0000 (Coordinated Universal Time),Mon Dec 07 2026 10:10:00 GMT+0000 (Coordinated Universal Time)"á
+Ñhttps://www.inspireculture.org.uk/uploads/mobilelibries/timetables/North_Mobile_Route_12_Harby_South_Clifton_North_Clifton_2026.docx"å
+âhttps://www.inspireculture.org.uk/uploads/mobilelibries/timetables/North_Mobile_Route_3_Grove_-_Rampton_-_Headon_2026_Updated_June_26.pdf"±
+ÆThu Dec 10 2026 10:30:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 10:30:00 GMT+0000 (Coordinated Universal Time),Thu Jan 21 2027 10:30:00 GMT+0000 (Coordinated Universal Time),Thu Feb 11 2027 10:30:00 GMT+0000 (Coordinated Universal Time),Thu Mar 04 2027 10:30:00 GMT+0000 (Coordinated Universal Time),Thu Mar 25 2027 10:30:00 GMT+0000 (Coordinated Universal Time),Thu Apr 15 2027 10:30:00 GMT+0000 (Coordinated Universal Time),Thu May 06 2027 10:30:00 GMT+0000 (Coordinated Universal Time),Thu May 27 2027 10:30:00 GMT+0000 (Coordinated Universal Time),Thu Jun 17 2027 10:30:00 GMT+0000 (Coordinated Universal Time),Thu Jul 08 2027 10:30:00 GMT+0000 (Coordinated Universal Time),Thu Jul 29 2027 10:30:00 GMT+0000 (Coordinated Universal Time),Thu Aug 19 2027 10:30:00 GMT+0000 (Coordinated Universal Time),Thu Sep 09 2027 10:30:00 GMT+0000 (Coordinated Universal Time),Thu Sep 30 2027 10:30:00 GMT+0000 (Coordinated Universal Time),Thu Oct 21 2027 10:30:00 GMT+0000 (Coordinated Universal Time),Thu Nov 11 2027 10:30:00 GMT+0000 (Coordinated Universal Time)"±
+ÆTue Dec 15 2026 10:15:00 GMT+0000 (Coordinated Universal Time),Tue Jan 05 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Tue Jan 26 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Tue Feb 16 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Tue Mar 09 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Tue Mar 30 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Tue Apr 20 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Tue May 11 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Tue Jun 01 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Tue Jun 22 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Tue Jul 13 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Tue Aug 03 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Tue Aug 24 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Tue Sep 14 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Tue Oct 05 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Tue Oct 26 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Tue Nov 16 2027 10:15:00 GMT+0000 (Coordinated Universal Time)"	&pÎnäJ@"	V-≤ÅJ@"	
+ø‘œõäÏø"	√GƒîåJ@"	m±Óø"	ÑdãJ@"	ÏÜmã2Óø"	 cÓZB>Óø"	 µâì˚âJ@"	$úºË+Óø"	)yuéŸÏø"	4hËü‡ÜJ@"	=~o”üâJ@"	lxz•,èJ@"	}yˆ—©Ôø"	Ä∑@Ç‚«Óø"	äÕ«µ°bÌø"	êIFŒ¬äJ@"	ô”e1±˘Ìø"	±3ÖŒkÑJ@"	π«“á.ÑJ@"	ª~¡nÿ∂Ìø"	”ˆØ¨4ÖJ@"	÷nª–\ßÔø"	‹Ùg?RàJ@"	Ë§˜çØâJ@"	È}„kœ,Ìø"	¸ﬁ¶?˚ëÓø" " " Ç," í*" î+" ñ*" ò*" °," ¶+" ß+" ¨*" ≠+" «"  *" Ã+" œ+" ÷+" Á)" Ë)" Î)" Ù" ˙)" ˚*B7 Êqa◊kW	]
+>äG&(z}\xû≠»Ω"	‡∂B7 Âqa◊kW	t
+îF*,z}\x†≠—À"	ÏÑB7 ﬁvc◊kW	R
+ÜH')z}\xü∂æ«"	‘)êC8 ﬂó~◊kW	Q
+ÖHnoz}jxµ≥æ«"	‘)êB7 Èqa◊kW	U
+[âL8<z}\xß≠’¬"	ñ$‹C8 Îqa◊kW	Å
+[öL!z}\xù≠’¬"	ñ$‹@5 Í A÷hV	l
+XìO"$|wπ∞¡∆"	Ù'∂B7 ‰uc◊kW	s
+YòN12z}x§¥√ø"	‹(C8 Ï
+Ña◊kW	i
+[ëM8<z}xß±¿”"	∂(ê@5 ‚B÷hV	y
+ñJ#%{Sw∏≤ƒ∫"	‰7ÃB7 Árc◊kW	`
+áJ<=z}\x´∑ƒ∫"	‰7ÃB7 Ëvc◊kW	_
+eíJ:<z}\x©∂ƒ∫"	‰7ÃC8 ‹Ça◊kW	m
+éJ z}\xúÆƒ∫"	‰7ÃC8 „rc◊kW	Ä
+ôJ;<z}\x™∑ƒ∫"	‰7ÃC8 ÿa◊kW	ã
+õJ9<z}x®¨ƒ∫"	‰7ÃC8 ·
+Ña◊kW	b
+^èE+,z}x°±…Õ"	‰!Ü4C8 ⁄
+Ña◊kW	f
+çD-.z}x¢±Ã–"	˙*™0C8 €
+Ña◊kW	g
+@êC/0z}x£±œŒ"	ˆ-ñ5C8 ‡
+Ña◊kW	d
+åP34z}x•± ≈"	‘1∂(C8 ›
+Ña◊kW	T
+ZàK57z}x¶±º“"	¢;Ã!C8 Ÿ	Éa◊kW	p
+?ïI56z}\x¶Ø‘ª"	Ü4ˆ@¥Mx
+trips(Ä idorigin_stop_idorigin_stop_namedestination_stop_iddestination_stop_namedistanceduration"
+Church"
+School"	
+WI Hall"
+
+Bruncott"
+
+Cottages"
+
+Post Box"
+
+Post box"
+
+Willwyns"
+	Busy Bees"
+	Dame Lane"
+	The Green"
+	Top Green"
+
+Dean Close"
+
+Greenacres"
+
+Keyes Rise"
+
+Pre School"
+
+Pre-School"
+
+Station Rd"
+
+The Church"
+Boot & Shoe"
+Bus Shelter"
+Bus shelter"
+Chapel Lane"
+Church Farm"
+Farm Corner"
+Main Street"
+Post Office"
+Priory Park"
+Savile Arms"
+The Granary"
+The Meadows"
+Belleau Park"
+Church Green"
+Long Meadows"
+Meadow Close"
+Sulney Close"
+The Paddocks"
+Village Hall"
+Bedfords Yard"
+Blue Bell Inn"
+Full Moon Pub"
+Orchard Close"
+Pinfold Close"
+Staythorpe Rd"
+75 Main Street"
+Crabtree Close"
+Forest Cottage"
+Metcalfe Close"
+Southview Farm"
+The Old School"
+Catalyst Church"
+Collingham Lane"
+Headland Avenue"
+The Grange Farm"
+Castle View Road"
+Crickets Nursery"
+Holly Bush Close"
+Old Red Lion Pub"
+Stapleford Woods"
+82 Shireoaks Road"
+Hillview Crescent"
+Church gate Corner"
+Coney Grey Spinney"
+Chapel, Main Street"
+Bungalow Grange Farm"
+South Street, Church"
+Spindlewood Bungalow"
+Strawberry Hall lane"
+Little Elms Pre-School"
+Main Street‚ÄîPost box"
+Millfield Close Lay-by"
+Opposite Playing Field"
+Windsmoor Road, No. 42"
+High Street / The Limes"
+Vine Cottage (4 Main St)"
+Cricket Field, Retford Rd"
+Honeywood Bungalow Lay-by"
+Children‚Äôs House Nursery"
+Cornwall Road / York Place"
+Main St, opp. Wooden garage"
+Melbourne Road/Ramsey Close"
+Level Crossing, Tuxford Road"
+Ossington Road / School Lane"!
+Back Lane Cottages, West Street"!
+Bolton Close (Community Centre)"#
+!St Botolph‚Äôs Church Sheepy Road"$
+"Killarney Park(Sandy Oaks Village)"'
+%Top of the close or Crickets car park"  " " " Ä"" Ä*" Ä¨" Å" Å," ÅQ" Ç" Ç," É"" É#" É@" Ñ" Ñõ" Ö" Ö#" Ü" Ü#" á" á" à" à" à$" àL" â" â"" â‘" ä" ä$" å"" é+" è*" ê$" ê5" ë«" í"" í*" í+" í," íÑ" ì" ì*" ìÄ" î" î" î*" î+" ï" ï"" ï#" ï¬" ñ" ñ"" ñ*" ñ+" ó$" ó*" ó," ó‘" ó’" ò" ò#" ò*" ò”" ô#" ö" ö" õ" õ"" õ#" õ&" ú" ú"" ú*" úì" ù" ù" ù"" û"" û(" û*" ûË" ü," ü˙" †"" †ó" †˜" °+" °," £," £µ" §" §" ¶!" ¶*" ¶+" ¶˘" ß" ß+" ßß" ®+" ©#" ©*" ©;" ™	" ™" ™#" ™+" ´" ´+" ¨" ¨#" ¨*" ≠+" Æ#" Ø" Ø#" Ø“" ∞Ê" ±" ±" ±"" ±#" ≤" ≤" ≤"" ≥"" ¥*" µ"" ∑Ã" π" ∫" ª)" ª*" ª+" º)" Ωã" æ$" æ+" ø" ø" øö" ø–" ¿#" ¿≠" ¡#" ¡±" ¬"" ¬#" ¬*" √#" √*" ƒ" ƒ"" ƒ#" ≈" ≈#" ∆" ∆#" «" «" «" «"" «#" «*" »"  *" À" À"" Ã)" Ã+" Õ+" ÕW" ÕÇ" Õ±" ÕÕ" Œ" Œ" Œ$" œ" œ*" œ+" –*" –ë" —" —" —"" “/" ”)" ”+" ”Ñ" ’#" ’)" ’ë" ’Ì" ÷#" ÷+" ÿ" ÿ"" ÿ#" Ÿ)" Ÿ*" ⁄)" ⁄+" ⁄Ó" €" €)" €ì" ‹" ›*" ›ó" ›÷" ﬁ" ﬁ" ﬁ#" ﬂ
+" ﬂ" ﬂ" ﬂ" ﬂ"" ﬂ+" ·#" ·*" ·+" ·∆" ‚" ‚)" „" ‰
+" ‰" Â)" Ê+" Á)" Ë)" Ë∏" È*" Í" Í+" ÍÓ" Î!" Î#" Î)" Î+" Î—" Î’" Îˆ" Ï" Ï!" Ï"" Ï#" Ï+" Ì" Ì" Ì#" Ì+" Ì∫" Ó" Ó#" Ó+" Ó" Ô"" Ô#" )" ¬" Û"" Û+" Ù
+" Ù" Ù#" Ù)" Ù¬" ı" ı)" ı+" ˆ*" ˜" ˜!" ˘*" ˙)" ˙’" ˚)" ˚*" ¸(" ¸*" ˛" ˛" ˛#" ˛&" ˛)" ˇ" ˇ" ˇ)n n˚EùU€“"V	‘9í™6;L?0 H	Üãhy<9$	:<:		  "Rü∂áéspÛ⁄jvù¶'0múq†A ®Ú íK∞ç"(	‡5†AbRo /t•&+®ØvmÇiÇoneÇÇÖ†µ= ÓÉS‰ƒ¥"$	†A†5Rü∂áéspÛ⁄jvù¶'0múq†A ¯‰„áı"(	‡5†AbRo /t•&+®ØvmÇiÇoneÇÇÖ†µy —·;Ä%©÷"`	ü®/¬nú28ò¶å†~hñ`&" >
+*d*
+4(^ *,$4.p6h(J öJ|@~Fb:⁄í"(&
+"&0>6&Dt ˝‰≥Hïu"\	Ù†A≤C#7M1-C'%!Ÿëa9}E{?ôIIg'5o-3#)+']	3)c	)=%!ï_}gãüó•17mõ< ◊áæïµ"#	üÑ&r Ç	 2,zi>!v'V	2	= ﬂ‹
+ó:ë•"$	†A†5Rü∂áéspÛ⁄jvù¶'0múq†< ÊÎ$‰òo"$	†A†5Rü∂áéspÛ⁄jvù¶'0múq†\ ”Ã5ºŸΩ"C	ú)üÚ	 H02 
+'3)		
+
+4*( 	1/G 
+A Ó‰˛8Ø≤"(	‡5†AbRo /t•&+®ØvmÇiÇoneÇÇÖ†µA Î‰ÔI¥–"(	‡5†AbRo /t•&+®ØvmÇiÇoneÇÇÖ†µ= éÍ?‰ÁÖ"$	†A†5Rü∂áéspÛ⁄jvù¶'0múq†= †Ò<‰à⁄"$	†A†5Rü∂áéspÛ⁄jvù¶'0múq†E w¬˙Œä"-	∞;àí2%ú_ =?,_B7,K.7+w;#^∑B)ó c¢'ÄL≠Ç"	†AŒ¬A*]∏$<x,-8+LA8 +`@> õ`1&( ØA¸=ä&"
+
+ & ('%	 	!%>âB˚¬ 	
+¬ ûMö`ç"©	ñ$‹Í-/ 	/+/[I1/ %=78m9)M!mg%mYe;9'9	'#Éa›’{· è%%A'	%≥ +$)+ E
+$?I7k-Ws')!Y3Q!G›	;3/cü4 ƒº™{’"	÷)êZ 	1/G 
+A Æ˝=≈O≠‹"(	‡5†AbRo /t•&+®ØvmÇiÇoneÇÇÖ†µ®  «ÑAtl"ê	¥;üÇ )!D!H?l#.S#OLyÜ)$-UJA2I*PS)3>ah[TO6+*QZ 	/D-j, " ç¶S∫	&æ$∑ƒ*#$7G8HUJED◊ÇG'A È‰£	–Ü"(	‡5†AbRo /t•&+®ØvmÇiÇoneÇÇÖ†µA Œ«π#´ß"(	‡5†AbRo /t•&+®ØvmÇiÇoneÇÇÖ†µâ °èBáÜÌ"p	“Ç+7C%a-1)W?+%)Gãôø-7-ª9 √)©)!S#%qG?9Oc		'10
+3B;xy∏	ï(üî [öû¡ú"|	Ãü∫d†0<4(:
+∂R"@Z4H^B^8l@J#	F,*# ,"¢
+8 
+2;`1.F.
+**.åﬁ÷Ñb($
+:I ∞ûèB˚°"0	ÿ‡ö(:!.-2i^))@ôÆçv9+&YK-	ö ﬁ´DÀer"Ç	†ö$ x	(P!" V
+ú(>∂ì(0<-îÀL%dOF+P!&fN%F5<9 - V2X`:(D(R+&Z&&*&"Ñ$¿,D,-Rã! …æ´DZY"
+	Œ≤$:U ë≤Û/ph">	‘1–"“7-«gµO/üQ'!'-/IG_=C'?E7Q3
+7
+! µÄL¬XX"
+	Ü;æ6 ∑•+bW¸í"	∫;‹b/_TAJ#
+Y/ U ⁄ò7∂Cq’"=	‰7Ã⁄0 Z(^cL?0 H pyhy<9$	:<:	l ‘Àà)»f"T	ÿ é4™  )-*4QÜ©"f3T3 \5t_
+@<$P4¥R.8
+
+6M  5NF6<:&(
+,Ç zìJÀ˘—"j	ÿ"†AäW?#0M1#A	)	!µK	1;q75	-K9@I4G 	"A
+ 	!B%=+b öà)è-Õõ"I	Ë,⁄1äJF*6
+,V61P7@!0#N*)29<7D  8C:;*1)$M"/8?2O$1nw4!~ ¸ (≤¶Æ"e	Ï3¿$⁄ê› 
+ A8*
+ 
+	
+	 	7)…B	 èﬁÈ√r ÿè- („∆"Y	Œ0˙1∫H?-î©(%'"K-
+Tk@]ç%%1Y1!cA!,)0V)68K/hôQ3!w Ì∏~>Ùâ"_	§7†AÇ<Q	A)cA;/-!
+-. jj	% ∫a+%:;.-84&&^wî£bó¨ÁB_4Y∑ ôÑA‰Ë^"û	ñ%˛™A#.Sé+.(Fi<9zà8\7n5 ;4	46..L^Ç8p0@
+
+^p"p*V628L|r*5T=z&j@ .669Ä1T±⁄ì¿}rG4#  ì»yò§ A8CFuZA ˆ‰‡â˘"(	‡5†AbRo /t•&+®ØvmÇiÇoneÇÇÖ†µë m˜E˚Egå"z	‡5†AbRo /t•&+®ØvmÇiÇoneÇÇÖ†µ	 Ω"≤9
+;9#
+;:gzozG ]N;D9Y/  ('0 Z:t vÄ%ÉNú∂"\	Ù†A≤C#7M1-C'%!Ÿëa9}E{?ôIIg'5o-3#)+']	3)c	)=%!ï_}gãüó•17mõ; ÇŸ§T]a"$	†A†5Rü∂áéspÛ⁄jvù¶'0múq†⁄ ˇÂ6Ê›Â"¿	†(é¬V	?	^%zo	:1=
+"XC$?%c-"3%!~8G>(4 $.L^Ç8p8L
+^p h(T4"8L|f" -H=z&j@ .6("1l1T±⁄õ uhG4#  ì»yò§ A8CFuZN ◊‘
+≈¶±"5	†A†:öS%K1ç_ ôêÉrjvù¶'0múq†@ Ã≈®Ò¬"'	‡5†AÇRo	dBB*
+;RA Ù‰£QÍ˙"(	‡5†AbRo /t•&+®ØvmÇiÇoneÇÇÖ†µ˚ ü√1Â6Å›"·	ÿ†A¬vYDEB7Ä£zóî«$H3vgú…≤Ÿ2S2k!'5- ?i%>y.G!e{K7!3'Sgo	]7K7o]Å-K# 3'H=7}"&4 !.d&@D#!W>	29 
+p&y]
+@
+7 qI/'*  ) 
+
+2TA óG•+©ˆ")	†A÷Ç9
+;9#
+;:gzÖå
+G U ãx9√îª"=	†A÷⁄9
+;9#
+;:gzozG /K@]d
+)Y/ π kıFπ§™"†	†A»
+≤SK	$<x,-8+LA8 +`@> õ`1&(
+5 °%#Ø„w7´Ig%	øO?#'U]KCE1'/øCÈ°]/]# ’ =§©#pü*3>E0%/( 	1/G 
+< sº¿@∫ì"$	†A†5Rü∂áéspÛ⁄jvù¶'0múq†A äÁÏ"∫÷"(	‡5†AbRo /t•&+®ØvmÇiÇoneÇÇÖ†µ= îﬂ4‰Ñ≥"$	†A†5Rü∂áéspÛ⁄jvù¶'0múq†= øπÚ »‰"$	†A†5Rü∂áéspÛ⁄jvù¶'0múq†@ }‡2Ÿœ˜"(	‡5†AbRo /t•&+®ØvmÇiÇoneÇÇÖ†µ@ ßÚ y3Ëñ"(	‡5†AbRo /t•&+®ØvmÇiÇoneÇÇÖ†µ= ‚∏!Ú ¨∆"$	†A†5Rü∂áéspÛ⁄jvù¶'0múq†= üêR‰õÚ"$	†A†5Rü∂áéspÛ⁄jvù¶'0múq†B ”~>¨∑j"+	‚;ﬁ8ä@g.9 
+	fÉXãRU0C23%"U-6a
+<(A ‰é·Å"(	‡5†AbRo /t•&+®ØvmÇiÇoneÇÇÖ†µA ¢Ú ñ&‚ª"(	‡5†AbRo /t•&+®ØvmÇiÇoneÇÇÖ†µ< ùÖ0Ú |æ"$	†A†5Rü∂áéspÛ⁄jvù¶'0múq†A …ﬁ,ÿ
+Ïã"(	‡5†AbRo /t•&+®ØvmÇiÇoneÇÇÖ†µ; dÏ"\ œÈ"$	†A†5Rü∂áéspÛ⁄jvù¶'0múq†p iÔP¡åØ"X	‡5†AöRo /t•&+ñõÃÀ¿èñã!,mE   	fÉXãRU0C23%"U-6a
+<(< ¯_±*Õ“"$	†A†5Rü∂áéspÛ⁄jvù¶'0múq†= €ÿ
+Ä%Ωø"$	†A†5Rü∂áéspÛ⁄jvù¶'0múq†π Û¿.êVô†"ü	†A»
+äSK	$<x,-8+LA8 +`@> õ`1&(
+5 °%#Ø„w7±Ka%	—Y-'U])#ç¶S∫	&æ0Ω“*#$UJED≈7
+	?
+%*	-9S5Ò≈
+ +'n
+1'C'9_W1U .;:S>?e%O"'cPK&•ﬁ!I0C$ôÜ='õU	…!O"'
+wC
+?U
+u(!7 uhI0A*5T0

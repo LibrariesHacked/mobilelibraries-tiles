@@ -1,0 +1,572 @@
+Ëíx
+stops(Ä id	route_idsroute_names
+mobile_idsmobile_nameslocal_authority_idlocal_authority_namelocal_authority_colourlocal_authority_codename	communityaddresspostcodearrival_timesdeparture_timesroute_start	route_end
+route_daystyperoute_frequenciesroute_schedule	timetable	longitudelatitude"
+31"
+32"
+34"
+36"
+375"
+389"
+396"
+398"
+400"
+402"
+414"
+417"
+418"
+421"
+422"
+Kent"
+Blean"
+Borden"
+Friday"
+Petham"
+Public"	
+#248096"	
+Bobbing"	
+CT1 3XE"	
+CT2 8JR"	
+CT2 8NH"	
+CT2 9AN"	
+CT2 9BS"	
+CT2 9HP"	
+CT2 9JA"	
+CT4 5RD"	
+CT4 7JW"	
+CT4 7LZ"	
+CT4 7QJ"	
+CT4 7RY"	
+CT4 7TA"	
+CT4 8AS"	
+CT4 8BZ"	
+CT4 8DS"	
+CT5 2HG"	
+CT5 2HQ"	
+CT5 4BZ"	
+CT5 4DR"	
+CT5 4EH"	
+Chilham"	
+Dunkirk"	
+Egerton"	
+ME9 0BP"	
+ME9 8JG"	
+ME9 8NY"	
+Murston"	
+Private"	
+Tuesday"
+
+09:05:00"
+
+09:20:00"
+
+09:25:00"
+
+09:30:00"
+
+09:45:00"
+
+09:50:00"
+
+09:55:00"
+
+10:00:00"
+
+10:10:00"
+
+10:15:00"
+
+10:30:00"
+
+10:40:00"
+
+10:45:00"
+
+10:55:00"
+
+11:00:00"
+
+11:05:00"
+
+11:10:00"
+
+11:15:00"
+
+11:30:00"
+
+11:35:00"
+
+11:45:00"
+
+12:05:00"
+
+12:10:00"
+
+12:15:00"
+
+12:25:00"
+
+12:35:00"
+
+12:40:00"
+
+12:45:00"
+
+12:55:00"
+
+13:00:00"
+
+13:05:00"
+
+13:10:00"
+
+13:30:00"
+
+13:40:00"
+
+13:45:00"
+
+13:55:00"
+
+14:10:00"
+
+14:15:00"
+
+14:25:00"
+
+14:30:00"
+
+14:35:00"
+
+14:40:00"
+
+14:50:00"
+
+15:00:00"
+
+15:05:00"
+
+15:10:00"
+
+15:15:00"
+
+15:20:00"
+
+15:30:00"
+
+15:35:00"
+
+15:45:00"
+
+15:50:00"
+
+15:55:00"
+
+16:00:00"
+
+16:15:00"
+
+16:25:00"
+
+16:30:00"
+
+16:45:00"
+
+Challock"
+
+Chartham"
+
+Hernhill"
+
+ME10 3RB"
+
+ME13 0ED"
+
+ME13 0PJ"
+
+ME13 7ST"
+
+ME13 8BG"
+
+ME13 8NL"
+
+ME13 9BB"
+
+ME13 9JG"
+
+ME13 9LH"
+
+Pluckley"
+
+TN25 4BS"
+
+TN25 4HH"
+
+TN27 0QS"
+
+TN27 9DJ"
+
+Thursday"
+	Davington"
+	E10000016"
+	Faversham"
+	Seasalter"
+	Sheldwich"
+	Sunnyside"
+	Tankerton"
+	The Green"
+	Wednesday"
+
+Canterbury"
+
+Doddington"
+
+Harbledown"
+
+Thanington"
+
+The George"
+
+Tyler Hill"
+
+Whitstable"
+
+bus lay-by"
+Monks Close"
+Pier Avenue"
+Post Office"
+Summer Hill"
+Abbey Fields"
+Bobbing Hill"
+Brice Avenue"
+Chequers Inn"
+Coppins Lane"
+Rough Common"
+The Ridgeway"
+Village Hall"
+Boughton Aluph"
+Bramley Avenue"
+Chartham Hatch"
+Courtenay Road"
+Howfield Lane*"
+Old Wives Lees"
+Primary School"
+Applegarth Park"
+Churchill House"
+Columbia Avenue"
+Lees Court Road"
+Lower Lees Road"
+Pluckley School"
+Tyler Hill Road"
+Felborough Close"
+Flying Horse Pub"
+St Mary's Church"
+Throwley Forstal"
+Upper Harbledown"
+Rough Common Road"
+Shalmsford Street"
+Shearwater Avenue"
+Boughton-under-Blean"
+Dover Mobile Library"
+Sturry Mobile Library"
+Taylors Hill Car Park"
+Westgate Court Avenue"
+Ashford Mobile Library"
+FREQ=WEEKLY;INTERVAL=2"
+Forstal, Hernhill, Kent"
+Fostall, Hernhill, Kent"
+2026-01-01T00:00:00.000Z"
+2026-12-31T00:00:00.000Z"
+Maidstone Mobile Library"
+Tankerton Northwood Road"
+2 School Lane, Blean, Kent"
+Coppins Lane, Borden, Kent"
+The Dawes Community Centre"
+The Street, Pluckley, Kent"
+Abbeyfield, Faversham, Kent"
+Bobbing Hill, Bobbing, Kent"
+Church Lane, Challock, Kent"
+Church Lane, Chartham, Kent"
+St Augustines, Beech Avenue"
+Sunnyside, Doddington, Kent"
+Beech Avenue, Chartham, Kent"
+Monks Close, Davington, Kent"
+Pier Avenue, Tankerton, Kent"
+Ashford Road Community Centre"
+Courtenay Road, Dunkirk, Kent" 
+Ashford Road, Thanington, Kent" 
+Wye Road, Boughton Aluph, Kent"!
+Bramley Avenue, Faversham, Kent"!
+Felborough Close, Chilham, Kent"!
+Northwood Road, Tankerton, Kent""
+ Lees Court Road, Sheldwich, Kent"#
+!Columbia Avenue, Whitstable, Kent"#
+!Shalmsford Street, Chartham, Kent"#
+!The Green, Throwley Forstal, Kent"#
+!Tyler Hill Road, Tyler Hill, Kent"$
+"Egerton Post Office, Egerton, Kent"$
+"Roman Road, Upper Harbledown, Kent"%
+#Howfield Lane, Chartham Hatch, Kent"%
+#Shearwater Avenue, Whitstable, Kent"'
+%Brice Avenue, Shalmsford Street, Kent"'
+%Lower Lees Road, Old Wives Lees, Kent")
+'Dover Mobile Library Red Route - Friday")
+'Village Hall, Church Lane, Petham, Kent")
+'Westgate Court Avenue, Canterbury, Kent"*
+(The Ridgeway, Boughton-under-Blean, Kent"+
+)Sturry Mobile Library Blue Route - Friday"+
+)Sturry Mobile Library Red Route - Tuesday"+
+)Summer Hill, Harbledown, Canterbury, Kent",
+*Ashford Mobile Library Blue Route - Friday",
+*Sturry Mobile Library Blue Route - Tuesday"-
++Maidstone Mobile Library Red Route - Friday"-
++Sturry Mobile Library Red Route - Wednesday".
+,Maidstone Mobile Library Blue Route - Friday".
+,Sturry Mobile Library Blue Route - Wednesday"/
+-Maidstone Mobile Library Blue Route - Tuesday"/
+-Maidstone Mobile Library Red Route - Thursday"1
+/Churchill House, Portland Avenue, Murston, Kent"2
+0Applegarth Park, Seasalter Lane, Seasalter, Kent"2
+0Taylors Hill Car Park, Chilham, Canterbury, Kent"3
+1Rough Common Road, Rough Common, Canterbury, Kent"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=1G5jm2-emuo&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=1Lf1klT36kQ&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=1o97N2iPGHg&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=2GCIhEKmgpw&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=2_hqaKuZCWs&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=2nODwxDkrdY&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=ArhQFeEgCdQ&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=C3KxTo47eHQ&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=DSWBCQUqxzk&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=DaMdm943F94&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=F8Bj104xxNU&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=G_bA2VNORX4&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=HDQupoN50Ik&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=Hnz0HwKt38k&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=HxuWZ-90zt8&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=ILdgoMXq1PA&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=LjslObizc8M&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=S_VJsyeOJ6Y&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=Sbf-20HPdXc&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=TsQKIObtf7M&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=UojvW9P1iBE&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=XWuFe5kynrg&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=cjZBBPj0lDM&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=dYvtE-KiOLk&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=eWKlXiKicWA&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=fStjgm-TUz8&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=jEYw_Vanpg8&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=jqxxrcQDzRM&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=kUeMImPRK14&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=l3ehZ7wtz9g&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=l9MXpuwVHBs&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=mw86t8FdWO8&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=oSTU91frRJs&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=otLAs82qkCQ&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=pd9hVQ_jiYU&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=uAw9EHBS4iQ&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=vo9Bhkws0Hk&communitychannel=8"]
+[https://local.kent.gov.uk/kb5/kent/directory/service.page?id=z2HNrDiJ6WE&communitychannel=8"ø
+ºThu Dec 03 2026 09:05:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 09:05:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 09:05:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 09:20:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 09:20:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 09:20:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 09:25:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 09:25:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 09:25:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 09:30:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 09:30:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 09:30:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 09:45:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 09:45:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 09:45:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 10:00:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 10:10:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 10:10:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 10:10:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 10:15:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 10:15:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 10:15:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 10:40:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 10:40:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 10:40:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 10:45:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 10:45:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 10:45:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 11:00:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 11:00:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 11:00:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 11:05:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 11:05:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 11:05:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 11:35:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 11:35:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 11:35:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 11:45:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 11:45:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 11:45:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 12:10:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 12:10:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 12:10:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 12:15:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 12:15:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 12:15:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 12:25:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 12:25:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 12:25:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 12:35:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 12:35:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 12:35:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 13:00:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 13:00:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 13:00:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 13:10:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 13:10:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 13:10:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 13:40:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 13:40:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 13:40:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 13:45:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 13:45:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 13:45:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 13:55:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 13:55:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 13:55:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 14:30:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 14:30:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 14:30:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 14:35:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 14:35:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 14:35:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 14:40:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 14:40:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 14:40:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 14:50:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 14:50:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 14:50:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 15:05:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 15:05:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 15:05:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 15:15:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 15:15:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 15:15:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 15:30:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 15:30:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 15:30:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 15:45:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 15:45:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 15:45:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 15:55:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 15:55:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 15:55:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 16:15:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 16:15:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 16:15:00 GMT+0000 (Coordinated Universal Time)"	 Æd«F§I@"	ŸÎ›Ô?"	_òL®I@"		á3øöÊ?"	√Gƒî¨I@"	g~5§I@"	ªDı÷†I@"	±üúI@"	±ü§I@"	 )"√*ﬁÓ?"	!%Ã¥˝Î?"	%Ã¥˝++Ë?"	&6◊Ü¢I@"	&¸R?oñI@"	'NÓw(
+Ô?"	*:íÀ†I@"	*:íÀ»?"	,+MJAüI@"	0‹{∏‰?"	3mˇ JßI@"	4∫ÉÿôB?"	6<ΩRñ•I@"	9—ÆB ´I@"	D£;àù•I@"	F_Aö±†I@"	MuÄ¨I@"	O;¸5YüI@"	OíÆô|ßI@"	RIùÄ&B?"	[rP¬Ã?"	cz¬†I@"	d@ˆz˜G?"	fÉL2r¢I@"	qrøCQ®I@"	sK´!qèË?"	w;SËòI@"	Ÿ=yX¨I@"	ÄHø}8Ï?"	Å>ë'I◊Ï?"	Ü…T¡®®I@"	ä}"OíÏ?"	ë~˚:p™I@"	íë≥∞ßË?"	ìåúÖ=Ì?"	ïüT˚tº?"	üFè∂?"	°áP•Ó?"	§à´xßI@"	®˛ö¨QÁ?"	≤c#ØÎÓ?"	µTﬁépZÊ?"	∏u7OuúI@"	∏‰∏S:òI@"	ª’s“˚∆?"	ºy™Cn?"	ø`7l[†I@"	≈Ueﬂ¡Ó?"	∆·ÃØÊ§I@"	»T∆øüI@"	ÿ*¡‚pÊÔ?"	ﬂâY/Ür?"	„çÃ#§I@"	‰ÉûÕ™´I@"	ÌıÓè˜*?"	Ôê⁄ƒ…Ï?"	ÔrﬂâYÏ?"	ÛTá‹7?"	Ù2äÂñ¢I@"	ıæÒµgÆI@"	˜‰a°÷¥?"	¸ä}"Î?"	¸o%;6Ç?"	¸åBÆI@"	ˇ	.V‘`Ô?" " Ñ" Ñ" è" í" î" ï" ó" û" ü" †" †" °" §" ®" ¨" Æ" ≤" ø" ¬" »" Œ" ’" ÷" ÿ" ⁄" ‹" ‹" ›" Ë" Ó" Ô" " Ú" Ù" ˆ" ˆ" ˝" ˛I? °	ÓøÑÇ	ó
+∆1_dΩæÄ∫≥ÑÏæ"	iÏH> âÈøÑÇ	ö
+¬0AFΩæ∫¢ïΩ„"	LﬁI> ÖÈøÑÇ	¶
+2ÔrNSΩæ∫™í≈–"	¿	‘K@ çÍ∂ÑÇ	Ü
+ã /9>Ωæâ∫ùÉ‹¬"	‹¨"I> ¶ÌøÑÇ	î
+.⁄MQΩæ4∫©éÍ›"	‘ ;J? îË∂ÑÇ	à
+ØÿtX[Ωæ4∫ØÙÄÒ"	Æ‘*I> ©ÎøÑÇ	ô
+o«|=BΩæ∫ü¸ƒ¡"	ûƒ4K@ üÍ∂ÑÇ	í
+ÅÃu@EΩæâ∫°ˆﬂ·"	ƒ ‰K@ ¢Í∂ÑÇ	ü
+É“wHJΩæâ∫•˚˙’"	‚#∏K@ úÍ∂ÑÇ	ñ
+É≈vLPΩæâ∫®á‡º"	ä$åJ? ®Í∂ÑÇ	§
+qºyWcΩæâ3∫Æã√€"	Œ/∆I> íÂ∂ÑÇ	√
+qªy8<Ωæ4∫úë√€"	Œ/∆J? ïÂ∂ÑÇ	ú
+¥„x>AΩæ4∫†òË—"	¨.⁄K@ áÏ∂ÑÇ	ß
+ê÷+6:Ωæâ∫öˇ˘ﬁ"	˙7≤K@ ÜÏ∂ÑÇ	≥
+ê›*<?Ωæâ∫ûâ÷”"	˛8ÑK@ èÏ∂ÑÇ	¿
+¿‘'CGΩæâ∫£å Ç"	˙>ÑK@ £Ï∂ÑÇ	ì
+áÕ(HNΩæâ∫•à◊˛"	í?ÿ
+K@ ùÍ∂ÑÇ	•
+Ñ)gmΩæâ∫∑ä¯"	™6¯I> äÂ∂ÑÇ	°
+-œzDHΩæ4∫§ÖÉœ"	¬2‚I> öÂ∂ÑÇ	ù
+¡chΩæ4∫µêÁÈ"	î>æJ? óÂ∂ÑÇ	´
+èŸilΩæ4∫∏çˇÕ"	ä>ÚJ? òË∂ÑÇ	®
+Ö’s^bΩæ4∫≤î˚⁄"	§!Ù%I> êË∂ÑÇ	∑
+,Ò%HJΩæ4∫•ÅÚÀ"	˙.î-I> éË∂ÑÇ	¨
+,”&KOΩæ4∫ß˙Î‘"	Ù/˙,J? ëÎøÑÇ	≠
+û—}7;Ωæ∫õ˘‚Ó"	∆"é=J? ôË∂ÑÇ	©
+£ﬂ$ejΩæ4∫∂ı»“"	 0Ú)J? ì
+‰∂ÑÇ	é
+≤◊"gkΩæ∫∑óı…"	æ5™*J? ßÂ∂ÑÇ	ë
+∞€ILΩæ4∫¶˝Å˜"	Í;†!J? ñË∂ÑÇ	¢
+†‹ knΩæ4∫π¯Ÿ∆"	†9‹%J? ™Â∂ÑÇ	±
+õÚ]aΩæ4∫±èÊÛ"	∂>™ I> ã
+‰∂ÑÇ	Æ
+p»VYΩæ∫≠ñŒ¿"	Ä9»)J? §
+‰∂ÑÇ	ò
+≤ﬁ!\`Ωæ∫∞Û¸ÿ"	æ8™+I> à
+‰∂ÑÇ	…
+pÀ#afΩæ∫¥ÇˆÙ"	í;Ñ,I> õ‡µÑÇ	ù
+·<?Ωæ∫û˜ÔÌ"	Ú>¬3J? †Â∂ÑÇ	∏
+ä‚TVΩæ4∫¨ÜÂ∫"	Ã@‡!J? åÂ∂ÑÇ	ï
+åÊWZΩæ4∫Æ˛ªø"	÷@®"J? û
+‰∂ÑÇ	Œ
+ç–RUΩæ∫´ìÃ˝"	ö@ %I> •Á πÑÇ	™
+{ƒ~5:Ωæ3∫ôÄ‰«"	ò	òAÛ+x
+trips(Ä idorigin_stop_idorigin_stop_namedestination_stop_iddestination_stop_namedistanceduration"
+	Back Road"
+	Sunnyside"
+	The Green"
+
+The George"
+
+The Street"
+
+bus lay-by"
+Butts Court"
+Monks Close"
+Pier Avenue"
+Post Office"
+School Lane"
+Star Meadow"
+Summer Hill"
+Abbey Fields"
+Bobbing Hill"
+Brice Avenue"
+Chequers Inn"
+Coppins Lane"
+The Ridgeway"
+Village Hall"
+Bramley Avenue"
+Courtenay Road"
+Howfield Lane*"
+New House Lane"
+Primary School"
+Applegarth Park"
+Churchill House"
+Columbia Avenue"
+Cromar's Corner"
+Lees Court Road"
+Lower Lees Road"
+Pluckley School"
+Tydemans Avenue"
+Community Centre"
+Felborough Close"
+Flying Horse Pub"
+St Mary's Church"
+Rough Common Road"
+Shearwater Avenue"
+Cliff View Gardens"
+Toddington Crescent"
+Taylors Hill Car Park"
+The Honest Miller Pub"
+Westgate Court Avenue"
+Danaway, Maidstone Road"
+Tankerton Northwood Road"
+The Dawes Community Centre"
+St Augustines, Beech Avenue"
+opposite Buffalo's Head Pub"
+Ashford Road Community Centre" " Z" Å" Ç)" Ñ" Ñ" Ö" à" â" â" ä" ã" è" ê‘" ë" ë" í" í" ì" ì" ì" ì(" î" ï" ó" ó" ò" ò" ô" õ=" õX" ú" û" û" û" ü" †" †" °" °" °" ¢" ¢" £" £" §" •" ®" ®" ©" ©" ©" ™" ™" ´" ¨" ¨" ¨" ¨[" Æ" Æ" Ø" ±" ±" ≤" ≥" µ" ∂" ∑" ∑
+" π" ∫" ∫" ª" º" æ" æ•" ø" ø" ¿" ¿" ¿" ¡" ¡" ¬
+" ƒá" ≈" ≈" ≈" ≈" ≈" ∆" »" »" …" …	"  /" À" Ã	" Ã" Ã" Ã" Õ" Õ" Œ" Œ" œ" œ" –" –" –" –-" ”" ’" ’" ÷" ÷" ◊" ÿ" ÿù" ⁄" ⁄" ⁄" €" ‹" ‹" ›" ﬁ" ﬁ" ﬂ" ﬂ" ﬂ" ‡" ‡" ‡P" ‡€" ‡‰" ·¥" ‚" „" Â" Ê" Ê" Á" Á" Ë" Ë" Ë" Ë" È" Ïm" Ó" Ó," Ô" Ô" " " Ú" Ù" ˆ" ˆ" ˜" ¯" ˘%" ˚" ˚" ˚'" ˚§" ¸" ¸" ˝" ˛" ˛" ˇ& ±HJ∫√"	QÙ*
+&2 s4
+ƒ°]"	üZJ 3N   xƒM,ôê"		UÃ
+CT ü6B!©î"=	∂é⁄#71Qk;	 =! 	-9&?:OH5  ¿}(z~c"	ü™!
+ Ú ì‹@!πø"Ÿ	Ç∞4¬)S5	' / 7(+0" S) +!		#'	-	##3	!S7#7#%S-	 G#	A)U[%=)'1-)1OC/+;	5S -,)'+(9 6!RÖç-	uWU)!m$ aœ∑ ?f"	ò	îA"		
+T Àó–	ŸÕ";	Ë†A“>U,I:K<+	=G/#' ≠ £;'Hªw"ñ	éü≤&(' E2Y@/&[TITEd>:KÙ ..,%(MF%08!d .),ıﬁEL			!AP=@
+V.0*$
+.
+%R
+
+$
+"(21'!	)	ß ∂J6ám"ê	ü‡¢*".%&'Äs	
+ 
+
+>"zD,RB 
+8& (
+"h :J/>i6$(.(D    C'-)3!=j0?C3I#Ã òUØP•"¥	ﬁ≤"≤"22@6: 	N&:72A4)D"29	&	,%2#<76!"	87	*5 !"+
+&/BG(:!$ ".9LS C'æ0 Gf}Dc(0*@>
+
+	
+v d–	≈0»i"_	¢í;‚ +%- ' 	KC)7 %17	!51		%!é ßnè5\"x	§“'¬
+!52 , "#,
+!+1$
+,'&6P,N$ (Z8
+0
+
+P(
+&™4.0$*.» ¬V"n∏æ"∞	é0Ñ-ö-A	9 è'+)+	Y'#)-
+9#G 1
+?";°VI KU	! =))
+)94!
+ =!=)
+	g)M+%AëU/. !9K
+Y@ …®≤<")	®$òä 
+=5S+}'~(2,,a FØ…ÉR"J	“ ∂ä
+*
+,
+>"
+8*
+.∏:S
+
+	 Vt&e j®“ÿQ"N	¢&™äfDà\*
+::'6<Æ%L:72<;1$@>ÃG88#–çd ¢b.r†÷"M	Ã/“ö .4&<8:;d 4	$:6/
+8U"!V< ≠rI€à"%	ú/»zäZ44MN,.&A ™>7&ë["+	Ä8¥í$V/	    
+	X u7&W-∆◊"B	ﬁ8éÍ/c( 02#(5xIT!:¬S  QP öW-ÃX2"	Ú?ê
+
+
+	L g“¨í⁄"4	ÿ4Œ≤lW(% '.KhÉ!'3	  . 	6 pﬁ%§ÇE"	é?àbmõ5#* '9:,ä 8èõOä"s	¬%Ù*¢2$ä 
+:
+2.T9<?%*%Ü]	B4&,84 FBN“%,*
+0.$
+"	.C.gÑ3 úY)V"=3"	ä0Ç-b b «_#‹Gv"L	¬"î=í# 4mDa.7	8"%)%GGU°	GAm5+I);/	$7ñ ´q*Y)lt"Ä	é/†A⁄#Uc' }AaQY'E!'#3=;2U,3$/"?;9	+</öü2G!;ÉE1 	U5'O0:
+B.J µI—TΩ"3	∫3»™V
+8Nû"nÿ.TbR
+XXR= ïSﬁ%Lh"'	ñ>Ù!Ç6		3 a
+ 5S	hQ%AK7 :õÄ ﬂ"	ÿ6“(bö:, !%Q#O[61.c0"M oÆ1K$9¥"7	Ç>™&∫,74G	,	’íAK# (
+6 ÖC/keâ" 	Ú9⁄+j'O+'9';-;	'AI åK$Œ^D"3	Ó9®*≤
++&#.!	n*@ ÑŒC/ÜD")	Ä:÷+ä
+
+$:V"
+!]1* `ÃÅ ñΩ"	¸?Ü
+28
+
+:= ç—∞+Z{"&	ú>Ù!BlF
+P6 
+	 C2562 ›∞+Sû≥"	†A§"R;-)%
+=
+98 NºÆ1ãy"!	†A‹%já
+5sA	M é‘º’|"5	†AÇ/∫] )) #I 	 +$=#6527> ”¶Aù¡"&	ˆ>æ3z8>
+(D &$,∂˙$

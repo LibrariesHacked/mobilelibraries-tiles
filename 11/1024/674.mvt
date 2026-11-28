@@ -1,0 +1,659 @@
+°wx
+stops(Ä id	route_idsroute_names
+mobile_idsmobile_nameslocal_authority_idlocal_authority_namelocal_authority_colourlocal_authority_codename	communityaddresspostcodearrival_timesdeparture_timesroute_start	route_end
+route_daystyperoute_frequenciesroute_schedule	timetable	longitudelatitude"
+5"
+35"
+36"
+37"
+38"
+41"
+42"
+46"
+47"
+48"
+50"
+51"
+56"
+Coton"
+Barton"
+Friday"
+Girton"
+HC One"
+Histon"
+Milton"
+Monday"
+Public"	
+#9E6828"	
+CB1 1DZ"	
+CB1 3HG"	
+CB1 3SQ"	
+CB1 7BJ"	
+CB1 8EB"	
+CB2 0AY"	
+CB2 8ES"	
+CB2 9EW"	
+CB2 9PB"	
+CB3 0BZ"	
+CB3 0GQ"	
+CB3 0NS"	
+CB3 0PE"	
+CB3 0PN"	
+CB3 0PS"	
+CB3 0QN"	
+CB3 0UL"	
+CB3 0XA"	
+CB3 1AA"	
+CB3 9BG"	
+CB3 9HY"	
+CB3 9LN"	
+CB3 9NH"	
+CB4 0WG"	
+CB4 1AX"	
+CB4 1ED"	
+CB4 1GL"	
+CB4 1NQ"	
+CB4 2GR"	
+CB5 8SY"	
+Newnham"	
+Tuesday"
+
+09:15:00"
+
+09:20:00"
+
+09:30:00"
+
+09:40:00"
+
+09:45:00"
+
+10:00:00"
+
+10:10:00"
+
+10:15:00"
+
+10:20:00"
+
+10:25:00"
+
+10:30:00"
+
+10:40:00"
+
+10:45:00"
+
+10:50:00"
+
+10:55:00"
+
+11:00:00"
+
+11:05:00"
+
+11:10:00"
+
+11:15:00"
+
+11:20:00"
+
+11:25:00"
+
+11:30:00"
+
+11:35:00"
+
+11:45:00"
+
+11:50:00"
+
+11:55:00"
+
+12:00:00"
+
+12:05:00"
+
+12:10:00"
+
+12:20:00"
+
+12:25:00"
+
+12:30:00"
+
+12:40:00"
+
+12:45:00"
+
+12:50:00"
+
+12:55:00"
+
+13:00:00"
+
+13:05:00"
+
+13:10:00"
+
+13:15:00"
+
+13:20:00"
+
+13:35:00"
+
+13:45:00"
+
+13:50:00"
+
+14:15:00"
+
+14:20:00"
+
+14:25:00"
+
+14:30:00"
+
+14:35:00"
+
+14:40:00"
+
+14:45:00"
+
+14:50:00"
+
+14:55:00"
+
+15:00:00"
+
+15:05:00"
+
+15:10:00"
+
+15:15:00"
+
+15:25:00"
+
+15:30:00"
+
+15:35:00"
+
+16:00:00"
+
+16:15:00"
+
+16:20:00"
+
+16:30:00"
+
+CB23 1HE"
+
+CB23 7AX"
+
+CB23 7AZ"
+
+CB23 7BG"
+
+CB23 7BL"
+
+CB23 7EL"
+
+CB23 7PW"
+
+CB23 7QH"
+
+CB23 7XN"
+
+CB23 8AB"
+
+CB23 8BT"
+
+CB23 8HH"
+
+CB24 3AF"
+
+CB24 6BW"
+
+CB24 6ZF"
+
+CB24 6ZL"
+
+CB24 9JY"
+
+CB24 9YR"
+
+CB25 9FT"
+
+Hardwick"
+
+Lolworth"
+
+Route C3"
+
+Route C5"
+
+Route C8"
+
+Thursday"
+	Cambridge"
+	Comberton"
+	E10000003"
+	Landbeach"
+	Madingley"
+	Oakington"
+	Route C10"
+	Route C11"
+	Route C12"
+	Route C15"
+	Route C18"
+	Route C19"
+	Route C25"
+	Route C26"
+	Route F16"
+	The Green"
+	Wednesday"
+
+Abbeyfield"
+
+Coton Road"
+
+Fen Ditton"
+
+Haig Court"
+
+Limes Road"
+
+Renard Way"
+
+Roman Hill"
+
+The Rowans"
+Dry Drayton"
+Great Close"
+High Street"
+Kings Grove"
+Normanhurst"
+Nursery Way"
+Post Office"
+Trumpington"
+Allens Close"
+Darwin Green"
+Grantchester"
+Neville Road"
+Pippin Drive"
+Whitwell Way"
+Brandon Court"
+Gretton Court"
+Hester Adrian"
+Kay Hitch Way"
+Orchard Close"
+Pettitts Lane"
+Ringfort Road"
+Storeys House"
+Wrights Close"
+Brooklyn Court"
+Cambridgeshire"
+Horizon Centre"
+Thornton Court"
+Canon New Court"
+Little Eversden"
+Community Centre"
+Eddington Avenue"
+Glebe Farm Drive"
+Churchfield Court"
+Nr Community Room"
+St Audrey's Close"
+St Vincents Close"
+Cam Bio Med Campus"
+Cotton Hall/Church"
+Denis Wilson Court"
+Grantchester Street"
+St Neots Road layby"
+Nr School, Limes Road"
+Pinehurst/Grange Road"
+Cambridge Science Park"
+Coles Lane/High Street"
+FREQ=MONTHLY;BYDAY=1FR"
+FREQ=MONTHLY;BYDAY=1WE"
+FREQ=MONTHLY;BYDAY=2FR"
+FREQ=MONTHLY;BYDAY=2MO"
+FREQ=MONTHLY;BYDAY=2TH"
+FREQ=MONTHLY;BYDAY=2WE"
+FREQ=MONTHLY;BYDAY=3FR"
+FREQ=MONTHLY;BYDAY=3MO"
+FREQ=MONTHLY;BYDAY=3TH"
+FREQ=MONTHLY;BYDAY=3TU"
+FREQ=MONTHLY;BYDAY=4FR"
+FREQ=MONTHLY;BYDAY=4TH"
+2026-01-01T00:00:00.000Z"
+2026-12-31T00:00:00.000Z"
+Cambridgeshire Mobile Library"#
+!Gough Way (lay-by near number 67)",
+*HC One, Cambridge, Cambridgeshire, CB4 1NQ"-
++Abbeyfield, Girton, Cambridgeshire, CB3 0GQ".
+,Roman Hill, Barton, Cambridgeshire, CB23 7AX".
+,The Rowans, Milton, Cambridgeshire, CB24 6ZL"/
+-Great Close, Barton, Cambridgeshire, CB23 7BG"/
+-Kings Grove, Barton, Cambridgeshire, CB23 7AZ"/
+-Post Office, Milton, Cambridgeshire, CB24 6BW"/
+-The Green, Lolworth, Cambridgeshire, CB23 8HH"/
+-Whitwell Way, Coton, Cambridgeshire, CB23 7PW"0
+.Allens Close, Barton, Cambridgeshire, CB23 7BL"0
+.Gretton Court, Girton, Cambridgeshire, CB3 0QN"0
+.Haig Court, Cambridge, Cambridgeshire, CB4 1NQ"0
+.Limes Road, Hardwick, Cambridgeshire, CB23 7XN"0
+.Orchard Close, Girton, Cambridgeshire, CB3 0PS"1
+/Kay Hitch Way, Histon, Cambridgeshire, CB24 9YR"1
+/Normanhurst, Cambridge, Cambridgeshire, CB1 7BJ"1
+/Thornton Court, Girton, Cambridgeshire, CB3 0NS"2
+0High Street, Landbeach, Cambridgeshire, CB25 9FT"2
+0High Street, Madingley, Cambridgeshire, CB23 8AB"2
+0Neville Road, Cambridge, Cambridgeshire, CB1 3SQ"2
+0Nursery Way, Comberton, Cambridgeshire, CB23 7EL"2
+0Pippin Drive, Cambridge, Cambridgeshire, CB4 1GL"2
+0Renard Way, Trumpington, Cambridgeshire, CB2 9EW"3
+1Brandon Court, Cambridge, Cambridgeshire, CB1 1DZ"3
+1Coton Road, Grantchester, Cambridgeshire, CB3 9NH"3
+1Hester Adrian, Cambridge, Cambridgeshire, CB4 1AX"3
+1Ringfort Road, Cambridge, Cambridgeshire, CB4 2GR"3
+1Storeys House, Cambridge, Cambridgeshire, CB3 0BZ"4
+2Brooklyn Court, Cambridge, Cambridgeshire, CB1 8EB"4
+2Churchfield Court, Girton, Cambridgeshire, CB3 0XA"4
+2Community Centre, Milton, Cambridgeshire, CB24 6ZF"4
+2Horizon Centre, Cambridge, Cambridgeshire, CB1 3HG"4
+2St Vincents Close, Girton, Cambridgeshire, CB3 0PE"4
+2Wrights Close, Fen Ditton, Cambridgeshire, CB5 8SY"5
+3Canon New Court, Cambridge, Cambridgeshire, CB4 1ED"5
+3Cotton Hall/Church, Girton, Cambridgeshire, CB3 0PN"5
+3St Audrey's Close, Histon, Cambridgeshire, CB24 9JY"6
+4Eddington Avenue, Cambridge, Cambridgeshire, CB3 1AA"6
+4Pettitts Lane, Dry Drayton, Cambridgeshire, CB23 8BT"7
+5Grantchester Street, Newnham, Cambridgeshire, CB3 9HY"8
+6Denis Wilson Court, Cambridge, Cambridgeshire, CB2 8ES"8
+6Glebe Farm Drive, Trumpington, Cambridgeshire, CB2 9PB"8
+6High Street, Little Eversden, Cambridgeshire, CB23 1HE"8
+6The Green, Cam Bio Med Campus, Cambridgeshire, CB2 0AY"9
+7Pinehurst/Grange Road, Newnham, Cambridgeshire, CB3 9BG"9
+7St Neots Road layby, Hardwick, Cambridgeshire, CB23 7QH":
+8Darwin Green, Nr Community Room, Cambridgeshire, CB3 0UL";
+9Nr School, Limes Road, Hardwick, Cambridgeshire, CB23 7XN"<
+:Cambridge Science Park, Cambridge, Cambridgeshire, CB4 0WG"=
+;Coles Lane/High Street, Oakington, Cambridgeshire, CB24 3AF"@
+>Fri Dec 04 2026 09:30:00 GMT+0000 (Coordinated Universal Time)"@
+>Fri Dec 04 2026 10:55:00 GMT+0000 (Coordinated Universal Time)"@
+>Fri Dec 04 2026 11:15:00 GMT+0000 (Coordinated Universal Time)"@
+>Fri Dec 04 2026 12:10:00 GMT+0000 (Coordinated Universal Time)"@
+>Fri Dec 04 2026 13:50:00 GMT+0000 (Coordinated Universal Time)"@
+>Fri Dec 11 2026 09:15:00 GMT+0000 (Coordinated Universal Time)"@
+>Fri Dec 11 2026 10:20:00 GMT+0000 (Coordinated Universal Time)"@
+>Fri Dec 11 2026 11:25:00 GMT+0000 (Coordinated Universal Time)"@
+>Fri Dec 11 2026 12:20:00 GMT+0000 (Coordinated Universal Time)"@
+>Fri Dec 18 2026 15:10:00 GMT+0000 (Coordinated Universal Time)"@
+>Fri Dec 25 2026 09:30:00 GMT+0000 (Coordinated Universal Time)"@
+>Fri Dec 25 2026 10:20:00 GMT+0000 (Coordinated Universal Time)"@
+>Fri Dec 25 2026 11:00:00 GMT+0000 (Coordinated Universal Time)"@
+>Fri Dec 25 2026 11:25:00 GMT+0000 (Coordinated Universal Time)"@
+>Fri Dec 25 2026 11:50:00 GMT+0000 (Coordinated Universal Time)"@
+>Fri Dec 25 2026 12:25:00 GMT+0000 (Coordinated Universal Time)"@
+>Fri Dec 25 2026 13:05:00 GMT+0000 (Coordinated Universal Time)"@
+>Fri Dec 25 2026 14:25:00 GMT+0000 (Coordinated Universal Time)"@
+>Fri Dec 25 2026 15:30:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 14 2026 09:45:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 14 2026 10:20:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 14 2026 10:45:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 14 2026 11:15:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 14 2026 14:35:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 14 2026 15:15:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 21 2026 13:00:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 21 2026 15:00:00 GMT+0000 (Coordinated Universal Time)"@
+>Thu Dec 10 2026 09:20:00 GMT+0000 (Coordinated Universal Time)"@
+>Thu Dec 10 2026 10:30:00 GMT+0000 (Coordinated Universal Time)"@
+>Thu Dec 10 2026 12:00:00 GMT+0000 (Coordinated Universal Time)"@
+>Thu Dec 17 2026 09:30:00 GMT+0000 (Coordinated Universal Time)"@
+>Thu Dec 17 2026 10:30:00 GMT+0000 (Coordinated Universal Time)"@
+>Thu Dec 17 2026 11:00:00 GMT+0000 (Coordinated Universal Time)"@
+>Thu Dec 17 2026 11:35:00 GMT+0000 (Coordinated Universal Time)"@
+>Thu Dec 17 2026 12:05:00 GMT+0000 (Coordinated Universal Time)"@
+>Thu Dec 17 2026 12:45:00 GMT+0000 (Coordinated Universal Time)"@
+>Thu Dec 17 2026 14:15:00 GMT+0000 (Coordinated Universal Time)"@
+>Thu Dec 17 2026 14:50:00 GMT+0000 (Coordinated Universal Time)"@
+>Thu Dec 24 2026 09:40:00 GMT+0000 (Coordinated Universal Time)"@
+>Thu Dec 24 2026 10:10:00 GMT+0000 (Coordinated Universal Time)"@
+>Thu Dec 24 2026 11:00:00 GMT+0000 (Coordinated Universal Time)"@
+>Thu Dec 24 2026 11:35:00 GMT+0000 (Coordinated Universal Time)"@
+>Thu Dec 24 2026 12:00:00 GMT+0000 (Coordinated Universal Time)"@
+>Thu Dec 24 2026 12:50:00 GMT+0000 (Coordinated Universal Time)"@
+>Thu Dec 24 2026 13:20:00 GMT+0000 (Coordinated Universal Time)"@
+>Thu Dec 24 2026 14:30:00 GMT+0000 (Coordinated Universal Time)"@
+>Thu Dec 24 2026 14:55:00 GMT+0000 (Coordinated Universal Time)"@
+>Thu Dec 24 2026 15:35:00 GMT+0000 (Coordinated Universal Time)"@
+>Tue Dec 15 2026 10:55:00 GMT+0000 (Coordinated Universal Time)"@
+>Wed Dec 02 2026 09:30:00 GMT+0000 (Coordinated Universal Time)"@
+>Wed Dec 02 2026 10:25:00 GMT+0000 (Coordinated Universal Time)"@
+>Wed Dec 09 2026 09:45:00 GMT+0000 (Coordinated Universal Time)"E
+CGough Way (lay-by near number 67), Newnham, Cambridgeshire, CB3 9LN"é
+ãhttps://www.cambridgeshire.gov.uk/residents/libraries-leisure-culture/libraries/visit-a-library/mobile-libraries/find-a-mobile-library-stop"	ˆ—©+J@"	sÙ¯ΩΩ?"	Áå(ÌJ@"		8Ñ*5J@"		˛∑í¡?"	
+‹∫õß:ƒ?"	OØîe J@"	÷ˇ9Ãóá?"	˚ÀÓ…J@"	‚X∑J@"	/›$Åu?"	|a2U0¬?"	#æ≥^µ?"	$ò¿≠ªπ?"	$(~åπJ@"	%#gaO;º?"	)›^“J@"	-Ïiáø&√?"	.…J@"	/n£ºR?"	0*©–J@"	5)›^“¿?"	5FÎ®jÇƒ?"	77¶',Òƒ?"	BCˇ+∫?"	F∂Û˝‘x¡?"	Gr˘ÈJ@"	HP¸sJ@"	KYÜ8÷≈¡?"	KìR–Ì%≠?"	K´!qè!J@"	MåJÍJ@"	O@a√J@"	O@a√”≥?"	OíÆô|≥¡?"	Rõ8πﬂJ@"	TW>ÀÛJ@"	UŸwEø≈?"	Zâ{,}∞?"	ZªÌBsù∂?"	oÅ≈è1ó?"	oıúÙæJ@"	q‡-J@"	w°πN#-µ?"	y;¬i¡ãÆ?"	z•,CJ@"	{É/L¶
+¶?"	~8gDi∑?"	~åπk	!J@"	˚:pŒàí?"	ÄÛÂJ@"	Å≈è1J@"	É/L¶
+J@"	É4c—tv∫?"	ÑÅÁﬁ√J@"	à◊ıvJ@"	àÙ€◊ÅJ@"	é;•ÉıÆ?"	èSt$óJ@"	êN]˘,J@"	ì:MÑJ@"	ìR–Ì%J@"	ó≈ƒÊ„J@"	ò›ìáÖJ@"	ôG˛`‡π√?"	õ8πﬂ°(∏?"	õrÖwπà√?"	†≤∫J@"	°g≥ÍsµÖ?"	§à´xJ@"	•⁄ß„1≈?"	¨ã€h J@"	≠iﬁqäJ@"	¥´êÚìj∑?"	∏@Ç‚«J@"	∫I+J@"	∫I+J@"	∫Ω§1ZGï?"	Ωåbπ•’∏?"	¡ °E∂J@"	¬ÜßW 2ƒ?"	∆øœ∏p º?"	∆·ÃØÊ ¡?"	«):íÀJ@"	…∞ä72èº?"	ÕÇ9z¸∂?"	Œà“ﬁ‡J@"	◊ÚAœJ@"	ÿÅsFîJ@"	ÿ∂(≥A&±?"	€ƒ…˝J@"	‹K£uJ@"	·(yué≈?"	·@H0Åª?"	·zÆG!J@"	Âa°÷4J@"	ÊÀ∞èNµ?"	Á„⁄P1J@"	ÈH.ˇ!˝æ?"	Ô…√B≠iÆ?"	Ú“MbJ@"	ıÛ¶"∆¬?"	˝º©HÖ±µ?" " Ñ" Ü" á" â" ã" å" å" ç" é" ë" ñ" ó" †" •" ¶" ®" ©" ™" ≠" Æ" ±" ∂" ∂" π" ¬" ƒ" …" ‘" ’" ÷" ◊" ÿ" ÿ" Ÿ" ⁄" ‹" ›" ﬂ" ‡" ‰" Ë" Ò" Ù" ı" ı" ˘" ˙" ˚" ˚" ¸" ˝" ˛KA œò ‰µ¡í	ü
+ãÌÇTY‚„ÿ†Õ·˛"	4˛LA ﬂ
+ç ‰µ¡í	º
+©åÅSW‚„÷õÕˆŒ"	†‘K@ ÿõ ‰µ¡í	“
+äïns‚„‹°ÕíÜ"	Ó÷K@ Ã
+ç ‰µ¡í	•
+äÚIQ‚„÷öÕ’Ö"	òK@ »
+ç ‰µ¡í	—
+äì~EH‚„÷ôÕõ‹"	»‘MB Ωö ‰µ¡í	´
+î¯Äch‚„èﬁºÕ¸Ì"	÷êLA —
+ç ‰µ¡í	’
+ïóÉbd‚„÷úÕÙ¨"	∫ÓK@ Œú ‰µ¡í	…
+É(_a‚„è·ƒÕ˘ö"	ê÷K@ Ëú ‰µ¡í	∏
+&Y^‚„è·√ÕÔ¶"	ö¥K@  ú ‰µ¡í	Ã
+Ü#QW‚„è·¬Õ⁄Ç"	¯ÙK@ ﬁú ‰µ¡í	ª
+Û%MP‚„è·¡ÕÆñ"	¶ K@ ◊ú ‰µ¡í	Œ
+â$FL‚„è·¿Õ¥ç"	Ó÷LA Ÿö ‰µ¡í	Æ
+ë˙|X]‚„èﬁªÕˇ°"	ÃÚ0K@ ∂ö ‰µ¡í	∂
+Ó}ju‚„èﬁΩÕáå"	ÿƒ"K@ ∆ö ‰µ¡í	¨
+ÎyFL‚„èﬁ∏Õ±à"	–Ï1K@ Áö ‰µ¡í	™
+ÍzMQ‚„èﬁπÕÎô"	ﬁÊ3K@ ¡ö ‰µ¡í	±
+Ô{RV‚„èﬁ∫Õ˙Å"	‹ÿ3K@ æö ‰µ¡í	ß
+ËxAD‚„èﬁ∑Õßô"	≤Ê3LA ≈ú ‰µ¡í	À
+äáfi‚„è·≈Õú‘"	™#˙LA √ú ‰µ¡í	∫
+Ùàkp‚„è·∆Õ´ì"	ê'†K@ ¿ú ‰µ¡í	°
+Á!=D‚„è·øÕ£ä"	ÿ ¨K@ ⁄ú ‰µ¡í	√
+ˆ":<‚„è·æÕ˝ﬁ"	¶!»K@ ›
+ç ‰µ¡í	«
+êã)9B‚„÷òÕıÄ"	ñ ¢K@ €ô ‰µ¡í	≤
+ î'lv‚„›≤Õ€ò"	Ã$‡LA ºú ‰µ¡í	Ω
+êÄ3rt‚„è·«ÕœÒ"	¶*÷LA øò ‰µ¡í	´
+ì˜âKQ‚„ÿüÕÂÏ"	»;∆K@ ÷ò ‰µ¡í	®
+ÈÜ?H‚„ÿûÕ”ï"	∆9∏K@ ‰ù ‰µ¡í	Ø
+ÏÑep‚„‡©Õ™—"	‡;æK@ Êò ‰µ¡í	Ø
+ÏÑ7>‚„ÿùÕî≠"	‚;æLA Àó ‰µ¡í	‘
+êñ.8<‚„è⁄≥Õ≥–"	¥5∏K@ ∫ù ‰µ¡í	π
+êˇ/FJ‚„‡§Õ“Ó"	‘0æJ? ∏ù ‰µ¡í	
+êÊ2KN‚„‡•ÕÁ÷"	⁄1ÆK@ Èù ‰µ¡í	§
+êÒ2UZ‚„‡ßÕ§"	¨2¯K@ Õù ‰µ¡í	ƒ
+êà0OT‚„‡¶ÕÍù"	»2‹K@ ‚ù ‰µ¡í	µ
+ê˚1\`‚„‡®Õê‚"	»7ŒK@ ”ù ‰µ¡í	∆
+ÑÖqv‚„‡™Õ‰•"	¨:™K@ ∑û ‰µ¡í	ø
+£á4EI‚„6ﬂ»ÕÛÚ"	Ó=˙K@ „	å ‰µ¡í	Â
+5Ã,@H‚„†◊ Õèë"	Æ"ˆ'K@ ‡	å ‰µ¡í	”
+5í*9>‚„†◊…ÕÊ◊"	ú%˛'LA …ñ ‰µ¡í	æ
+êÅ ;@‚„†€ÀÕ¢˚"	–(¬!K@ ƒù ‰µ¡í	∑
+ê˝9<‚„‡¢Õ„Ø"	Ï/‚%K@ Âö ‰µ¡í	–
+5ç+9?‚„èﬁ∂Õ›®"	î(Ñ+LA ’ó ‰µ¡í	¢
+≥˛-AF‚„è⁄¥Õóâ"	¶!‚3K@ πé ‰µ¡í	¶
+∞¸os‚„Ÿ∞ÕÉÑ"	“%®:K@ ‹é ‰µ¡í	œ
+êéIN‚„ŸÆÕ∞È"	ä,¿2K@ ·é ‰µ¡í	»
+∞ègm‚„ŸØÕüã"	Ä(ñ=K@ ‘é ‰µ¡í	≠
+êıCG‚„Ÿ≠ÕŸ≤"	ﬁ3“/K@ “é ‰µ¡í	¥
+ê˘;>‚„Ÿ´Õﬂ¯"	º6é/K@ ¬ù ‰µ¡í	¬
+êÖ?D‚„‡£Õû˜"	∫9Ï'K@ –ô ‰µ¡í	ü
+Õë[f‚„›±Õ†‡"	Æ0ñ9K@ «é ‰µ¡í	¿
+êÇ?B‚„Ÿ¨ÕéË"	é8Æ0LA ªó ‰µ¡í	´
+≈êwQV‚„è⁄µÕÿ©"	ÙÆ@‚:x
+trips(Ä idorigin_stop_idorigin_stop_namedestination_stop_iddestination_stop_namedistanceduration"
+HC One"
+
+The Dale"
+	The Green"
+
+Abbeyfield"
+
+Coton Road"
+
+Fair Green"
+
+Haig Court"
+
+Hall Close"
+
+Heathfield"
+
+Limes Road"
+
+Renard Way"
+
+Roman Hill"
+
+The Rowans"
+Great Close"
+High Street"
+Kings Grove"
+Normanhurst"
+Nursery Way"
+Post Office"
+Allens Close"
+Darwin Green"
+Harlton Road"
+Neville Road"
+Pippin Drive"
+Sheppard Way"
+Whitwell Way"
+Brandon Court"
+Gretton Court"
+Hester Adrian"
+Kay Hitch Way"
+Orchard Close"
+Pettitts Lane"
+Ringfort Road"
+Storeys House"
+Village Green"
+Wrights Close"
+Brooklyn Court"
+Horizon Centre"
+Thornton Court"
+Victoria House"
+Canon New Court"
+Old Post Office"
+Eddington Avenue"
+Franklin Gardens"
+Glebe Farm Drive"
+Churchfield Court"
+Post Office Green"
+St Audrey's Close"
+St Vincents Close"
+Cotton Hall/Church"
+Denis Wilson Court"
+Grantchester Street"
+St Neots Road layby"
+Nr School, Limes Road"
+Pinehurst/Grange Road"
+Cambridge Science Park"
+Church Street bus stop"
+Coles Lane/High Street"#
+!Gough Way (lay-by near number 67)" S" [" _" j" o" p" {" " Ä" Ä" Ä" Ä." Å" Åd" Ç" Ç" É" É" É" Ñ" Ö" Ü" Ü" á" á" à" à(" â" ä" ä" äå" ã" å" å" å" å
+" ç" é" ê" ê" ë" ì" î" ï" ï" ï$" ñ" ñ" ó" ó" ò" ò" ò" ô" õ" ú" ù	" û" ü" †" † " °" °'" ¢" ¢" §" •" •" ¶" ¶" ®" ®" ©" ©" ©" ©" ©," ™" ™" ´" ´â" ≠" ≠" ≠" Æ" Ø" ∞," ±" ±" ≥" µ" ∂" ∂" ∑" π" ∫" ª" ª" ª" º" º" Ω" Ωf" æ" ø" ø" ¡" ¬" √" ƒ" ƒd" ≈" ∆" «" «" «" »" …" …" …M"  " À" Ã" Ã" Õ" Õ" Œ" Œ<" œ" œ" –" —" —" “&" ‘" ’" ◊" ÿ" ÿ" Ÿ" Ÿ" ⁄" ‹" ‹" ›" ﬁ" ﬂ" ﬂ" ﬂV" ‡" ·" ‚" ‚" „" ‰" ‰" ‰" Ê" Á" Ë" Ë" Ë" Ë" Í" Í" Î$" Ï" Ïs" Ô" " Ò" Ú" Ú" Ú?" Û" Ù" Ù" Ù" ı" ı" ıY" ˆ" ˆ" ˆ" ˜" ˜" ¯" ˘" ˙" ˙" ˙
+" ˚" ˚" ¸" ˝" ˝" ˛" ˛" ˇ" ˇ.  £Å˛.hπ"	üò+
+(E! ¥\“)XR"	Cˆ?9Aj Œ®úFÒ"R	¬Æí$3			ún™t÷ÇP"í,>(>2
+	n≥&7:I 1
+'U6kPü0 r¡9Á+ëÄ"	‡ÃJ\3>P/
+8%H) @Yè „ó	Â¿l"w	ö‰™ãç+	+
+ BO<UJª!\ç4G1.èH˝7
+Nw@K,+/C_B(ZK<+	
+;,YLA'`D0J*
+1 ∂ç4ó	TA"	∫ËJJÀß-A	á a _ÇÛ"p	Ë‡/¢8z . b€J
+xD
+	
+g%#.?U9;
+&=U1%C!ZBV %>	<:V° zÂ¡9yd"ä	¬¶˙$6"@#dk6/$<#"ƒ°î8 8&.:? "	P9>!Œ°\I$RC&'4M  $/%D/+,2G@*W&M †˝¶-Îp"5	Ë÷™ 	/A
+	*ã A∑!S	#'!)ÇÉƒ ªc®ãì"´	Ã;‘∫:f 4ñ B  'TVZH(
+Éá$C17*/.#.0<<D§D
+
+
+T
+ 	1+7uCÌ(˘Ë°ëÉ ã(ÀJ5-!%#)/)'
+;_9-?)''IKóâÅ˝˜ãmKsI	#0Q 	=1E'?q!O!’Å©sõm
+
+
+9X*.	&$	od1>( %2=l_
+ #+]!#_ µ_N‡n"I	Ïû˙-@$&h$",
+êñ*&x6l Ä$@&"  v q™e1] ºí0˝Må"E	§ñ˙
+7uk/!?!>
+-!	 8_Na38 u∆1€Kf""	‘ƒj),:¶j8…)8 q€í0◊B"!	Œ‘j	  
+0
+
+-¿(U Ÿi∆1ÿî"=	ÿ ¢“M9%
+3Å?u/Ö*)	 í É’*ç4á•"y	ä ñö9	-C xÑZ
+	!,"1PA ü5ø/#âGá2 !?%#k 5w %´è+	3	 µ'%ÀÉW¡#IÃE â˛.»5gt".	w“*íx€Æ∑!03"YS6qvE √?!-_ ⁄k o»"H	ÙË2˙sM9Q)·õï%- yMwk"!G""N#M$ !4$0Nx9 ¶J\sp"$	ñÏ?B
+'(.5P!P	M *'_=⁄ Iñ7ƒHÆ"¬	∞5¥¬
+		 & -9muA	)cuÛ§!!ª cA	 $
+2X:d"BB"\dRê: @FÑìË#¯å@<,8 * 
+,äÆ<0>NT (2
++u'I[;/IwE ’Ñ¸ùC"-	Œ¬2öc2	 ",  @86"'5/ û¸k€>"	 ‘3J> (5!UK!+'U ï`Ñ^æ">	÷‰3⁄#);
+		ı
+'A		-	  .
+
+ 
+>C† tƒJË˛"à	∆§1™øµ+			  -…Ù 
+%  _v[~3ZVz ?9	%Y#7)I i&I$+ •Úb[Pß†°~!$â≤afm†	ó "O6Ok õ˙3`wö"T	í(Ñ+ö7ß5Gô9Y'K1
+5ØRC.orÉ|
+5<!. 	=√
+'& }ú=X3Z*D*V [¶-Å/òà">	¯ î⁄j5 f8Z&0
+	/ 88F
+2!0
+> * (Ñh ØÅ/~Öà"P	Ç'ö¢$N
+D"^56
+,T»B448!j0(@&*I ÍÀ&i˘∑"1	¶!»™-N91%=-o 	5I	e +&	N:Ò —±Õ©Ã"◊	é-Æ<‚- 5ë¬'-#=M 2N*(%2%& 	+)'-ssõïáëqÖ]wcç9[EwU•9Å?ü/è9À!©c¡ΩπàÔë'%	%!MÑ l$XL_#"!	ÉYá6 .
+rë*+ +jL8CR[B5
+
+; –~] éﬁ"$	ê)∞zN^" t ‰≈cÏx"]	Æ9Ê“8$&;:3>#	1# Ö	&'OQU(S A3ï  eW1qR0 @6 Ñ˚≈ı;"	‰;¿b	#=$94%< 7#ì …v%Z”Á"|	ê8ú'“CGCS##m	9U%% 		M-?
+			 3É g5a+	 
+)-*).	 0* ¨S ô(™="	¿2†2#%&,)2àQL ≥ZS b<"7	¿1≤¬ 
+	0	 	
+	
+,/ Oô(ˇß?"	Ä4ˆJ|9 3/?E	R ¢ˇÓÈñ"9	§6˛¬	DACB
+#")%A+ASúπ&C=r ~Ó¯ÜÌ"Z	‘6‡ 
+_uó1+V J0	2i0;&;:3>#
+
+Iz($. Dﬂ"‹'°Ç"	†A 2_∏?§G®%ln2†@É ∏è!WYQ"m	‘(∆!¬$(	m[ó1Ss{%Å{+_	q9ü5&Låè¥NÙ
+≤úV(®8∏F∫N∂l ^öp†Ç§òÆzzÿºHL@T\ |Í6ˆ:EÊ"E	ú%˛'Ú	 
+
+ ∏;?¡EW	/	'	5
+ ñÌ,V
+G∞"	¬%æ:
+h }–2e≤Ù"Q	¥+é4í¶Z»X|
+"F6: $rÇ,JJr≤æ0@ &LDB4
+"r`V@N2åPJHfb
+@4w mΩ8Ì,Ul"a	ö$†A‚B)4'
+-$#6	%%.•,
+,:.@!#/ ,%-& 0 $
+%-OA!O;+Móz v%§´"c	/ﬁ%Ú:QBONm 	
+ @,X
+
+"
+8 V&:
+$n$&XbJH>  =	?;U \√–2›…"=	‘1. MG)QóÛ*/$)@,;î	h-z!Hn*)mCn/hä0 W¬à$÷@"	»6ê/Jvî&
+%: !5 ˜à$√Lä"	÷7∞0R ﬂW$Éq„9â Ä‹'±œ‘"Ô	†A¬2äü9-'	5+"2+pM∫/*+		 J 8:<(2:z	Ñ!j	A3KC%/?èõAàΩ¶'L	©¢76!-P	ì ⁄75Uey?i7y'Yk "D%$<j
+ &<	pM>#:l
+ 		+1  2$
+		k'O,oN!∑ ôˆ:≠Ôü"ù	∏"∏'™ 
+ 	 @
+(0
+
+XY'/?CØRC.orÉ|
+5<%8
+-6*0	@4rL8∏F∫<é0dNélÆbåÇ§òÆ<<>>|r\H^@ +,3E4* jP#d«ö"	Ï=¯*¶B&kHß@£`∑- Ωd{∫Ú"	†A 2_∏?§G®%ln2†@W ê·P#‚ø"?	†A¨⁄ü?m1•A!OE	+	 I3  4 J
+,
+F"P

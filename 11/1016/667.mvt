@@ -1,0 +1,521 @@
+äcx
+stops(Ä id	route_idsroute_names
+mobile_idsmobile_nameslocal_authority_idlocal_authority_namelocal_authority_colourlocal_authority_codename	communityaddresspostcodearrival_timesdeparture_timesroute_start	route_end
+route_daystyperoute_frequenciesroute_schedule	timetable	longitudelatitude"
+16"
+71"
+73"
+196"
+203"
+883"
+913"
+914"
+916"
+919"
+920"
+Friday"
+Public"	
+#215C25"	
+#762C76"	
+Cossall"	
+DE7 4LA"	
+DE7 4QE"	
+DE7 6AB"	
+DE7 6HJ"	
+DE7 6NZ"	
+NG8 4DU"	
+NG9 3PH"	
+NG9 3PU"	
+NG9 3QH"	
+NG9 3QW"	
+NG9 5HX"	
+NG9 5HY"	
+NG9 5JS"	
+NG9 5JX"	
+NG9 6BE"	
+NG9 6BG"	
+NG9 7JQ"	
+Nuthall"	
+Trowell"	
+Tuesday"	
+Watnall"
+
+09:25:00"
+
+09:35:00"
+
+09:50:00"
+
+09:55:00"
+
+10:05:00"
+
+10:10:00"
+
+10:15:00"
+
+10:20:00"
+
+10:30:00"
+
+10:35:00"
+
+10:40:00"
+
+10:50:00"
+
+10:55:00"
+
+11:00:00"
+
+11:10:00"
+
+11:20:00"
+
+11:25:00"
+
+11:30:00"
+
+11:35:00"
+
+11:40:00"
+
+11:45:00"
+
+11:50:00"
+
+11:55:00"
+
+12:00:00"
+
+12:05:00"
+
+12:10:00"
+
+12:15:00"
+
+12:20:00"
+
+12:25:00"
+
+12:30:00"
+
+12:35:00"
+
+12:40:00"
+
+12:50:00"
+
+13:00:00"
+
+13:10:00"
+
+13:15:00"
+
+13:20:00"
+
+13:25:00"
+
+13:30:00"
+
+13:35:00"
+
+13:40:00"
+
+13:45:00"
+
+13:50:00"
+
+13:55:00"
+
+14:05:00"
+
+14:10:00"
+
+14:15:00"
+
+14:20:00"
+
+14:25:00"
+
+14:30:00"
+
+14:35:00"
+
+14:40:00"
+
+14:55:00"
+
+15:05:00"
+
+15:10:00"
+
+15:15:00"
+
+15:25:00"
+
+16:00:00"
+
+Awsworth"
+
+Chilwell"
+
+Greasley"
+
+NG16 1BU"
+
+NG16 1BY"
+
+NG16 1HQ"
+
+NG16 1JB"
+
+NG16 1JU"
+
+NG16 2FJ"
+
+NG16 2GA"
+
+NG16 2RH"
+
+NG16 2RW"
+
+NG16 2SS"
+	E10000007"
+	E10000024"
+	Newthorpe"
+	Wednesday"
+
+Babbington"
+
+Derbyshire"
+
+Stapleford"
+Common Lane"
+East Mobile"
+Kirk Hallam"
+New Nuthall"
+The Village"
+West Hallam"
+West Mobile"
+Attenborough"
+The Crescent"
+Stanley Common"
+Ayscough Avenue"
+Milton Crescent"
+Nottinghamshire"
+Stanton by Dale"
+Week 3 - Friday"
+Baker Road no.68"
+Stapleford Woods"
+Week 3 - Tuesday"
+Derbyshire Avenue"
+Church Lane, No. 96"
+Trough Road, No. 50"
+West Mobile Route 2"
+West Mobile Route 3"
+West Mobile Route 5"
+West Mobile Route 8"
+West Mobile Route 9"
+Crofton Road, No. 15"
+Hawthorn Rise No. 26"
+Trowell Grove, No 58"
+Windsor Close, No. 8"
+Clarence Road, No. 44"
+Marshall Way Car Park"
+Park Hill/Park Avenue"
+Stapleord Road No 217"
+FREQ=WEEKLY;INTERVAL=4"
+School Nottingham Road"
+Chaworth Avenue, No. 10"
+Ellesmere Drive, No. 10"
+Haddon Crescent, No. 25"
+2026-01-05T00:00:00.000Z"
+2026-09-01T00:00:00.000Z"
+2026-12-31T00:00:00.000Z"
+Chatsworth Avenue, No. 4"
+Greasley Beauvale School"
+Nottingham Road, No. 169"
+South Mobile (Long Eaton)"
+Chetwynd Barracks, Welfare"
+East South Mobile Route 13"
+Long Lane/Derwent Crescent"
+Rolleston Crescent, No. 12"
+Church Close, OAP Bungalows"
+Melbourne Road/Ramsey Close"
+Stanhope Street (nr Church)"
+White House, Robinetts Lane"
+Sycamore Road next to No. 19"
+Allendale Avenue/Gordon Place"
+Barratt Lane/Barratt Crescent"
+Carter‚Äôs Wood Drive, No. 02"!
+Babbington Villagepark in layby"!
+Douglas Avenue / 75 Main Street""
+ Wordsworth Road, Lawrence Avenue"&
+$The Village, West Hallam, Derbyshire"'
+%Awsworth Lane, Lay-by opposite No. 10")
+'Common Lane, Stanley Common, Derbyshire")
+'The Crescent, Chilwell, Nottinghamshire",
+*CE School Primary School Derbyshire Avenue",
+*Derbyshire Avenue, West Hallam, Derbyshire".
+,Baker Road no.68, Newthorpe, Nottinghamshire"/
+-Ayscough Avenue, New Nuthall, Nottinghamshire"/
+-Church Lane, No. 96, Cossall, Nottinghamshire"/
+-Stapleford Woods, Stapleford, Nottinghamshire"/
+-Temple Drive ‚Äì Drummond Drive end opp No. 8"/
+-Trough Road, No. 50, Watnall, Nottinghamshire"0
+.Marshall Way Car Park, Kirk Hallam, Derbyshire"0
+.Milton Crescent, Attenborough, Nottinghamshire"0
+.Trowell Grove, No 58, Trowell, Nottinghamshire"0
+.Windsor Close, No. 8, Trowell, Nottinghamshire"1
+/Hawthorn Rise No. 26, Awsworth, Nottinghamshire"1
+/Stapleord Road No 217, Trowell, Nottinghamshire"2
+0Park Hill/Park Avenue, Awsworth, Nottinghamshire"2
+0School Nottingham Road, Trowell, Nottinghamshire"3
+1Chaworth Avenue, No. 10, Watnall, Nottinghamshire"3
+1Ellesmere Drive, No. 10, Trowell, Nottinghamshire"4
+2Nottingham Road, No. 169, Trowell, Nottinghamshire"5
+3Crofton Road, No. 15, Attenborough, Nottinghamshire"5
+3Greasley Beauvale School, Greasley, Nottinghamshire"6
+4Clarence Road, No. 44, Attenborough, Nottinghamshire"6
+4Rolleston Crescent, No. 12, Watnall, Nottinghamshire"7
+5Church Close, OAP Bungalows, Trowell, Nottinghamshire"7
+5White House, Robinetts Lane, Cossall, Nottinghamshire"8
+6Haddon Crescent, No. 25, Attenborough, Nottinghamshire"9
+7Carter‚Äôs Wood Drive, No. 02, Nuthall, Nottinghamshire"9
+7Chatsworth Avenue, No. 4, Attenborough, Nottinghamshire"9
+7Sycamore Road next to No. 19, Awsworth, Nottinghamshire":
+8Melbourne Road/Ramsey Close, Stapleford, Nottinghamshire":
+8Stanhope Street (nr Church), Stanton by Dale, Derbyshire";
+9Chetwynd Barracks, Welfare, Attenborough, Nottinghamshire";
+9Long Lane/Derwent Crescent, Attenborough, Nottinghamshire"<
+:Douglas Avenue / 75 Main Street, Awsworth, Nottinghamshire"=
+;Wordsworth Road, Lawrence Avenue, Awsworth, Nottinghamshire">
+<Allendale Avenue/Gordon Place, Attenborough, Nottinghamshire">
+<Babbington Villagepark in layby, Babbington, Nottinghamshire">
+<Barratt Lane/Barratt Crescent, Attenborough, Nottinghamshire"@
+>Mon Dec 07 2026 09:25:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 09:35:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 09:50:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 10:05:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 10:15:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 10:20:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 10:35:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 10:50:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 11:00:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 11:10:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 11:25:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 11:30:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 11:35:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 11:40:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 11:50:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 12:00:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 12:10:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 12:20:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 12:35:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 13:00:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 13:20:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 13:25:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 13:30:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 13:35:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 13:45:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 13:50:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 13:55:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 14:05:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 14:10:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 14:15:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 14:35:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 15:05:00 GMT+0000 (Coordinated Universal Time)"@
+>Tue Dec 22 2026 11:00:00 GMT+0000 (Coordinated Universal Time)"@
+>Tue Dec 22 2026 12:00:00 GMT+0000 (Coordinated Universal Time)"@
+>Tue Dec 22 2026 13:10:00 GMT+0000 (Coordinated Universal Time)"@
+>Tue Dec 22 2026 14:25:00 GMT+0000 (Coordinated Universal Time)"@
+>Tue Dec 22 2026 15:15:00 GMT+0000 (Coordinated Universal Time)"A
+?Awsworth Lane, Lay-by opposite No. 10, Cossall, Nottinghamshire"F
+DCE School Primary School Derbyshire Avenue, Trowell, Nottinghamshire"I
+GTemple Drive ‚Äì Drummond Drive end opp No. 8, Nuthall, Nottinghamshire"a
+_https://www.derbyshire.gov.uk/leisure/libraries/services/mobile-libraries/mobile-libraries.aspx"b
+`https://www.inspireculture.org.uk/uploads/mobilelibries/timetables/East_Mob._Route_13._2026.docx"e
+chttps://www.inspireculture.org.uk/uploads/mobilelibries/timetables/West_Mobile_Route_2_5E1ZTha.docx"e
+chttps://www.inspireculture.org.uk/uploads/mobilelibries/timetables/West_Mobile_Route_5_hnP4lA3.docx"e
+chttps://www.inspireculture.org.uk/uploads/mobilelibries/timetables/West_Mobile_Route_8_J6h36GB.docx"e
+chttps://www.inspireculture.org.uk/uploads/mobilelibries/timetables/West_Mobile_Route_9_mKdHQ6K.docx"m
+khttps://www.inspireculture.org.uk/uploads/mobilelibries/timetables/West_Mobile_Route_3_tlbdyIt_jyyDSAf.docx"	 åg––øıø"	 ©Mú‹ÔÙø"		ß/˙vJ@"	ÔrﬂyJ@"	‰†Ñô∂ıø"	'˜;}J@"	Ëyí|J@"	¡ˇV≤{J@"	ÑdìÙø"	S"âzJ@"	#ØÎtJ@"	&P6ÂäÙø"	'à∫@zJ@"	-[ÎãÑ∂Ûø"	77¶',ÅJ@"	F±‹“jtJ@"	I∫fÚÕ∂Ûø"	M€ø≤“tJ@"	MÛéSt$ˆø"	SËº∆.yJ@"	V}Æ∂bÙø"	X 2ƒ±ÆÛø"	[rP¬ÃÛø"	\[%XÙø"	_Ô˛xØZÙø"	b€¢ÃÙø"	f˜‰a°zJ@"	iW!Â'ÅJ@"	jáø&ktJ@"	m≠/⁄ÚÛø"	olï`ÅJ@"	qè•]PÙø"	uÕ‰õm~J@"	x(
+ÙâºÛø"	Ñª≥v€ÖÙø"	Ö∂úKq’Ûø"	ÜUºëytJ@"	ê˜™ï	øÛø"	úß:‰ftJ@"	üY†¶ñÙø"	§6qrø{J@"	¶ÚvÑ”~J@"	Øô|≥ÕçÙø"	∞=≥$@ÕÛø"	∏@Ç‚«Ùø"	¡ˇV≤cJ@"	∆˘õPàÄÙø"	 lêIFŒÛø"	›“jH‹cÙø"	„àµ¯xJ@"	Â≥<ÓzJ@"	ÓŒ⁄mÇJ@"	Òh„àµxÙø"	˜X˙–}J@"	˜«{’ ÄJ@"	¯¬d™`tJ@"	˙–ı-J@"	˛‘xÈ&1ıø" 
+" " Ü+" á*" à," â," ç*" ô*" õ+" ú
+" ù," °*" §*" •," ß
+" ∞," ±*" ∂	" ∑*" π+" ∫*" º	" ¡+" ¬)" …)"  )" À)" Õ)" Œ)" ”+" ‘+" ‡*" „+" Â+" Ë+" Ô)" Ú	" Ú)" ˆ)" ˜)" ˘)" ˘*" ˝)" ˛*F< ”	ãyƒm	û
+a»gPXöúoïÙÜëº"	Í+wG< ‘Ñ †√ql	s
+|≤GNõú#ï¸Çõê"	í§H= ÿÑ †√ql	Ö
+xµU[õú#ï˝Ççè"	ÙíG< —Ñ †√ql	w
+x∞\^õú#ï˛Çâ±"	äÑH= ÁÅ †√ql	í
+uº<Bõúï˚Ç¬ª"	‚Ù G< ﬁ
+åyƒm	Ç
+n∂h+-öúïﬁá∑ó"	º-¥G< Œ
+åyƒm	Æ
+_’i.1öúï‡á´¡"	˛,ÍG< ◊
+åyƒm	é
+_¿iWYöúï¯á´¡"	˛,ÍG< À
+åyƒm	ì
+_¬iIMöúïÓá´¡"	˛,ÍG< „
+åyƒm	©
+_–iNQöúïÚá´¡"	˛,ÍG< “
+åyƒm	Ø
+_÷iRVöúïˆá´¡"	˛,ÍG< €
+åyƒm	±
+ˇj@DöúïÎá≥é"	§,‡G< Õ
+åyƒm	®
+Ãj<?öúïÈá≥é"	§,‡G< ∆
+åyƒm	Ü
+∏j8;öúïÁáîæ"	∆,ÇG< Íâyƒm	ó
+$ƒeFIöúïÌàµß"	ÿ6∏G< ÷âyƒm	§
+$ fJMöúïÔà†§"	∞6æG< «
+åyƒm	á
+$ªdZ]öúï˘á¢ø"	÷6öG< Êâyƒm	¨
+!Œb7;öúïÊà™∂"	Ú>ÍG< ‰âyƒm	∫
+!Åb',öúï‹à™∂"	Ú>ÍF; ‹âyƒm	}
+v∑c%&öúï⁄à¨≤"	÷<¿G< ›
+åyƒm	≠
+pÿk26öúï‚á®©"	‡1∞I> ÃÅ †√ql	ß
+Ä“29õúï˙Çä∫"	»#¨.G< –äyƒm	ê
+"ø&(öú#ï€Ö∞í"	¿+‚"G< œäyƒm	ò
+"≈FKöú#ïÌÖΩ£"	î.®"G< Ëäyƒm	¥
+"Ä04öú#ï·Öùå"	»-Ú%G< Ìäyƒm	•
+"À)-öú#ï›Öùå"	»-Ú%G< Ÿäyƒm	ñ
+"√>Aöú#ïÍÖùå"	»-Ú%G< ·äyƒm	î
+"¡59öú#ï‰Öùå"	»-Ú%G< »äyƒm	è
+"æ:=öú#ïËÖ°ú"	Í0í)G< ≈äyƒm	ü
+"∆LPöú#ïÒÖ¶ï"	à:é$G< Ïäyƒm	¶
+r— QTöú#ïıÖπã"	Ç0»3G< ‡¢tƒm	É
+rπ FHöúïÌÉπã"	Ç0»3F; Âàyƒm	{
+`≥SWöúoï˜Ñ∏ö"	®=‹=G< Èàyƒm	ù
+zœKNöúoïÑ¥ò"	¥=“?G< ’àyƒm	ô
+zÕOQöúoïÛÑü¿"	∏=Í?G< …àyƒm	ë
+z…:?öúoïËÑÆ≠"	÷>Æ?G<  àyƒm	ç
+z«69öúoïÂÑôØ"	≤?⁄?F; Óàyƒm	~
+zΩ@BöúoïÎÑû•"	é@–?G< ⁄àyƒm	™
+z◊35öúoï„Ññì"	∂?îAG< ﬂàyƒm	´
+zŸ,/öúoïﬂÑñì"	∂?îAG< Îàyƒm	°
+z”'*öúoï‹Ññì"	∂?îAG< ‚àyƒm	£
+z‘CEöúoïÏÑñì"	∂?îAé/x
+trips(Ä idorigin_stop_idorigin_stop_namedestination_stop_iddestination_stop_namedistanceduration"
+School"
+	The Green"
+
+The Church"
+Common Lane"
+The Village"
+Stevens Lane"
+The Crescent"
+Ayscough Avenue"
+Brick Kiln Lane"
+Milton Crescent"
+Baker Road no.68"
+Community Centre"
+Stapleford Woods"
+Abel Collins Home"
+Derbyshire Avenue"
+Church Walk, No. 1"
+Moorgreen, No. 114"
+North Street No.04"
+St. Mary‚Äôs Close"
+Church Lane, No. 96"
+Trough Road, No. 50"
+Crofton Road, No. 15"
+Hawthorn Rise No. 26"
+Trowell Grove, No 58"
+Vernon Drive, No. 32"
+Windsor Close, No. 8"
+Clarence Road, No. 44"
+Marshall Way Car Park"
+Park Hill/Park Avenue"
+Portland Road, No. 46"
+Stapleord Road No 217"
+School Nottingham Road"
+Chaworth Avenue, No. 10"
+Ellesmere Drive, No. 10"
+Haddon Crescent, No. 25"
+Chatsworth Avenue, No. 4"
+Greasley Beauvale School"
+Nottingham Road, No. 169"
+Gloucester Avenue, No. 14"
+Grange Lodge Ingleby Road"
+Horsendale Avenue, No. 69"
+Chetwynd Barracks, Welfare"
+Long Lane/Derwent Crescent"
+Rolleston Crescent, No. 12"
+Church Close, OAP Bungalows"
+Melbourne Road/Ramsey Close"
+Stanhope Street (nr Church)"
+White House, Robinetts Lane"
+Sycamore Road next to No. 19"
+Allendale Avenue/Gordon Place"
+Barratt Lane/Barratt Crescent"
+Carter‚Äôs Wood Drive, No. 02"!
+Babbington Villagepark in layby"!
+Douglas Avenue / 75 Main Street""
+ Wordsworth Road, Lawrence Avenue"'
+%Awsworth Lane, Lay-by opposite No. 10",
+*CE School Primary School Derbyshire Avenue"/
+-Temple Drive ‚Äì Drummond Drive end opp No. 8"  " " ," -" 7" E" I" W" ^" d" o" t" Ä" Å" É" É" Ñ$" Ñ+" ÑÛ" Ö" Ö" Ö" Ö#" Ü" Ü+" á*" à#" à$" à," â#" â," ä" ã" ã*" ç#" ç*" é#" è" è" è," ê" ê" ì" ì"" î" î$" ï" ï¬" ñ" ó"" ò" ò"" ô$" ô*" ö"" õ+" ú
+" ù" ù
+" ù" ù," û" ü"" ü#" °$" °*" ¢" ¢" £" §	" §*" •+" •," ¶" ß
+" ß"" ®#" ©&" ™" ™"" ´" ¨" ¨"" ¨4" ≠" ≠	" Æ" Æ*" ∞" ∞," ±*" ≤" ∂	" ∂"" ∑	" ∑*" ∏" π" π+" ∫" ∫*" ªº" º	" º‹" æ"" æ)" æ+" ¡"" ¡+" ¬" ¬)" √2" ≈" ≈	" «" …)"  #"  )" À)" Ã" Ã*" Õ" Õ)" Œ" Œ	" Œ"" Œ)" œ" –"" –ë" ”+" ‘+" ’" ÷" ÿ" Ÿ" Ÿ" ‹#" ‹+" ›N" ﬁ" ﬁ" ﬂ," ‡*" ·"" ‚#" „+" Â+" Ê" Ê+" Á#" Ë#" Ë+" Í#" Ï" Ó+" Ô!" Ô#" Ô)" " 	" Ò" Ú" Ú	" Ú"" Ú)" Ù!" ı!" ˆ" ˆ!" ˆ)" ˜)" ¯!" ˘" ˘)" ˘*" ˝)" ˝È" ˛*" ˇ*Ö ¬ò†L‘"m	ü§˙b@>$f.$ 2ÜRÍú:(JLÇl."j<∆ff*2 ∏Aò5vZT4â+!#
+Q&5A
+?/
+	 $$
+E ¿ñòÎà",	å	¯ä(s-!aO7313/!Û°ÖQ1#-e=#a?  WÌKèE"
+	Œ,üJ ÜÅî$≈¡"1	Œ,ü™ @<NI<$)\EKg		6?'è ±ñ©c"x	ü˛"≤4:
+-∞í
+®  Ç?h)rZ	Z0å	'67VCOaU)-)/=e C)A##5 K	]	%.3|Q;!7 ∆†Ñ_|" 	Új
+,p0	v0∆ I›∂'üZ"Æ	Ä÷!Í  
+
+##k(U'óT]%´beLW4WB!
+w0g4'1*qú/>#$/(ΩÏ3:0Öê 0t(hÇ&"H&BLLR, @*!9R1Z3l6 D	
+A	g!?ç’7ÅY≥5ù;%	! 7C \K¥
+´D"-	÷,oö02@I<$ Ñ>
+ %h7H)F  zì6û::"
+	Ú-Ñ	
+! –Ã0ì6::"
+	˙-ú	T Ê¥
+{5æ|"=	ˆ,‹⁄,.6B:l(<	0@	
+-1bY|jBd  yqÃ0::"	Ä.Æ	
+J ‡≠7qdù"3	∞,Ç™9 C«"«7kAi	&':M&K gv/≠7::"	¿,∏
+5i „∞4SÁŸ"Q	∂.¢È=»:&h	OB">@f
+B  I 
+	 	YK* ÖSv/µ@"	å,¢:-PA
+O ¢{5∞4Ol"9	Ü-ö¬6%‹Í>*
+	l!t)@ $#?s*k"
+	)ù  ≤(Â áY"Ñ	†AÑÍ733?	!	I	'A)5G'WC1M 3
+%%=GKg;C'A3;'%o9K)U!/&!"%"0$H# '	''4=
+@4
+∫Ø i^3f ∫ûV€w"O	˛-‡¢	"
+ Y		*"LJ0$&$<?("	(0# ,36:CV8 4&=aæ ·ØÕ9çM"•	ÿ<¥‚çCG#{Y1#;+ßa	1%A+ªÉM+7≥EwC/
+		 #&!
+ Y	 
+
+ *"LJ0$JF(6j,0 :4" X4B.`0PL<^240Æ Z8T, é }r.›íπ"w	Æ#∫,≤ k=Oë1 aIuÅ#55/Y3Q') 73'/!'  #*í?	 
+ë@)R Æ¶Ä!Nb";	Ë-Ü% 
++ %;ã!  0å<*"$N"<,0 nÇÍ,QA"	¿+‚"J#0:B\Äå(8(B xÍ,ﬂ8::"	Ú-¥&
+ 23 JX¶≥C"	‘/‹(ZoO+7kß  eﬂ8Ω::"	í.Ê&
+*E √ΩX⁄é"-	ò.ê'ö
+0,H0"@$T5"!S6#!?; •Ä!R%ãï"#	‘1Ï#bR(f+*Œ(‰0&9ÿ>9f£äY ^R%È-h™"C	‚7º)‚M|eà_ö'#*án32+4If#W2C4	"	.∂<:$+D'>5 ﬁ…*‰#øB"	à=ä?Z&"	+√	/ 	|S* TÏ	…*s="	Ä>¯?:G
+
+"1A, ∑ô"“‚B"	∏>¥<:' & k‰#ô";:"	¨>ƒ<
+) ÷®1oõ?"	 ?æ?2. mÂ ú+f<"	ñ<3JåM(	6( F$<&@ Uaÿ3`F"+	†AÑí733?	!	I	
+
+&"T "
+
+4@84) —Õ9ë&ä¨"	∂?ﬁ*J"
+
+4@84f ◊’ºªu"N	†A–.äüè1≈%- O
+âa2c 		 e.; 7$£zE&O5o	7 ';#6+$#0 ”“£Gß"	‹>à;J$'2
+&&T1É â[§ °ö"k	Óü‚H*XäÑ(DPr8B^`XHjJzBö:‰Ñƒ:ä2 ∞Z$n:6"êhF&4JL@ z6L&,zX8
+⁄,P< *> ,*†?ì ~tr.»É"}	‘†A“3; )i/1' 5G ep:6‡O nWN+&S}A/1'fw&E
+#_ /g) M !##50o
++!	'7:i•P å]Ï	êH"9	∆?ÜAÇ:% 1/$+
+%.9&	3 :?7'	 8 Àƒ®1Œj" 	™?†A2
+*MCND)		3 *?7'\?("'6 óo]‹>" 	à?ˆ>R =LH6@8	4 
+ pË)∏2::"	∂?îA
+T PÈ-œi«"=	™2˙1¬,h(rF%ƒëT+f-
+*	:`/.ê>,»&¿†

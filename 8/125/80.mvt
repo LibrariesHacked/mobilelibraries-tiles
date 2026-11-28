@@ -1,0 +1,735 @@
+Äàx
+stops(Ä id	route_idsroute_names
+mobile_idsmobile_nameslocal_authority_idlocal_authority_namelocal_authority_colourlocal_authority_codename	communityaddresspostcodearrival_timesdeparture_timesroute_start	route_end
+route_daystyperoute_frequenciesroute_schedule	timetable	longitudelatitude"
+17"
+94"
+95"
+218"
+225"
+227"
+231"
+1129"
+1131"
+1133"
+1135"
+1136"
+1137"
+1138"
+1141"
+1143"
+Kirk"
+Shop"
+Stow"
+Craik"
+Logan"
+Lugar"
+Oxton"
+Stobo"
+Bridge"
+Friday"
+Heriot"
+Monday"
+Public"
+School"	
+#00529B"	
+#701C45"	
+217,222"	
+Ashkirk"	
+Carlops"	
+Cattery"	
+Central"	
+Ettrick"	
+Newhope"	
+Peebles"	
+Private"	
+TD1 2QN"	
+TD1 2SY"	
+TD1 3JY"	
+TD1 3LP"	
+TD1 3NE"	
+TD2 6PH"	
+TD7 4NY"	
+TD7 5JA"	
+TD7 5JN"	
+TD7 5LZ"	
+TD9 0LG"	
+TD9 0QD"	
+TD9 7LX"	
+TD9 7PS"	
+Tuesday"
+
+09:20:00"
+
+09:30:00"
+
+09:35:00"
+
+09:45:00"
+
+09:50:00"
+
+09:55:00"
+
+10:00:00"
+
+10:05:00"
+
+10:10:00"
+
+10:15:00"
+
+10:25:00"
+
+10:30:00"
+
+10:40:00"
+
+10:45:00"
+
+10:50:00"
+
+10:55:00"
+
+11:00:00"
+
+11:10:00"
+
+11:30:00"
+
+11:35:00"
+
+11:40:00"
+
+11:45:00"
+
+11:55:00"
+
+12:00:00"
+
+12:05:00"
+
+12:10:00"
+
+12:15:00"
+
+12:20:00"
+
+12:30:00"
+
+12:35:00"
+
+12:40:00"
+
+12:55:00"
+
+13:00:00"
+
+13:05:00"
+
+13:15:00"
+
+13:20:00"
+
+13:25:00"
+
+13:30:00"
+
+13:35:00"
+
+13:40:00"
+
+13:45:00"
+
+13:50:00"
+
+14:00:00"
+
+14:05:00"
+
+14:10:00"
+
+14:15:00"
+
+14:20:00"
+
+14:30:00"
+
+14:35:00"
+
+14:50:00"
+
+15:00:00"
+
+15:10:00"
+
+15:15:00"
+
+15:20:00"
+
+15:25:00"
+
+15:30:00"
+
+15:35:00"
+
+15:50:00"
+
+15:55:00"
+
+16:00:00"
+
+16:10:00"
+
+16:15:00"
+
+Cardrona"
+
+Cemetery"
+
+EH26 9NF"
+
+EH38 5YE"
+
+EH38 5YN"
+
+EH43 6AL"
+
+EH44 6PJ"
+
+EH45 6AN"
+
+EH45 8NU"
+
+EH45 8RE"
+
+EH45 9LJ"
+
+EH46 7BY"
+
+EH46 7DQ"
+
+EH46 7EE"
+
+KA18 3EJ"
+
+KA18 3HB"
+
+KA18 3LW"
+
+KA18 3RS"
+
+KA18 4AH"
+
+ML12 6HD"
+
+ML12 6HQ"
+
+ML12 6JD"
+
+ML12 6QP"
+
+Muirkirk"
+
+Roberton"
+
+Roweburn"
+
+Skirling"
+
+The Peel"
+
+Thursday"
+
+Townfoot"
+
+Traquair"
+	Broughton"
+	Cronberry"
+	Eddleston"
+	Lyne Park"
+	Phone Box"
+	Rose Park"
+	S12000008"
+	S12000026"
+	Tushielaw"
+	Wednesday"
+
+Crossroads"
+
+Drumelzier"
+
+Galashiels"
+
+Heriot Way"
+
+Pagan Walk"
+
+Romanno Br"
+
+Teviothead"
+
+The Square"
+
+Tweedsmuir"
+
+Walkerburn"
+
+Woodend Rd"
+
+Yarrowford"
+Castleweary"
+Clovenfords"
+Kirk, Stobo"
+Main street"
+New Cumnock"
+Park Avenue"
+School Area"
+Shop, Oxton"
+West Linton"
+Blyth Bridge"
+Broadmeadows"
+Fountainhall"
+Furnace Road"
+Hawdene Area"
+Lamancha Hub"
+Newcastleton"
+Old Vineries"
+Park Terrace"
+Peel Gardens"
+Village Hall"
+Weatherhouse"
+East Ayrshire"
+Ettrickbridge"
+Health centre"
+Honey Cottage"
+St Brydes Way"
+Station Court"
+The Wee Crook"
+Week 1 Monday"
+Week 2 Monday"
+Week 3 Friday"
+Week 4 Friday"
+Braehead Place"
+Broomlee Court"
+Central, Craik"
+Glebe Car Park"
+New Cumnock PS"
+School, Heriot"
+Tarth Crescent"
+Townfoot, Stow"
+Week 1 Tuesday"
+Week 2 Tuesday"
+Glenfield Court"
+South Park West"
+Week 1 Thursday"
+Week 2 Thursday"
+Cattery, Ashkirk"
+Newhope, Ettrick"
+Robinsland Drive"
+Week 1 Wednesday"
+Week 2 Wednesday"
+10:15:00,10:30:00"
+11:30:00,12:15:00"
+11:45:00,12:20:00"
+12:15:00,13:00:00"
+Cockholm Crescent"
+Cronberry Village"
+Glenmuir Crescent"
+Ironstone Cottage"
+Roweburn, Ettrick"
+Cemetery, Traquair"
+Heriot Way, Heriot"
+Phone Box, Ashkirk"
+Rose Park, Peebles"
+Tushielaw, Ettrick"
+Mobile East (LBMB2)"
+Mobile West (LBMB1)"
+Weatherhouse, Oxton"
+Boston Memorial Hall"
+Bridge, Broadmeadows"
+Logan Community Stop"
+Logan Primary School"
+New Cumnock (Midday)"
+The Scottish Borders"
+New Cumnock (Morning)"
+Village Hall, Carlops"
+Crossroads, Tweedsmuir"
+FREQ=WEEKLY;INTERVAL=2"
+FREQ=WEEKLY;INTERVAL=4"
+Honey Cottage, Ettrick"
+Lyne Park, West Linton"
+Peel Gardens, The Peel"
+Village Hall, Roberton"
+Village Hall, Skirling"
+Castleweary, Teviothead"
+Cockholm Crescent, Stow"
+Hawdene Area, Broughton"
+Main street, Drumelzier"
+Park Avenue, Walkerburn"
+School Area, Romanno Br"
+St Brydes Way, Cardrona"
+Station Court, Cardrona"
+Village Hall, Broughton"
+2026-01-05T00:00:00.000Z"
+2026-01-09T00:00:00.000Z"
+2026-01-13T00:00:00.000Z"
+2026-01-23T00:00:00.000Z"
+2026-01-30T00:00:00.000Z"
+2026-06-29T00:00:00.000Z"
+2026-12-24T00:00:00.000Z"
+2026-12-31T00:00:00.000Z"
+South Park West, Peebles"
+The Square, Newcastleton"
+Village Hall, Teviothead"
+Glebe Car Park, Eddleston"
+Lamancha Hub, West Linton"
+Old Vineries, Clovenfords"
+The Wee Crook, Tweedsmuir"
+Woodend Rd, Ettrickbridge"
+Health centre, West Linton"
+Village Hall, Fountainhall"
+Broomlee Court, West Linton"
+Glenfield Court, Galashiels"
+Week 1 Friday,Week 2 Friday"
+East Ayrshire Mobile Library"
+Tarth Crescent, Blyth Bridge"
+Boston Memorial Hall, Ettrick"
+Robinsland Drive, West Linton" 
+Ironstone Cottage, West Linton"$
+"Park Terrace, Lugar, East Ayrshire"%
+#Pagan Walk, Muirkirk, East Ayrshire"&
+$Braehead Place, Lugar, East Ayrshire"'
+%Furnace Road, Muirkirk, East Ayrshire")
+'Glenmuir Crescent, Logan, East Ayrshire")
+'New Cumnock, New Cumnock, East Ayrshire",
+*Logan Community Stop, Logan, East Ayrshire",
+*Logan Primary School, Logan, East Ayrshire",
+*New Cumnock PS, New Cumnock, East Ayrshire"-
++Cronberry Village, Cronberry, East Ayrshire"2
+0New Cumnock (Midday), New Cumnock, East Ayrshire"3
+1New Cumnock (Morning), New Cumnock, East Ayrshire"@
+>Fri Dec 04 2026 10:00:00 GMT+0000 (Coordinated Universal Time)"@
+>Fri Dec 04 2026 11:00:00 GMT+0000 (Coordinated Universal Time)"@
+>Fri Dec 04 2026 12:00:00 GMT+0000 (Coordinated Universal Time)"@
+>Fri Dec 25 2026 10:00:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 11:00:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 12:00:00 GMT+0000 (Coordinated Universal Time)"@
+>Mon Dec 07 2026 13:20:00 GMT+0000 (Coordinated Universal Time)"@
+>Tue Dec 15 2026 13:40:00 GMT+0000 (Coordinated Universal Time)"@
+>Tue Dec 15 2026 14:05:00 GMT+0000 (Coordinated Universal Time)"@
+>Tue Dec 15 2026 14:30:00 GMT+0000 (Coordinated Universal Time)"N
+Lhttps://ayrshire360.com/media/3aviebla/a360-mobile-timetable-2026-tabbed.pdf"V
+Thttps://www.liveborders.org.uk/wp-content/uploads/2026/11/LBMB1-Timetable-Oct-26.pdf"X
+Vhttps://www.liveborders.org.uk/wp-content/uploads/2026/11/LBMB2-Timetable-Oct-26-1.pdf"
+}Fri Dec 11 2026 10:15:00 GMT+0000 (Coordinated Universal Time),Fri Dec 18 2026 10:30:00 GMT+0000 (Coordinated Universal Time)"
+}Fri Dec 11 2026 12:20:00 GMT+0000 (Coordinated Universal Time),Fri Dec 18 2026 11:45:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 09:20:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 09:20:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 09:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 09:30:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 09:35:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 09:35:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 09:45:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 09:45:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 09:55:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 09:55:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 10:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 10:00:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 10:05:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 10:05:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 10:10:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 10:10:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 10:25:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 10:25:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 10:40:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 10:40:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 10:55:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 10:55:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 11:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 11:00:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 11:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 11:30:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 11:35:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 11:35:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 11:45:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 11:45:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 12:05:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 12:05:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 12:10:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 12:10:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 12:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 12:30:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 12:40:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 12:40:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 13:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 13:00:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 13:05:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 13:05:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 13:20:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 13:20:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 13:25:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 13:25:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 13:40:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 13:40:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 13:45:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 13:45:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 14:05:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 14:05:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 14:10:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 14:10:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 14:15:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 14:15:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 14:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 14:30:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 14:35:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 14:35:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 14:50:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 14:50:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 15:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 15:00:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 15:10:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 15:10:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 15:15:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 15:15:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 15:25:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 15:25:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 15:35:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 15:35:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 15:55:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 15:55:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Nov 30 2026 16:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 14 2026 16:00:00 GMT+0000 (Coordinated Universal Time)"	 :Ãó‡¿"	ŒQ⁄„K@"	<˜.9	¿"	T∆øœx¿"	à◊ı¬K@"	á3øöÉ¿"	jMÛñK@"	 $ò¿—K@"	#∆Ç‡K@"	*¨ˇsÿ
+¿"	*å-9‡K@"	-	PSÀ≤K@"	0‹{∏D¿"	1|DLâ¿K@"	3˛}∆Ö¿"	6Í!›·K@"	;ﬂOçó∫K@"	=~o”üΩ¿"	>ËŸ¨˙‰K@"	?RDÜU¸
+¿"	B&9;¿"	F±‹“j‡K@"	H˛`‡πœK@"	I.ˇ!˝¬K@"	IÖ±Ö €K@"	JµO«cF¿"	JµO«c∆¿"	KìR–Ì›K@"	SÆ.¡K@"	Tolï‹K@"	T„•õƒ`
+¿"	Uá‹7†
+¿"	W>ÀÛ‡n¿"	W`»ÍV´K@"	Zÿ”ÕK@"	[∂÷	ΩK@"	^Ù§À
+¿"	có®ﬁÿ¿"	e∏u”K@"	pUjˆ¿¿"	v‡ú•µK@"	v˝Ç›∞m¿"	x¥qƒZº¿"	x—WêfÏ¿"	|ówÆK@"	|õ˛ÏGÍ¿"	}?5^∫I¿"	áäq˛&‘¿"	ãâÕ«µA¿"	ëÚìjüÓ¿"	üv¯k≤ŒK@"	§SW>À«K@"	•f¥É¿"	´≤Ôä‡	¿"	Æ”HKÂ-¿"	Ø˛∑í¿"	≤à◊ıÀK@"	≥)WxóªK@"	≥òÿ|\œK@"	¥Yıπ⁄‚K@"	¥Â\ä´∫K@"	∑Eô2I	¿"	∫N#-ï∑
+¿"	ºñêzæK@"	æº ˚ËÿK@"	æ¡&S≈¿"	∆äL√p¿"	«◊ûY–K@"	ÀπWïµK@"	ÀÛ‡Ó¨—K@"	–~§à´	¿"	Ÿ=yX®µK@"	Ÿ±à◊u¿"	‹◊ÅsF‘
+¿"	‡π˜p…—K@"	„«òªñÿK@"	Â–"€˘ŒK@"	ÈC‘∑¿"	È∑ØÁÃK@"	ÒÄ≤)Wÿ¿"	˜X˙–5¿"	˘fõ”«K@"	¸5Y£¢¿"	˝ü√|yÅ¿" /" <" Ä8" Å8" Ç" Ç8" É" É8" Ñ8" ê8" ñ8" ó8" ò7" ô7" ö7" ¢7" £7" §7" •7" ®7" Ø7" µ7" ∂7" π7" ∫7" ª7" º7" ø7" ¡7" ≈7" «
+" «7" À7" œ
+" ÷7" ◊7" ÿ
+" ÿ7" Ÿ7" ⁄7" ﬁ
+" ﬁ7" ﬂ7" ‡7" ·7" „7" ‰7" Ê7" Î7" Ï7" Ì7" Ô
+" 
+" Ù7" ˆ7" ¯7" ˚
+" ˚7" ¸
+" ˝
+" ˛
+" ˇ7J@ ∫
+‹Ì∏Ùú	æ
+"ˆx>Cçéû¯¬π°ı"	Ç(I? –«Ì∏Ùú	¢
+Ëzcfçé¯÷πµ‰"	∆9#J@ ﬂ‘ ù∑¿õ	‰
+¶Ögiäè7˘∑∏îü"	S“J@ Í« ù∑¿õ	Ò
+®ÖOSàè˘≥∏îü"	S“J@ Î« ù∑¿õ	Ú
+©ÖHNàè(˘≤∏éÛ"	EÿJ@ ’‘ ù∑¿õ	À
+§Ñcfäè7˘∂∏êú"	9àJ@ Ω‘ ù∑¿õ	º
+¢Ñ_bäè7˘µ∏êú"	9àNC € ú ù∑¿õ	∑
+ç•áﬁﬂâè˘ª∏ÔÁ"	ÙÇNC ª ú ù∑¿õ	£
+ç£á‡·âè˘º∏ì˙"	Ñ∂KA ÿ« ù∑¿õ	„
+ñ´Ü[_àè˘¥∏≤Ü"	,îLA Ô… ù∑¿õ	Ø
+Øßà>Jãè˘±∏çÓ"	  LA Ò  ù∑¿õ	Û
+Ø¨àOTåè˘∞∏çÓ"	  LA Ú  ù∑¿õ	ı
+Ø≠à>Gåè˘Æ∏çÓ"	  LA Û  ù∑¿õ	œ
+Ø™àHNåè(˘Ø∏çÓ"	  MB œ
+‹Ì∏Ùú	¬
+≥òÉHJçéû¯»π¨¯"	∞'ÚMB ‡
+‹Ì∏Ùú	€
+≥†ÉDGçéû¯∆πáÎ"	 'ÍMB ≈
+‹Ì∏Ùú	Ã
+≥öÉPTçéû¯ÃπÏÌ"	§'ÇMB “
+‹Ì∏Ùú	Â
+≥°ÉVWçéû¯œπÏÌ"	§'ÇMB ‘
+‹Ì∏Ùú	π
+≥îÉX]çéû¯–πÏÌ"	§'ÇMB ÷
+‹Ì∏Ùú	ò
+≥˚ÉKOçéû¯ πÏÌ"	§'ÇLA È	”Ì∏Ùú	—
+¥ûÇ\_çé7¯”π∞£"	ê&–LA Ù	”Ì∏Ùú	æ
+ê˛âXZçé7¯–πäÍ"	é"íLA Œ	”Ì∏Ùú	∏
+ïÅäJLçé7¯…πëØ"	‚$ÚLA π	”Ì∏Ùú	æ
+ïáäMRçé7¯ÀπëØ"	‚$ÚLA ◊	”Ì∏Ùú	Æ
+†Çã?Açé7¯√πˆõ"	æ&‰LA ‰	”Ì∏Ùú	±
+§ÑÅ`bçé7¯’πÇÄ"	ƒ(®LA Ã
+‹Ì∏Ùú	Œ
+óìegçéû¯ÿπ©˚"	˛-ûI> ”	”Ì∏Ùú	
+≠~;=çé7¯¿πÅ¶"	¯)öJ? ·	”Ì∏Ùú	ö
+'Í}gjçé7¯Ÿπòâ"	¯.à
+J? Ê	”Ì∏Ùú	÷
+'ê}koçé7¯›πòâ"	¯.à
+LA À	”Ì∏Ùú	ü
+ß˜åGIçé7¯«πÉ"	¯#¸LA Ì	”Ì∏Ùú	∆
+ßñåBFçé7¯≈πÉ"	¯#¸LA Á
+‹Ì∏Ùú	≈
+vÜÄnpçéû¯ﬂπà®"	÷2òLA Ë
+‹Ì∏Ùú	ƒ
+vÖÄimçéû¯€πí≠"	‡2éK@ »
+‹Ì∏Ùú	w
+îÁ|rtçéû¯·πó±"	»4òK@ ‹	”Ì∏Ùú	∞
+®É{suçé7¯‚πö˘"	Ë6∂H> „«Ì∏Ùú	
+–yX]çé¯–πÙÚ"	¯8|K@ æ«Ì∏Ùú	æ
+∂ô*hjçé¯⁄π¸˛"	Ã;∫J?  «Ì∏Ùú	‚
+Ä)loçé¯ﬁπ„Æ"	Ó=ÍJ? Ó«Ì∏Ùú	ì
+“)pqçé¯‡π„Æ"	Ó=ÍLA ›ÿÌ∏Ùú	Ω
+ë¸,9;çéí¯æπ≥Ö"	˛;ËLA ⁄ÿÌ∏Ùú	ª
+¨ï-=@çéí¯¡πÒù"	ä=“K@ √◊Ì∏Ùú	Ô
+%ü0Y]çéí¯—π†ß"	î0ÍK@ —◊Ì∏Ùú	√
+%˙0dgçéí¯◊πÂ™"	¿0‰J? Ÿ◊Ì∏Ùú	&
+%⁄0VWçéí¯œπÂ™"	¿0‰K@ ‚◊Ì∏Ùú	è
+%Ê0TUçéí¯ŒπÂ™"	¿0‰K@ ◊Ì∏Ùú	ù
+%Î0hiçéí¯⁄πÂ™"	¿0‰K@ ¬»Ì∏Ùú	™
+™™2_açé¯‘πÊ¥"	º:≤J? ƒ»Ì∏Ùú	
+µ2[^çé¯“π•ñ"	‘:¥LA ¡◊Ì∏Ùú	©
+¡ó1koçéí¯›π˝ˇ"	‡8ŒI> «‘Ì∏Ùú	#
+!Ÿ/jkçé7¯‹π§¢"	∫>†J? ﬁ‘Ì∏Ùú	ô
+!È/lpçé7¯ﬁπ§¢"	∫>†LA ø◊Ì∏Ùú	æ
+é˝5@Eçéí¯ƒπôã"	í<ÊJ? …◊Ì∏Ùú	$
+Õ6HJçéí¯»π˜è"	î6¶!LA ∆◊Ì∏Ùú	´
+•ˇ389çéí¯ΩπËÑ"	û:†#LA º◊Ì∏Ùú	æ
+•í3:<çéí¯øπËÑ"	û:†#LA Ï›Ì∏Ùú	¶
+∫ë4Xbçéû¯–π∂È"	¸?¸/H> Â»Ï∏Ùú	
+≤.MOçé¯À∫åû"	¥@,I? ¿»Ï∏Ùú	ø
+Ó.QTçé¯Õ∫åû"	¥@,LA ÕÿÌ∏Ùú	’
+°õ+BGçéí¯≈π´ï"	ú@àã2x
+trips(Ä idorigin_stop_idorigin_stop_namedestination_stop_iddestination_stop_namedistanceduration"
+Kirk"
+Shop"
+Bridge"
+School"	
+Cattery"	
+Central"	
+Howgate"	
+Newhope"
+
+Car Park"
+
+Cemetery"
+
+Cottages"
+
+Gatehead"
+
+Roweburn"
+	Bellsbank"
+	Lyne Park"
+	Rose Park"
+	Tushielaw"
+
+Blair Road"
+
+Bute House"
+
+Crossroads"
+
+Heriot Way"
+
+Pagan Walk"
+
+The Square"
+
+Upper Loan"
+
+Woodend Rd"
+
+Yarrowford"
+Castleweary"
+Main Street"
+Main street"
+New Cumnock"
+Park Avenue"
+School Area"
+Furnace Road"
+Hawdene Area"
+Lamancha Hub"
+Old Vineries"
+Park Terrace"
+Peel Gardens"
+Village Hall"
+War Memorial"
+Weatherhouse"
+Weavers Linn"
+Health centre"
+Honey Cottage"
+St Brydes Way"
+Station Court"
+The Wee Crook"
+Braehead Place"
+Broomlee Court"
+Glebe Car Park"
+New Cumnock PS"
+Tarth Crescent"
+Glenfield Court"
+South Park West"
+Robinsland Drive"
+Stonebriggs Farm"
+Cockholm Crescent"
+Cronberry Village"
+Glenmuir Crescent"
+Ironstone Cottage"
+Ochiltree Primary"
+Boston Memorial Hall"
+Logan Community Stop"
+Logan Primary School"
+New Cumnock (Midday)"
+New Cumnock (Morning)"
+Bellfield (back of shops)"
+Netherthird Primary School"
+North Middleton Village Hall"
+Upper burnmouth farm cottages"  " " " &" C" a" g" Ä" Ä" Ä8" Å" Å" Å-" Å8" Ç" Ç-" Ç8" É" É-" É8" Ñ8" Ü" Ü-" á" á-" à" à8" â" â8" ä" ä" ã" ã" ã" ã-" å-" ç" é8" è	" è8" ê" ê" ê" ê-" ê8" ë5" ë8" í∞" î;" ï" ï-" ïâ" ñ" ñ" ñ8" ñ\" ó8" ò7" ô7" ôk" ö7" õ" õ-" ú-" ù7" û!" û7" û;" ü" ü" ü-" †" †-" †Ù" °-" ¢" ¢-" ¢7" ¢ã" £7" £e" §" §7" •-" •7" ¶'" ß-" ®" ®" ®" ®7" ©" ™" ™7" ™Ñ" ´-" ¨" ¨-" ≠" Ø7" ∞-" µ*" µ7" ∂7" ∑" π" π7" πC" ∫" ∫7" ª" ª-" ª7" º" º" º-" º7" Ω-" Ωƒ" æ" æ" æ2" ø7" ¡-" ¡7" ¬-" ¬j" ¬Ï" √" √
+" √" √-" ƒ" ƒ" ƒ
+" ƒ-" ≈7" ∆" ∆" ∆
+" ∆-" «
+" «-" «7" …" …
+" …-"  " À+" À-" À7" Ã-" Õ-" Œ" œ
+" –4" —I" “D" ‘" ‘-" ÷7" ÷‘" ◊" ◊7" ÿ" ÿ
+" ÿ*" ÿ-" ÿ7" Ÿ" Ÿ-" Ÿ7" ⁄" €
+" ‹-" ›-" ﬁ
+" ﬁ-" ﬁ7" ﬂ" ﬂ-" ﬂ7" ‡-" ‡7" ·-" ·7" ·ú" ‚~" „" „" „7" ‰" ‰-" ‰7" Ê" Ê7" Êà" Á-" Ëà" Ëè" È-" Í" Î" Î" Î7" Îl" Ï" Ï" Ï7" Ï°" Ïæ" Ì" Ì" Ì7" Ó" Ó-" ÓT" Ô
+" " 
+" â" Ò" Û" Ù7" ˆ7" ˜" ˜
+" ˘
+" ˙" ˚" ˚
+" ˚7" ¸
+" ¸7" ˝
+" ˝7" ˛
+" ˇ" ˇ7# Ø]DNÅæ"	ÿ1ü B è¨«Bäö")	  ä'))	#9!%	#!!%$ ‰ˆ:—òp"	É‹ ) Éü>g7àë"	U“2  6 –◊W$Ôù"	üﬁb8-L ßg7‡9⁄f"5	üﬁ∫
+$#& % 
+$*52 À”/ˆ:§ê"	u¬R  £W$”/FF"	e≤
+  Ö°?ü>zH"		G÷B ëÆ@©C‚Í")	Ã¿ä))	#9!%	#!!%/ ∆ÃM<≈Q"	üÓJ)?1n Ÿ‡9®Äo"V	xˆ¬&#>!&".(	/;#	/ 1%'C		
+!'X †TÛuä"A	Ù»ÍeD]+#	/;#	/ 1%'C		
+!'% ﬂÎ T™a"	ÙÇ"	 ô≤2Æ@FF"	Ã»
+  ï∞A≤2FF"	  
+& ¡¯6≥*¥L"	∫'Ë"	@ ˜S&¯6á¢"(	Ç(ä J\0
+# é≥*’eJ"	®'Ù
+ ß’Ç0FF"	¢'ò
+ XÇ0¿;FF"	™'†
+ ô¿;Œ"FF"	∂'Æ
+J Ù¥&õ3„î"1	®"¯
+™,	2"+"C4ERQ? : !D ıO&¥&v¶"-	º$ÜöC #3!' 	#,/ 
+5
+  å∞!O&FF"	∆$ö
+	: ﬁõ3Ñõ[""	˙&Çr2A*) )**n •Œ"¨1åç"U	 '¿∫.($8:.DG%	FA*2AF7  `D& 
+(J"Z 
+d	,	 
+		~ “Ñ˚î≥"e	é(Ä˙ $*,": ( 2. 0B&
+ H 
+ 0:@7NV9 ú¬ ‹ø®" 	¯)öjMn)0' 'C,!;<^ Ñ¨1ñ,ñ÷"E	Ë-¸˙rJ
+ 4l26&<pF8
+j 
+  √˚â5FF"	Ã/û
+
+ Â¶.©FF"	ˆ#˙
+	c ™‹¶.Åc"K	∫&Íí#%	
+8 8H"8 Eb"b&4
+!<98
+
+d x©∞!ìn"M	Ï#ˆö87 7	5# 	)	C!:I#  7!G7!W1	!/7[ ÿâ5Óƒ≤"B	Ê/¶
+Íp&8
+ñ 
+&@
+VN&0#
+$4,L
+  & ›ñ,í-ËJ"	–2ñ"  	7 €í-ò	´û"	–2¥b4.&:@&: Õˇ∂ãú"!	ˆ8xr2$T ê∂Y&·É"<	¬9⁄066
+ "$
+ $(*@ ¸Y&†8s°")	ú<Ùän
+L 
+
+,L0
+e πÈ#≠4ûÇ"L	Ç=∏í=Dô		 (:"8
+ (*
+ 
+	 
+/ ªÒ%È#˘Ω"	˛;ÊB" 	,'P? )  R=∫+´G"
+	»1˙8- í∫+≠FF"	å2º
+ …˝ÊFF"	Œ0Ï
+$ µÊ=_K"	‘0Ë"4$1ˆ iö˝è∏"›	å6ñ!⁄J'*	 %
+: 	
+	
+	 		  	5 3 %)+3%
+!' )%
+&s^/B7%  &! UÄ~PI"	“:¥ Ñ Ì≠|y "m	î2¥ö4'#
+ )!6-
+,"%$&
+
+  
+ 		y ù~m'çl"c	¿:≤Ú&
+.
+
+
+"$ $ 
+ 
+
+""0N'A ^àï±∑")	†A¨ä		#G	1	+ 9	
+
+z ˛Z&ö}œ"c	˛;‚Ú		
+9	& 
+)I(  hìV&FF"	û:†#
+p ˙V&Z&§Ú"Y	†:û# P5V9,	&Y961( 	HI 9	1 +	# +	?? ‘ár(FF"	∏@,
+
+; \Üá»ó"#	úA6 	 R	%	 , q£
+b&ó{"	å?üB2400@4$ ér(±âw"	¬@*"
+* Ü`&Ü¢j"	†A8
+& Ö≠4t)üÆ"	Æ@§".0"2 ãk&£
+ºd"	†A8Z	 =133+1/ ØE•ÁÏ"	†Aº.B#	
+N<

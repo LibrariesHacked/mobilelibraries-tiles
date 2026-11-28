@@ -1,0 +1,412 @@
+ÎSx
+stops(Ä id	route_idsroute_names
+mobile_idsmobile_nameslocal_authority_idlocal_authority_namelocal_authority_colourlocal_authority_codename	communityaddresspostcodearrival_timesdeparture_timesroute_start	route_end
+route_daystyperoute_frequenciesroute_schedule	timetable	longitudelatitude"
+68"
+90"
+850"
+1066"
+1067"
+1070"
+1071"
+1072"
+1073"
+1075"
+Yarm"
+Elton"
+Friday"
+Hilton"
+Maltby"
+Monday"
+Public"	
+#044379"	
+#11578B"	
+DL6 3AD"	
+TS8 0BE"
+
+09:30:00"
+
+09:50:00"
+
+10:00:00"
+
+10:10:00"
+
+10:15:00"
+
+10:20:00"
+
+10:25:00"
+
+10:30:00"
+
+10:35:00"
+
+10:40:00"
+
+10:45:00"
+
+10:50:00"
+
+10:55:00"
+
+11:00:00"
+
+11:10:00"
+
+11:15:00"
+
+11:30:00"
+
+11:45:00"
+
+11:50:00"
+
+11:55:00"
+
+12:00:00"
+
+12:15:00"
+
+12:20:00"
+
+13:00:00"
+
+13:15:00"
+
+13:30:00"
+
+13:35:00"
+
+13:45:00"
+
+13:55:00"
+
+14:00:00"
+
+14:05:00"
+
+14:10:00"
+
+14:20:00"
+
+14:25:00"
+
+14:30:00"
+
+14:50:00"
+
+14:55:00"
+
+15:15:00"
+
+15:30:00"
+
+15:50:00"
+
+Elm Tree"
+
+Hartburn"
+
+Stockton"
+
+TS15 9EH"
+
+TS15 9EZ"
+
+TS15 9HE"
+
+TS15 9NQ"
+
+TS15 9PQ"
+
+TS15 9RJ"
+
+TS16 0DN"
+
+TS16 0DQ"
+
+TS16 0EH"
+
+TS16 0EP"
+
+TS16 0RS"
+
+TS17 0FS"
+
+TS17 6BJ"
+
+TS18 3FA"
+
+TS18 3RH"
+
+TS18 4LH"
+
+TS18 4LN"
+
+TS18 4LY"
+
+TS18 5LB"
+
+TS18 5PE"
+
+TS19 0PL"
+
+TS19 0TX"
+
+TS19 0UA"
+
+TS19 0UW"
+
+TS21 1AY"
+
+Teesdale"
+
+Thornaby"
+
+Thursday"
+	E06000004"
+	E06000065"
+	Wednesday"
+Grangefield"
+Osmotherley"
+Eaglescliffe"
+Egglescliffe"
+Farrier Park"
+Kirklevington"
+1065,1067,1073"
+Monday,Thursday"
+North Yorkshire"
+Whitehouse Farm"
+Oswaldene estate"
+Stockton-on-Tees"
+Route D (Thursday)"
+Mortain Close, Yarm"
+Supermobile Library"
+Beech Court, Elm Tree"
+Week 2 - Friday Route"
+Week 2 - Monday Route"
+Week 3 - Friday Route"
+Week 3 - Monday Route"
+Dunsmore Close, Maltby"
+FREQ=WEEKLY;INTERVAL=2"
+FREQ=WEEKLY;INTERVAL=3"
+Harsley Road, Hartburn"
+Lauder House, Elm Tree"
+Mount Leven Road, Yarm"
+Dunedin House, Stockton"
+Stockton Mobile Library"
+Sundell Court, Stockton"
+Week 3 - Thursday Route"
+2026-01-01T00:00:00.000Z"
+2026-01-05T00:00:00.000Z"
+2026-12-31T00:00:00.000Z"
+Ash Grove, Kirklevington"
+Elm Tree Shops, Elm Tree"
+Week 2 - Wednesday Route"
+Week 3 - Wednesday Route"
+Arlington Court, Stockton"
+Arrathorne Road, Hartburn"
+Askrigg Road, Grangefield"
+Rochester Court, Teesdale"
+St Nicholas Gardens, Yarm"
+10:30:00,14:30:00,15:10:00"
+11:30:00,15:45:00,16:00:00"
+Preston Park, Eaglescliffe"
+Uldale Drive, Egglescliffe"
+Falcon Pub car park, Hilton"
+Muirfield Road, Eaglescliffe"#
+!Wycliffe and Ayresome Court, Yarm"%
+#Barlborough Avenue, Whitehouse Farm"%
+#Sandy Lees Lane Caravan Park, Elton"&
+$Eaglescliffe Golf Club, Eaglescliffe"&
+$Water Avens Way, Farrier Park Estate"'
+%Mortain Close, Yarm, Stockton-on-Tees"'
+%Timothy Hackworth Court, Eaglescliffe")
+'Beech Court, Elm Tree, Stockton-on-Tees"*
+(Dunsmore Close, Maltby, Stockton-on-Tees"*
+(Harsley Road, Hartburn, Stockton-on-Tees"*
+(Lauder House, Elm Tree, Stockton-on-Tees"*
+(Mount Leven Road, Yarm, Stockton-on-Tees"+
+)Dunedin House, Stockton, Stockton-on-Tees"+
+)Sundell Court, Stockton, Stockton-on-Tees",
+*Ash Grove, Kirklevington, Stockton-on-Tees",
+*Elm Tree Shops, Elm Tree, Stockton-on-Tees",
+*https://www.stockton.gov.uk/mobile-library"-
++Arlington Court, Stockton, Stockton-on-Tees"-
++Arrathorne Road, Hartburn, Stockton-on-Tees"-
++Askrigg Road, Grangefield, Stockton-on-Tees"-
++Rochester Court, Teesdale, Stockton-on-Tees"-
++St Nicholas Gardens, Yarm, Stockton-on-Tees".
+,Preston Park, Eaglescliffe, Stockton-on-Tees".
+,Uldale Drive, Egglescliffe, Stockton-on-Tees"/
+-Falcon Pub car park, Hilton, Stockton-on-Tees"0
+.Muirfield Road, Eaglescliffe, Stockton-on-Tees"0
+.Oswaldene estate, Osmotherley, North Yorkshire"5
+3Wycliffe and Ayresome Court, Yarm, Stockton-on-Tees"7
+5Barlborough Avenue, Whitehouse Farm, Stockton-on-Tees"7
+5Sandy Lees Lane Caravan Park, Elton, Stockton-on-Tees"8
+6Eaglescliffe Golf Club, Eaglescliffe, Stockton-on-Tees"8
+6Water Avens Way, Farrier Park Estate, Stockton-on-Tees"9
+7Timothy Hackworth Court, Eaglescliffe, Stockton-on-Tees":
+8Egglescliffe Community Centre Car Park (in Eaglescliffe)"G
+EWeek 1 - Thursday Route,Week 2 - Monday Route,Week 3 - Thursday Route"L
+JEgglescliffe Community Centre Car Park (in Eaglescliffe), Stockton-on-Tees"d
+bhttps://www.northyorks.gov.uk/leisure-tourism-and-culture/libraries/local-libraries/mobile-library"
+}Mon Dec 07 2026 09:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 09:30:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 09:50:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 09:50:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 10:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 10:00:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 10:10:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 10:10:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 10:20:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 10:20:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 10:25:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 10:25:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 10:40:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 10:40:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 10:45:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 10:45:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 10:55:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 10:55:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 11:15:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 11:15:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 11:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 11:30:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 11:45:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 11:45:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 11:50:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 11:50:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 12:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 12:00:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 13:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 13:00:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 13:15:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 13:15:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 13:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 13:30:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 13:35:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 13:35:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 14:00:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:05:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 14:05:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:10:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 14:10:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 14:30:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:55:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 14:55:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 15:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 15:30:00 GMT+0000 (Coordinated Universal Time)"ø
+ºThu Dec 03 2026 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Dec 17 2026 10:00:00 GMT+0000 (Coordinated Universal Time),Thu Dec 31 2026 10:00:00 GMT+0000 (Coordinated Universal Time)"¸
+˘Mon Dec 07 2026 10:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 07 2026 14:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 07 2026 15:10:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 10:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 14:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 15:10:00 GMT+0000 (Coordinated Universal Time)"	œ†°ıø"	Hm‚‰FK@"	≠¿ê’=K@"	
+.V‘`öıø"	¶a¯àHK@"	ÛÂÿGıø"	]Pﬂ2/K@"	çÓ v¶ıø"	Wï}WÑıø"	0Å[wsıø"	0Å[wÛÙø"	"â^F±\ıø"	2=aâ@K@"	3·ó˙yGK@"	4ÙOp±¢ıø"	6»$#gIK@"	9÷≈m4ÄÙø"	:3Pıø"	;pŒà“BK@"	? ©Mú\ıø"	IÄöZ∂Vıø"	I∫fÚÕBK@"	YQÉiæıø"	`∑ÓÊ©ıø"	hÜ¨nIK@"	olï`ÒÙø"	t$óˇêBK@"	xz•,C@K@"	xz•,Cúıø"	~:3Pôıø"	Ñª≥v€AK@"	ÑıÛeıø"	Ü=Ì◊HK@"	çE”Ÿ…@K@"	îŸ ìåDK@"	ñ®©eGK@"	£¢—ƒıø"	•,CÎbıø"	Ø|ñÁ¡AK@"	∫†æeNıø"	»=õU?K@"	 âvR˛ıø"	ŸBêÉBK@"	ŸwEøïıø"	⁄8b->IK@"	ﬁ∞mQfCK@"	ÊWsÄ`éıø"	Í gyHK@"	Î‚6¿€Ùø"	Òh„àµHK@"	˘NÃz1@K@"	˘NÃz1HK@"	˝Ç›∞mIK@"	ˇ>„¬Åêıø" " "" Ä3" Ñ3" Ö3" Ü3" à3" ä3" ã3" å3" è3" ì3" î3" ï3" ö3" õ3" ú3" ü3" †3" §3" •3" ®3" ´3" Œ'" ˚2" ¸2" ˝2" ˛2" ˇ2B8 ãozÖj\	Å
+=ûW/3~u≈ü—›"	ö
+7A7 éozÖj\	w
+=ôU,.~u¬ü¸Ç"	ﬁ
+?A7 Ü|zÖj\	n
+=ñV$%~[uΩü÷˙"	òB8 †ozÖj\	ê
+h´T47~u»ü◊Ê"	¯AD9 î	ÉzÖj\	ë
+¨X35~^u«ü˜Å"	‚ƒC8 ùqzÖj\	Ö
+>°S%(~uæüÚœ"	¨‹B7 çqzÖj\	v
+>òR)*~u¡üÂ€"	¬	§C8 ü|zÖj\	Ü
+_¢Q~[u∑üÛˇ"	÷¢A7 ñ|zÖj\	{
+?úP~[u¥ü”Ó"	xC8 ú|zÖj\	Ñ
+?†O"~[u∫ü‚“"	úÿD9 óÇzÖj\	ï
+aØF'*~^u¿ü’‡"	÷	⁄D9 âÇzÖj\	í
+a≠G~^u∏üÎ˚"	†
+§D9 ëÇzÖj\	é
+a®J ~^u∫üÍ„"	ê
+ﬁD9 íÇzÖj\	ã
+a•N~^u∂üÌ"	ƒºF; äe±zÖj\	∞
+a≤Hâä~fuÕü‰Ë"	–™D9 òÇzÖj\	å
+b¶I!#~^uºü‹¯"	Ï	ƒC8 ïpzÖj\	à
+
+§A.1~uƒüŒÈ"	≤¸C8 årzÖj\	ç
+ßB~uµüÉ⁄"	“
+ƒB7 êpzÖj\	x
+
+öE78~u…üŸÔ"	˙ÿB7 èpzÖj\	l
+
+îD26~u∆ü·Ä"	˙íD9 öÇzÖj\	è
+
+™@-0~^u√ü˘ˆ"	¥
+ûD9 ûÇzÖj\	Ä
+dùC9:~^u üﬂ–"	∂ˆB7 á|zÖj\	y
+ZõL&+~[uøüÁ˝"	‹⁄D9 ô	ÉzÖj\	ì
+cÆM;<~^uÀüÿÒ"	–æC8 ìqzÖj\	á
+Y£K$~uªüıÏ"	ÑàB7 àrzÖj\	s
+ó!~uπüﬁÙ"	‡®B7 õk mÑg]	i
+`©)}[tÃ≥˛‘"	÷ÿ?®'x
+trips(Ä idorigin_stop_idorigin_stop_namedestination_stop_iddestination_stop_namedistanceduration"
+Back Lane car park"
+Mortain Close, Yarm"
+Beech Court, Elm Tree"
+East End, Long Newton"
+West End, Long Newton"
+village hall car park"
+Dunsmore Close, Maltby"
+Lauder House, Elm Tree"
+Mount Leven Road, Yarm"
+The Robinson Institute"
+Dunedin House, Stockton"
+Sundell Court, Stockton"
+Ash Grove, Kirklevington"
+Elm Tree Shops, Elm Tree"
+Arlington Court, Stockton"
+Arrathorne Road, Hartburn"
+Askrigg Road, Grangefield"
+Marske Lane, Bishopsgarth"
+Rochester Court, Teesdale"
+St Nicholas Gardens, Yarm"
+Preston Park, Eaglescliffe"
+Uldale Drive, Egglescliffe"
+Falcon Pub car park, Hilton"
+Muirfield Road, Eaglescliffe"
+Village Hall, Thorpe Thewles"
+Elder Grove, Woodlands Estate"!
+village hall car park, Dale End"#
+!Hebburn Road, Slaters Lane Estate"#
+!Wycliffe and Ayresome Court, Yarm"%
+#Barlborough Avenue, Whitehouse Farm"%
+#Sandy Lees Lane Caravan Park, Elton"&
+$Eaglescliffe Golf Club, Eaglescliffe"&
+$Water Avens Way, Farrier Park Estate"'
+%Malcolm Drive, Elm Tree and Fairfield"'
+%Station Lane opposite the post office"'
+%Timothy Hackworth Court, Eaglescliffe"(
+&Norwich Avenue, Elm Tree and Fairfield":
+8Egglescliffe Community Centre Car Park (in Eaglescliffe)" >" F" a" p" v" Ä" Ä3" É+" Ñ3" Ö3" Ü3" á3" à3" â3" ä3" ã3" ç3" ç5" é" é" è3" ë3" í3" ì" ì3" î" î3" ï	" ï3" ó3" ò " ö" ö3" õ3" ú3" ü3" †" †3" §" §3" •3" •ÿ" ß3" ®" ®3" ©3" ™F" ´3" ¨ " Æ" Ø " ∂" ∑" ∑)" ∏'" ∏)" π" π)" º" º%" º)" Ω " Ω)" æ)" ø" ø)" ¿)" ¡)" ¬)" √)" ≈" ≈)" «)" …" …)"  "  )" Ã" Ã)" Œ" Œ)" œ)" –" –)" “)" ”'" ”)" ”≠" ‘" ‘" ’" ’/" ◊" ◊" ◊" ◊)" ÿ'" ÿ)" Ÿ)" ⁄" ⁄)" €'" ‹'" ‹)" ‡" ‰" ÁO" Í	" Î" Ï" Ì" Ó" Ó
+" Ô" Ô∞" ÙI" ı" ˜;" ¯" ˚2" ¸2" ˝2" ˛" ˛2" ˇ2d äSH7="O	üÍ	
+ 	 wÇL!T<>‹yHD»Cl!
+	 	=q=-#?34$@.> e1S?'"	ü	
+ ` àP:úï"I	úüä
+X
+ 8"v   
+  ! n;!<âE"	ä	üe"	0 tC$;!Ä8"	íkZ.,"S%%> [ù,Ñu"(	™ºÇõ+[ 
+	 + m:4^("	™J\ -	) i4¢Aq"	ÍÅ:
+ 
+,I k6C$sí"4	êür&&!T +-	 ',	 	 +(Ω h3GT†"ß	äüÚé†BL6f0.tJ@ =L "	6(.T	LH	ú †48J  2@"
+N (	
+b( /5'     ( 6  ´ b.
+2%êo"ï	ÇÍ≤	'F.t EV*D 
+
+  	%#Mx- -/Ak-QCÌ{	#	1MJ6fV:`$(j`8 $Jé 1 |K°É)"	ËxZ80]7 * ]°ù&"	˛¶:H]7o _,.
+c~"[	é“x Z
+DD2  &$X6ñ(
+3 $<
+ #
+K-U yHR ÅL"@	‚§⁄B~
+((bH¸ÇF~$jB."	"&p•2
+&ABS&? áNM#ëZ")	Ó	Íä
+%1C#3 / $1 vF0ñW"	î“R1?ñ";û"* d0Bx*"	§
+∏B"L8	0 = rBNèó"'	Ê	öÇ>$H.&	
+54 
+f ÖM#Ufî"P	Ê	ö¢>$L0,&8(b@ 
+"
+84 "4@&`:rã<h- <R
+Y g2%I`Q"E	 ™˙ *
+@^  2 
+(^B<`^4@V 
+  &) p>@öJ"	å∂:	@ zI>lÇ"+	ƒÜí.\T)$
+$
+	/v j5/-Y"b	‹
+¬Í*6jí5bEH+.>
+ D 
+ 
+?
+8V3"!&+*	&%%!:LJr1> çUü9ì"'	í‰Ç
+\64N*T-+/- aB∫ wGûôé"¢	àî‚'yAA%!	53	[/≈	+m	]	A=
+8ãc?QCÌ{)1Q
+K
+6VD3
+/#$-Q,
+
+µ D\ Ü	Oõ"û	˛†A¢-!''(m! 9ß/ Y
++ )W J%BÅ2AtÉÜì4+B-<8ﬁOÑ?~URI<?>ODoR£"-<GVQ2)4%\5r3#1!¢ˇ"CH£# tQ&~\Ov[>'"+ 		d6ò D
+
+0*
+™*,>bF
+ ~ê4f"X.N*H
+LZ&!  %2#,;"h?2F"$<+*".ÑÒ Xåãò+"Ÿ	†AÜä	É -!);,#!E1g@! +<1$& "Y%KG	M)W-e!3è}	 Ea=+)©)	/		Có5E
+	!,=(u\[P}Ä% sR $G§!D°Ä"2$q4[63&1*UR;H!.Q§Cp=P;@QJ}VÉ@›P7; )1(-.Ò˛Åî2o‹Jv%l6“`J	;W.c	7/1#+]5=!79I?	À *#	y);	A 2Q1e'-§ VÜ	{"}a"é	†AÜ⁄É -!);,#!E1g@! +<1$& "Y%KG	M)W-e!3è}	 Ea=+)©)	/		Có5E
+	!,=(u\[P}Ä% sR $G§!D°Ä"2$q4[63&1*UR;H!.Q§Cp=P;@QJ}VÉ@›P7; )1(-.Ò˛Åî2o‹Jv!^*ÇV	6'n((2

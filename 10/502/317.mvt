@@ -1,0 +1,496 @@
+úTx
+stops(€ id	route_idsroute_names
+mobile_idsmobile_nameslocal_authority_idlocal_authority_namelocal_authority_colourlocal_authority_codename	communityaddresspostcodearrival_timesdeparture_timesroute_start	route_end
+route_daystyperoute_frequenciesroute_schedule	timetable	longitudelatitude"
+22"
+23"
+76"
+77"
+291"
+292"
+298"
+300"
+301"
+305"
+307"
+943"
+948"
+952"
+957"
+960"
+961"
+Fife"
+Hall"
+Friday"
+Public"	
+#004B64"	
+#4B5363"	
+KY5 0XD"	
+KY7 4BJ"	
+Kinross"	
+Main Rd"	
+PH2 9AY"	
+PH2 9AZ"	
+PH2 9EJ"	
+PH2 9FR"	
+PH2 9JH"	
+PH2 9NT"	
+PH2 9PN"	
+PH2 9RE"	
+PH2 9XA"	
+Private"	
+Tuesday"
+
+09:30:00"
+
+09:45:00"
+
+10:00:00"
+
+10:05:00"
+
+10:10:00"
+
+10:15:00"
+
+10:20:00"
+
+10:25:00"
+
+10:40:00"
+
+10:45:00"
+
+10:50:00"
+
+10:55:00"
+
+11:00:00"
+
+11:05:00"
+
+11:15:00"
+
+11:20:00"
+
+11:25:00"
+
+11:30:00"
+
+11:35:00"
+
+11:40:00"
+
+11:45:00"
+
+11:55:00"
+
+12:00:00"
+
+12:05:00"
+
+12:10:00"
+
+12:15:00"
+
+12:25:00"
+
+13:00:00"
+
+13:15:00"
+
+13:45:00"
+
+13:50:00"
+
+14:00:00"
+
+14:05:00"
+
+14:30:00"
+
+14:35:00"
+
+14:40:00"
+
+14:45:00"
+
+14:50:00"
+
+15:00:00"
+
+15:10:00"
+
+15:20:00"
+
+15:30:00"
+
+15:45:00"
+
+15:50:00"
+
+16:00:00"
+
+16:30:00"
+
+Dunshalt"
+
+Falkland"
+
+Freuchie"
+
+Glenfarg"
+
+KY13 0LR"
+
+KY13 8EQ"
+
+KY13 8TG"
+
+KY13 9HS"
+
+KY13 9HY"
+
+KY13 9JE"
+
+KY13 9JH"
+
+KY14 6HY"
+
+KY14 7HL"
+
+KY14 7QH"
+
+KY15 7BG"
+
+KY15 7EL"
+
+KY15 7UD"
+
+Kintillo"
+
+Main St."
+
+Portmoak"
+
+Saturday"
+
+Thursday"
+	Abernethy"
+	Collessie"
+	Oudenarde"
+	S12000047"
+	S12000048"
+	Wednesday"
+
+Glenrothes"
+
+Kinglassie"
+
+Mobile One"
+
+Mobile Two"
+Castle Park"
+Forgandenny"
+Kinnesswood"
+Kintillo Rd"
+Main Street"
+Strathmiglo"
+Whyte Court"
+Brodie Court"
+Rossie Place"
+Scotlandwell"
+Skene Street"
+Bankfoot Park"
+Bankwell Cres"
+Glamis Centre"
+Kintillo Road"
+Lochty Avenue"
+opposite shop"
+Bridge of Earn"
+Causeway Court"
+Hall, Portmoak"
+Kilndales Terr"
+Muirmont Place"
+Regent Terrace"
+Community Cabin"
+Happer Crescent"
+Levenmouth Farm"
+Millfield Court"
+Sunshine Nursery"
+Week Two Tuesday"
+Caledonia Housing"
+Perth and Kinross"
+Sheltered Housing"
+Week One Thursday"
+Week Two Saturday"
+Week Two Thursday"
+Doodlebugs Nursery"
+Grange of Lindores"
+Week One Wednesday"
+Main St., Abernethy"
+Week Three Thursday"
+Albany Cres. Car park"
+Cleish Primary School"
+Kintillo Rd, Kintillo"
+Main Street, Glenfarg"
+Whyte Court,, Kinross"
+FREQ=WEEKLY;INTERVAL=2"
+FREQ=WEEKLY;INTERVAL=3"
+EarnbankRetirement Home"
+Freuchie Primary School"
+Kintillo Road, Kintillo"
+Main Rd, Bridge of Earn"
+2026-05-28T00:00:00.000Z"
+2026-06-03T00:00:00.000Z"
+2026-06-04T00:00:00.000Z"
+2026-06-09T00:00:00.000Z"
+2026-06-11T00:00:00.000Z"
+2026-06-13T00:00:00.000Z"
+2026-10-12T00:00:00.000Z"
+2026-11-26T00:00:00.000Z"
+2026-12-09T00:00:00.000Z"
+2026-12-10T00:00:00.000Z"
+2026-12-15T00:00:00.000Z"
+2026-12-19T00:00:00.000Z"
+2026-12-22T00:00:00.000Z"
+2026-12-24T00:00:00.000Z"
+East Fife Mobile Library"
+Rossie Place, Forgandenny"
+Community Cabin, Oudenarde"
+Strathmiglo Primary School"
+opposite shop, Kinnesswood"
+Bankfoot Park, Scotlandwell"
+Castle Park, Falkland, Fife"
+Main Street, Bridge of Earn"
+Main Street, Collessie, Fife" 
+Brodie Court, Glenrothes, Fife" 
+Regent Terrace, Dunshalt, Fife"!
+Glamis Centre, Glenrothes, Fife"!
+Lochty Avenue, Kinglassie, Fife"!
+Skene Street, Strathmiglo, Fife""
+ Bankwell Cres, Strathmiglo, Fife"#
+!Happer Crescent, Glenrothes, Fife"#
+!Muirmont Place, Caledonia Housing"#
+!Sheltered Housing, Causeway Court"$
+"Doodlebugs Nursery, Bridge of Earn"$
+"Millfield Court, Strathmiglo, Fife"$
+"Sunshine Nursery, Glenrothes, Fife"&
+$West and Central Fife Mobile Library"'
+%Albany Cres. Car park, Freuchie, Fife")
+'East Fife Mobile Library Friday Route 1")
+'East Fife Mobile Library Friday Route 2")
+'Freuchie Primary School, Freuchie, Fife"*
+(East Fife Mobile Library Tuesday Route 2"*
+(Kilndales Terr, Grange of Lindores, Fife",
+*East Fife Mobile Library Wednesday Route 2"/
+-Strathmiglo Primary School, Strathmiglo, Fife"5
+3West and Central Fife Mobile Library Friday Route 1"6
+4West and Central Fife Mobile Library Tuesday Route 1"6
+4https://www.culturepk.org.uk/library/mobile-library/"7
+5West and Central Fife Mobile Library Thursday Route 1"@
+>Thu Dec 10 2026 09:30:00 GMT+0000 (Coordinated Universal Time)"@
+>Thu Dec 10 2026 10:50:00 GMT+0000 (Coordinated Universal Time)"@
+>Thu Dec 10 2026 11:30:00 GMT+0000 (Coordinated Universal Time)"@
+>Thu Dec 10 2026 13:15:00 GMT+0000 (Coordinated Universal Time)"@
+>Thu Dec 10 2026 13:50:00 GMT+0000 (Coordinated Universal Time)"@
+>Tue Dec 15 2026 12:00:00 GMT+0000 (Coordinated Universal Time)"@
+>Tue Dec 15 2026 14:30:00 GMT+0000 (Coordinated Universal Time)"@
+>Tue Dec 15 2026 16:00:00 GMT+0000 (Coordinated Universal Time)"@
+>Wed Dec 09 2026 09:30:00 GMT+0000 (Coordinated Universal Time)"@
+>Wed Dec 09 2026 10:05:00 GMT+0000 (Coordinated Universal Time)"@
+>Wed Dec 09 2026 10:25:00 GMT+0000 (Coordinated Universal Time)"@
+>Wed Dec 09 2026 11:00:00 GMT+0000 (Coordinated Universal Time)"@
+>Wed Dec 09 2026 11:40:00 GMT+0000 (Coordinated Universal Time)"@
+>Wed Dec 09 2026 15:30:00 GMT+0000 (Coordinated Universal Time)"M
+Khttps://www.onfife.com/wp-content/uploads/2026/09/W-C-12.10.26-22.12.26.pdf"N
+Lhttps://www.onfife.com/wp-content/uploads/2026/09/East-12.10.26-22.12.26.pdf"
+}Mon Dec 07 2026 09:45:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 09:45:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 10:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 10:00:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 10:10:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 10:10:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 10:55:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 10:55:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 11:15:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 11:15:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 11:35:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 11:35:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 11:45:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 11:45:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 12:10:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 12:10:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 14:00:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:05:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 14:05:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:40:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 14:40:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:50:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 14:50:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 15:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 15:00:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 15:20:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 15:20:00 GMT+0000 (Coordinated Universal Time)"
+}Sat Nov 28 2026 10:00:00 GMT+0000 (Coordinated Universal Time),Sat Dec 19 2026 10:00:00 GMT+0000 (Coordinated Universal Time)"
+}Sat Nov 28 2026 11:05:00 GMT+0000 (Coordinated Universal Time),Sat Dec 19 2026 11:05:00 GMT+0000 (Coordinated Universal Time)"
+}Thu Dec 03 2026 14:00:00 GMT+0000 (Coordinated Universal Time),Thu Dec 24 2026 14:00:00 GMT+0000 (Coordinated Universal Time)"	ı\¬(
+À"	#„GL@"	?ÆÜµD	À"	•Ô	h"À"	à-,L@"	§èH.?À"	#Ûù~j|
+À"	('ÚUHL@"	.ÅUeßÕÀ"	0ğÜ{¸,L@"	1|DL‰,L@"	1Îß„B L@"	2¬âÌ#L@"	3d’‘³	À"	4…Îkì*L@"	8ó«9@,L@"	;ÂiÁ‹*L@"	=a‰”M	À"	@aÃÓ+
+À"	BÏfÕç&L@"	M-[ë‹,L@"	Oé`ıŸCÀ"	R,·´L@"	RI€&L@"	W	‡3#L@"	^.â;1«À"	k·]h®+L@"	nÀç‡L@"	q=
+×£0
+À"	rùé·/À"	u“VL@"	€e¥I)¨	À"	‡P¥f4À"	‹lçû©L@"	–x@Ù”#L@"	KqUÙ+L@"	c@öz#L@"	«	¢î$L@"	«!q¥L@"	¬âÌ#
+À"	­4)İ^	À"	­İv¡¹N	À"	±ÄÊ¦œ
+À"	¼W­LøeÀ"	ÁÅŠLC	À"	ÁÊ¡E¶L@"	ÁÿV²cL@"	Éq§t°>À"	É@¼î	À"	Ì@eüûL@"	Ön»Ğ\gÀ"	ábE¦¡
+À"	äNé`ıL@"	ä „™¶?À"	ï¬İv¡9À"	óåØG§	À"	úòì£+L@"	ÿÊJ“R
+À" 1" 7" €." ‰" ." " “." —"  " ¢" ¨." ­" ®" ³-" Ã-" Ä-" É-" Ê" Ï" Ï-" Ù" Û-" Ş" é-" ê-" ë-" ï-" ò-" ô" ô-" õ" õ-" ÷" ú-" şG< ¶r³’n	|
+u¶RSª±%¢ŞÕ€ü"	ÌĞH= Ï”r³’n	x
+…¼!&/©°i¢×Õ­‚"	øØG< É•r³’n	w
+e3<¬²h¢öÕ°"	ÌşH= Ê”r³’n	‚
+e¥DR©°i¢ÛÕı’"	şğI> Å”r³’n	£
+££#7;©°i¢ÙÕ®"	¾œF; Â–s³’n	—
+…Ç!OR«®i¢Õ§Œ"	„ÔH= Ì•r³’n	
+…¦!(2¬²h¢õÕ§Œ"	„ÔI> Ó”r³’n	‰
+‘Å"BC©°i¢ÚÕ˜›"	üºH= Á”r³’n	‹
+l·06©°i¢ØÕû‡"	Æ¶G< Ñr³’n	x
+WŸ <Aª±%¢ÜÕ•„"	®ŒI> ¸™s³’n	“
+†ÆZ9<¨¯o¢ãÕª–"	´¨4G< ¼™s³’n	z
+ YOR¨¯o¢äÕ£“"	Ä€5G< Ír³’n	f
+jšGPª±%¢İÕŸˆ"	ˆ%æ
+H= ½Ñ µ²m	¸
+yÒa4?­³o$¡ëæ”œ"	„,ôH= ÄÑ µ²m	€
+yÃaNR­³o¡ôæøš"	Ş,ÔH= ¹Ñ µ²m	
+yÈaFH­³o¡ğæøš"	Ş,ÔG< »Ñ µ²m	~
+yÂaIM­³o¡ñæŠ"	º,ĞI> ÔÏ µ²m	ˆ
+˜Ğ_*.­³%¡éæ—†"	”8ê	H= ºÏ µ²m	Š
+T¿`EG­³%¡ïæ…"	”7ÄH= ´™s³’n	„
+v¹[&(¨¯o¢ßÕ«ù"	ş!¬2G< Ç™s³’n	
+g‡\),¨¯o¢àÕ±"	Ä#ô4G< ¿™s³’n	
+}º]-0¨¯o¢áÕş™"	¦%„6I> Ë™s³’n	
+^25¨¯o¢âÕ¢¬"	¸"¨:G< ÈÌ µ²m	t
+U»bLR­³¡óæ¯ƒ"	 8”%H= µ
+ÔÊ²m	ƒ
+qÁ8=­³%¡ìå¨"	ò1‚?G< Æ	ÖÊ²m	{
+p¾:?­³i¡íå ©"	Ö>â7H= ÒÓÊ²m	Œ
+pÄ>@­³¡îå ©"	Ö>â7H= ¾Í µ²m	
+pÉ'+­³$¡çæ ©"	Ö>â7G< ·Ï µ²m	x
+k½d16­³%¡êæ¡‹"	@H= ÎÑ µ²m	¤
+VÎc(2­³o$¡èæú"	€AÜ&H= ÃÏ µ²m	œ
+VËcKQ­³%¡òæ¤¥"	AÈ&H= ĞÓÊ²m	
+pÀ8<­³¡ìå‰¦"	œ@ì;I> À›s³’n	
+XEJ§´i¢÷Õ‘ÿ"	²
+Aœ2x
+trips(€ idorigin_stop_idorigin_stop_namedestination_stop_iddestination_stop_namedistanceduration"
+Hall"	
+Main Rd"
+
+Main St."
+
+bus stop"
+	Mill Gdns"
+
+Bower Park"
+
+Flass Road"
+
+The Square"
+Castle Park"
+Charles Way"
+Kintillo Rd"
+Main Street"
+Tron Square"
+Village Inn"
+Whyte Court"
+Brock Street"
+Brodie Court"
+Drum Terrace"
+Rossie Place"
+Skene Street"
+Bankfoot Park"
+Glamis Centre"
+Kintillo Road"
+Lochty Avenue"
+opposite shop"
+Balgove Avenue"
+Belleisle Road"
+Dundonald Park"
+Kilndales Terr"
+Muirmont Place"
+Regent Terrace"
+Wallsend Court"
+Community Cabin"
+Donald Crescent"
+Happer Crescent"
+Levenmouth Farm"
+Millfield Court"
+Pitcairnie Lane"
+Springhill Brae"
+Harbour Car Park"
+Sunshine Nursery"
+Sheltered Housing"
+Doodlebugs Nursery"
+Coaltown of Burnturk"
+Kirkton of Balmerino"
+Albany Cres. Car park"
+Cleish Primary School"
+Pitreavie Kindergarten"
+EarnbankRetirement Home"
+Freuchie Primary School"
+Balcurvie Primary School"
+Bellyeoman Primary School"
+Strathmiglo Primary School"
+L undin Mill Primary School"
+St. Leonards Primary School"!
+Sheltered Housing, Viewlands Pl""
+ North Queensferry Primary School" I" " €" €." €ñ" ," ‚" ‚" ‚" ƒ" „D" „R" „ë" …" †" †" †%" ‡" ˆ." ‰" ‹" ‹" Œ%" ." " " " ‘" “" “%" “." ”" ”4" •" •." –" —" ˜=" ™" ™" š" œ	" 	" " %" " Ÿ"  "  "  ." ¡" ¢" ¢" ¢" ¢-" £" £." ¤
+" ¥" ¦" ¦" ¦E" §" ¨" ¨." ¨]" ©%" ª" ª" ª" «" ¬n" ­" ­%" ®" ¯%" ¯‹" °	" °" °%" °«" ±" ±%" ²" ³" ³-" ´" ´" ´"" µc" µ" ¶
+" ¶%" ·" ·" ¹" ¹ı" º" »" ¼%" ¼;" ½" ½-" ¾" ¿4" À" À" Â" ÂW" Ã" Ã-" Ä%" Ä-" Ä" È" È%" É-" Ê" Ê" Ë" Ì" Í" Í" Í%" Î" Ï" Ï" Ï%" Ï-" Ğ" Ñ" Ó" Ó`" Õ" Õ" Ö" Ø" Ù" Ú%" Û-" İ" İR" Ş" à" à" á`" ã" ãC" ä" ä" ä¥" æ" ç" é-" ê-" ê1" ë" ë-" ì" î" ï" ï-" ğ" ğÑ" ñ" ñ]" ò" ò-" ó" ô" ô" ô-" õ" õ" õ-" õô" ÷" ÷-" ø" ù÷" ú" ú-" ş
+" ş" ş$A ¬PjCÅ"+	’€Šuv§˜	7*76!
+ !Ü RŠ™]"Ä	À@Š6	 ¢	?"/]/#SU!	Q‹!C‘5	%	7	!)5!73)3G)	e#c#	 ?cM??-5;]	+=K 5G)
+/ ™P
+3ÉñœI4EA"KQ(99.
+O"/
+3_
+3Ay]0/9sGCi%CE?3'ïçyQ	W;	‘;3K;+_)-#+#'93/#5#—I)!#+M%i)c ¸[7­*ÏĞ"K	îŸŠ2 &(""$r8@(( &":<", ,, B<>b’V
+‘c)	7 ˆä© b:" 	øØbNÌ†<@ ‚ÚÒ
+rF")	şÖŠ
+$*
+r7
+!)I O© ¹0³¶"1	ğè¢0/…;ËE,+ •îÓl9"	˜æ
+
+M V¹0îch"7	ÌúÂ *
+: 4	1
+æ µŠS“Î"Í	şŸ",$*J	 ‚	 <",&ŠD@(2(2.$(", ,, B<>b’Z
+0zRÖøÎ˜TND&V8	Tn4 
+0( @H
+2&<,
+0:*D6  "†6.&"
+ 	0*@,8 
+>H6F0<	:&$2 ˆb$&
+
+(ddöÉ$	,	*#D/^5R%bB	"#*8ÌÒ/0(„OR/R!†‘Lh8
+
+::"6	 	/)CØ ‹çàÆ—"¾	®ŒÚ,Õm*)')=!(!R+T3"#&6=&'	& 
+D #9;	3%%-  	"%-	#5!'=3)#D&(`DHt ,D^/zB:
++0
+
++@ ÃqK%Œ_"*	Ÿ˜2ŠB^Ö2Jb.FT` 4j ¨K%y¤"S	°ú1¢ ¾,¼RŒ"H Æ& @2"Z(P,
+[ ´W)êÊÀ"C	‚Ğ3â 	 	
+#Û[M?1;$Y>1/1]‰X'; ù¶Q0M$Ç IŸ§.è£"®	îŸÒ2 &(""$R&6 R:<66<0D,,"R>J8@rR1€lNRZ$V,$$* < 0<–& .
+04	"{R+$)0	*>.˜^H	6B(60_v6F@ˆD
+@@  ”l86(&F.(jXF
+XH (bB>H4!2%.§¾1()1S/+O1M'-?*1@ 8BDXLl 6`4^"j$P0V&:\|(D"@,rDğ@¸(`6|zğ4DcW 	Ù Ez {Ö#W)zx"e	ª$ê=Ê%¡3=‘'+-'#U\)E õ6±2)Cm)A'A‰ıyï/5o,	KO+Y'% ™ „àPŞM"	Î$à
+Ê 3Ay]0C+ sGCS'1GE?Í—Õ÷yQ	Ã…/9! B'1IK1™-û)yu"CmMG  HQ
+ Wmh* ˜]$nİX"	î,¼: g /0#Ÿ B¾]$DÑ"ˆ	 Aò*òA%]=“i[]+)'%9'%A)ƒ11%'!-Ok{UW#O)#	#•å+'og‡EG+%?53	 %	+&‹ tğRoá"u	–8ê	²&'"	
+	 ::=
+*H44*8"6*"
+
+8
+&6’D"RŒ
+ "TV0$^0` SiY@"K	Æ@øêEm½YÁuyS½?­771+288¾¾@TzÂv¾Z’êR/ œ<Ä †?"	„"ª2B	 
+
++0V„p„N2: eÄ â–""	Œ$š5r8 * )  
+O ñÖ#Í"6	Ì$6ª# dAÆ 
+""•	   
+–8Vî%‘ fã14Ì|"z	ş@Ğ&Â
+ 	%%-)…?7M7#CA#/i91	Ck{UW#O)/#Mos³!)'og‡EG+%?53	 %	+/$9	I °ƒ(N5‘·"1	Ö>â7jT 		RN	 2/  u gæé"¿å"]	¦?â;Ú m%E'7/
+-#	, #   (R 		
+e më'ævT"O	 AÄ<¢'w%	
+C 	
+*    	 32 }A,ß…Z"	 Ağ4Z +' 2C$U+ ¢i¯-¡"	’Aà Æ„	 œ
+. ï²A,EH"	 AÌ2J#V1D  ®4¾½¦"v	Ä+öªF1lW8B."& 4
+6@& H,ˆFph (,–æ$
+$P*X$|Vl P
+
+8 "("2&„2 B*&(:(&*,\^”j^>B&J QË+Ç¥¼"2	 Aò*ªA%]=“i[]+)'%9'%A)w+'G7+O- ›a8Áªu"	 A¦5B/ F \Õ!ÂÔp"/	 A®7¢;c ? #   (8 #' ;»36=~"	 A¦52/  $ «6šìí"	 Ağ4	 (t ‡L×€w"]	Œ3ö>ê KÊ'	"\U2"dº3xPH@„4*"$ \D	 ™R/ /+2C$U1 JÂ±2^Û"	¼?º7R
+		
+RN#  d/s&Ü”"	 Ağ4	 (9 `ØL>Ù"#	â/ Ar- 1D/†c
+. 	\" GÁÈ	‰É"
+	”Aò4"% ké"º’U"	Ö?ú6"RN

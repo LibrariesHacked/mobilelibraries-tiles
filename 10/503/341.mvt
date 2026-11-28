@@ -1,0 +1,363 @@
+ïpx
+stops(Ä id	route_idsroute_names
+mobile_idsmobile_nameslocal_authority_idlocal_authority_namelocal_authority_colourlocal_authority_codename	communityaddresspostcodearrival_timesdeparture_timesroute_start	route_end
+route_daystyperoute_frequenciesroute_schedule	timetable	longitudelatitude"
+67"
+84"
+830"
+832"
+835"
+1016"
+1017"
+1022"
+Burtle"
+Church"
+Friday"
+Hutton"
+Public"
+Uphill"	
+#464749"	
+#C92E6F"	
+Banwell"	
+Bleadon"	
+Locking"	
+Pawlett"	
+Shurton"	
+TA5 1QE"	
+TA5 1QR"	
+TA5 1RN"	
+TA5 2PZ"	
+TA6 4SF"	
+TA7 8NB"	
+TA9 4DT"	
+TA9 4JQ"	
+Tuesday"	
+Wedmore"	
+Westham"
+
+09:00:00"
+
+09:15:00"
+
+09:30:00"
+
+09:35:00"
+
+09:45:00"
+
+09:55:00"
+
+10:15:00"
+
+10:25:00"
+
+10:30:00"
+
+10:45:00"
+
+11:00:00"
+
+11:10:00"
+
+11:15:00"
+
+11:25:00"
+
+11:30:00"
+
+11:40:00"
+
+11:55:00"
+
+12:00:00"
+
+12:05:00"
+
+12:20:00"
+
+12:30:00"
+
+12:40:00"
+
+12:50:00"
+
+13:10:00"
+
+13:15:00"
+
+13:35:00"
+
+13:40:00"
+
+13:45:00"
+
+13:55:00"
+
+14:05:00"
+
+14:10:00"
+
+14:15:00"
+
+14:25:00"
+
+14:45:00"
+
+14:50:00"
+
+15:00:00"
+
+16:00:00"
+
+16:15:00"
+
+BS21 6XG"
+
+BS22 7RR"
+
+BS22 9XB"
+
+BS23 4TL"
+
+BS24 0DS"
+
+BS24 0PG"
+
+BS24 6AN"
+
+BS24 8BB"
+
+BS24 9RG"
+
+BS26 2PB"
+
+BS26 2QP"
+
+BS26 2SA"
+
+BS28 4AN"
+
+BS28 4UR"
+
+Car park"
+
+Kewstoke"
+
+Lympsham"
+
+Somerset"
+
+Thursday"
+	Badgworth"
+	Biddisham"
+	Burtle Rd"
+	E06000024"
+	E06000066"
+	Holm Road"
+	Stogursey"
+
+East Brent"
+
+Grange Way"
+
+Old School"
+Brent Knoll"
+Sports Club"
+Front Street"
+Meadow Drive"
+Village Hall"
+Westham Farm"
+Greyhound Inn"
+North Somerset"
+Chapel Allerton"
+Old Post Office"
+Week 2 - Friday"
+Central Car Park"
+Kingston Seymour"
+Route H - Friday"
+Week 2 - Tuesday"
+Wick St Lawrence"
+Yew Tree Nursery"
+Route M - Tuesday"
+Stockland Bristol"
+Week 1 - Thursday"
+Route G - Thursday"
+Town Close (No 30)"
+Village Shop Layby"
+Uphill Way car park"
+Kewstoke Village Hall"
+FREQ=WEEKLY;INTERVAL=2"
+FREQ=WEEKLY;INTERVAL=4"
+The Babbling Brook Inn"
+Somerset Mobile Library"
+2026-04-01T00:00:00.000Z"
+2026-08-01T00:00:00.000Z"
+2027-03-31T00:00:00.000Z"
+East Drive (off Strowlands)"
+Bleadon Rd/Bridge Rd junction"
+North Somerset Mobile Library"#
+!Car park, Banwell, North Somerset"#
+!Holm Road, Hutton, North Somerset"&
+$Burtle Rd, Burtle, Somerset, TA7 8NB"'
+%Meadow Drive, Locking, North Somerset"(
+&Grange Way, Pawlett, Somerset, TA6 4SF"*
+(Church, Wick St Lawrence, North Somerset"+
+)Old School, Badgworth, Somerset, BS26 2QP"+
+)Westham Farm, Westham, Somerset, BS28 4UR"-
++Greyhound Inn, Stogursey, Somerset, TA5 1QR"-
++Uphill Way car park, Uphill, North Somerset"/
+-Central Car Park, Wedmore, Somerset, BS28 4AN"0
+.Village Hall, Kingston Seymour, North Somerset"1
+/Kewstoke Village Hall, Kewstoke, North Somerset"1
+/Old Post Office, Brent Knoll, Somerset, TA9 4DT"1
+/Yew Tree Nursery, Biddisham, Somerset, BS26 2SA"2
+0Town Close (No 30), Stogursey, Somerset, TA5 1RN"2
+0Village Shop Layby, Lympsham, Somerset, BS24 0DS"3
+1Front Street, Chapel Allerton, Somerset, BS26 2PB"3
+1Sports Club, Stockland Bristol, Somerset, TA5 2PZ"4
+2The Babbling Brook Inn, Shurton, Somerset, TA5 1QE"7
+5https://www.somerset.gov.uk/libraries/mobile-library/"8
+6Bleadon Rd/Bridge Rd junction, Bleadon, North Somerset"<
+:East Drive (off Strowlands), East Brent, Somerset, TA9 4JQ"v
+thttps://n-somerset.gov.uk/sites/default/files/2026-07/Mobile%20library%20timetable%20Aug%202026%20-%20Mar%202027.pdf"π
+∂Sat Dec 05 2026 09:35:00 GMT+0000 (Coordinated Universal Time),Sat Dec 19 2026 09:35:00 GMT+0000 (Coordinated Universal Time),Sat Jan 02 2027 09:35:00 GMT+0000 (Coordinated Universal Time),Sat Jan 16 2027 09:35:00 GMT+0000 (Coordinated Universal Time),Sat Jan 30 2027 09:35:00 GMT+0000 (Coordinated Universal Time),Sat Feb 13 2027 09:35:00 GMT+0000 (Coordinated Universal Time),Sat Feb 27 2027 09:35:00 GMT+0000 (Coordinated Universal Time),Sat Mar 13 2027 09:35:00 GMT+0000 (Coordinated Universal Time),Sat Mar 27 2027 09:35:00 GMT+0000 (Coordinated Universal Time)"π
+∂Sat Dec 05 2026 10:25:00 GMT+0000 (Coordinated Universal Time),Sat Dec 19 2026 10:25:00 GMT+0000 (Coordinated Universal Time),Sat Jan 02 2027 10:25:00 GMT+0000 (Coordinated Universal Time),Sat Jan 16 2027 10:25:00 GMT+0000 (Coordinated Universal Time),Sat Jan 30 2027 10:25:00 GMT+0000 (Coordinated Universal Time),Sat Feb 13 2027 10:25:00 GMT+0000 (Coordinated Universal Time),Sat Feb 27 2027 10:25:00 GMT+0000 (Coordinated Universal Time),Sat Mar 13 2027 10:25:00 GMT+0000 (Coordinated Universal Time),Sat Mar 27 2027 10:25:00 GMT+0000 (Coordinated Universal Time)"π
+∂Sat Dec 05 2026 11:15:00 GMT+0000 (Coordinated Universal Time),Sat Dec 19 2026 11:15:00 GMT+0000 (Coordinated Universal Time),Sat Jan 02 2027 11:15:00 GMT+0000 (Coordinated Universal Time),Sat Jan 16 2027 11:15:00 GMT+0000 (Coordinated Universal Time),Sat Jan 30 2027 11:15:00 GMT+0000 (Coordinated Universal Time),Sat Feb 13 2027 11:15:00 GMT+0000 (Coordinated Universal Time),Sat Feb 27 2027 11:15:00 GMT+0000 (Coordinated Universal Time),Sat Mar 13 2027 11:15:00 GMT+0000 (Coordinated Universal Time),Sat Mar 27 2027 11:15:00 GMT+0000 (Coordinated Universal Time)"π
+∂Sat Dec 05 2026 11:40:00 GMT+0000 (Coordinated Universal Time),Sat Dec 19 2026 11:40:00 GMT+0000 (Coordinated Universal Time),Sat Jan 02 2027 11:40:00 GMT+0000 (Coordinated Universal Time),Sat Jan 16 2027 11:40:00 GMT+0000 (Coordinated Universal Time),Sat Jan 30 2027 11:40:00 GMT+0000 (Coordinated Universal Time),Sat Feb 13 2027 11:40:00 GMT+0000 (Coordinated Universal Time),Sat Feb 27 2027 11:40:00 GMT+0000 (Coordinated Universal Time),Sat Mar 13 2027 11:40:00 GMT+0000 (Coordinated Universal Time),Sat Mar 27 2027 11:40:00 GMT+0000 (Coordinated Universal Time)"π
+∂Sat Dec 05 2026 13:15:00 GMT+0000 (Coordinated Universal Time),Sat Dec 19 2026 13:15:00 GMT+0000 (Coordinated Universal Time),Sat Jan 02 2027 13:15:00 GMT+0000 (Coordinated Universal Time),Sat Jan 16 2027 13:15:00 GMT+0000 (Coordinated Universal Time),Sat Jan 30 2027 13:15:00 GMT+0000 (Coordinated Universal Time),Sat Feb 13 2027 13:15:00 GMT+0000 (Coordinated Universal Time),Sat Feb 27 2027 13:15:00 GMT+0000 (Coordinated Universal Time),Sat Mar 13 2027 13:15:00 GMT+0000 (Coordinated Universal Time),Sat Mar 27 2027 13:15:00 GMT+0000 (Coordinated Universal Time)"π
+∂Sat Dec 05 2026 14:05:00 GMT+0000 (Coordinated Universal Time),Sat Dec 19 2026 14:05:00 GMT+0000 (Coordinated Universal Time),Sat Jan 02 2027 14:05:00 GMT+0000 (Coordinated Universal Time),Sat Jan 16 2027 14:05:00 GMT+0000 (Coordinated Universal Time),Sat Jan 30 2027 14:05:00 GMT+0000 (Coordinated Universal Time),Sat Feb 13 2027 14:05:00 GMT+0000 (Coordinated Universal Time),Sat Feb 27 2027 14:05:00 GMT+0000 (Coordinated Universal Time),Sat Mar 13 2027 14:05:00 GMT+0000 (Coordinated Universal Time),Sat Mar 27 2027 14:05:00 GMT+0000 (Coordinated Universal Time)"π
+∂Sat Dec 05 2026 14:45:00 GMT+0000 (Coordinated Universal Time),Sat Dec 19 2026 14:45:00 GMT+0000 (Coordinated Universal Time),Sat Jan 02 2027 14:45:00 GMT+0000 (Coordinated Universal Time),Sat Jan 16 2027 14:45:00 GMT+0000 (Coordinated Universal Time),Sat Jan 30 2027 14:45:00 GMT+0000 (Coordinated Universal Time),Sat Feb 13 2027 14:45:00 GMT+0000 (Coordinated Universal Time),Sat Feb 27 2027 14:45:00 GMT+0000 (Coordinated Universal Time),Sat Mar 13 2027 14:45:00 GMT+0000 (Coordinated Universal Time),Sat Mar 27 2027 14:45:00 GMT+0000 (Coordinated Universal Time)"π
+∂Sat Dec 05 2026 15:00:00 GMT+0000 (Coordinated Universal Time),Sat Dec 19 2026 15:00:00 GMT+0000 (Coordinated Universal Time),Sat Jan 02 2027 15:00:00 GMT+0000 (Coordinated Universal Time),Sat Jan 16 2027 15:00:00 GMT+0000 (Coordinated Universal Time),Sat Jan 30 2027 15:00:00 GMT+0000 (Coordinated Universal Time),Sat Feb 13 2027 15:00:00 GMT+0000 (Coordinated Universal Time),Sat Feb 27 2027 15:00:00 GMT+0000 (Coordinated Universal Time),Sat Mar 13 2027 15:00:00 GMT+0000 (Coordinated Universal Time),Sat Mar 27 2027 15:00:00 GMT+0000 (Coordinated Universal Time)"Ω
+∫Wed Dec 09 2026 09:00:00 GMT+0000 (Coordinated Universal Time),Wed Jan 06 2027 09:00:00 GMT+0000 (Coordinated Universal Time),Wed Feb 03 2027 09:00:00 GMT+0000 (Coordinated Universal Time),Wed Mar 03 2027 09:00:00 GMT+0000 (Coordinated Universal Time),Wed Mar 31 2027 09:00:00 GMT+0000 (Coordinated Universal Time)"Ω
+∫Wed Dec 09 2026 09:15:00 GMT+0000 (Coordinated Universal Time),Wed Jan 06 2027 09:15:00 GMT+0000 (Coordinated Universal Time),Wed Feb 03 2027 09:15:00 GMT+0000 (Coordinated Universal Time),Wed Mar 03 2027 09:15:00 GMT+0000 (Coordinated Universal Time),Wed Mar 31 2027 09:15:00 GMT+0000 (Coordinated Universal Time)"Ω
+∫Wed Dec 09 2026 09:55:00 GMT+0000 (Coordinated Universal Time),Wed Jan 06 2027 09:55:00 GMT+0000 (Coordinated Universal Time),Wed Feb 03 2027 09:55:00 GMT+0000 (Coordinated Universal Time),Wed Mar 03 2027 09:55:00 GMT+0000 (Coordinated Universal Time),Wed Mar 31 2027 09:55:00 GMT+0000 (Coordinated Universal Time)"Ω
+∫Wed Dec 09 2026 10:30:00 GMT+0000 (Coordinated Universal Time),Wed Jan 06 2027 10:30:00 GMT+0000 (Coordinated Universal Time),Wed Feb 03 2027 10:30:00 GMT+0000 (Coordinated Universal Time),Wed Mar 03 2027 10:30:00 GMT+0000 (Coordinated Universal Time),Wed Mar 31 2027 10:30:00 GMT+0000 (Coordinated Universal Time)"Ω
+∫Wed Dec 09 2026 11:10:00 GMT+0000 (Coordinated Universal Time),Wed Jan 06 2027 11:10:00 GMT+0000 (Coordinated Universal Time),Wed Feb 03 2027 11:10:00 GMT+0000 (Coordinated Universal Time),Wed Mar 03 2027 11:10:00 GMT+0000 (Coordinated Universal Time),Wed Mar 31 2027 11:10:00 GMT+0000 (Coordinated Universal Time)"Ω
+∫Wed Dec 09 2026 11:30:00 GMT+0000 (Coordinated Universal Time),Wed Jan 06 2027 11:30:00 GMT+0000 (Coordinated Universal Time),Wed Feb 03 2027 11:30:00 GMT+0000 (Coordinated Universal Time),Wed Mar 03 2027 11:30:00 GMT+0000 (Coordinated Universal Time),Wed Mar 31 2027 11:30:00 GMT+0000 (Coordinated Universal Time)"Ω
+∫Wed Dec 09 2026 12:05:00 GMT+0000 (Coordinated Universal Time),Wed Jan 06 2027 12:05:00 GMT+0000 (Coordinated Universal Time),Wed Feb 03 2027 12:05:00 GMT+0000 (Coordinated Universal Time),Wed Mar 03 2027 12:05:00 GMT+0000 (Coordinated Universal Time),Wed Mar 31 2027 12:05:00 GMT+0000 (Coordinated Universal Time)"Ω
+∫Wed Dec 09 2026 12:20:00 GMT+0000 (Coordinated Universal Time),Wed Jan 06 2027 12:20:00 GMT+0000 (Coordinated Universal Time),Wed Feb 03 2027 12:20:00 GMT+0000 (Coordinated Universal Time),Wed Mar 03 2027 12:20:00 GMT+0000 (Coordinated Universal Time),Wed Mar 31 2027 12:20:00 GMT+0000 (Coordinated Universal Time)"Ω
+∫Wed Dec 09 2026 12:50:00 GMT+0000 (Coordinated Universal Time),Wed Jan 06 2027 12:50:00 GMT+0000 (Coordinated Universal Time),Wed Feb 03 2027 12:50:00 GMT+0000 (Coordinated Universal Time),Wed Mar 03 2027 12:50:00 GMT+0000 (Coordinated Universal Time),Wed Mar 31 2027 12:50:00 GMT+0000 (Coordinated Universal Time)"Ω
+∫Wed Dec 09 2026 13:10:00 GMT+0000 (Coordinated Universal Time),Wed Jan 06 2027 13:10:00 GMT+0000 (Coordinated Universal Time),Wed Feb 03 2027 13:10:00 GMT+0000 (Coordinated Universal Time),Wed Mar 03 2027 13:10:00 GMT+0000 (Coordinated Universal Time),Wed Mar 31 2027 13:10:00 GMT+0000 (Coordinated Universal Time)"Ω
+∫Wed Dec 09 2026 13:15:00 GMT+0000 (Coordinated Universal Time),Wed Jan 06 2027 13:15:00 GMT+0000 (Coordinated Universal Time),Wed Feb 03 2027 13:15:00 GMT+0000 (Coordinated Universal Time),Wed Mar 03 2027 13:15:00 GMT+0000 (Coordinated Universal Time),Wed Mar 31 2027 13:15:00 GMT+0000 (Coordinated Universal Time)"Ω
+∫Wed Dec 09 2026 13:45:00 GMT+0000 (Coordinated Universal Time),Wed Jan 06 2027 13:45:00 GMT+0000 (Coordinated Universal Time),Wed Feb 03 2027 13:45:00 GMT+0000 (Coordinated Universal Time),Wed Mar 03 2027 13:45:00 GMT+0000 (Coordinated Universal Time),Wed Mar 31 2027 13:45:00 GMT+0000 (Coordinated Universal Time)"Ω
+∫Wed Dec 09 2026 13:55:00 GMT+0000 (Coordinated Universal Time),Wed Jan 06 2027 13:55:00 GMT+0000 (Coordinated Universal Time),Wed Feb 03 2027 13:55:00 GMT+0000 (Coordinated Universal Time),Wed Mar 03 2027 13:55:00 GMT+0000 (Coordinated Universal Time),Wed Mar 31 2027 13:55:00 GMT+0000 (Coordinated Universal Time)"	
+Ùâ<I˙¿"	õèkßI@"	¨ˇsòüI@"	"›AÏL¿"	(,ÒÄ≤°I@"	1±˘∏6§I@"	2=aâî¿"	4øöØI@"	>¿xÕ¿"	Aö±h:óI@"	Eª
+)?±I@"	`´ã√©I@"	cz¬Ë¿"	dX≈ô¿"	dX≈ôõI@"	fΩ â¢I@"	j˚WVö‘¿"	oûÍêõ·¿"	q $ò¿¿"	sÄ`éóI@"	sÖwπàØ¿"	{⁄·Ø…™I@"	|õ˛ÏGJ¿"	Ñd∏u¿"	ò//¿>ÆI@"	ùùéíüI@"	¶
+F%uÇ¿"	®åüq!	¿"	©áhtÒ¿"	∑ÕuùI@"	∫N#-ï∑¿"	ª’s“˚ñI@"	¿!T©ŸóI@"	«c*„ü¿"	 ¶\·]¢I@"	Õí 5µ,	¿"	–DÿÙ≤I@"	÷ˇ9ÃóóI@"	ŸBêÉ&	¿"	È&1¨¿"	Í	K<†òI@"	Ï˙ªaõ¿"	ÙlV}Æv¿"	˛ö¨Q©I@" "  " ì1" î1" ú'" ù'" ü'" †1" ¶'" ß'" ®'" ®1" ™1" ±'" ≥'" ∂1" º1" ¡1" ‡0" „0" Ú0" ı0" ˘0" ˚0D9 Íw‡W]	~
+ô24ÄÇX}¨öŸ€"	ﬁú<D9 Îw‡W]	x
+_ï;>ÄÇX}±ö÷º"	í∞?D9 ˆw‡W]	i
+_é7:ÄÇX}ØöŒ∆"	í–?D9 Êw‡W]	d
+uò.0ÄÇX}´ö—”"	∆¸=D9 ıt‡W]	a
+ä "ÄÇ}¶ö¿“"	ò¯?E: Ëm Öﬂj\	{
+UíH')ÅÇ
+|üù«∫"	Ç%¶	E: Âm Öﬂj\		
+rãG#%ÅÇ
+|ûù∂Ω"	‰-úE: Ïm Öﬂj\	z
+èICDÅÇ
+|•ù√ﬁ"	‹!ÓF; „m Öﬂj\	Ñ
+õK=BÅÇ
+|£ùπ¥"	º'ÃE: Ám Öﬂj\	^
+áN8;ÅÇ
+|¢ù æ"	î*¢E: Èm Öﬂj\	f
+âM,1ÅÇ
+|†ù…»"	Ç.¯D: Ìq Öﬂj\	g
+oëF/5ÅÇ|°ùø◊"	‡6*E: ‰v Öﬂj\	T
+ÜLAEÅÇX|§ù≥À"	ê5àD9 Óp‡W]	y
+VñJ%&ÄÇ
+}®ö‘∏"	¥&Ú!D9 ·p‡W]	l
+cì!$ÄÇ
+}ßö‹µ"	Ë&≤,E: Ûp‡W]	É
+`ú(*ÄÇ
+}©ö›∑"	ä*Œ'D9 p‡W]	s
+ZîQ+-ÄÇ
+}™ö⁄¬"	ä2⁄%D9 ‚p‡W]	b
+YåP35ÄÇ
+}≠öœ’"	˙5å&D9 Ùp‡W]	e
+kóO67ÄÇ
+}ÆöªÃ"	î9∏,D9 Òt‡W]	[
+à;?ÄÇ}±öƒÿ"	™7»>D9 Ôt‡W]	h
+çS89ÄÇ}∞ö≈¡"	¢:º5D9 Úp‡W]	n
+êR<@ÄÇ
+}≤öÕ–"	‰?Ü2ˇx
+trips(Ä idorigin_stop_idorigin_stop_namedestination_stop_iddestination_stop_namedistanceduration"
+Church"	
+Harbour"
+
+Car park"
+
+Hill Top"
+	Burtle Rd"
+	Holm Road"
+
+Grange Way"
+
+Old School"
+Sports Club"
+Brook Street"
+Cricket Club"
+Front Street"
+Meadow Drive"
+Village Hall"
+Westham Farm"
+Greyhound Inn"
+Old Post Office"
+Central Car Park"
+Community Centre"
+Yew Tree Nursery"
+Town Close (No 30)"
+Village Shop Layby"
+Uphill Way car park"
+Combwich Post Office"
+Puriton Village Hall"
+Kewstoke Village Hall"
+The Babbling Brook Inn"
+East Drive (off Strowlands)"
+Bleadon Rd/Bridge Rd junction" L" Ç " Ç1" É" Ö" á" á " ás" à" à " à(" â " â(" è" ê" ë6" í(" ì " ì1" î1" ò" ò" ô!" ô(" ô1" ö" õ(" ú'" ù'" ü'" †1" ¢" ¢'" §(" ¶'" ¶(" ß'" ®" ®'" ®1" ®û" ©" ©" ™1" ´" ´(" Æ#" Ø(" Ø6" ±'" ≤" ≥'" ≥1" ∂1" ∑" º1" Ω" Ω" ¡!" ¡1" ¬" Œ," ‘R" ÿ " €ã" ‹)" ›'" ﬁ0" ﬂ" ‡0" ·" „0" ‰" Â" Á" Á'" È" È'" Í&" ÍO" Î0" Ï" Ì" Ì0" Ó'" /" 8" Ò'" Ú0" Ù" ı'" ı0" ˜'" ˘" ˘0" ˚0" ¸0" ˝" ˇU 4D|*6"A	Ú∂<Í/+'
+" (
+ H
+,.0& 5	 '	( y|Hc"	åæ?:%7	!OLÅ -;DZe"m	ñú?í 60;)! A
+/5 A’ª+#)#+'Q+5 +
+  	'
+[ hm;GF"G	‹†AÇ	=?W%m;/ 5 5-!	 2..ç : A^ "y	–-® 	
+9	. &&C.>1 1A)G
++	[-755$+(7 	%$4 ~8NBS" 	¯#Äj!;%%%-Ö #?8rU"q	Í(Äö°"O=[
+≥U >&<" "&":B ,D4ÜB&"I	  
+J%!ÖAC3+9A%!!™ &AC,i"ï	∆%Ñ	∫ 2T!  	 "^""*6 ,$0&23FF-&
+(
+r&0
+
+ (
+
+**H  48
+
+b.
+  		
+
+O (C?+!";	é.¶“3
+8QC	;-#B7M y =9EI"e	†Aò˙!F 	QGS-{/)#5/!	KU) OU G #-iL!&	x+.wJ3$RF*n LXQ[f"Z	Ï3‰$∫∆cˆ5ºQ 0)îÔ.?0I*s-%!!3 1Q!# 33/8G	@#
+.'&")T)o @Ru3n"[	î&‡! !:%&	   *< *$8$ b \	Ç6$<	åÑ '/RM1"p	Ê&∞,öbz
+ ZSbè*/
+1O!á3#-5
+Å [
+O+#	!E)%
+9&"C quX\<"/	Ä*ò)í:A`E,JÜr=í+Ñ+ê'R0/L'ô >Q0l""Ñ	†A∆‚S*!*%-(	?$
+7H04 4$"R2 4""%V+rSÄì/*ØNÔ4HR4
+ 	 
+	0&<Ty )0xWV"e	–6ê)˙&,
+"F", &$6
+$'4(3$#	
+!,A
+	
+&6( 82N JTbsO":	–7∂5™h	V£1aVGZ∑ÆP&.ñ40Êÿ¿@	
+ø?k¥,	x(M txdK%"9	–<†, 8< *>N^@`"$8$FJ$ 0	<
+* 7HkY"	∞Ê?BID!+!
+O _`	}ov"
+	ÿ†A* w{52g"	ñÚ?B8D@d .P=]a"P	‰6.™0
+|
+6R-*2'	X..0
+
+4<6J&P40,<0" 		V"ò jp
+T$z"É	∏?†AZ$.			
+!	 ”+	 ±
+‚
+%,Eo1) 13"$,$ *J	.K#O	$	;/

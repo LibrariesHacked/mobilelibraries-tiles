@@ -1,0 +1,406 @@
+ûYx
+stops(Ä id	route_idsroute_names
+mobile_idsmobile_nameslocal_authority_idlocal_authority_namelocal_authority_colourlocal_authority_codename	communityaddresspostcodearrival_timesdeparture_timesroute_start	route_end
+route_daystyperoute_frequenciesroute_schedule	timetable	longitudelatitude"
+48"
+49"
+558"
+559"
+560"
+561"
+562"
+563"
+564"
+566"
+569"
+570"
+571"
+572"
+573"
+578"
+Shops"
+Friday"
+Monday"
+Public"	
+#92278F"	
+BT1 3JD"	
+BT4 1SU"	
+BT4 2DU"	
+BT4 2NZ"	
+BT4 2PZ"	
+BT5 4AS"	
+BT5 5HN"	
+BT5 6DF"	
+BT5 7DT"	
+BT5 7JE"	
+BT5 7JG"	
+BT5 7RS"	
+BT6 8FD"	
+Braniel"	
+Markets"	
+Tuesday"
+
+10:45:00"
+
+11:30:00"
+
+11:35:00"
+
+12:05:00"
+
+12:10:00"
+
+12:15:00"
+
+12:45:00"
+
+13:00:00"
+
+13:15:00"
+
+13:20:00"
+
+13:30:00"
+
+13:45:00"
+
+14:00:00"
+
+14:15:00"
+
+14:30:00"
+
+14:35:00"
+
+14:40:00"
+
+14:45:00"
+
+15:00:00"
+
+15:05:00"
+
+15:15:00"
+
+15:25:00"
+
+15:30:00"
+
+15:45:00"
+
+15:50:00"
+
+16:00:00"
+
+16:10:00"
+
+16:15:00"
+
+16:20:00"
+
+16:30:00"
+
+16:40:00"
+
+17:00:00"
+
+17:10:00"
+
+BT12 5DL"
+
+BT12 6EJ"
+
+BT12 7NB"
+
+BT12 7RR"
+
+BT13 3LE"
+
+BT13 3QR"
+
+BT13 3UR"
+
+BT14 6LN"
+
+BT14 6NY"
+
+BT14 7PA"
+
+BT14 7QP"
+
+BT14 8BW"
+
+BT14 8BX"
+
+BT15 4BJ"
+
+BT15 4EN"
+
+BT15 4FN"
+
+BT15 4JP"
+
+BT16 1HX"
+
+BT18 9QD"
+
+BT36 7EJ"
+
+BT36 7ES"
+
+BT36 7GD"
+
+BT36 7JY"
+
+Thursday"
+	N92000002"
+	Wednesday"
+
+Shore Road"
+LibrariesNI"
+Orby Parade"
+Corkey House"
+Newtownabbey"
+Oldpark Road"
+Roden Street"
+Short Strand"
+Arthur Avenue"
+Inverary Fold"
+Ligoniel Road"
+Mulderg Drive"
+Bawnmore Drive"
+Belfast Mobile"
+Castle Gardens"
+Gilnahirk Rise"
+Shore Crescent"
+St James Drive"
+Sycamore Grove"
+Whitewell Road"
+Wyndham Avenue"
+Glen Road shops"
+Henderson Court"
+Sydenham Avenue"
+Tate‚Äôs Avenue"
+Wolfhill Centre"
+Ardcarn Green‚Äã"
+Ballysillan Road"
+Castlereagh Road"
+My Lady‚Äôs Road"
+Sliabh Dubh View"
+Cairnmartin Court"
+Cliftonville Road"
+Garnerville Drive"
+Greenisland Close"
+Joanmount Gardens"
+Ballygomartin Road"
+Knocknagoney Drive"
+Springfield Parade"
+West Circular Road"
+55 Cameronian Drive"
+Forthriver Crescent"
+St. Elizabeth Court"
+Carrickfergus Mobile"
+Cliftondene Crescent"
+Donegall Park Avenue"
+Abbey Court‚Äã‚Äã Fold"
+FREQ=WEEKLY;INTERVAL=2"
+2026-01-05T00:00:00.000Z"
+2026-12-31T00:00:00.000Z""
+ Belfast Mobile - Week 1 - Monday""
+ Belfast Mobile - Week 2 - Monday""
+ Belfast Mobile - Week 3 - Friday""
+ Belfast Mobile - Week 4 - Monday"#
+!Belfast Mobile - Week 1 - Tuesday"#
+!Belfast Mobile - Week 2 - Tuesday"#
+!Belfast Mobile - Week 3 - Tuesday"#
+!Belfast Mobile - Week 4 - Tuesday"$
+"Belfast Mobile - Week 4 - Thursday"%
+#Belfast Mobile - Week 1 - Wednesday"%
+#Belfast Mobile - Week 2 - Wednesday"%
+#Belfast Mobile - Week 4 - Wednesday"(
+&Carrickfergus Mobile - Week 1 - Friday"(
+&Carrickfergus Mobile - Week 2 - Friday",
+*Glen Road shops, Braniel, Northern Ireland",
+*Mount Vernon Park opposite Lowwood Gardens"-
++Markets, Markets, Northern Ireland, BT1 3JD"0
+.Cameronian Drive at Orangefield Primary School"1
+/Greenisland Close, Shore Road, Northern Ireland"1
+/Orby Parade, Castlereagh Road, Northern Ireland"2
+0Gilnahirk Rise, Gilnahirk Rise, Northern Ireland"2
+0Wolfhill Centre, Ligoniel Road, Northern Ireland"3
+1Sycamore Grove, Sydenham Avenue, Northern Ireland"5
+3Corkey House, Forthriver Crescent, Northern Ireland"5
+3Wyndham Avenue, Cliftonville Road, Northern Ireland"6
+4Cliftondene Crescent, Oldpark Road, Northern Ireland"6
+4Knocknagoney Drive, Shops, Northern Ireland, BT4 2PZ"7
+5Short Strand, Short Strand, Northern Ireland, BT5 4AS"8
+6Castle Gardens, Donegall Park Avenue, Northern Ireland"8
+6Roden Street, Roden Street, Northern Ireland, BT12 5DL"9
+7Arthur Avenue, Newtownabbey, Northern Ireland, BT36 7EJ"9
+7Cairnmartin Court, Ballygomartin Road, Northern Ireland"9
+7Inverary Fold, Inverary Fold, Northern Ireland, BT4 1SU":
+8Bawnmore Drive, Newtownabbey, Northern Ireland, BT36 7GD":
+8Ligoniel Road, Ligoniel Road, Northern Ireland, BT14 8BX":
+8Mulderg Drive, Mulderg Drive, Northern Ireland, BT36 7JY":
+8Springfield Parade, West Circular Road, Northern Ireland"<
+:Shore Crescent, Shore Crescent, Northern Ireland, BT15 4JP"<
+:St James Drive, St James Drive, Northern Ireland, BT12 6EJ"<
+:Whitewell Road, Whitewell Road, Northern Ireland, BT36 7ES">
+<Henderson Court, Henderson Court, Northern Ireland, BT15 5FW">
+<Tate‚Äôs Avenue, Tate‚Äôs Avenue, Northern Ireland, BT12 7NB"?
+=Ardcarn Green‚Äã, Ardcarn Green‚Äã, Northern Ireland, BT5 7RS"?
+=My Lady‚Äôs Road, My Lady‚Äôs Road, Northern Ireland, BT6 8FD"@
+>Ballysillan Road, Ballysillan Road, Northern Ireland, BT14 7QP"@
+>Sliabh Dubh View, Sliabh Dubh View, Northern Ireland, BT12 7RR"A
+?Garnerville Drive, Garnerville Drive, Northern Ireland, BT4 2NZ"B
+@Joanmount Gardens, Joanmount Gardens, Northern Ireland, BT14 6NX"F
+DSt. Elizabeth Court, St. Elizabeth Court, Northern Ireland, BT16 1HX"K
+IAbbey Court‚Äã‚Äã Fold, Abbey Court‚Äã‚Äã Fold, Northern Ireland, BT5 7JE"K
+Ihttps://www.librariesni.org.uk/libraries/mobile-libraries/belfast-mobile/"Q
+Ohttps://www.librariesni.org.uk/libraries/mobile-libraries/carrickfergus-mobile/"`
+^Cameronian Drive at Orangefield Primary School, 55 Cameronian Drive, Northern Ireland, BT6 6DF"j
+hMount Vernon Park opposite Lowwood Gardens, Mount Vernon Park opposite Lowwood Gardens, Northern Ireland"
+}Mon Dec 07 2026 10:45:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 10:45:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 11:35:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 11:35:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 12:10:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 12:10:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 12:15:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 12:15:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 13:15:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 13:15:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 13:20:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 13:20:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 13:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 13:30:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 14:00:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:15:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 14:15:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 14:30:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:35:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 14:35:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:40:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 14:40:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 14:45:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 14:45:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 15:05:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 15:05:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 15:15:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 15:15:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 15:50:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 15:50:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 16:00:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 16:00:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 16:10:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 16:10:00 GMT+0000 (Coordinated Universal Time)"
+}Mon Dec 07 2026 16:30:00 GMT+0000 (Coordinated Universal Time),Mon Dec 21 2026 16:30:00 GMT+0000 (Coordinated Universal Time)"	œ†°KK@"		äcn¿"	BïöMK@"	ì©ÇQi¿"	g~5Ë¿"	ÛÂÿOK@"	S"â^¶¿"	‰†Ñô∂¿"	„¸M(LK@"	%Èö…7OK@"	&9{NK@"	'•†€KNK@"	-	PSÀRK@"	2è¸¡¿KK@"	6Â
+Ôr±¿"	7éXãOÅ¿"	?RDÜULK@"	Ae¸˚åSK@"	IhÀπOK@"	L¶
+F%U¿"	P6Â
+ÔJK@"	WC‚KSK@"	X9¥»vNK@"	X≠L¯•û¿"	\¨®¡4Ã¿"	^∫IOK@"	`ÍÁMEJK@"	it±3Â¿"	lC≈8SK@"	oª–\ßQK@"	rˆ¥√_¿"	rm®ÁOK@"	t»^Ôﬁ¿"	v28J^›¿"	x—WêfLK@"	yˆ—©KK@"	~o”ü˝h¿"	Å[wÛTKK@"	É}iRK@"	â^F±‹≤¿"	ëÌ|?5~¿"	ìo∂π1Ω¿"	ò¿≠ªyÍ¿"	ö∂e•È¿"	úƒ ∞r»¿"	†O‰I“QK@"	®ÁoBMK@"	©Mú‹ÔPK@"	™+üÂy∞¿"	´Á§˜çØ¿"	¨ æ+ÇOK@"	±øÏû<LK@"	±øÏû<Ã¿"	≤à◊ıK¿"	µ¶y«)z¿"	∑]hÆ”Ë¿"	π«“á.PK@"	∫†æeN◊¿"	¡≈äLKK@"	«∫∏çLK@"	«∫∏ç∞¿"	»“á.®è¿"	 7€‹òJK@"	œ1 {Ω€¿"	–õäTOK@"	‘ÒòÅ 8¿"	’>èË¿"	’ Ñ_ÍKK@"	‹K£u¥¿"	ÁoB!NK@"	ÚòÅ ¯∑¿"	˙–ı-s¿" +" É" Ñ" á" à" ì" ï" ó" ™" ∞" ≥" ¥" µ" ∑" π" ª" Ω" æ" ø" ¡" √" ƒ" ƒ" »" œ" ’" ÷" ◊" ÿ" ⁄" ‹" ﬂ" Ë" Î" Ú" ˝" ˇE; æõ m£a^	y
+jßQ13êë_èœƒÖ˙"	oöE; øö m£a^	j
+j¥R>Cêë]èÿƒí‡"	%¿F< ™ú m£a^	c
+â©L8:êë_è’ƒÜÌ"	K†#G= ±ú m£a^	Ü
+á∂K13êë_èœƒﬂ›"	¿*E; ∞î m£a^	~
+~øI-2êëèÃƒù„"	Œ1H= ∫ö m£a^	É
+É¡N6<êë]è‘ƒîì"	¯ÏG< ¶ó m£a^	n
+çÆT48êë$è“ƒÑÅ"	úÚF; •
+ï m£a^	k
+kµ\9<êëè÷ƒ°˜"	ä∆G< ¬üã£a^	h
+d∞Y2;êëè–≈üÏ"	™§G< ƒûã£a^	l
+d≥[6>êëè‘≈ã"	‡∆G< ≥ó m£a^	Ç
+`§U9=êë$è÷ƒ‚¯"	»ŒF; Æ
+ï m£a^	p
+p∑V37êëè—ƒóà"	Ù‰F; Ω
+ï m£a^	s
+sπZ?DêëèŸƒåÁ"	äÄH= §ó m£a^	°
+°«S13êë$èœƒÇä"	ÚêF; √ö m£a^	{
+{æP13êë]èœƒˆç"	Äí!G< ∆ú m£a^	
+Ñ±J*+êë_èÀƒ¸Ò"	‰§&G< ¿ñ m£a^	t
+Ä™M/3êë$èŒƒáõ"	úñ#G< ®ñ m£a^	å
+e´O6;êë$è‘ƒèÊ"		å'F; µù m£a^	q
+q∏G16êë_èœƒ˚Ä"	ú‘5F; πî m£a^	x
+xªH37êëè—ƒöû"	ÆÊ2F; ´î m£a^	f
+fØF8;êëè’ƒÛñ"	Ú	†2F; ≈	ò m£a^	#
+#¢=@êë$è◊ƒÈé"	≤ú1F; Ø	ò m£a^	g
+g≠5<êë$è”ƒ·˝"	¨¥0F; ß	ò m£a^	}
+}Ω!13êë$èœƒÚ€"	äò4F; ©í m£a^	b
+|•17êëèœƒòï"	¥Í5F; ∏ô m£a^	i
+i≤>Aêë$èÿƒÉ†"	Œ%¬(H= ¨ô m£a^	Å
+Å¿9<êë$è÷ƒ‹Â"	û+ò&F; ∂ô m£a^	v
+v∫X.1êë$èÕƒﬁ‰"	Ü- "G< ªô m£a^	Ö
+¨19êë$èœƒˇÙ"	î-Œ#F; ∑ì m£a^	r
+w®BEêëè⁄ƒ¢â"	ƒ)ò,H= «ì m£a^	£
+à∆6@êëè‘ƒÍÔ"	¬$Œ7F; ≤í m£a^	u
+"†*,êëèÀƒëı"	Ü'Ó:H= º	ò m£a^	é
+é√%&êë$è»ƒÓË"	ú4Ã3F; ¡	ò m£a^	z
+zº '(êë$è…ƒê˛"	æ7Ñ4F; ≠ì m£a^	o
+o¶-0êëèÃƒ˘ô"	∏0¢9H= ¥	ò m£a^	ä
+ä¬W)+êë$è ƒúÎ"	¶>ﬁ0¢$x
+trips(Ä idorigin_stop_idorigin_stop_namedestination_stop_iddestination_stop_namedistanceduration"	
+Markets"
+
+Car Park"
+
+The Square"
+Orby Parade"
+Corkey House"
+Roden Street"
+Short Strand"
+Inverary Fold"
+Ligoniel Road"
+Mulderg Drive"
+Richmond Park"
+Castle Gardens"
+Gilnahirk Rise"
+Glencairn Walk"
+Ravara Gardens"
+Shore Crescent"
+St James Drive"
+Sycamore Grove"
+Whitewell Road"
+Wyndham Avenue"
+Glen Road shops"
+Glen Road‚Äã‚Äã"
+Henderson Court"
+Tate‚Äôs Avenue"
+Wolfhill Centre"
+Ardcarn Green‚Äã"
+Ballysillan Road"
+My Lady‚Äôs Road"
+Sliabh Dubh View"
+Ardgheean Gardens"
+Cairnmartin Court"
+Garnerville Drive"
+Greenisland Close"
+Joanmount Gardens"
+Knocknagoney Drive"
+Springfield Parade"
+St. Elizabeth Court"
+Cliftondene Crescent"
+St. Columba‚Äôs Park"
+Abbey Court‚Äã‚Äã Fold"
+Ligoniel Road Junction"
+Benraw Green / Fruithill Park",
+*Mount Vernon Park opposite Lowwood Gardens"0
+.Cameronian Drive at Orangefield Primary School" W" Å" Å" Ç" É" É" Ñ" Ñ" Ö" Ü" á" á" á" à" ã" ãë" å" ç" è" ê" ê" ë" ì" ï" ñ" ñ" ñ" ñ" ó" ò" ô" õ	" õ
+" ù" †" °" £" §" ¶" ß" ®" ™" ´" ¨" ¨" ≠" ≠" Ø" ∞" ∞" ±" ≥" ≥" ¥" ¥" µ" ∂" ∑" ∑" ∑" ∑ " π" ∫" ª" ª" ª" ª" Ω" Ω" Ω" Ω." æ" æ" ø" ¿" ¡" ¬"" √" ƒ" ƒ" »" …" …	" À" À" Ã" Ãä" œ" –" —" ‘" ’" ’" ’" ÷	" ÷" ◊" ÿ" Ÿ" Ÿ8" ⁄" €" ‹" ›" ﬁ" ﬂ" ﬂ" ﬂ" ·" „" ‰" Ê" Ë" È
+" Í" Íı" Ô" Ú" Ú" ı" ˆ" ˜" ¯" ˘" ˙"" ˝" ˝" ˝" ˝" ˛" ˇ" ˇ =åé(sM"	u®
+)S ?´i#0M">	ÍÆ&⁄!	
+*¥q
+'0'$ >r!%# 4 ßi#dÄ4"	;å+2DdIC	 "Zè'D :°)gÜÆ"-	ü˙/ö> 
+8BF
+#
+ 	 $E	A31 6ú|!öë"	vå!B>M.?ˆ√ä≈!HEj~W™: m|!çFá"$	ÿ¥r37KBeo			È¥KAUC!VV î1*8ûk"@	˙í“##AÖhÁãI
+e˜"è
+9  &>2 ó3	ãÑW"	Ê¶J&",:dÇ¥˙O §b3	lô"9	˛Ê∫Ko#$aKBï' kô√Ö9+!% 
+ 	( I8p ä>"	Ï∞*f˙†“] ^dH\e"I	ü∏*¢(!0'∞ç(-##õ±;!+%%	 KJ
+%0ù ¶g{Sï"Ü	_™0Ç&`C0
+
+$( 0
+(&j;	R 4!)	
+ (!  1,
+*
+2I'2R,2*007 @êB%~Y""	îê#j*Äb=TAJ)@†S'= _juùV"(	üƒ8Ç:P5à7 N*9Rbh*0 /{U£o"	º§3R^7hE(A03Æ:z6	0| ≠uQ
+xà"f	˛∞6‚å6$q 
+ 
+
+"
+6;ö∆Í∞ê.FHD .'*ZR(∫05t2
+)R) •c¢ KD"	»ö12UèE6E ò9cXR"0	Í‡2¢] 	#
+	
+,"9	Éé ™t$9èT"x	»>Ï1ä c-ø;SGY
+Ø'è/+MWëÌ·á	{´πﬂ1;Å ?D	ªzsF_^â€Më74b9-)C!i o¡ 7Åì;Ö"©	ü‚?íR/N;<=8CË„j°Bm8K8;tq	.*( ∂"9≤≈*•.”?+%#>9.04H",8 f&4 * ¶d&&,
+"40òZl+B6÷@nÄ1~92\A‚ØÓ≈>7úü%':g$/<3êQ8E%A8sLÅNq§˜+5ÉI/ÑÈbô.;Ç°2%*1*V%x)P*$ F*~4B +.-$ä1&RIîmj+D-.R 4 Z]zN" 	î+Ç&Zsã B$µ¥õo© †PÅÇ¨"ê	†A∏≤Q-C.i,ìnQJ%W&+' W^%/q•'I!ISá:+ #(1*$oé+>?f1Tq“$0ê&0,Oh…¸?\Yò1h3Ä3<D903<Ct'2qzupÎƒ£‹/"ùLÅ2YYı9
+á8=âE' Q	;M#ãS+'%=	°i73A3#QR*dÄ/¿'x°ú"+
+%Ö% )-)qp+.->a†∑‚CR[VI8U4G vÉ"]5>"2	ÿ,Ù"¢√+S	 òpjÇ"&/+9 ? fwÉ"ñ,")	Ñ-÷"ä
+"  " * !W+	!e AØ+yh-"P	#ñ7Ç	øÜó”Ä•8Y8G*+J=
+ òu#2ÒA9"
+	V-,
+wÍ 2	)? M? anCJO"+	Ä'‰:Ç&P%E #' ]zE=≈«ù›DY[G&5z [`Ø+®E"d	∞0ú9⁄xLôBO,[d5W(óK;„;1q?7E #' ]zE=ˇïÊπ
+. %-G ©â'íL}"0	û4ƒ3ö ç	2îéD"(  799S .ít$õ<"=	º7ˆ2“9+.2û(N>T§DBj['    (Vã G2q&ür"ı	»(†A∫o#;!!+''3%=;sC'	/-≈«€©}egY!#c≈E}˝”M	y/_7)è
+		;	73ãS+/7;'#&9&E]-ÎÖDáÂ «€sY£w\ÖO5'-Î…óç…á·˜)733%/Ø=W+∑sèπóWãCµ{Q'W?A=%1-C)7u

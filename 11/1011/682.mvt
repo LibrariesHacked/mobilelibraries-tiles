@@ -1,0 +1,516 @@
+Å¿x
+stops(Ä id	route_idsroute_names
+mobile_idsmobile_nameslocal_authority_idlocal_authority_namelocal_authority_colourlocal_authority_codename	communityaddresspostcodearrival_timesdeparture_timesroute_start	route_end
+route_daystyperoute_frequenciesroute_schedule	timetable	longitudelatitude"
+99"
+100"
+1183"
+1193"
+1197"
+1200"
+1202"
+1207"
+1212"
+1217"
+1228"
+1236"
+Holt"
+Friday"
+Keevil"
+Monday"
+Public"
+School"	
+#F8C014"	
+Atworth"	
+Private"	
+Tuesday"	
+Whitley"	
+Winsley"
+
+09:10:00"
+
+09:20:00"
+
+09:30:00"
+
+09:35:00"
+
+09:40:00"
+
+09:45:00"
+
+09:55:00"
+
+10:00:00"
+
+10:05:00"
+
+10:10:00"
+
+10:15:00"
+
+10:30:00"
+
+10:35:00"
+
+10:40:00"
+
+10:50:00"
+
+10:55:00"
+
+11:00:00"
+
+11:05:00"
+
+11:10:00"
+
+11:15:00"
+
+11:20:00"
+
+11:25:00"
+
+11:30:00"
+
+11:40:00"
+
+11:45:00"
+
+11:50:00"
+
+12:00:00"
+
+12:05:00"
+
+12:10:00"
+
+12:15:00"
+
+12:20:00"
+
+12:30:00"
+
+12:35:00"
+
+12:50:00"
+
+13:10:00"
+
+13:40:00"
+
+14:15:00"
+
+15:15:00"
+
+15:30:00"
+
+15:35:00"
+
+15:45:00"
+
+16:00:00"
+
+BA14 0FA"
+
+BA14 0FH"
+
+BA14 0HU"
+
+BA14 0NZ"
+
+BA14 6AU"
+
+BA14 6DW"
+
+BA14 6EB"
+
+BA14 6EU"
+
+BA14 6JE"
+
+BA14 6JR"
+
+BA14 6LX"
+
+BA14 6QH"
+
+BA14 6QN"
+
+BA14 7AL"
+
+BA14 7EE"
+
+BA14 8PR"
+
+BA14 9DE"
+
+BA14 9HU"
+
+BA14 9LN"
+
+BA15 1HW"
+
+BA15 1SF"
+
+BA15 1SU"
+
+BA15 2JA"
+
+Bus stop"
+
+Melksham"
+
+SN12 6AB"
+
+SN12 6JQ"
+
+SN12 6JX"
+
+SN12 6SJ"
+
+SN12 7NG"
+
+SN12 8JS"
+
+SN12 8PD"
+
+SN12 8QR"
+
+SN12 8RS"
+
+Saturday"
+
+The Elms"
+
+Thursday"
+	1200,1228"
+	Brookside"
+	E06000054"
+	Mead Park"
+	Semington"
+	Thornbank"
+	Wednesday"
+	Wiltshire"
+	Wingfield"
+
+Trowbridge"
+Cedar Court"
+Grove Court"
+Littlemarsh"
+Manor Court"
+Maple Grove"
+Shell Court"
+West Ashton"
+Wharf Court"
+Little Parks"
+Romney House"
+Stocks Green"
+Village Hall"
+Aldhelm Court"
+Ashton Common"
+Goodson Lodge"
+Kestrel Court"
+Orchard Close"
+Reading Rooms"
+The Homestead"
+Weavers Drive"
+Avondown Court"
+Florence Court"
+Longs Arms pub"
+Steeple Ashton"
+The Elms, Holt"
+Charlotte Court"
+School, Winsley"
+The Poplars Inn"
+Trowbridge Oaks"
+Wingfield Lodge"
+Bradford on Avon"
+Broughton Gifford"
+Wiltshire Heights"
+Little Parks, Holt"
+Mead Park, Atworth"
+The Rusty Stag Pub"
+Brookside, Melksham"
+Teazle Ground Court"
+Thornbank, Melksham"
+North Mobile Library"
+Shell Court, Atworth"
+Stocks Green, Keevil"
+Wharf Court, Melksham"
+FREQ=WEEKLY;INTERVAL=4"
+Littlemarsh, Semington"
+Reading Rooms, Whitley"
+Bus stop, Ashton Common"
+Grove Court, Trowbridge"
+Kestrel Court, Melksham"
+Manor Court, Trowbridge"
+Maple Grove, Trowbridge"
+Village Hall, Semington"
+2026-11-19T00:00:00.000Z"
+2026-11-25T00:00:00.000Z"
+2026-11-28T00:00:00.000Z"
+2026-11-30T00:00:00.000Z"
+2026-12-04T00:00:00.000Z"
+2026-12-08T00:00:00.000Z"
+2026-12-09T00:00:00.000Z"
+2026-12-10T00:00:00.000Z"
+2026-12-11T00:00:00.000Z"
+2026-12-15T00:00:00.000Z"
+2027-05-31T00:00:00.000Z"
+Romney House, Trowbridge"
+Route A - Monday, Week 1"
+Route E - Friday, Week 1"
+Route J - Friday, Week 2"
+Blenheim House (Sampford)"
+Goodson Lodge, Trowbridge"
+Route F - Tuesday, Week 2"
+Route L - Tuesday, Week 3"
+The Homestead, Trowbridge"
+Weavers Drive, Trowbridge"
+Avondown Court, Trowbridge"
+Florence Court, Trowbridge"
+Orchard Close, West Ashton"
+Route H - Thursday, Week 2"
+Route N - Thursday, Week 3"
+The Poplars Inn, Wingfield"
+Charlotte Court, Trowbridge"
+Route G - Wednesday, Week 2"
+Route R - Wednesday, Week 4"
+Trowbridge Oaks, Trowbridge"
+Wingfield Lodge, Trowbridge"
+Cedar Court, Bradford on Avon" 
+Longs Arms pub, Steeple Ashton" 
+Route Sat 4 - Saturday, Week 4"!
+Aldhelm Court, Bradford on Avon"!
+Teazle Ground Court, Trowbridge""
+ Residential Homes Mobile Library"%
+#Blenheim House (Sampford), Melksham"%
+#Wiltshire Heights, Bradford on Avon"'
+%The Rusty Stag Pub, Broughton Gifford"9
+7Route G - Wednesday, Week 2,Route R - Wednesday, Week 4"B
+@https://apps.wiltshire.gov.uk/librariesinformation/Route/Index/1"B
+@https://apps.wiltshire.gov.uk/librariesinformation/Route/Index/7"B
+@https://apps.wiltshire.gov.uk/librariesinformation/Route/Index/8"C
+Ahttps://apps.wiltshire.gov.uk/librariesinformation/Route/Index/15"C
+Ahttps://apps.wiltshire.gov.uk/librariesinformation/Route/Index/19"C
+Ahttps://apps.wiltshire.gov.uk/librariesinformation/Route/Index/22"C
+Ahttps://apps.wiltshire.gov.uk/librariesinformation/Route/Index/27"C
+Ahttps://apps.wiltshire.gov.uk/librariesinformation/Route/Index/30"C
+Ahttps://apps.wiltshire.gov.uk/librariesinformation/Route/Index/31"C
+Ahttps://apps.wiltshire.gov.uk/librariesinformation/Route/Index/33"µ
+≤Wed Dec 09 2026 09:30:00 GMT+0000 (Coordinated Universal Time),Wed Dec 23 2026 09:30:00 GMT+0000 (Coordinated Universal Time),Wed Jan 06 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Wed Jan 20 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Wed Feb 03 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Wed Feb 17 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Wed Mar 03 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Wed Mar 17 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Wed Mar 31 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Wed Apr 14 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Wed Apr 28 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Wed May 12 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Wed May 26 2027 09:30:00 GMT+0000 (Coordinated Universal Time)"µ
+≤Wed Dec 09 2026 11:00:00 GMT+0000 (Coordinated Universal Time),Wed Dec 23 2026 11:00:00 GMT+0000 (Coordinated Universal Time),Wed Jan 06 2027 11:00:00 GMT+0000 (Coordinated Universal Time),Wed Jan 20 2027 11:00:00 GMT+0000 (Coordinated Universal Time),Wed Feb 03 2027 11:00:00 GMT+0000 (Coordinated Universal Time),Wed Feb 17 2027 11:00:00 GMT+0000 (Coordinated Universal Time),Wed Mar 03 2027 11:00:00 GMT+0000 (Coordinated Universal Time),Wed Mar 17 2027 11:00:00 GMT+0000 (Coordinated Universal Time),Wed Mar 31 2027 11:00:00 GMT+0000 (Coordinated Universal Time),Wed Apr 14 2027 11:00:00 GMT+0000 (Coordinated Universal Time),Wed Apr 28 2027 11:00:00 GMT+0000 (Coordinated Universal Time),Wed May 12 2027 11:00:00 GMT+0000 (Coordinated Universal Time),Wed May 26 2027 11:00:00 GMT+0000 (Coordinated Universal Time)"µ
+≤Wed Dec 09 2026 15:35:00 GMT+0000 (Coordinated Universal Time),Wed Dec 23 2026 15:35:00 GMT+0000 (Coordinated Universal Time),Wed Jan 06 2027 15:35:00 GMT+0000 (Coordinated Universal Time),Wed Jan 20 2027 15:35:00 GMT+0000 (Coordinated Universal Time),Wed Feb 03 2027 15:35:00 GMT+0000 (Coordinated Universal Time),Wed Feb 17 2027 15:35:00 GMT+0000 (Coordinated Universal Time),Wed Mar 03 2027 15:35:00 GMT+0000 (Coordinated Universal Time),Wed Mar 17 2027 15:35:00 GMT+0000 (Coordinated Universal Time),Wed Mar 31 2027 15:35:00 GMT+0000 (Coordinated Universal Time),Wed Apr 14 2027 15:35:00 GMT+0000 (Coordinated Universal Time),Wed Apr 28 2027 15:35:00 GMT+0000 (Coordinated Universal Time),Wed May 12 2027 15:35:00 GMT+0000 (Coordinated Universal Time),Wed May 26 2027 15:35:00 GMT+0000 (Coordinated Universal Time)"ª
+∏Fri Dec 04 2026 09:20:00 GMT+0000 (Coordinated Universal Time),Fri Jan 01 2027 09:20:00 GMT+0000 (Coordinated Universal Time),Fri Jan 29 2027 09:20:00 GMT+0000 (Coordinated Universal Time),Fri Feb 26 2027 09:20:00 GMT+0000 (Coordinated Universal Time),Fri Mar 26 2027 09:20:00 GMT+0000 (Coordinated Universal Time),Fri Apr 23 2027 09:20:00 GMT+0000 (Coordinated Universal Time),Fri May 21 2027 09:20:00 GMT+0000 (Coordinated Universal Time)"ª
+∏Fri Dec 04 2026 09:45:00 GMT+0000 (Coordinated Universal Time),Fri Jan 01 2027 09:45:00 GMT+0000 (Coordinated Universal Time),Fri Jan 29 2027 09:45:00 GMT+0000 (Coordinated Universal Time),Fri Feb 26 2027 09:45:00 GMT+0000 (Coordinated Universal Time),Fri Mar 26 2027 09:45:00 GMT+0000 (Coordinated Universal Time),Fri Apr 23 2027 09:45:00 GMT+0000 (Coordinated Universal Time),Fri May 21 2027 09:45:00 GMT+0000 (Coordinated Universal Time)"ª
+∏Fri Dec 04 2026 10:15:00 GMT+0000 (Coordinated Universal Time),Fri Jan 01 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Fri Jan 29 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Fri Feb 26 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Fri Mar 26 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Fri Apr 23 2027 10:15:00 GMT+0000 (Coordinated Universal Time),Fri May 21 2027 10:15:00 GMT+0000 (Coordinated Universal Time)"ª
+∏Fri Dec 04 2026 10:40:00 GMT+0000 (Coordinated Universal Time),Fri Jan 01 2027 10:40:00 GMT+0000 (Coordinated Universal Time),Fri Jan 29 2027 10:40:00 GMT+0000 (Coordinated Universal Time),Fri Feb 26 2027 10:40:00 GMT+0000 (Coordinated Universal Time),Fri Mar 26 2027 10:40:00 GMT+0000 (Coordinated Universal Time),Fri Apr 23 2027 10:40:00 GMT+0000 (Coordinated Universal Time),Fri May 21 2027 10:40:00 GMT+0000 (Coordinated Universal Time)"ª
+∏Fri Dec 04 2026 11:05:00 GMT+0000 (Coordinated Universal Time),Fri Jan 01 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Fri Jan 29 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Fri Feb 26 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Fri Mar 26 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Fri Apr 23 2027 11:05:00 GMT+0000 (Coordinated Universal Time),Fri May 21 2027 11:05:00 GMT+0000 (Coordinated Universal Time)"ª
+∏Fri Dec 04 2026 11:30:00 GMT+0000 (Coordinated Universal Time),Fri Jan 01 2027 11:30:00 GMT+0000 (Coordinated Universal Time),Fri Jan 29 2027 11:30:00 GMT+0000 (Coordinated Universal Time),Fri Feb 26 2027 11:30:00 GMT+0000 (Coordinated Universal Time),Fri Mar 26 2027 11:30:00 GMT+0000 (Coordinated Universal Time),Fri Apr 23 2027 11:30:00 GMT+0000 (Coordinated Universal Time),Fri May 21 2027 11:30:00 GMT+0000 (Coordinated Universal Time)"ª
+∏Fri Dec 04 2026 12:00:00 GMT+0000 (Coordinated Universal Time),Fri Jan 01 2027 12:00:00 GMT+0000 (Coordinated Universal Time),Fri Jan 29 2027 12:00:00 GMT+0000 (Coordinated Universal Time),Fri Feb 26 2027 12:00:00 GMT+0000 (Coordinated Universal Time),Fri Mar 26 2027 12:00:00 GMT+0000 (Coordinated Universal Time),Fri Apr 23 2027 12:00:00 GMT+0000 (Coordinated Universal Time),Fri May 21 2027 12:00:00 GMT+0000 (Coordinated Universal Time)"ª
+∏Fri Dec 04 2026 13:10:00 GMT+0000 (Coordinated Universal Time),Fri Jan 01 2027 13:10:00 GMT+0000 (Coordinated Universal Time),Fri Jan 29 2027 13:10:00 GMT+0000 (Coordinated Universal Time),Fri Feb 26 2027 13:10:00 GMT+0000 (Coordinated Universal Time),Fri Mar 26 2027 13:10:00 GMT+0000 (Coordinated Universal Time),Fri Apr 23 2027 13:10:00 GMT+0000 (Coordinated Universal Time),Fri May 21 2027 13:10:00 GMT+0000 (Coordinated Universal Time)"ª
+∏Fri Dec 11 2026 09:30:00 GMT+0000 (Coordinated Universal Time),Fri Jan 08 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Fri Feb 05 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Fri Mar 05 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Fri Apr 02 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Fri Apr 30 2027 09:30:00 GMT+0000 (Coordinated Universal Time),Fri May 28 2027 09:30:00 GMT+0000 (Coordinated Universal Time)"ª
+∏Fri Dec 11 2026 10:05:00 GMT+0000 (Coordinated Universal Time),Fri Jan 08 2027 10:05:00 GMT+0000 (Coordinated Universal Time),Fri Feb 05 2027 10:05:00 GMT+0000 (Coordinated Universal Time),Fri Mar 05 2027 10:05:00 GMT+0000 (Coordinated Universal Time),Fri Apr 02 2027 10:05:00 GMT+0000 (Coordinated Universal Time),Fri Apr 30 2027 10:05:00 GMT+0000 (Coordinated Universal Time),Fri May 28 2027 10:05:00 GMT+0000 (Coordinated Universal Time)"ª
+∏Fri Dec 11 2026 10:40:00 GMT+0000 (Coordinated Universal Time),Fri Jan 08 2027 10:40:00 GMT+0000 (Coordinated Universal Time),Fri Feb 05 2027 10:40:00 GMT+0000 (Coordinated Universal Time),Fri Mar 05 2027 10:40:00 GMT+0000 (Coordinated Universal Time),Fri Apr 02 2027 10:40:00 GMT+0000 (Coordinated Universal Time),Fri Apr 30 2027 10:40:00 GMT+0000 (Coordinated Universal Time),Fri May 28 2027 10:40:00 GMT+0000 (Coordinated Universal Time)"ª
+∏Fri Dec 11 2026 11:10:00 GMT+0000 (Coordinated Universal Time),Fri Jan 08 2027 11:10:00 GMT+0000 (Coordinated Universal Time),Fri Feb 05 2027 11:10:00 GMT+0000 (Coordinated Universal Time),Fri Mar 05 2027 11:10:00 GMT+0000 (Coordinated Universal Time),Fri Apr 02 2027 11:10:00 GMT+0000 (Coordinated Universal Time),Fri Apr 30 2027 11:10:00 GMT+0000 (Coordinated Universal Time),Fri May 28 2027 11:10:00 GMT+0000 (Coordinated Universal Time)"ª
+∏Fri Dec 11 2026 11:50:00 GMT+0000 (Coordinated Universal Time),Fri Jan 08 2027 11:50:00 GMT+0000 (Coordinated Universal Time),Fri Feb 05 2027 11:50:00 GMT+0000 (Coordinated Universal Time),Fri Mar 05 2027 11:50:00 GMT+0000 (Coordinated Universal Time),Fri Apr 02 2027 11:50:00 GMT+0000 (Coordinated Universal Time),Fri Apr 30 2027 11:50:00 GMT+0000 (Coordinated Universal Time),Fri May 28 2027 11:50:00 GMT+0000 (Coordinated Universal Time)"ª
+∏Mon Nov 30 2026 10:35:00 GMT+0000 (Coordinated Universal Time),Mon Dec 28 2026 10:35:00 GMT+0000 (Coordinated Universal Time),Mon Jan 25 2027 10:35:00 GMT+0000 (Coordinated Universal Time),Mon Feb 22 2027 10:35:00 GMT+0000 (Coordinated Universal Time),Mon Mar 22 2027 10:35:00 GMT+0000 (Coordinated Universal Time),Mon Apr 19 2027 10:35:00 GMT+0000 (Coordinated Universal Time),Mon May 17 2027 10:35:00 GMT+0000 (Coordinated Universal Time)"ª
+∏Sat Nov 28 2026 15:15:00 GMT+0000 (Coordinated Universal Time),Sat Dec 26 2026 15:15:00 GMT+0000 (Coordinated Universal Time),Sat Jan 23 2027 15:15:00 GMT+0000 (Coordinated Universal Time),Sat Feb 20 2027 15:15:00 GMT+0000 (Coordinated Universal Time),Sat Mar 20 2027 15:15:00 GMT+0000 (Coordinated Universal Time),Sat Apr 17 2027 15:15:00 GMT+0000 (Coordinated Universal Time),Sat May 15 2027 15:15:00 GMT+0000 (Coordinated Universal Time)"ª
+∏Thu Dec 10 2026 09:10:00 GMT+0000 (Coordinated Universal Time),Thu Jan 07 2027 09:10:00 GMT+0000 (Coordinated Universal Time),Thu Feb 04 2027 09:10:00 GMT+0000 (Coordinated Universal Time),Thu Mar 04 2027 09:10:00 GMT+0000 (Coordinated Universal Time),Thu Apr 01 2027 09:10:00 GMT+0000 (Coordinated Universal Time),Thu Apr 29 2027 09:10:00 GMT+0000 (Coordinated Universal Time),Thu May 27 2027 09:10:00 GMT+0000 (Coordinated Universal Time)"ª
+∏Thu Dec 10 2026 09:35:00 GMT+0000 (Coordinated Universal Time),Thu Jan 07 2027 09:35:00 GMT+0000 (Coordinated Universal Time),Thu Feb 04 2027 09:35:00 GMT+0000 (Coordinated Universal Time),Thu Mar 04 2027 09:35:00 GMT+0000 (Coordinated Universal Time),Thu Apr 01 2027 09:35:00 GMT+0000 (Coordinated Universal Time),Thu Apr 29 2027 09:35:00 GMT+0000 (Coordinated Universal Time),Thu May 27 2027 09:35:00 GMT+0000 (Coordinated Universal Time)"ª
+∏Thu Dec 10 2026 10:05:00 GMT+0000 (Coordinated Universal Time),Thu Jan 07 2027 10:05:00 GMT+0000 (Coordinated Universal Time),Thu Feb 04 2027 10:05:00 GMT+0000 (Coordinated Universal Time),Thu Mar 04 2027 10:05:00 GMT+0000 (Coordinated Universal Time),Thu Apr 01 2027 10:05:00 GMT+0000 (Coordinated Universal Time),Thu Apr 29 2027 10:05:00 GMT+0000 (Coordinated Universal Time),Thu May 27 2027 10:05:00 GMT+0000 (Coordinated Universal Time)"ª
+∏Thu Dec 10 2026 10:35:00 GMT+0000 (Coordinated Universal Time),Thu Jan 07 2027 10:35:00 GMT+0000 (Coordinated Universal Time),Thu Feb 04 2027 10:35:00 GMT+0000 (Coordinated Universal Time),Thu Mar 04 2027 10:35:00 GMT+0000 (Coordinated Universal Time),Thu Apr 01 2027 10:35:00 GMT+0000 (Coordinated Universal Time),Thu Apr 29 2027 10:35:00 GMT+0000 (Coordinated Universal Time),Thu May 27 2027 10:35:00 GMT+0000 (Coordinated Universal Time)"ª
+∏Thu Dec 10 2026 11:00:00 GMT+0000 (Coordinated Universal Time),Thu Jan 07 2027 11:00:00 GMT+0000 (Coordinated Universal Time),Thu Feb 04 2027 11:00:00 GMT+0000 (Coordinated Universal Time),Thu Mar 04 2027 11:00:00 GMT+0000 (Coordinated Universal Time),Thu Apr 01 2027 11:00:00 GMT+0000 (Coordinated Universal Time),Thu Apr 29 2027 11:00:00 GMT+0000 (Coordinated Universal Time),Thu May 27 2027 11:00:00 GMT+0000 (Coordinated Universal Time)"ª
+∏Thu Dec 10 2026 11:25:00 GMT+0000 (Coordinated Universal Time),Thu Jan 07 2027 11:25:00 GMT+0000 (Coordinated Universal Time),Thu Feb 04 2027 11:25:00 GMT+0000 (Coordinated Universal Time),Thu Mar 04 2027 11:25:00 GMT+0000 (Coordinated Universal Time),Thu Apr 01 2027 11:25:00 GMT+0000 (Coordinated Universal Time),Thu Apr 29 2027 11:25:00 GMT+0000 (Coordinated Universal Time),Thu May 27 2027 11:25:00 GMT+0000 (Coordinated Universal Time)"ª
+∏Thu Dec 10 2026 11:50:00 GMT+0000 (Coordinated Universal Time),Thu Jan 07 2027 11:50:00 GMT+0000 (Coordinated Universal Time),Thu Feb 04 2027 11:50:00 GMT+0000 (Coordinated Universal Time),Thu Mar 04 2027 11:50:00 GMT+0000 (Coordinated Universal Time),Thu Apr 01 2027 11:50:00 GMT+0000 (Coordinated Universal Time),Thu Apr 29 2027 11:50:00 GMT+0000 (Coordinated Universal Time),Thu May 27 2027 11:50:00 GMT+0000 (Coordinated Universal Time)"ª
+∏Thu Dec 10 2026 12:15:00 GMT+0000 (Coordinated Universal Time),Thu Jan 07 2027 12:15:00 GMT+0000 (Coordinated Universal Time),Thu Feb 04 2027 12:15:00 GMT+0000 (Coordinated Universal Time),Thu Mar 04 2027 12:15:00 GMT+0000 (Coordinated Universal Time),Thu Apr 01 2027 12:15:00 GMT+0000 (Coordinated Universal Time),Thu Apr 29 2027 12:15:00 GMT+0000 (Coordinated Universal Time),Thu May 27 2027 12:15:00 GMT+0000 (Coordinated Universal Time)"ª
+∏Tue Dec 08 2026 09:45:00 GMT+0000 (Coordinated Universal Time),Tue Jan 05 2027 09:45:00 GMT+0000 (Coordinated Universal Time),Tue Feb 02 2027 09:45:00 GMT+0000 (Coordinated Universal Time),Tue Mar 02 2027 09:45:00 GMT+0000 (Coordinated Universal Time),Tue Mar 30 2027 09:45:00 GMT+0000 (Coordinated Universal Time),Tue Apr 27 2027 09:45:00 GMT+0000 (Coordinated Universal Time),Tue May 25 2027 09:45:00 GMT+0000 (Coordinated Universal Time)"ª
+∏Tue Dec 08 2026 10:30:00 GMT+0000 (Coordinated Universal Time),Tue Jan 05 2027 10:30:00 GMT+0000 (Coordinated Universal Time),Tue Feb 02 2027 10:30:00 GMT+0000 (Coordinated Universal Time),Tue Mar 02 2027 10:30:00 GMT+0000 (Coordinated Universal Time),Tue Mar 30 2027 10:30:00 GMT+0000 (Coordinated Universal Time),Tue Apr 27 2027 10:30:00 GMT+0000 (Coordinated Universal Time),Tue May 25 2027 10:30:00 GMT+0000 (Coordinated Universal Time)"ª
+∏Tue Dec 08 2026 11:15:00 GMT+0000 (Coordinated Universal Time),Tue Jan 05 2027 11:15:00 GMT+0000 (Coordinated Universal Time),Tue Feb 02 2027 11:15:00 GMT+0000 (Coordinated Universal Time),Tue Mar 02 2027 11:15:00 GMT+0000 (Coordinated Universal Time),Tue Mar 30 2027 11:15:00 GMT+0000 (Coordinated Universal Time),Tue Apr 27 2027 11:15:00 GMT+0000 (Coordinated Universal Time),Tue May 25 2027 11:15:00 GMT+0000 (Coordinated Universal Time)"ª
+∏Wed Dec 09 2026 10:30:00 GMT+0000 (Coordinated Universal Time),Wed Jan 06 2027 10:30:00 GMT+0000 (Coordinated Universal Time),Wed Feb 03 2027 10:30:00 GMT+0000 (Coordinated Universal Time),Wed Mar 03 2027 10:30:00 GMT+0000 (Coordinated Universal Time),Wed Mar 31 2027 10:30:00 GMT+0000 (Coordinated Universal Time),Wed Apr 28 2027 10:30:00 GMT+0000 (Coordinated Universal Time),Wed May 26 2027 10:30:00 GMT+0000 (Coordinated Universal Time)"¸
+˘Thu Dec 17 2026 11:20:00 GMT+0000 (Coordinated Universal Time),Thu Jan 14 2027 11:20:00 GMT+0000 (Coordinated Universal Time),Thu Feb 11 2027 11:20:00 GMT+0000 (Coordinated Universal Time),Thu Mar 11 2027 11:20:00 GMT+0000 (Coordinated Universal Time),Thu Apr 08 2027 11:20:00 GMT+0000 (Coordinated Universal Time),Thu May 06 2027 11:20:00 GMT+0000 (Coordinated Universal Time)"¸
+˘Thu Dec 17 2026 13:40:00 GMT+0000 (Coordinated Universal Time),Thu Jan 14 2027 13:40:00 GMT+0000 (Coordinated Universal Time),Thu Feb 11 2027 13:40:00 GMT+0000 (Coordinated Universal Time),Thu Mar 11 2027 13:40:00 GMT+0000 (Coordinated Universal Time),Thu Apr 08 2027 13:40:00 GMT+0000 (Coordinated Universal Time),Thu May 06 2027 13:40:00 GMT+0000 (Coordinated Universal Time)"¸
+˘Thu Dec 17 2026 15:30:00 GMT+0000 (Coordinated Universal Time),Thu Jan 14 2027 15:30:00 GMT+0000 (Coordinated Universal Time),Thu Feb 11 2027 15:30:00 GMT+0000 (Coordinated Universal Time),Thu Mar 11 2027 15:30:00 GMT+0000 (Coordinated Universal Time),Thu Apr 08 2027 15:30:00 GMT+0000 (Coordinated Universal Time),Thu May 06 2027 15:30:00 GMT+0000 (Coordinated Universal Time)"¸
+˘Tue Dec 15 2026 12:30:00 GMT+0000 (Coordinated Universal Time),Tue Jan 12 2027 12:30:00 GMT+0000 (Coordinated Universal Time),Tue Feb 09 2027 12:30:00 GMT+0000 (Coordinated Universal Time),Tue Mar 09 2027 12:30:00 GMT+0000 (Coordinated Universal Time),Tue Apr 06 2027 12:30:00 GMT+0000 (Coordinated Universal Time),Tue May 04 2027 12:30:00 GMT+0000 (Coordinated Universal Time)"¸
+˘Wed Dec 23 2026 10:30:00 GMT+0000 (Coordinated Universal Time),Wed Jan 20 2027 10:30:00 GMT+0000 (Coordinated Universal Time),Wed Feb 17 2027 10:30:00 GMT+0000 (Coordinated Universal Time),Wed Mar 17 2027 10:30:00 GMT+0000 (Coordinated Universal Time),Wed Apr 14 2027 10:30:00 GMT+0000 (Coordinated Universal Time),Wed May 12 2027 10:30:00 GMT+0000 (Coordinated Universal Time)"	 Rõ8πßI@"	5µl≠/¿"	ÅïCã®I@"	ZÅ!´ØI@"	Í[Êt¿"	-≤ùÔg¿"	ÓŒ⁄mó¿"	!<⁄8¢¿"	 âvR¿"	¨ˇsòßI@"	!v¶–yç¿"	!ìåúÖ©I@"	$(~åπßI@"	&™∑∂ä¿"	*oG8-∏¿"	0/¿>:≠I@"	5{†≤I@"	=aâîÕ¿"	@a√”k¿"	Bïö=–ä¿"	N¥´êÚ¿"	ZGUDù¿"	[_$¥Â®I@"	^ÖîüTØI@"	bæº ˚Ë ¿"	l≤F=D´I@"	oG8-x¿"	pB!≠I@"	q…qßt0¿"	uÂ≥<Æ¿"	v7Ou»≠I@"	y#Û»¨I@"	y]ø`7®I@"	~ Rõ8≠I@"	~∆Ö!Ÿ¿"	Åœ#Ñ´I@"	É£‰’9¿"	Ö∂úKq¿"	ÖŒkÏ¿"	áø&k‘ØI@"	àht±ØI@"	ú3¢¥7®I@"	°€K£µ¿"	ß\·].¢¿"	©áht1¿"	≠Üƒ=ñ˛¿"	Ø˛∑í¿"	≤Ù°ÍßI@"	¥qƒZ|≤I@"	æ¡&S©I@"	√d™`T≤I@"	»$#gaØI@"	»µ°búßI@"	»Ôm˙≥ßI@"	ÃÓ…√BÌ¿"	Œà“ﬁ‡ßI@"	÷nª–\ß¿"	ﬂ˝Ò^µ≤¿"	‡-ê†¯≠I@"	·bE¶≠I@"	·¥‡E_¿"	‰ÉûÕ™¿"	È+H3ç¿"	Ì∂Õu¶I@"	˜Ø¨4)©I@"	˝Ÿèë©I@" (" Ö;" Ö<" ã;" è<" ê;" ï<" ü<" §<" ©;" Ø<" ≤<" µ;" ∂;" ∏:" ∫;" ø;" ¡;" ¡<" ƒ:" ƒ<" »;" …<" Õ:" “:" ⁄:" €;" ›<" ‡<" Â<" Ê:" Ê<" Ë:" Ì;" ;" Ù;G< ·	æ òæni	
+ãX,6•Øfú˜“êó"	†	∆I> €≤ æni	ë
+èÃW:;©Øú„’∏ã"	»‡H= ‹≤ æni	q
+è≈V26©Øú‚’©ù"	Ü‰G< ≈gŒ òæni	e
+âM"¶ØmúŸ”Ç∑"	≤ÍH= »	æ òæni	å
+oøT;<•Øfú¯“π±"	Ç
+Ù3H= Ã≤ æni	}
+è»U.1©Øú·’≤ü"	ê∆"G< ‡≤ æni	z
+p∞R),©Øú‡’ûΩ"	‹∂+H= ﬁΩ æni	ä
+p¿Q #¨ØfúÌ÷¥á"	»–+H= —Ω æni	Ö
+p∫P$'¨ØfúÓ÷ëí"	Æº.G< Œ≤ æni	t
+p¢S"$©Øúﬁ’çà"	‚Ë3H= ø≤ æni	Ü
+pªC!©Øú›’µ´"	∆¯2H= ∆≤ æni	É
+p∏E©Øú‹’ô≥"	∞é3G< œΩ æni	u
+p£D¨ØfúÏ÷ä∞"	»™4G< √Ω æni	r
+p†B¨ØfúÎ÷¶Ö"	Ç≤4G< ¡Ω æni	
+pµO(,¨ØfúÔ÷É•"	º»1H= ƒΩ æni	ñ
+p…O-0¨Øfú÷É•"	º»1H= ›≤ æni	é
+pƒO%(©Øúﬂ’É•"	º»1H= ŸΩ æni	Ñ
+pπO58¨ØfúÚ÷ßú"	æ»1G< ”∂ òæni	j
+ì`"™ØúÛ–∫Æ"	û!¿G< ¿∑ æni	v
+ôc79ÆØú˙ÿèå"	“! I> …∂ òæni	î
+êÕa#(™ØúÙ–Åˇ"	Í'“H= ﬂ∂ òæni	Ç
+ûb+2™Øúı–Ñ¨"	‹+ÊG< À« òæni	y
+íN=@ßØdúÍ‘â∂"	‘!ÆH= ’≥ æni	¥
+ZÀ]13≠ØúË◊Ä§"	‰5ƒG< ÷≥ æni	h
+Zï_%(≠ØúÊ◊ñ£"	ö7ÙG< –≥ æni	l
+Zó\≠Øú‰◊™Ø"	Ü5˙G< ⁄≥ æni	x
+Zõ[*/≠ØúÁ◊°ì"	¿6ñG< ‘¡ òæni	|
+k§K#&´Ømúˆ—˝õ"	Ï1‰H= «≥ æni	Ä
+Z°^ #≠ØúÂ◊†ö"	ö9úH= “Ω æni	ç
+p√G14¨ØfúÒ÷Ü˛"	î!ä0H= ÿ	æ òæni	Å
+wºF>A•Øfú˘“éª"	í'»9G<  
+¬ òæni	s
+kùJ#&¶Ømú˚”òï"	⁄1ÿ#G< ◊gŒ òæni	Y
+~üH?A¶Ømú€”®≠"	Ã1¬,G< ¬± òæni	{
+öL$'®ØúÈœîº"	¥>¢-I> ÕgŒ òæni	á
+à∆I(2¶Ømú⁄”¢¸"	»6Ë3í0x
+trips(Ä idorigin_stop_idorigin_stop_namedestination_stop_iddestination_stop_namedistanceduration"
+School"
+
+Bus stop"
+
+The Elms"
+
+The Well"
+	Brookside"
+	Mead Park"
+	Thornbank"
+
+Lyes Grove"
+Cedar Court"
+Dovers Park"
+Grove Court"
+High Street"
+Littlemarsh"
+Manor Court"
+Maple Grove"
+Shell Court"
+Wharf Court"
+Little Parks"
+Mavern House"
+Romney House"
+Stocks Green"
+The Duke Pub"
+Village Hall"
+Aldhelm Court"
+Bybrook House"
+Goodson Lodge"
+Kestrel Court"
+Orchard Close"
+Reading Rooms"
+The Homestead"
+Weavers Drive"
+Avondown Court"
+Florence Court"
+Longs Arms pub"
+Wadswick Green"
+Charlotte Court"
+The Poplars Inn"
+Trowbridge Oaks"
+Wingfield Lodge"
+The Rusty Stag Pub"
+Teazle Ground Court"
+Opposite Brewery Inn"
+Post box, Tinhead Road"
+Tellisford Lane Estate"
+Blenheim House (Sampford)"
+Avonpark Retirement Village"!
+Freshford Village Memorial Hall"  " " 0" k" p" r" u" {" }" Ä" Ä0" Ä1" Å6" Ç1" É" Ñ1" Ñb" Ö" Ö;" Ö<" â:" ä0" ã " ã;" ç" è<" ê" ê;" í" î" îá" ï" ï<" óX" ò(" ô1" ö" ö;" û<" ü1" ü<" °" ¢0" £" §<" ¶" ß0" ß1" ®+" ®1" ®M" ©1" ©;" ´0" ¨" ¨" ≠1" Ø<" ≤<" µ" µ;" ∂" ∂;" ∑1" ∏" ∏:" π" ∫" ∫-" ∫1" ∫;" ª" ªo" º" º;" º<" ø0" ø;" ¡" ¡;" ¡<" ƒ" ƒ" ƒ:" ƒ<" ≈:" ∆" «;" »#" »;" …<"  "  0"  1" À" Ã" Õ1" Õ:" Œ0" —0" —1" —F" “" “:" ”" ”" ”0" ‘" ’0" ÿ" ÿ" ÿ<" Ÿ;" ⁄0" ⁄:" €" €;" ‹1" ›" ›<" ﬁ" ﬁ" ﬁ1" ﬁ:" ‡<" ·" ·/" ‚#" „" ‰1" Â" Ê" Ê:" Ê<" Á" Ë1" Ë:" Ë;" Ëa" Í/" Î/" Î0" Ì;" Ó" Ó(" ;" Û/" Ù;" ı!" ı;" ˜" ˜/" ˜0" ¯/" ˘" ˚" ¸" ¸" ¸0" ˝	" ˝–" ˛" ˇ0" ˇh= 9™BCé"'	ˆüzåv(>@í‰ >^
+H4 ^ ÕΩT_µ"G	≤-8˙HN/@`:8ò2*8F2H"&,	DÜK8í/"$#Eó 27.6	?æ"Å	üö⁄2VZ	0Bp-2&( $+%C1[# (9
+ :S
+C-
+Å•}Å7[-/1√We7YS/	o/% Q^+:Eö"	ü‰@*>>
+2&ü ªÑ-¬ Æó"Ö	üöÚ2VZ	0BH 44 "&
+⁄.∏.4@ 
+*$	'#69 ,@-G;58	
+  	
+7.i ≠p≥Å–"Q	ûÿ ™Gi	-$1'/+!	
+4$
+	)!%(· ©û"mPï"…	¿üÍ2å 8	\(J 2641f	*ÑB:4	:d<öZ.8JBDzr H2fjJ  ,∆"0&wnM:=D!T8:f&fv@"  Ù™@\.öV0¬q2	T9	:2NR0'L/PJ?,>!ZC!£ <¬ h$sr"ç	¿
+˛ät *$*:2* 	()=	
+,"(02#
+.jRj	:!j(4` "*	HB!Z?zV*:(j  
+¢D:†Rÿzæ` —¿pfo"J	‡&ä%5g_´)S#3!. SM%im'1SU7<	ı nh$UwÃ"ﬂ	í
+ˆ3¢
+ Ωy0>Pl º( 4ÚY$ b 8N ¢xä/0N%8:>	$'
+ (9
+Jp
+
+& <$ ( :G 
+,¢>@D¿å
+
+ZÄT®J™éñ0X(2
+<  r‰j§.< J
+F4<&N@,l"@"0&¥4:~ õ~∑#Nú"g	ÆÓ3Ç
+
+H(>
+/#)cY9
+0,%-iKw &)
+ &7 G(+%6*)P?(p
+
+*#C D∑#Çx5"-	úñ,í
+(2 
+ 
+%	/(xòwó0'v ô|¥&Kß"_	÷¯3‚B905(9	H:H%\! 
+0,%
+VY,3 ( 
+H
+ (X  W '	Gä ∂¥&¿çÀ"q	⁄≤0í	 cj		+cSÖ'[['/]GcoA33/	 …h g  
+7ëE9#GÂÉ-O YA |vq";	Œ†3“)	Y	3]$G&9G
+':/6:A!
+1 g[A Ø1"	¥ò3ZA	  " dJ
+~=0"	Çƒ4"'G		  èÉ%¶•3"	¬ 1
+G VO(É%ù4"1	¸ ¢0™#S"	
+#(+=!ú †ài'á≈"É	û!¿ÚOIC%
+')'40$  	"l;1!"3(^"r<,DhPj<2 .fJ,N>NBH0$L",68$ &π ti'Ω§I"¢	î(¶⁄ 
+".$6:> 0" D0HL$	:EXO®°"/\£")89nc$@%$ti
+m(]	#I!3/!)1•	1!1s}iO''1e	U?Q?R@7Vπ „ bWâî¢"À	≤ÍÍ
+,>!4%4-
+	!BAL=bGJ%>F	:Ê:PhBtFBKXO®°"/\£")$'.-TG$@%$ti+ 8˛Ä6
+L |P
+n» ,
+ 
+	 	—
+	0dƒÄCv	@   &	"> Bé ¡ê,Üœ±"u	⁄6ò™*#!=#I'=â#	
+	 C?"=Je
+/ ##Ya1'7Ö)78o;HØ
+!(%>ÜKL!~'"$#E< ∞´ê, e"$	æ6Æz,2#W#
+c »ñ´®}"K	æ6“í+!>2 8$4&		
+
+"<4 %W'	
+C!1r åc≤j"\	Ü5˙ Ä.?n"( tL
+,"|¿,
+
+
+ 04B,& ¥BA)m {cñò8"W	Ñ9‡¬	1 ]# 		7%	-=#!"-! #AQ ?/9#M#4t ∫ÇF@ä"]	Ñà-⁄ &,X ;LE
+
+H
+ (X
+>",'$
+	T!$ ]FO(//"
+	˙ Æ0^ ^U£∆Ö"G	ﬁ2†A˙39≥%!/!?k+M?;%E3	I-;i£+!K5k	C1		◊ `WkaS"¬	≤Í 
+,>!4%4-
+	!BAL=bGJ%>F	:Ê:PhBtFBKXO®°"/\£")89nc$@%$ti+8+˛0(
+L |P
+nº(,
+ :¬bng„ VÓ$
+#RV| ìâu!øL"e	»1Ê!‚ 
+  x 
+[f7.ül%""%2#D&0%ÜdÜ∞(v\"0\nnú@HNp0<D<
+&
+	%	C;/;15GO ãku!XÄ"9	∞1÷&∫‡dÜ∞(vV$6\nr§<@Np0<D<
+&
+	%	C;/;MoP «∏*°;Z"9	¬6†9¬m&QO;
+u7	/Y=	C;/;Mo?Gmõ[m!/[+Å-i ëu!ƒ MŒ"R	˛4¨1Ú35q£[m!/[+Å%ç
+"ëÃ+FõÍ=h$áÙOî1PaÜABô1& Xº(b8†d íy°π\"M	ˆ#†AÍ7üO[ø ¯œFA(-$;n≈å˚>gò·!+íÀ!	Ü> >ƒ ∏*“G"'	Ã?†ArA++mÉÅ„ =!OCÔ˚G	_O 'á ºü)H√¨"o	†Aî"¢'
+$L*^	! iD2@``J /0
+$@<XTz &	!c,+B6Md+ "
+! RHzl…"	Ã@‚+
+F
